@@ -1,5 +1,5 @@
 ---
 title: "Emmaüs"
 url: /lescar/emmaus/
-shop: charité
+shop: matériel informatique
 ---

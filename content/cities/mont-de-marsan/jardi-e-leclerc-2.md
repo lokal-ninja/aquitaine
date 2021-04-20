@@ -1,5 +1,5 @@
 ---
 title: "Jardi E. Leclerc"
 url: /mont-de-marsan/jardi-e-leclerc-2/
-shop: centre de jardinage
+shop: à faire soi-même
 ---

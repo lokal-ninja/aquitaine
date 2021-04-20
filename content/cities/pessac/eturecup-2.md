@@ -1,5 +1,5 @@
 ---
-title: "Etu'Récup"
+title: "Étu'Récup"
 url: /pessac/eturecup-2/
-shop: meubles
+shop: charité
 ---

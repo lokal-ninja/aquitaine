@@ -1,5 +1,5 @@
 ---
 title: "G.R.Vins"
 url: /anglet/g-r-vins/
-shop: vin
+shop: alcool
 ---
