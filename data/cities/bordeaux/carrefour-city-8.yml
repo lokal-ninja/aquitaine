@@ -1,11 +1,11 @@
-id: 2527923568
-type: node
-latitude: 44.8299947
-longitude: -0.5693255
-postcode: "33800"
-city: bordeaux
-street: "Cours de la Marne"
-housenumber: 53
-phone: "+33 5 57 91 59 03"
-opening_hours: ""
+id: 155598828
+type: way
+latitude: 44.832841
+longitude: -0.588064
+postcode: "33000"
+city: Bordeaux
+street: "Rue François de Sourdis"
+housenumber: 65
+phone: ""
+opening_hours: "Mo-Sa 07:00-22:00; Su 09:00-22:00"
 website: ""

@@ -1,11 +1,11 @@
-id: 1309181199
-type: node
-latitude: 44.832868600000005
-longitude: -0.5737994000000001
-postcode: "33000"
+id: 156204277
+type: way
+latitude: 44.851910000000004
+longitude: -0.608334
+postcode: "33200"
 city: Bordeaux
-street: "Cours Pasteur"
-housenumber: 42
-phone: ""
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://www.bdxpasteur.com/"
+street: "Avenue du Général Leclerc"
+housenumber: 48
+phone: "+33 557295319"
+opening_hours: ""
+website: ""
