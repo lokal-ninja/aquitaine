@@ -1,5 +1,5 @@
 ---
-title: "ADOUR PIED CONFORT FRANCIS LAVIGNE"
+title: "Adour Pied Confort Francis Lavigne"
 url: /saint-paul-les-dax/adour-pied-confort-francis-lavigne/
 shop: approvisionnement médical
 ---

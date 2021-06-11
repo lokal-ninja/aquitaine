@@ -1,6 +1,6 @@
 ---
 title: Saint-Yaguen
 url: /saint-yaguen/
-latitude: 43.8891841
-longitude: -0.7416403
+latitude: 43.889258500000004
+longitude: -0.7416644
 ---

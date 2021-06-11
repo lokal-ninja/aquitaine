@@ -1,5 +1,5 @@
 ---
 title: "Marionnaud"
 url: /arcachon/marionnaud/
-shop: beauté
+shop: parfumerie
 ---

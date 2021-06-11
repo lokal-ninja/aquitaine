@@ -1,5 +1,5 @@
 ---
-title: "Laverie Automatique RAPID'LAV"
+title: "Laverie Automatique Rapid'Lav"
 url: /dax/laverie-automatique-rapidlav/
 shop: blanchisserie
 ---

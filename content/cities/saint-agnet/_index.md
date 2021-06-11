@@ -1,6 +1,6 @@
 ---
 title: Saint-Agnet
 url: /saint-agnet/
-latitude: 43.605740000000004
-longitude: -0.27356
+latitude: 43.263511400000006
+longitude: -0.6149633
 ---
