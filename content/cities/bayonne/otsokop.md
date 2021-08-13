@@ -1,5 +1,5 @@
 ---
 title: "Otsokop"
 url: /bayonne/otsokop/
-shop: supermarché
+shop: commodité
 ---

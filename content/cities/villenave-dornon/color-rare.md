@@ -1,5 +1,5 @@
 ---
 title: "Color Rare"
 url: /villenave-dornon/color-rare/
-shop: peinture
+shop: matériel informatique
 ---

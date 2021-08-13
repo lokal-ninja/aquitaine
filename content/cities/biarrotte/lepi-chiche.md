@@ -1,5 +1,5 @@
 ---
-title: "L'Epi Chiche"
+title: "L'Épi Chiche"
 url: /biarrotte/lepi-chiche/
 shop: commodité
 ---

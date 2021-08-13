@@ -1,11 +1,11 @@
-id: 8077249446
-type: node
-latitude: 44.849593000000006
-longitude: -0.5724176000000001
+id: 116004954
+type: way
+latitude: 44.833299600000004
+longitude: -0.5740403000000001
 postcode: "33000"
 city: Bordeaux
-street: "Rue Notre-Dame"
-housenumber: 8
+street: "Cours Victor Hugo"
+housenumber: 34
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/city-bordeaux-notre-dame"
+opening_hours: ""
+website: ""
