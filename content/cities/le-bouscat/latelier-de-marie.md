@@ -1,5 +1,5 @@
 ---
-title: "L'Atelier De Marie"
+title: "L'Atelier de Marie"
 url: /le-bouscat/latelier-de-marie/
 shop: coiffeur
 ---

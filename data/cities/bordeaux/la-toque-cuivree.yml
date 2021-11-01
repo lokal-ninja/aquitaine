@@ -7,5 +7,5 @@ city: Bordeaux
 street: "Place Gambetta"
 housenumber: 41
 phone: "+33 5 57 83 61 67"
-opening_hours: "8:00-20:00; PH off"
+opening_hours: "PH,Mo-Su 08:00-20:00"
 website: "https://www.la-toque-cuivree.fr/"

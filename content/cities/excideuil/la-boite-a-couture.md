@@ -1,5 +1,5 @@
 ---
-title: "La boite à couture"
+title: "La Boîte à Couture"
 url: /excideuil/la-boite-a-couture/
-shop: shop
+shop: fleuriste
 ---
