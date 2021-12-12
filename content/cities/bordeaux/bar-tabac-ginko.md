@@ -1,5 +1,5 @@
 ---
-title: "bar-tabac ginko"
+title: "Bar-tabac Ginko"
 url: /bordeaux/bar-tabac-ginko/
 shop: tabac
 ---
