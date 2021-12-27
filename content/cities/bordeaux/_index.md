@@ -1,6 +1,6 @@
 ---
 title: Bordeaux
 url: /bordeaux/
-latitude: 
-longitude: 
+latitude: 44.839
+longitude: -0.586
 ---

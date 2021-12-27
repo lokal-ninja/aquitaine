@@ -1,6 +1,6 @@
 ---
 title: Classun
 url: /classun/
-latitude: 43.7115875
-longitude: -0.4125591
+latitude: 43.712
+longitude: -0.39
 ---

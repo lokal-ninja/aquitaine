@@ -1,6 +1,6 @@
 ---
 title: Ledge-Cap-Ferret
 url: /ledge-cap-ferret/
-latitude: 
-longitude: 
+latitude: 44.648
+longitude: -1.25
 ---

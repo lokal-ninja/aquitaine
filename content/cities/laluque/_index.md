@@ -1,6 +1,6 @@
 ---
 title: Laluque
 url: /laluque/
-latitude: 44.5664959
-longitude: 0.6970194000000001
+latitude: 43.853
+longitude: -0.993
 ---

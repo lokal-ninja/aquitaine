@@ -1,6 +1,6 @@
 ---
 title: Cagnotte
 url: /cagnotte/
-latitude: 43.595029000000004
-longitude: -1.0685216
+latitude: 43.605
+longitude: -1.083
 ---

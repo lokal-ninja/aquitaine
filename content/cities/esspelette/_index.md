@@ -1,6 +1,6 @@
 ---
 title: Esspelette
 url: /esspelette/
-latitude: 
-longitude: 
+latitude: 43.341
+longitude: -1.448
 ---

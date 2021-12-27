@@ -1,6 +1,6 @@
 ---
 title: Pissos
 url: /pissos/
-latitude: 44.308027900000006
-longitude: -0.7777106
+latitude: 44.283
+longitude: -0.878
 ---

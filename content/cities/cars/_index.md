@@ -1,6 +1,6 @@
 ---
 title: Cars
 url: /cars/
-latitude: 
-longitude: 
+latitude: 45.128
+longitude: -0.639
 ---

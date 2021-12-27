@@ -1,6 +1,6 @@
 ---
 title: Tosse
 url: /tosse/
-latitude: 43.688255700000006
-longitude: -1.3337954
+latitude: 43.685
+longitude: -1.331
 ---

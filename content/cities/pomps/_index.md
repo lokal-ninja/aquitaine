@@ -1,6 +1,6 @@
 ---
 title: Pomps
 url: /pomps/
-latitude: 43.4924958
-longitude: -0.5400619
+latitude: 43.49
+longitude: -0.544
 ---

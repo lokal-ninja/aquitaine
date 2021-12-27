@@ -1,6 +1,6 @@
 ---
 title: Serres-Castet
 url: /serres-castet/
-latitude: 43.3861879
-longitude: -0.35419890000000004
+latitude: 43.359
+longitude: -0.381
 ---

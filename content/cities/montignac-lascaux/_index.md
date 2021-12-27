@@ -1,6 +1,6 @@
 ---
 title: Montignac-Lascaux
 url: /montignac-lascaux/
-latitude: 
-longitude: 
+latitude: 45.056
+longitude: 1.152
 ---

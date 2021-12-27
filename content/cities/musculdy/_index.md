@@ -1,6 +1,6 @@
 ---
 title: Musculdy
 url: /musculdy/
-latitude: 43.196584300000005
-longitude: -0.9662079
+latitude: 43.194
+longitude: -0.961
 ---

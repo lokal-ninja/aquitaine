@@ -1,6 +1,6 @@
 ---
 title: Baurech
 url: /baurech/
-latitude: 44.725497000000004
-longitude: -0.43866570000000005
+latitude: 44.726
+longitude: -0.44
 ---

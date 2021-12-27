@@ -1,6 +1,6 @@
 ---
 title: Urrugne
 url: /urrugne/
-latitude: 
-longitude: 
+latitude: 43.378
+longitude: -1.671
 ---

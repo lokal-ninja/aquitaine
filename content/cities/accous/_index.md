@@ -1,6 +1,6 @@
 ---
 title: Accous
 url: /accous/
-latitude: 
-longitude: 
+latitude: 42.975
+longitude: -0.602
 ---

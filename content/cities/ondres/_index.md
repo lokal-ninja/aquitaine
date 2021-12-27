@@ -1,6 +1,6 @@
 ---
 title: Ondres
 url: /ondres/
-latitude: 43.5651547
-longitude: -1.453883
+latitude: 43.563
+longitude: -1.446
 ---

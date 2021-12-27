@@ -1,6 +1,6 @@
 ---
 title: Bélus
 url: /belus/
-latitude: 43.5913789
-longitude: -1.1086522
+latitude: 43.603
+longitude: -1.117
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bardos
 url: /bardos/
-latitude: 43.4752189
-longitude: -1.2037757
+latitude: 43.464
+longitude: -1.266
 ---

@@ -1,6 +1,6 @@
 ---
 title: Saint-Martin-D'Arberque
 url: /saint-martin-darberque/
-latitude: 
-longitude: 
+latitude: 43.336
+longitude: -1.196
 ---

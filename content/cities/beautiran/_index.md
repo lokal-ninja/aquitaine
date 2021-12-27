@@ -1,6 +1,6 @@
 ---
 title: Beautiran
 url: /beautiran/
-latitude: 44.7044407
-longitude: -0.4511393
+latitude: 44.703
+longitude: -0.451
 ---

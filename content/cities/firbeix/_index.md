@@ -1,6 +1,6 @@
 ---
 title: Firbeix
 url: /firbeix/
-latitude: 45.4315173
-longitude: 0.8633183000000001
+latitude: 45.602
+longitude: 0.973
 ---

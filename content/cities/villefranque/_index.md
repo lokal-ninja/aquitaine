@@ -1,6 +1,6 @@
 ---
 title: Villefranque
 url: /villefranque/
-latitude: 43.4367357
-longitude: -1.4522561
+latitude: 43.438
+longitude: -1.453
 ---

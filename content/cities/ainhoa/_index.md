@@ -1,6 +1,6 @@
 ---
 title: Ainhoa
 url: /ainhoa/
-latitude: 43.3067215
-longitude: -1.4988117
+latitude: 43.306
+longitude: -1.499
 ---

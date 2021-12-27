@@ -1,6 +1,6 @@
 ---
 title: Artix
 url: /artix/
-latitude: 44.669649500000006
-longitude: -0.30993180000000004
+latitude: 43.391
+longitude: -0.56
 ---

@@ -1,6 +1,6 @@
 ---
 title: La Teste-de-Buch
 url: /la-teste-de-buch/
-latitude: 44.6316943
-longitude: -1.1491319
+latitude: 44.617
+longitude: -1.128
 ---

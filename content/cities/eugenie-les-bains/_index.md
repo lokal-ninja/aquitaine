@@ -1,6 +1,6 @@
 ---
 title: Eugénie-les-Bains
 url: /eugenie-les-bains/
-latitude: 43.6974341
-longitude: -0.3797706
+latitude: 43.7
+longitude: -0.379
 ---

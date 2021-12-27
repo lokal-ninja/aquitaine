@@ -1,6 +1,6 @@
 ---
 title: Latresne
 url: /latresne/
-latitude: 44.7846424
-longitude: -0.4968888
+latitude: 44.784
+longitude: -0.497
 ---

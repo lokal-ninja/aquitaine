@@ -1,6 +1,6 @@
 ---
 title: Asson
 url: /asson/
-latitude: 43.1407278
-longitude: -0.25479650000000004
+latitude: 43.128
+longitude: -0.268
 ---

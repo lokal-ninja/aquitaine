@@ -1,6 +1,6 @@
 ---
 title: Le Taillan-Médoc
 url: /le-taillan-medoc/
-latitude: 44.9044049
-longitude: -0.6693402
+latitude: 44.899
+longitude: -0.647
 ---

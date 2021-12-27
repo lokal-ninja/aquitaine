@@ -1,6 +1,6 @@
 ---
 title: Ossès
 url: /osses/
-latitude: 43.24215
-longitude: -1.2837606000000001
+latitude: 43.233
+longitude: -1.298
 ---

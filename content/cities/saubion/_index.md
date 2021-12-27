@@ -1,6 +1,6 @@
 ---
 title: Saubion
 url: /saubion/
-latitude: 44.2038041
-longitude: 0.268934
+latitude: 43.671
+longitude: -1.349
 ---

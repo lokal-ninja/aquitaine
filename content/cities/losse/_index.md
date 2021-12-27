@@ -1,6 +1,6 @@
 ---
 title: Losse
 url: /losse/
-latitude: 44.5158198
-longitude: -0.1651053
+latitude: 44.109
+longitude: -0.104
 ---

@@ -1,6 +1,6 @@
 ---
 title: Berson
 url: /berson/
-latitude: 45.107638300000005
-longitude: -0.5860166
+latitude: 45.107
+longitude: -0.587
 ---

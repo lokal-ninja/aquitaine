@@ -1,6 +1,6 @@
 ---
 title: Peyrehorade
 url: /peyrehorade/
-latitude: 43.5440941
-longitude: -1.105088
+latitude: 43.544
+longitude: -1.105
 ---

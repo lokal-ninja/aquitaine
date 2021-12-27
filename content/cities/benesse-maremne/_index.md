@@ -1,6 +1,6 @@
 ---
 title: Bénesse Maremne
 url: /benesse-maremne/
-latitude: 
-longitude: 
+latitude: 43.646
+longitude: -1.354
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cestas
 url: /cestas/
-latitude: 44.741157400000006
-longitude: -0.6841225000000001
+latitude: 44.74
+longitude: -0.68
 ---

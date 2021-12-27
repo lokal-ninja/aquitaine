@@ -1,6 +1,6 @@
 ---
 title: Ségos
 url: /segos/
-latitude: 
-longitude: 
+latitude: 43.618
+longitude: -0.26
 ---

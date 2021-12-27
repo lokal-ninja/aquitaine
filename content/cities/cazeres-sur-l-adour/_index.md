@@ -1,6 +1,6 @@
 ---
 title: CAZERES SUR L ADOUR
 url: /cazeres-sur-l-adour/
-latitude: 
-longitude: 
+latitude: 43.76
+longitude: -0.317
 ---

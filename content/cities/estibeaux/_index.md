@@ -1,6 +1,6 @@
 ---
 title: estibeaux
 url: /estibeaux/
-latitude: 
-longitude: 
+latitude: 43.606
+longitude: -0.918
 ---

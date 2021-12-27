@@ -1,6 +1,6 @@
 ---
 title: Lacropte
 url: /lacropte/
-latitude: 45.03633
-longitude: 0.83079
+latitude: 45.036
+longitude: 0.836
 ---

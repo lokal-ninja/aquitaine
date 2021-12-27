@@ -1,6 +1,6 @@
 ---
 title: Brantôme
 url: /brantome/
-latitude: 45.3625429
-longitude: 0.649408
+latitude: 45.356
+longitude: 0.652
 ---

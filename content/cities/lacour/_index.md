@@ -1,6 +1,6 @@
 ---
 title: Lacour
 url: /lacour/
-latitude: 45.462690300000006
-longitude: 1.1638899
+latitude: 44.283
+longitude: 0.937
 ---

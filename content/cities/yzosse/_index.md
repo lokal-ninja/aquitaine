@@ -1,6 +1,6 @@
 ---
 title: Yzosse
 url: /yzosse/
-latitude: 43.71154
-longitude: -1.01353
+latitude: 43.707
+longitude: -1.023
 ---

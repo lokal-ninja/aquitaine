@@ -1,6 +1,6 @@
 ---
 title: Arcins
 url: /arcins/
-latitude: 45.072610000000005
-longitude: -0.7257800000000001
+latitude: 45.072
+longitude: -0.724
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bias
 url: /bias/
-latitude: 
-longitude: 
+latitude: 44.404
+longitude: 0.678
 ---

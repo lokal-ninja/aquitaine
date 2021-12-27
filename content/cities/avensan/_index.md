@@ -1,6 +1,6 @@
 ---
 title: Avensan
 url: /avensan/
-latitude: 45.036048
-longitude: -0.7575952
+latitude: 45.003
+longitude: -0.769
 ---

@@ -1,6 +1,6 @@
 ---
 title: Magescq
 url: /magescq/
-latitude: 43.7808858
-longitude: -1.2165055
+latitude: 43.779
+longitude: -1.217
 ---

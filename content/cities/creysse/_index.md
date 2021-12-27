@@ -1,6 +1,6 @@
 ---
 title: Creysse
 url: /creysse/
-latitude: 44.856666700000005
-longitude: 0.5666667000000001
+latitude: 44.849
+longitude: 0.532
 ---

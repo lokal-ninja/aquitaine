@@ -1,6 +1,6 @@
 ---
 title: Pessac
 url: /pessac/
-latitude: 44.805615
-longitude: -0.6308396000000001
+latitude: 44.805
+longitude: -0.656
 ---

@@ -1,6 +1,6 @@
 ---
 title: verteillac
 url: /verteillac/
-latitude: 
-longitude: 
+latitude: 45.344
+longitude: 0.37
 ---

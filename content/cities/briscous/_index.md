@@ -1,6 +1,6 @@
 ---
 title: BRISCOUS
 url: /briscous/
-latitude: 
-longitude: 
+latitude: 43.444
+longitude: -1.324
 ---

@@ -1,6 +1,6 @@
 ---
 title: Azur
 url: /azur/
-latitude: 
-longitude: 
+latitude: 43.788
+longitude: -1.312
 ---

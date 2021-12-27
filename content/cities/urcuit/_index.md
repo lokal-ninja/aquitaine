@@ -1,6 +1,6 @@
 ---
 title: Urcuit
 url: /urcuit/
-latitude: 43.485605400000004
-longitude: -1.3367618000000001
+latitude: 43.487
+longitude: -1.357
 ---

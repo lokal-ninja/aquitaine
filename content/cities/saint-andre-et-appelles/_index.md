@@ -1,6 +1,6 @@
 ---
 title: Saint-André-et-Appelles
 url: /saint-andre-et-appelles/
-latitude: 
-longitude: 
+latitude: 44.823
+longitude: 0.22
 ---

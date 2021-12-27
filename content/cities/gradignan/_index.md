@@ -1,6 +1,6 @@
 ---
 title: Gradignan
 url: /gradignan/
-latitude: 
-longitude: 
+latitude: 44.773
+longitude: -0.61
 ---

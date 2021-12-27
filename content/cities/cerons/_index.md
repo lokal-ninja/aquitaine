@@ -1,6 +1,6 @@
 ---
 title: Cérons
 url: /cerons/
-latitude: 44.6316828
-longitude: -0.3349069
+latitude: 44.632
+longitude: -0.335
 ---

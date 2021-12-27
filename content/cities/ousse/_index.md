@@ -1,6 +1,6 @@
 ---
 title: Ousse
 url: /ousse/
-latitude: 43.2831471
-longitude: -0.2682274
+latitude: 43.282
+longitude: -0.27
 ---

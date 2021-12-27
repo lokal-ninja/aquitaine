@@ -1,6 +1,6 @@
 ---
 title: Antonne-et-Trigonant
 url: /antonne-et-trigonant/
-latitude: 
-longitude: 
+latitude: 45.218
+longitude: 0.863
 ---

@@ -1,6 +1,6 @@
 ---
 title: Marpaps
 url: /marpaps/
-latitude: 43.5707846
-longitude: -0.6852373
+latitude: 43.576
+longitude: -0.681
 ---

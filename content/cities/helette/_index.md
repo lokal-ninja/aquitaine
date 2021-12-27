@@ -1,6 +1,6 @@
 ---
 title: Hélette
 url: /helette/
-latitude: 
-longitude: 
+latitude: 43.309
+longitude: -1.244
 ---

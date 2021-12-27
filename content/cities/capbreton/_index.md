@@ -1,6 +1,6 @@
 ---
 title: Capbreton
 url: /capbreton/
-latitude: 43.640365900000006
-longitude: -1.4315213
+latitude: 43.644
+longitude: -1.433
 ---

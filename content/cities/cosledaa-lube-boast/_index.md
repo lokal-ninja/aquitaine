@@ -1,6 +1,6 @@
 ---
 title: Coslédaà-Lube-Boast
 url: /cosledaa-lube-boast/
-latitude: 43.4559051
-longitude: -0.23282860000000002
+latitude: 43.442
+longitude: -0.226
 ---

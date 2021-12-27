@@ -1,6 +1,6 @@
 ---
 title: Proissans
 url: /proissans/
-latitude: 44.9346874
-longitude: 1.2535362
+latitude: 44.932
+longitude: 1.256
 ---

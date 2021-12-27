@@ -1,6 +1,6 @@
 ---
 title: Le Bouscat
 url: /le-bouscat/
-latitude: 44.7586613
-longitude: -0.1388595
+latitude: 44.866
+longitude: -0.582
 ---

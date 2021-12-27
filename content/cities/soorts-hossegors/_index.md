@@ -1,6 +1,6 @@
 ---
 title: Soorts-Hossegors
 url: /soorts-hossegors/
-latitude: 
-longitude: 
+latitude: 43.658
+longitude: -1.429
 ---

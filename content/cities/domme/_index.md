@@ -1,6 +1,6 @@
 ---
 title: Domme
 url: /domme/
-latitude: 44.802267300000004
-longitude: 1.2140018000000001
+latitude: 44.803
+longitude: 1.215
 ---

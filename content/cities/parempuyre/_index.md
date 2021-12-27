@@ -1,6 +1,6 @@
 ---
 title: Parempuyre
 url: /parempuyre/
-latitude: 44.948537900000005
-longitude: -0.6052708
+latitude: 44.946
+longitude: -0.612
 ---

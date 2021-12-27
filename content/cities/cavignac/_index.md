@@ -1,6 +1,6 @@
 ---
 title: Cavignac
 url: /cavignac/
-latitude: 45.10045
-longitude: -0.39039
+latitude: 45.095
+longitude: -0.386
 ---

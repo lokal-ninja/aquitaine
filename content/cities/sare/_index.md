@@ -1,6 +1,6 @@
 ---
 title: Sare
 url: /sare/
-latitude: 
-longitude: 
+latitude: 43.313
+longitude: -1.582
 ---

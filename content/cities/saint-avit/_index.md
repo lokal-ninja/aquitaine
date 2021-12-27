@@ -1,6 +1,6 @@
 ---
 title: Saint-Avit
 url: /saint-avit/
-latitude: 44.5676374
-longitude: 0.213146
+latitude: 43.919
+longitude: -0.452
 ---

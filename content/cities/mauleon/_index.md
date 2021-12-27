@@ -1,6 +1,6 @@
 ---
 title: Mauleón
 url: /mauleon/
-latitude: 
-longitude: 
+latitude: 43.221
+longitude: -0.887
 ---

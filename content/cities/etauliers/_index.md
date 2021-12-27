@@ -1,6 +1,6 @@
 ---
 title: Etauliers
 url: /etauliers/
-latitude: 
-longitude: 
+latitude: 45.23
+longitude: -0.573
 ---

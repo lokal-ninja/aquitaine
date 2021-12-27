@@ -1,6 +1,6 @@
 ---
 title: Sarlat
 url: /sarlat/
-latitude: 
-longitude: 
+latitude: 44.881
+longitude: 1.217
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ascain
 url: /ascain/
-latitude: 
-longitude: 
+latitude: 43.358
+longitude: -1.631
 ---

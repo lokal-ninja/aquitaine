@@ -1,6 +1,6 @@
 ---
 title: THENON
 url: /thenon/
-latitude: 
-longitude: 
+latitude: 45.141
+longitude: 1.069
 ---

@@ -1,6 +1,6 @@
 ---
 title: Saint-Emilion
 url: /saint-emilion/
-latitude: 
-longitude: 
+latitude: 44.893
+longitude: -0.155
 ---

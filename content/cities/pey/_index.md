@@ -1,6 +1,6 @@
 ---
 title: Pey
 url: /pey/
-latitude: 43.4846383
-longitude: -0.6662584
+latitude: 43.617
+longitude: -1.212
 ---

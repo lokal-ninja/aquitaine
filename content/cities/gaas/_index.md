@@ -1,6 +1,6 @@
 ---
 title: gaas
 url: /gaas/
-latitude: 
-longitude: 
+latitude: 43.611
+longitude: -1.042
 ---

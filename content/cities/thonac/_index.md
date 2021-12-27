@@ -1,6 +1,6 @@
 ---
 title: Thonac
 url: /thonac/
-latitude: 45.02172
-longitude: 1.1171
+latitude: 45.028
+longitude: 1.109
 ---

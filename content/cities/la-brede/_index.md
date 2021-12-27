@@ -1,6 +1,6 @@
 ---
 title: La Brède
 url: /la-brede/
-latitude: 44.4855777
-longitude: -0.4082912
+latitude: 44.681
+longitude: -0.528
 ---

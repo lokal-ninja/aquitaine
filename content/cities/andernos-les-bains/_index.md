@@ -1,6 +1,6 @@
 ---
 title: Andernos-les-Bains
 url: /andernos-les-bains/
-latitude: 44.7476897
-longitude: -1.0925184000000001
+latitude: 44.742
+longitude: -1.098
 ---

@@ -1,6 +1,6 @@
 ---
 title: Brach
 url: /brach/
-latitude: 45.0419159
-longitude: -0.9370143000000001
+latitude: 45.041
+longitude: -0.94
 ---

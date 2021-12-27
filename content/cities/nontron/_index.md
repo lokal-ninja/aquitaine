@@ -1,6 +1,6 @@
 ---
 title: NONTRON
 url: /nontron/
-latitude: 
-longitude: 
+latitude: 45.537
+longitude: 0.668
 ---

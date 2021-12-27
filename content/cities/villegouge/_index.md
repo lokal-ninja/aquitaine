@@ -1,6 +1,6 @@
 ---
 title: Villegouge
 url: /villegouge/
-latitude: 44.96683
-longitude: -0.30868
+latitude: 44.967
+longitude: -0.308
 ---

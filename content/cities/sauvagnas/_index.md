@@ -1,6 +1,6 @@
 ---
 title: Sauvagnas
 url: /sauvagnas/
-latitude: 44.2481967
-longitude: 0.7382479000000001
+latitude: 44.256
+longitude: 0.726
 ---

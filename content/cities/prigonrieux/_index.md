@@ -1,6 +1,6 @@
 ---
 title: Prigonrieux
 url: /prigonrieux/
-latitude: 44.855306000000006
-longitude: 0.4030054
+latitude: 44.851
+longitude: 0.427
 ---

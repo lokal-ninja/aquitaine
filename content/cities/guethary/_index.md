@@ -1,6 +1,6 @@
 ---
 title: Guéthary
 url: /guethary/
-latitude: 43.423001
-longitude: -1.6062693000000001
+latitude: 43.425
+longitude: -1.609
 ---

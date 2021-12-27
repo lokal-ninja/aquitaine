@@ -1,6 +1,6 @@
 ---
 title: Aldudes
 url: /aldudes/
-latitude: 43.0983621
-longitude: -1.4276027
+latitude: 43.089
+longitude: -1.425
 ---

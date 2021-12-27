@@ -1,6 +1,6 @@
 ---
 title: Saint-Palais
 url: /saint-palais/
-latitude: 45.313230000000004
-longitude: -0.58986
+latitude: 43.327
+longitude: -1.034
 ---

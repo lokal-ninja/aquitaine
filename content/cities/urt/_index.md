@@ -1,6 +1,6 @@
 ---
 title: Urt
 url: /urt/
-latitude: 43.4942669
-longitude: -1.2913084000000001
+latitude: 43.494
+longitude: -1.292
 ---

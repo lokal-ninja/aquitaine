@@ -1,6 +1,6 @@
 ---
 title: Bergerac
 url: /bergerac/
-latitude: 44.853456800000004
-longitude: 0.48753100000000005
+latitude: 44.83
+longitude: 0.501
 ---

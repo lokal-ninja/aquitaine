@@ -1,6 +1,6 @@
 ---
 title: Tarnos
 url: /tarnos/
-latitude: 
-longitude: 
+latitude: 43.539
+longitude: -1.461
 ---

@@ -1,6 +1,6 @@
 ---
 title: Orist
 url: /orist/
-latitude: 43.6405
-longitude: -1.17728
+latitude: 43.61
+longitude: -1.172
 ---

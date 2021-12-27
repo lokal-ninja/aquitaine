@@ -1,6 +1,6 @@
 ---
 title: La Réole
 url: /la-reole/
-latitude: 44.5821161
-longitude: -0.0350566
+latitude: 44.583
+longitude: -0.065
 ---

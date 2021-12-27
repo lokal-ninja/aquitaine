@@ -1,6 +1,6 @@
 ---
 title: Blanquefort
 url: /blanquefort/
-latitude: 44.9088982
-longitude: -0.6300363
+latitude: 44.927
+longitude: -0.62
 ---

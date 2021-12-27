@@ -1,6 +1,6 @@
 ---
 title: SEIGNOSSE
 url: /seignosse/
-latitude: 
-longitude: 
+latitude: 43.687
+longitude: -1.374
 ---

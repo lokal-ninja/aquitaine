@@ -1,6 +1,6 @@
 ---
 title: Nérac
 url: /nerac/
-latitude: 44.1353979
-longitude: 0.3392503
+latitude: 44.134
+longitude: 0.338
 ---

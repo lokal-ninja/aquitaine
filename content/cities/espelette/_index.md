@@ -1,6 +1,6 @@
 ---
 title: Espelette
 url: /espelette/
-latitude: 43.7879846
-longitude: -0.42064290000000004
+latitude: 43.342
+longitude: -1.45
 ---

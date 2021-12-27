@@ -1,6 +1,6 @@
 ---
 title: Soulac-sur-Mer
 url: /soulac-sur-mer/
-latitude: 45.513149000000006
-longitude: -1.1228789000000001
+latitude: 45.506
+longitude: -1.118
 ---

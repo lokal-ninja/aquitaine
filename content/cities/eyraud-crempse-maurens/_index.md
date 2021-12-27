@@ -1,6 +1,6 @@
 ---
 title: Eyraud-Crempse-Maurens
 url: /eyraud-crempse-maurens/
-latitude: 
-longitude: 
+latitude: 44.935
+longitude: 0.484
 ---

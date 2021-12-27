@@ -1,6 +1,6 @@
 ---
 title: Bordeaux Caudéran
 url: /bordeaux-cauderan/
-latitude: 
-longitude: 
+latitude: 44.859
+longitude: -0.625
 ---

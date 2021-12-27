@@ -1,6 +1,6 @@
 ---
 title: bostens
 url: /bostens/
-latitude: 
-longitude: 
+latitude: 43.979
+longitude: -0.376
 ---

@@ -1,6 +1,6 @@
 ---
 title: Orthez
 url: /orthez/
-latitude: 43.487496300000004
-longitude: -0.7738363
+latitude: 43.484
+longitude: -0.747
 ---

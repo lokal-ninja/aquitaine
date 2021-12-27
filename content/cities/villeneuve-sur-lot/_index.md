@@ -1,6 +1,6 @@
 ---
 title: Villeneuve-sur-Lot
 url: /villeneuve-sur-lot/
-latitude: 
-longitude: 
+latitude: 44.404
+longitude: 0.688
 ---

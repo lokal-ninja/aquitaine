@@ -1,6 +1,6 @@
 ---
 title: Marquay
 url: /marquay/
-latitude: 44.943400000000004
-longitude: 1.1338208
+latitude: 44.936
+longitude: 1.142
 ---

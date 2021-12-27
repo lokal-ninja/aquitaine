@@ -1,6 +1,6 @@
 ---
 title: Idron
 url: /idron/
-latitude: 43.2910849
-longitude: -0.3117531
+latitude: 43.302
+longitude: -0.31
 ---

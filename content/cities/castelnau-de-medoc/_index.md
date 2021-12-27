@@ -1,6 +1,6 @@
 ---
 title: castelnau de médoc
 url: /castelnau-de-medoc/
-latitude: 
-longitude: 
+latitude: 45.03
+longitude: -0.808
 ---
