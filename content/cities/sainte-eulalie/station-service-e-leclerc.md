@@ -1,5 +1,5 @@
 ---
 title: "Station Service E. Leclerc"
-url: /talence/station-service-e-leclerc/
+url: /sainte-eulalie/station-service-e-leclerc/
 shop: gaz
 ---
