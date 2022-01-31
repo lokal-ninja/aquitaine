@@ -1,5 +1,5 @@
 ---
 title: "Boo Bijoux"
 url: /soorts-hossegor/boo-bijoux/
-shop: shop
+shop: boutique
 ---

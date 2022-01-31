@@ -1,5 +1,5 @@
 ---
 title: "Perles de Guéthary"
 url: /guethary/perles-de-guethary/
-shop: shop
+shop: boutique
 ---
