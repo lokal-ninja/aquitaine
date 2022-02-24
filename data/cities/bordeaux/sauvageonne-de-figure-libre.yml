@@ -7,5 +7,5 @@ city: Bordeaux
 street: "Rue Camille Sauvageau"
 housenumber: 25
 phone: "+33556740085"
-opening_hours: "Tu-Sa 10:00-19:00 Fr 10:00-20:00"
+opening_hours: "Tu-Sa 10:00-19:00; Fr 10:00-20:00"
 website: ""

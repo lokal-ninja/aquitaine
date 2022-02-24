@@ -1,5 +1,5 @@
 ---
-title: "le toctoucau"
+title: "Le toctoucau"
 url: /pessac/le-toctoucau/
 shop: tabac
 ---

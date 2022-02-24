@@ -1,5 +1,5 @@
 ---
 title: "Maider"
-url: /mauleon/maider/
+url: /mauleon-licharre/maider/
 shop: coiffeur
 ---
