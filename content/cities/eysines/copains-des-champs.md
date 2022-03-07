@@ -1,5 +1,5 @@
 ---
-title: "Copains des Champs"
+title: "Copains des champs"
 url: /eysines/copains-des-champs/
 shop: ferme
 ---
