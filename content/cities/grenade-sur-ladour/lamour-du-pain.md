@@ -1,5 +1,5 @@
 ---
-title: "L'amour du pain"
+title: "L'Amour du Pain"
 url: /grenade-sur-ladour/lamour-du-pain/
 shop: boulangerie
 ---

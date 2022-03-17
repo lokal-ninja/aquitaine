@@ -1,6 +1,6 @@
 ---
 title: Biscarrosse
 url: /biscarrosse/
-latitude: 44.381
-longitude: -1.141
+latitude: 44.399
+longitude: -1.165
 ---
