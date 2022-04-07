@@ -3,9 +3,9 @@ type: node
 latitude: 43.74301
 longitude: -1.30576
 postcode: "40140"
-city: soustons
+city: Soustons
 street: "Chemin de Rouchéou"
-housenumber: 35
-phone: ""
-opening_hours: "Mo-Fr 10:00-12:00,15:00-18:30; Sa 10:00-12:00,15:00-18:00"
-website: ""
+housenumber: 36
+phone: "+33 9 77 73 60 56"
+opening_hours: ""
+website: "https://ferme-darrigade.fr/"
