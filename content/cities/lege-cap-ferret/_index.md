@@ -1,6 +1,6 @@
 ---
 title: Lège-Cap-Ferret
 url: /lege-cap-ferret/
-latitude: 44.791
-longitude: -1.145
+latitude: 44.721
+longitude: -1.21
 ---
