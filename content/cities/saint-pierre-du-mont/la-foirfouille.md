@@ -1,5 +1,5 @@
 ---
-title: "La FoirFouille"
+title: "La Foir'Fouille"
 url: /saint-pierre-du-mont/la-foirfouille/
-shop: cadeau
+shop: magasin de variétés
 ---
