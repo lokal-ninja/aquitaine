@@ -1,6 +1,6 @@
 ---
 title: Labenne
 url: /labenne/
-latitude: 43.599
-longitude: -1.472
+latitude: 43.596
+longitude: -1.464
 ---
