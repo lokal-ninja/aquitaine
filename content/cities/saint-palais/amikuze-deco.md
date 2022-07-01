@@ -1,5 +1,5 @@
 ---
-title: "Amikuze Deco"
+title: "Amikuze Déco"
 url: /saint-palais/amikuze-deco/
-shop: shop
+shop: peinture
 ---
