@@ -1,5 +1,5 @@
 ---
 title: "Plage Nord"
 url: /vendays-montalivet/plage-nord/
-shop: shop
+shop: cadeau
 ---
