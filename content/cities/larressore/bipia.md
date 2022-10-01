@@ -1,5 +1,5 @@
 ---
 title: "BiPiA"
 url: /larressore/bipia/
-shop: grand magasin
+shop: charcuterie
 ---

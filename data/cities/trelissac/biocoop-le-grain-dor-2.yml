@@ -1,11 +1,11 @@
-id: 363602158
-type: way
-latitude: 45.18999
-longitude: 0.74256
+id: 10059656445
+type: node
+latitude: 45.18766
+longitude: 0.76154
 postcode: "24750"
 city: Trélissac
-street: "Avenue Michel Grandou"
-housenumber: 120
+street: ""
+housenumber: 
 phone: "+33 5 53 35 35 97"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.biocoop-trelissac.fr"
+opening_hours: "Mo-Sa 09:00-19:30"
+website: "https://www.biocoop-trelissac.fr/"

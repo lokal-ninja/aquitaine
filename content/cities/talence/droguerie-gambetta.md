@@ -1,5 +1,5 @@
 ---
 title: "Droguerie Gambetta"
 url: /talence/droguerie-gambetta/
-shop: matériel informatique
+shop: vacant
 ---

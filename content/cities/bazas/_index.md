@@ -1,6 +1,6 @@
 ---
 title: Bazas
 url: /bazas/
-latitude: 44.432
-longitude: -0.213
+latitude: 44.431
+longitude: -0.212
 ---

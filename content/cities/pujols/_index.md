@@ -1,6 +1,6 @@
 ---
 title: Pujols
 url: /pujols/
-latitude: 44.385
-longitude: 0.688
+latitude: 44.817
+longitude: -0.039
 ---

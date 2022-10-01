@@ -1,6 +1,6 @@
 ---
 title: Cambo-les-Bains
 url: /cambo-les-bains/
-latitude: 43.363
-longitude: -1.403
+latitude: 43.37
+longitude: -1.4
 ---
