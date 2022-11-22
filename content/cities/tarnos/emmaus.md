@@ -1,5 +1,5 @@
 ---
-title: "Emmaus"
+title: "Emmaüs"
 url: /tarnos/emmaus/
 shop: charité
 ---
