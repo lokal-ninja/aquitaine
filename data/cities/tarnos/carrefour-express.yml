@@ -7,5 +7,5 @@ city: Tarnos
 street: "Place Alexandre Viro"
 housenumber: 7
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-13:00"
+opening_hours: "Mo-Sa 07:00-20:00+; Su 08:00-13:00,16:00-20:00+"
 website: ""
