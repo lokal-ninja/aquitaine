@@ -1,5 +1,5 @@
 ---
 title: "Marc Orian"
-url: /begles/marc-orian-2/
+url: /begles/marc-orian/
 shop: bijoux
 ---

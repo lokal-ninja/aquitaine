@@ -1,5 +1,0 @@
----
-title: "Bio Pays Landais SICA"
-url: /saint-geours-de-maremne/bio-pays-landais-sica-2/
-shop: commerce
----
