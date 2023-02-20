@@ -1,5 +1,5 @@
 ---
 title: "Parlementia"
 url: /guethary/parlementia/
-shop: shop
+shop: vêtements
 ---
