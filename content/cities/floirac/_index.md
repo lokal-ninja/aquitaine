@@ -1,6 +1,6 @@
 ---
 title: Floirac
 url: /floirac/
-latitude: 44.838
-longitude: -0.537
+latitude: 44.839
+longitude: -0.531
 ---
