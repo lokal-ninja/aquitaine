@@ -1,6 +1,6 @@
 ---
-title: Sainte-Hélène
+title: SAINTE HELENE
 url: /sainte-helene/
-latitude: 44.966
-longitude: -0.884
+latitude: 44.964
+longitude: -0.881
 ---
