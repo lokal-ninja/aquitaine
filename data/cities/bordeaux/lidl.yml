@@ -1,11 +1,11 @@
-id: 155696094
-type: way
-latitude: 44.8258
-longitude: -0.56175
+id: 7708114385
+type: node
+latitude: 44.86237
+longitude: -0.55587
 postcode: "33000"
 city: Bordeaux
-street: "Rue Malbec"
-housenumber: 64
-phone: ""
-opening_hours: ""
-website: "https://www.lidl.fr"
+street: "Rue Lucien Faure"
+housenumber: 44
+phone: "+33 1 88 24 70 70"
+opening_hours: "Mo-Sa 08:30-20:30; Su 08:30-12:30"
+website: "https://www.lidl.fr/"

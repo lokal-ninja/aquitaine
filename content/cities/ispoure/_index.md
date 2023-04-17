@@ -1,6 +1,6 @@
 ---
 title: Ispoure
 url: /ispoure/
-latitude: 43.172
-longitude: -1.234
+latitude: 43.175
+longitude: -1.235
 ---
