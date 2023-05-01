@@ -6,6 +6,6 @@ postcode: "33000"
 city: Bordeaux
 street: "Rue Porte Dijeaux"
 housenumber: 47
-phone: "+33556524961"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.morgandetoi.fr"
+phone: ""
+opening_hours: "Mo-Th 10:00-19:00; Sa 10:00-19:30; Su 13:00-18:00; Fr off"
+website: ""
