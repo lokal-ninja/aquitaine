@@ -1,5 +1,5 @@
 ---
-title: "CHAI FLO"
+title: "Chai Flo"
 url: /leon/chai-flo/
 shop: vin
 ---
