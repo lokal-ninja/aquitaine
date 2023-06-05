@@ -1,5 +1,5 @@
 ---
 title: "JOE BIKE"
-url: /capbreton/joe-bike/
+url: /soorts-hossegor/joe-bike/
 shop: vélo
 ---

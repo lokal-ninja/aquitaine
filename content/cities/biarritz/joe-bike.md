@@ -1,5 +1,5 @@
 ---
 title: "JOE BIKE"
-url: /capbreton/joe-bike/
+url: /biarritz/joe-bike/
 shop: vélo
 ---
