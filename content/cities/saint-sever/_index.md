@@ -1,6 +1,6 @@
 ---
-title: Saint-Sever
+title: Saint Sever
 url: /saint-sever/
-latitude: 43.748
-longitude: -0.563
+latitude: 43.749
+longitude: -0.565
 ---
