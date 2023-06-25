@@ -1,6 +1,6 @@
 ---
 title: Castelnaud-la-Chapelle
 url: /castelnaud-la-chapelle/
-latitude: 44.811
-longitude: 1.153
+latitude: 44.813
+longitude: 1.152
 ---
