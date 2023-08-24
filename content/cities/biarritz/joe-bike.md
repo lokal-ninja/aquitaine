@@ -1,5 +1,5 @@
 ---
-title: "JOE BIKE"
+title: "Joe Bike"
 url: /biarritz/joe-bike/
 shop: vélo
 ---

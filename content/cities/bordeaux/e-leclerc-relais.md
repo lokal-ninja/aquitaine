@@ -1,5 +1,5 @@
 ---
-title: "E.Leclerc RELAIS"
+title: "E. Leclerc Relais"
 url: /bordeaux/e-leclerc-relais/
-shop: avant-poste
+shop: supermarché
 ---

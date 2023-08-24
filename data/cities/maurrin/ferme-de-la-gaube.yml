@@ -7,5 +7,5 @@ city: Maurrin
 street: "Chemin de l'Espérance"
 housenumber: 883
 phone: "+33 5 58 44 04 51"
-opening_hours: "Tu 13:45/16:15; Th 13:45/16:15; Fr 09:00/11::30-13:45/16:15"
+opening_hours: "Tu,Th 13:45-16:15; Fr 09:00-11:30,13:45-16:15"
 website: ""
