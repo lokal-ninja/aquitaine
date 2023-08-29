@@ -1,5 +1,5 @@
 ---
-title: "Les gâteaux d'Emma"
+title: "Les Gâteaux d'Emma"
 url: /doazit/les-gateaux-demma/
 shop: pâtisserie
 ---
