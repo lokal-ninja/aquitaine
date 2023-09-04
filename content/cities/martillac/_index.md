@@ -1,6 +1,6 @@
 ---
 title: Martillac
 url: /martillac/
-latitude: 44.722
-longitude: -0.53
+latitude: 44.714
+longitude: -0.543
 ---
