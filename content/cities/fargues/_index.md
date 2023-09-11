@@ -1,6 +1,6 @@
 ---
 title: Fargues
 url: /fargues/
-latitude: 43.72
-longitude: -0.44
+latitude: 44.529
+longitude: -0.3
 ---
