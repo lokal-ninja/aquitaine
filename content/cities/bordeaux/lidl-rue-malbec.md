@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /bordeaux/lidl/
+url: /bordeaux/lidl-rue-malbec/
 shop: supermarché
 ---

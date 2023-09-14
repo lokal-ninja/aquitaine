@@ -1,5 +1,5 @@
 ---
 title: "intermarché"
-url: /langoiran/intermarche/
+url: /langoiran/intermarche-parking-intermarche/
 shop: gaz
 ---

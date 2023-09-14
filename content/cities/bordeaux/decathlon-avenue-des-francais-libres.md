@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
-url: /bordeaux/decathlon/
+url: /bordeaux/decathlon-avenue-des-francais-libres/
 shop: sports
 ---

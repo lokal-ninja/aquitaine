@@ -1,5 +1,5 @@
 ---
 title: "Picard"
-url: /pau/picard/
+url: /pau/picard-avenue-jean-mermoz/
 shop: aliments surgelés
 ---

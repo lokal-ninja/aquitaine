@@ -1,5 +1,5 @@
 ---
 title: "Natacha"
-url: /biarritz/natacha/
+url: /biarritz/natacha-avenue-edouard-vii/
 shop: vêtements
 ---

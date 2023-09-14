@@ -1,5 +1,5 @@
 ---
 title: "Vapostore"
-url: /bordeaux/vapostore/
+url: /bordeaux/vapostore-avenue-des-40-journaux/
 shop: e-cigarette
 ---

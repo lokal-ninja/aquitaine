@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
-url: /bordeaux/auchan/
+url: /bordeaux/auchan-avenue-des-40-journaux/
 shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Etam"
-url: /bordeaux/etam/
+url: /bordeaux/etam-rue-porte-dijeaux/
 shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cybertek"
-url: /merignac/cybertek/
+url: /merignac/cybertek-avenue-du-president-john-fitzgerald-kennedy/
 shop: ordinateur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stephan"
-url: /pau/stephan/
+url: /pau/stephan-avenue-du-general-leclerc/
 shop: coiffeur
 ---

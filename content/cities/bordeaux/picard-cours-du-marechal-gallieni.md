@@ -1,5 +1,5 @@
 ---
 title: "Picard"
-url: /bordeaux/picard/
+url: /bordeaux/picard-cours-du-marechal-gallieni/
 shop: aliments surgelés
 ---

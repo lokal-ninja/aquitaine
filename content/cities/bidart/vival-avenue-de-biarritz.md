@@ -1,5 +1,5 @@
 ---
 title: "Vival"
-url: /bidart/vival/
+url: /bidart/vival-avenue-de-biarritz/
 shop: commodité
 ---

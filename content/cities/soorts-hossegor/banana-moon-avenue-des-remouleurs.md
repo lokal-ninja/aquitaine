@@ -1,5 +1,5 @@
 ---
 title: "Banana Moon"
-url: /soorts-hossegor/banana-moon/
+url: /soorts-hossegor/banana-moon-avenue-des-remouleurs/
 shop: vêtements
 ---
