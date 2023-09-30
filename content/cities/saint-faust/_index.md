@@ -1,6 +1,6 @@
 ---
 title: Saint-Faust
 url: /saint-faust/
-latitude: 43.26
-longitude: -0.444
+latitude: 43.275
+longitude: -0.453
 ---

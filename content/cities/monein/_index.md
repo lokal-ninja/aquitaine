@@ -1,6 +1,6 @@
 ---
 title: Monein
 url: /monein/
-latitude: 43.321
-longitude: -0.58
+latitude: 43.313
+longitude: -0.615
 ---

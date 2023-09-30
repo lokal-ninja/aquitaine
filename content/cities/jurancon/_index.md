@@ -1,6 +1,6 @@
 ---
-title: Jurançon
+title: Jurancon
 url: /jurancon/
-latitude: 43.283
-longitude: -0.387
+latitude: 43.264
+longitude: -0.407
 ---

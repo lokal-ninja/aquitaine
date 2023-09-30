@@ -1,6 +1,6 @@
 ---
-title: Lucq-de-Béarn
+title: Lucq-De-Bearn
 url: /lucq-de-bearn/
-latitude: 43.288
-longitude: -0.661
+latitude: 43.326
+longitude: -0.65
 ---
