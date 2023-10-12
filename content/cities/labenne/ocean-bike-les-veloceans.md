@@ -1,5 +1,5 @@
 ---
 title: "Ocean Bike Les Vélocéans"
 url: /labenne/ocean-bike-les-veloceans/
-shop: shop
+shop: vélo
 ---
