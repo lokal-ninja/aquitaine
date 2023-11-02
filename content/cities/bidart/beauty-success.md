@@ -1,5 +1,5 @@
 ---
-title: "Beauty success"
+title: "Beauty Success"
 url: /bidart/beauty-success/
-shop: parfumerie
+shop: beauté
 ---
