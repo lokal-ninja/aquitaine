@@ -1,6 +1,6 @@
 ---
 title: Ciboure
 url: /ciboure/
-latitude: 43.385
-longitude: -1.667
+latitude: 43.384
+longitude: -1.668
 ---
