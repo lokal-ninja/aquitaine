@@ -1,6 +1,6 @@
 ---
 title: Boé
 url: /boe/
-latitude: 44.188
-longitude: 0.657
+latitude: 44.185
+longitude: 0.664
 ---
