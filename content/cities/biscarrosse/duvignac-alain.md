@@ -1,5 +1,5 @@
 ---
 title: "Duvignac Alain"
 url: /biscarrosse/duvignac-alain/
-shop: vin
+shop: alcool
 ---
