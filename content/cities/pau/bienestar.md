@@ -1,5 +1,5 @@
 ---
 title: "Bienestar"
 url: /pau/bienestar/
-shop: coiffeur
+shop: beauté
 ---
