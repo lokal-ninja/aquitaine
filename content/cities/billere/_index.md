@@ -1,6 +1,6 @@
 ---
 title: Billère
 url: /billere/
-latitude: 43.312
-longitude: -0.381
+latitude: 43.315
+longitude: -0.385
 ---

@@ -1,5 +1,5 @@
 ---
 title: "E.Leclerc"
-url: /talence/e-leclerc/
+url: /bordeaux/e-leclerc/
 shop: supermarché
 ---
