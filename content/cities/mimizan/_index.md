@@ -1,6 +1,6 @@
 ---
 title: Mimizan
 url: /mimizan/
-latitude: 44.214
-longitude: -1.292
+latitude: 44.207
+longitude: -1.28
 ---
