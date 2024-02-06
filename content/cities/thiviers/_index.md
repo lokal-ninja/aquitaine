@@ -1,6 +1,6 @@
 ---
 title: Thiviers
 url: /thiviers/
-latitude: 45.416
-longitude: 0.918
+latitude: 45.414
+longitude: 0.921
 ---

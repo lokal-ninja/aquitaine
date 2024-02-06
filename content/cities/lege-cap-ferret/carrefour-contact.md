@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Contact"
-url: /ledge-cap-ferret/carrefour-contact/
+url: /lege-cap-ferret/carrefour-contact/
 shop: supermarché
 ---
