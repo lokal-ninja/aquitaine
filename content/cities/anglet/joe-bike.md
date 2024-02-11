@@ -1,5 +1,5 @@
 ---
-title: "JOE BIKE"
+title: "Joe Bike"
 url: /anglet/joe-bike/
 shop: vélo
 ---
