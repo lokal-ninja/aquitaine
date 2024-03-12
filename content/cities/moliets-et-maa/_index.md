@@ -1,6 +1,6 @@
 ---
-title: Moliets-et-Maâ
+title: Moliets-et-Maa
 url: /moliets-et-maa/
 latitude: 43.85
-longitude: -1.357
+longitude: -1.356
 ---
