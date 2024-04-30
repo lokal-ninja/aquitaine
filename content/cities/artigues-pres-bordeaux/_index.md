@@ -1,6 +1,6 @@
 ---
 title: Artigues-près-Bordeaux
 url: /artigues-pres-bordeaux/
-latitude: 44.854
-longitude: -0.502
+latitude: 44.862
+longitude: -0.49
 ---
