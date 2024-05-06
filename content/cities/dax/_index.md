@@ -1,6 +1,6 @@
 ---
 title: Dax
 url: /dax/
-latitude: 43.708
-longitude: -1.045
+latitude: 43.709
+longitude: -1.054
 ---
