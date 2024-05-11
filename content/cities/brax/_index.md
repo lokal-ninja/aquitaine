@@ -1,6 +1,6 @@
 ---
 title: Brax
 url: /brax/
-latitude: 44.201
-longitude: 0.554
+latitude: 44.2
+longitude: 0.555
 ---
