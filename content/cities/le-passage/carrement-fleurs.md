@@ -1,5 +1,5 @@
 ---
-title: "Carrément fleurs"
+title: "Carrément Fleurs"
 url: /le-passage/carrement-fleurs/
 shop: fleuriste
 ---
