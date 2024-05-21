@@ -1,11 +1,11 @@
-id: 4552082091
-type: node
-latitude: 44.83703
-longitude: -0.57358
-postcode: "33000"
+id: 154156502
+type: way
+latitude: 44.87532
+longitude: -0.56813
+postcode: "33300"
 city: Bordeaux
-street: "Rue Sainte-Catherine"
-housenumber: 130
-phone: ""
-opening_hours: "Mo-Sa 10:00-19:30; Su 14:00-19:00"
-website: "https://www.decathlon.fr/store-view/magasin-de-sports-bordeaux-centre-ville-city-0070035400354"
+street: "Avenue des Français Libres"
+housenumber: 
+phone: "+33 5 57 19 39 39"
+opening_hours: "Mo-Sa 09:00-20:00"
+website: ""
