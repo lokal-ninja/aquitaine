@@ -1,6 +1,6 @@
 ---
-title: Saint Astier
+title: Saint-Astier
 url: /saint-astier/
-latitude: 45.149
-longitude: 0.537
+latitude: 45.146
+longitude: 0.528
 ---
