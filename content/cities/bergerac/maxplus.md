@@ -1,5 +1,5 @@
 ---
 title: "MaxPlus"
 url: /bergerac/maxplus/
-shop: shop
+shop: magasin de variétés
 ---

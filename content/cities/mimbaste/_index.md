@@ -1,6 +1,6 @@
 ---
 title: Mimbaste
 url: /mimbaste/
-latitude: 43.648
-longitude: -0.974
+latitude: 43.649
+longitude: -0.949
 ---
