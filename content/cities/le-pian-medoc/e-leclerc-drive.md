@@ -1,5 +1,5 @@
 ---
 title: "E.Leclerc Drive"
 url: /le-pian-medoc/e-leclerc-drive/
-shop: supermarché
+shop: avant-poste
 ---
