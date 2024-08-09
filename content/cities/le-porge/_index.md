@@ -1,6 +1,6 @@
 ---
 title: Le Porge
 url: /le-porge/
-latitude: 44.875
-longitude: -1.088
+latitude: 44.876
+longitude: -1.081
 ---
