@@ -1,5 +1,5 @@
 ---
 title: "Danse Compagnie"
 url: /bordeaux/danse-compagnie/
-shop: shop
+shop: vêtements
 ---

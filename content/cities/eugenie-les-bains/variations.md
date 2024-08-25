@@ -1,5 +1,5 @@
 ---
 title: "Variations"
 url: /eugenie-les-bains/variations/
-shop: shop
+shop: décoration intérieure
 ---
