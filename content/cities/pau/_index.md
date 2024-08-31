@@ -1,6 +1,6 @@
 ---
 title: Pau
 url: /pau/
-latitude: 43.294
-longitude: -0.377
+latitude: 43.29
+longitude: -0.38
 ---
