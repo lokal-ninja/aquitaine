@@ -1,5 +1,5 @@
 ---
 title: "Korner"
 url: /lescar/korner/
-shop: vêtements
+shop: Kleidung
 ---

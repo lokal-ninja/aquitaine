@@ -1,5 +1,5 @@
 ---
 title: "Technic eau"
 url: /pau/technic-eau/
-shop: cheminée
+shop: Kamine & Öfen
 ---

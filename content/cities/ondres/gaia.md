@@ -1,5 +1,5 @@
 ---
 title: "Gaia"
 url: /ondres/gaia/
-shop: fleuriste
+shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Promocash"
 url: /bergerac/promocash/
-shop: supermarché
+shop: Supermarkt
 ---

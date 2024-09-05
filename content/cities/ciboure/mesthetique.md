@@ -1,5 +1,5 @@
 ---
 title: "M'Esthétique"
 url: /ciboure/mesthetique/
-shop: beauté
+shop: Kosmetik
 ---

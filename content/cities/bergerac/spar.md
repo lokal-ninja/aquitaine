@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /bergerac/spar/
-shop: commodité
+shop: Lebensmittel
 ---

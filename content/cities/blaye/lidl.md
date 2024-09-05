@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /blaye/lidl/
-shop: supermarché
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cybertek"
 url: /merignac/cybertek/
-shop: ordinateur
+shop: Computer
 ---

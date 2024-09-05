@@ -1,5 +1,5 @@
 ---
 title: "Laverie"
 url: /bidart/laverie/
-shop: blanchisserie
+shop: Wäscherei
 ---

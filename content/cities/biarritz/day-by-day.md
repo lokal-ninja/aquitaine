@@ -1,5 +1,5 @@
 ---
 title: "day by day"
 url: /biarritz/day-by-day/
-shop: commodité
+shop: Lebensmittel
 ---

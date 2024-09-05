@@ -1,5 +1,5 @@
 ---
 title: "O Panier local"
 url: /orthez/o-panier-local/
-shop: commodité
+shop: Lebensmittel
 ---

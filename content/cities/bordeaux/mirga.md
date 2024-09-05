@@ -1,5 +1,5 @@
 ---
 title: "Mirga"
 url: /bordeaux/mirga/
-shop: fromage
+shop: Käse
 ---

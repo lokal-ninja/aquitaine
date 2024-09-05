@@ -1,5 +1,5 @@
 ---
 title: "Netto"
 url: /biganos/netto/
-shop: supermarché
+shop: Supermarkt
 ---

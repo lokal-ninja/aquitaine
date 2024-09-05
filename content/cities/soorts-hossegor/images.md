@@ -1,5 +1,5 @@
 ---
 title: "Images"
 url: /soorts-hossegor/images/
-shop: vêtements
+shop: Kleidung
 ---

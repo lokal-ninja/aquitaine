@@ -1,5 +1,5 @@
 ---
 title: "VLM Autos"
 url: /hagetmau/vlm-autos/
-shop: voiture
+shop: Autohaus
 ---

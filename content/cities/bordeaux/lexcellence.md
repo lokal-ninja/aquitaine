@@ -1,5 +1,5 @@
 ---
 title: "L'Excellence"
 url: /bordeaux/lexcellence/
-shop: boulangerie
+shop: Bäckerei
 ---

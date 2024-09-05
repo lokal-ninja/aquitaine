@@ -1,5 +1,5 @@
 ---
 title: "Copadax"
 url: /castets/copadax/
-shop: légumes
+shop: Gemüse & Obst
 ---

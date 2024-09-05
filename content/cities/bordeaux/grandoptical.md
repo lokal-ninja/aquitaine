@@ -1,5 +1,5 @@
 ---
 title: "GrandOptical"
 url: /bordeaux/grandoptical/
-shop: opticien
+shop: Optiker
 ---

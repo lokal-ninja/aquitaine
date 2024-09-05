@@ -1,5 +1,5 @@
 ---
 title: "Hemengo"
 url: /ustaritz/hemengo/
-shop: ferme
+shop: Hofladen
 ---

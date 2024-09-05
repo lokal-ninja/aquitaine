@@ -1,5 +1,5 @@
 ---
 title: "L'atelier nature"
 url: /ondres/latelier-nature/
-shop: beauté
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pimkie"
 url: /lescar/pimkie/
-shop: vêtements
+shop: Kleidung
 ---

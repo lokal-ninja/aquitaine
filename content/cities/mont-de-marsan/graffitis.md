@@ -1,5 +1,5 @@
 ---
 title: "Graffiti's"
 url: /mont-de-marsan/graffitis/
-shop: vêtements
+shop: Kleidung
 ---

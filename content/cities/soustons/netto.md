@@ -1,5 +1,5 @@
 ---
 title: "Netto"
 url: /soustons/netto/
-shop: supermarché
+shop: Supermarkt
 ---

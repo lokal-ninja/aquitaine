@@ -1,5 +1,5 @@
 ---
 title: "Trafic"
 url: /bordeaux/trafic/
-shop: vêtements
+shop: Kleidung
 ---

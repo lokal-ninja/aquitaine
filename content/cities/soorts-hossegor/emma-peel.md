@@ -1,5 +1,5 @@
 ---
 title: "Emma Peel"
 url: /soorts-hossegor/emma-peel/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /hendaye/ford/
-shop: voiture
+shop: Autohaus
 ---

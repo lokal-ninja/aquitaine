@@ -1,5 +1,5 @@
 ---
 title: "Exacig"
 url: /nerac/exacig/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

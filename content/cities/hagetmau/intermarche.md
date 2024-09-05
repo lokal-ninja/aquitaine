@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /hagetmau/intermarche/
-shop: gaz
+shop: Gasflaschen
 ---

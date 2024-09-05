@@ -1,5 +1,5 @@
 ---
 title: "Laudate"
 url: /bordeaux/laudate/
-shop: bijoux
+shop: Schmuck
 ---

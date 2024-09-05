@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /begles/spar/
-shop: commodité
+shop: Lebensmittel
 ---

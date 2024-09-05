@@ -1,5 +1,5 @@
 ---
 title: "King Jouet"
 url: /le-pian-medoc/king-jouet/
-shop: jouets
+shop: Spielzeug
 ---

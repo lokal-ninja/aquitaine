@@ -1,5 +1,5 @@
 ---
 title: "Tucci"
 url: /biarritz/tucci/
-shop: vêtements
+shop: Kleidung
 ---

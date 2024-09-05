@@ -1,5 +1,5 @@
 ---
 title: "Cccoiff"
 url: /billere/cccoiff/
-shop: coiffeur
+shop: Friseur
 ---

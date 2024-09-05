@@ -1,5 +1,5 @@
 ---
 title: "The Nuts Shop"
 url: /bordeaux/the-nuts-shop/
-shop: charcuterie
+shop: Feinkost
 ---

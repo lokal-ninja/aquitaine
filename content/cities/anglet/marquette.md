@@ -1,5 +1,5 @@
 ---
 title: "Marquette"
 url: /anglet/marquette/
-shop: cadeau
+shop: Andenken
 ---

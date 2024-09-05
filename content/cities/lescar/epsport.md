@@ -1,5 +1,5 @@
 ---
 title: "Epsport"
 url: /lescar/epsport/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Leslie Beauté"
 url: /saint-jean-de-luz/leslie-beaute/
-shop: beauté
+shop: Kosmetik
 ---

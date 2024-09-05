@@ -1,5 +1,5 @@
 ---
 title: "Domaine Nomboly-Traydou"
 url: /monein/domaine-nomboly-traydou/
-shop: vin
+shop: Wein
 ---

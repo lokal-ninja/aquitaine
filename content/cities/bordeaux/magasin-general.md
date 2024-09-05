@@ -1,5 +1,5 @@
 ---
 title: "Magasin Général"
 url: /bordeaux/magasin-general/
-shop: supermarché
+shop: Supermarkt
 ---

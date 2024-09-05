@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /begles/sephora/
-shop: beauté
+shop: Kosmetik
 ---

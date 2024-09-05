@@ -1,5 +1,5 @@
 ---
 title: "Mondial Tissus"
 url: /bergerac/mondial-tissus/
-shop: tissu
+shop: Textil
 ---

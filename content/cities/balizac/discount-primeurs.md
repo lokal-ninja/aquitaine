@@ -1,5 +1,5 @@
 ---
 title: "Discount Primeurs"
 url: /balizac/discount-primeurs/
-shop: légumes
+shop: Gemüse & Obst
 ---

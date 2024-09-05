@@ -1,5 +1,5 @@
 ---
 title: "Haritza"
 url: /bordeaux/haritza/
-shop: fleuriste
+shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Bufflone béarnaise"
 url: /mesplede/la-bufflone-bearnaise/
-shop: ferme
+shop: Hofladen
 ---

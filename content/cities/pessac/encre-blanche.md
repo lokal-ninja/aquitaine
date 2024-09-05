@@ -1,5 +1,5 @@
 ---
 title: "Encre Blanche"
 url: /pessac/encre-blanche/
-shop: livres
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Metissea"
 url: /villenave-dornon/metissea/
-shop: coiffeur
+shop: Friseur
 ---

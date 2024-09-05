@@ -1,5 +1,5 @@
 ---
 title: "La Cervoiserie"
 url: /merignac/la-cervoiserie/
-shop: alcool
+shop: Spirituosen
 ---

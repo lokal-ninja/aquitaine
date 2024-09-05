@@ -1,5 +1,5 @@
 ---
 title: "La Bouquinerie Plus"
 url: /bordeaux/la-bouquinerie-plus/
-shop: charité
+shop: Gebrauchtwaren
 ---

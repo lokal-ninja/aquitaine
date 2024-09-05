@@ -1,5 +1,5 @@
 ---
 title: "MG Installation"
 url: /aire-sur-ladour/mg-installation/
-shop: shop
+shop: Allgemein
 ---

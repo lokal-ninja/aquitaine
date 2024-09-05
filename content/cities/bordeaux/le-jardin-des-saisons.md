@@ -1,5 +1,5 @@
 ---
 title: "Le jardin des saisons"
 url: /bordeaux/le-jardin-des-saisons/
-shop: légumes
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JCL Électronique"
 url: /merignac/jcl-electronique/
-shop: électronique
+shop: Elektronik
 ---

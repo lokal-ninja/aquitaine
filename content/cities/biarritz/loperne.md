@@ -1,5 +1,5 @@
 ---
 title: "L'Operne"
 url: /biarritz/loperne/
-shop: vêtements
+shop: Kleidung
 ---

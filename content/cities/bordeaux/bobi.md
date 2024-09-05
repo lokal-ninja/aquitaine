@@ -1,5 +1,5 @@
 ---
 title: "Bobi"
 url: /bordeaux/bobi/
-shop: commodité
+shop: Lebensmittel
 ---

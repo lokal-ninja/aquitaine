@@ -1,5 +1,5 @@
 ---
 title: "Foot Locker"
 url: /saint-pierre-dirube/foot-locker/
-shop: chaussures
+shop: Schuhe
 ---

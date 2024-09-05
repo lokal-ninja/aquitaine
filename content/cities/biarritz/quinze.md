@@ -1,5 +1,5 @@
 ---
 title: "Quinze"
 url: /biarritz/quinze/
-shop: vêtements
+shop: Kleidung
 ---

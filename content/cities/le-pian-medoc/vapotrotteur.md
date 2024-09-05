@@ -1,5 +1,5 @@
 ---
 title: "Vapotrotteur"
 url: /le-pian-medoc/vapotrotteur/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

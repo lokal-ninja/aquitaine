@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /bouliac/decathlon/
-shop: sports
+shop: Sport
 ---

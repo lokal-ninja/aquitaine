@@ -1,5 +1,5 @@
 ---
 title: "L'opticien d'Hossegor"
 url: /soorts-hossegor/lopticien-dhossegor/
-shop: opticien
+shop: Optiker
 ---

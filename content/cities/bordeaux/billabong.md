@@ -1,5 +1,5 @@
 ---
 title: "Billabong"
 url: /bordeaux/billabong/
-shop: vêtements
+shop: Kleidung
 ---

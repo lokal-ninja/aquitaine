@@ -1,5 +1,5 @@
 ---
 title: "Établissement Mariano Aux Caves du Portugal"
 url: /bordeaux/etablissement-mariano-aux-caves-du-portugal/
-shop: vente en gros
+shop: Großhandel
 ---

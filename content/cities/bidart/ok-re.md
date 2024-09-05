@@ -1,5 +1,5 @@
 ---
 title: "O'k-ré"
 url: /bidart/ok-re/
-shop: coiffeur
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pierres des Pyrénées"
 url: /ascain/pierres-des-pyrenees/
-shop: commerce
+shop: Baustoffe
 ---

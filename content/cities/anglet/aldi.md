@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /anglet/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

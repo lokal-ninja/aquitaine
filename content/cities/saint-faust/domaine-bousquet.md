@@ -1,5 +1,5 @@
 ---
 title: "Domaine Bousquet"
 url: /saint-faust/domaine-bousquet/
-shop: vin
+shop: Wein
 ---

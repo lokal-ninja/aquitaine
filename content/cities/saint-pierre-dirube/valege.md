@@ -1,5 +1,5 @@
 ---
 title: "Valège"
 url: /saint-pierre-dirube/valege/
-shop: vêtements
+shop: Kleidung
 ---

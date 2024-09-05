@@ -1,5 +1,5 @@
 ---
 title: "Casa"
 url: /lons/casa/
-shop: meubles
+shop: Möbel
 ---

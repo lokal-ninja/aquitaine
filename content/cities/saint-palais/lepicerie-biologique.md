@@ -1,5 +1,5 @@
 ---
 title: "L'épicerie biologique"
 url: /saint-palais/lepicerie-biologique/
-shop: commodité
+shop: Lebensmittel
 ---

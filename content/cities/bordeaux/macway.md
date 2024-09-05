@@ -1,5 +1,5 @@
 ---
 title: "MacWay"
 url: /bordeaux/macway/
-shop: ordinateur
+shop: Computer
 ---

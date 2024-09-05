@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /saint-denis-de-pile/intermarche/
-shop: gaz
+shop: Gasflaschen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coudroy"
 url: /hagetmau/coudroy/
-shop: boulangerie
+shop: Bäckerei
 ---

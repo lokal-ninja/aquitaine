@@ -1,5 +1,5 @@
 ---
 title: "Petrusse"
 url: /bordeaux/petrusse/
-shop: boutique
+shop: Modehaus
 ---

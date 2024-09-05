@@ -1,5 +1,5 @@
 ---
 title: "Monoprix"
 url: /bordeaux/monoprix/
-shop: supermarché
+shop: Supermarkt
 ---

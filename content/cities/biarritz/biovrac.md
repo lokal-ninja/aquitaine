@@ -1,5 +1,5 @@
 ---
 title: "Biovrac"
 url: /biarritz/biovrac/
-shop: commodité
+shop: Lebensmittel
 ---

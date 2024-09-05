@@ -1,5 +1,5 @@
 ---
 title: "Kiabi"
 url: /bergerac/kiabi/
-shop: vêtements
+shop: Kleidung
 ---

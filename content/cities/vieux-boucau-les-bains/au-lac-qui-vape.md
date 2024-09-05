@@ -1,5 +1,5 @@
 ---
 title: "Au lac qui vape"
 url: /vieux-boucau-les-bains/au-lac-qui-vape/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

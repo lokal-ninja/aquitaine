@@ -1,5 +1,5 @@
 ---
 title: "Kn'Hair"
 url: /nerac/knhair/
-shop: coiffeur
+shop: Friseur
 ---

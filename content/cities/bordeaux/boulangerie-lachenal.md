@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Lachenal"
 url: /bordeaux/boulangerie-lachenal/
-shop: boulangerie
+shop: Bäckerei
 ---

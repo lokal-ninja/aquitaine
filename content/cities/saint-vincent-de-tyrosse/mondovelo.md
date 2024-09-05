@@ -1,5 +1,5 @@
 ---
 title: "Mondovélo"
 url: /saint-vincent-de-tyrosse/mondovelo/
-shop: vélo
+shop: Fahrrad
 ---

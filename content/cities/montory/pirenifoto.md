@@ -1,5 +1,5 @@
 ---
 title: "Pirenifoto"
 url: /montory/pirenifoto/
-shop: photo
+shop: Foto
 ---

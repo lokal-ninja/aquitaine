@@ -1,5 +1,5 @@
 ---
 title: "Quiksilver Outlet"
 url: /soorts-hossegor/quiksilver-outlet/
-shop: vêtements
+shop: Kleidung
 ---

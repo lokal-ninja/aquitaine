@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /lescar/sephora/
-shop: beauté
+shop: Kosmetik
 ---

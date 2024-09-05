@@ -1,5 +1,5 @@
 ---
 title: "Promod"
 url: /anglet/promod/
-shop: vêtements
+shop: Kleidung
 ---

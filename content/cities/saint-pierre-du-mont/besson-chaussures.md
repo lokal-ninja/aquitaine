@@ -1,5 +1,5 @@
 ---
 title: "Besson Chaussures"
 url: /saint-pierre-du-mont/besson-chaussures/
-shop: chaussures
+shop: Schuhe
 ---

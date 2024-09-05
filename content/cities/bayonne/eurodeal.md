@@ -1,5 +1,5 @@
 ---
 title: "Eurodeal"
 url: /bayonne/eurodeal/
-shop: ordinateur
+shop: Computer
 ---

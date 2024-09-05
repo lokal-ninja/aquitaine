@@ -1,5 +1,5 @@
 ---
 title: "Pierre Oteïza"
 url: /capbreton/pierre-oteiza/
-shop: charcuterie
+shop: Feinkost
 ---

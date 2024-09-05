@@ -1,5 +1,5 @@
 ---
 title: "Eder Loreak fleuriste"
 url: /hasparren/eder-loreak-fleuriste/
-shop: fleuriste
+shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Remazeilles"
 url: /mees/remazeilles/
-shop: meubles
+shop: Möbel
 ---

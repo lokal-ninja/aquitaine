@@ -1,5 +1,5 @@
 ---
 title: "Nocibé"
 url: /lescar/nocibe/
-shop: beauté
+shop: Kosmetik
 ---

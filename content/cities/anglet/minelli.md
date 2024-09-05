@@ -1,5 +1,5 @@
 ---
 title: "Minelli"
 url: /anglet/minelli/
-shop: chaussures
+shop: Schuhe
 ---

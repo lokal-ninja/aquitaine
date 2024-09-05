@@ -1,5 +1,5 @@
 ---
 title: "Rock du Palais"
 url: /bordeaux/rock-du-palais/
-shop: charcuterie
+shop: Feinkost
 ---

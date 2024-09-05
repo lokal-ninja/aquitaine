@@ -1,5 +1,5 @@
 ---
 title: "Ahona"
 url: /saint-jean-de-luz/ahona/
-shop: vin
+shop: Wein
 ---

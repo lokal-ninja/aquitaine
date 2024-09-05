@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
 url: /gradignan/auchan/
-shop: supermarché
+shop: Supermarkt
 ---

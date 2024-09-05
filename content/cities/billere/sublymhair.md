@@ -1,5 +1,5 @@
 ---
 title: "Sublym'hair"
 url: /billere/sublymhair/
-shop: coiffeur
+shop: Friseur
 ---

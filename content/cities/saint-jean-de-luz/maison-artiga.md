@@ -1,5 +1,5 @@
 ---
 title: "Maison Artiga"
 url: /saint-jean-de-luz/maison-artiga/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /anglet/pandora/
-shop: bijoux
+shop: Schmuck
 ---

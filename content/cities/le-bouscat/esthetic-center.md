@@ -1,5 +1,5 @@
 ---
 title: "Esthétic Center"
 url: /le-bouscat/esthetic-center/
-shop: beauté
+shop: Kosmetik
 ---

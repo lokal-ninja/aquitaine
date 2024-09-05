@@ -1,5 +1,5 @@
 ---
 title: "Maison Montauzer"
 url: /bardos/maison-montauzer/
-shop: boucherie
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Essensual"
 url: /bordeaux/essensual/
-shop: coiffeur
+shop: Friseur
 ---

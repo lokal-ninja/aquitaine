@@ -1,5 +1,5 @@
 ---
 title: "Parot Trucks Krone"
 url: /bruges/parot-trucks-krone/
-shop: voiture
+shop: Autohaus
 ---

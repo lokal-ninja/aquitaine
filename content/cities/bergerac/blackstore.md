@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /bergerac/blackstore/
-shop: vêtements
+shop: Kleidung
 ---

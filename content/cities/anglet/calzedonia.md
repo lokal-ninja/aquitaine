@@ -1,5 +1,5 @@
 ---
 title: "Calzedonia"
 url: /anglet/calzedonia/
-shop: vêtements
+shop: Kleidung
 ---

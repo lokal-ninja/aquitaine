@@ -1,5 +1,5 @@
 ---
 title: "Floralies"
 url: /lormont/floralies/
-shop: fleuriste
+shop: Blumen
 ---

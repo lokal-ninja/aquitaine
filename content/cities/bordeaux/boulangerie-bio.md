@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Bio"
 url: /bordeaux/boulangerie-bio/
-shop: boulangerie
+shop: Bäckerei
 ---

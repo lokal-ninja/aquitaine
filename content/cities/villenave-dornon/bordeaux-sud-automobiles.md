@@ -1,5 +1,5 @@
 ---
 title: "Bordeaux Sud Automobiles"
 url: /villenave-dornon/bordeaux-sud-automobiles/
-shop: voiture
+shop: Autohaus
 ---

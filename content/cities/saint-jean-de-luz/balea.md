@@ -1,5 +1,5 @@
 ---
 title: "Balea"
 url: /saint-jean-de-luz/balea/
-shop: antiquités
+shop: Antiquitäten
 ---

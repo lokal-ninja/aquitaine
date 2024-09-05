@@ -1,5 +1,5 @@
 ---
 title: "Aigle"
 url: /bordeaux/aigle/
-shop: vêtements
+shop: Kleidung
 ---

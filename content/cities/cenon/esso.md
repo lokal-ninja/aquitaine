@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /cenon/esso/
-shop: commodité
+shop: Lebensmittel
 ---

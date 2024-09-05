@@ -1,5 +1,5 @@
 ---
 title: "Mel"
 url: /contis-plage/mel/
-shop: vêtements
+shop: Kleidung
 ---

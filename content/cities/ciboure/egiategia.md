@@ -1,5 +1,5 @@
 ---
 title: "Egiategia"
 url: /ciboure/egiategia/
-shop: vin
+shop: Wein
 ---

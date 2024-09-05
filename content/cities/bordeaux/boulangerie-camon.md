@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Camon"
 url: /bordeaux/boulangerie-camon/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /nousty/intermarche/
-shop: gaz
+shop: Gasflaschen
 ---

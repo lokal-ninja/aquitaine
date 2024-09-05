@@ -1,5 +1,5 @@
 ---
 title: "Tabac"
 url: /bordeaux/tabac/
-shop: tabac
+shop: Tabak
 ---

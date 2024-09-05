@@ -1,5 +1,5 @@
 ---
 title: "Southwest"
 url: /saint-jean-de-luz/southwest-rue-du-midi/
-shop: vêtements
+shop: Kleidung
 ---

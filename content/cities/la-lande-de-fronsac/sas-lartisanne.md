@@ -1,5 +1,5 @@
 ---
 title: "Sas L'Artisanne"
 url: /la-lande-de-fronsac/sas-lartisanne/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Optical Center"
 url: /saint-jean-dillac/optical-center/
-shop: opticien
+shop: Optiker
 ---

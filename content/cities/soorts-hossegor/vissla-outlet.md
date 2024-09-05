@@ -1,5 +1,5 @@
 ---
 title: "Vissla Outlet"
 url: /soorts-hossegor/vissla-outlet/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maison Dandieu - Boutique"
 url: /hagetmau/maison-dandieu-boutique/
-shop: ferme
+shop: Hofladen
 ---

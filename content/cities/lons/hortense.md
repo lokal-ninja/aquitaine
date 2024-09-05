@@ -1,5 +1,5 @@
 ---
 title: "Hortense"
 url: /lons/hortense/
-shop: boulangerie
+shop: Bäckerei
 ---

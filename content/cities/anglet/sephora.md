@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /anglet/sephora/
-shop: beauté
+shop: Kosmetik
 ---

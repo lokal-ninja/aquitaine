@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /pessac/lidl/
-shop: supermarché
+shop: Supermarkt
 ---

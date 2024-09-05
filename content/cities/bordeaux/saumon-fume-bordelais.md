@@ -1,5 +1,5 @@
 ---
 title: "Saumon fumé bordelais"
 url: /bordeaux/saumon-fume-bordelais/
-shop: charcuterie
+shop: Feinkost
 ---

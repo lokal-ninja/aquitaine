@@ -1,5 +1,5 @@
 ---
 title: "Aspergeraie - Napias"
 url: /saint-yaguen/aspergeraie-napias/
-shop: ferme
+shop: Hofladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Calipage"
 url: /sarlat/calipage/
-shop: copyshop
+shop: Kopieren
 ---

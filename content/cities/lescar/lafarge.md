@@ -1,5 +1,5 @@
 ---
 title: "Lafarge"
 url: /lescar/lafarge/
-shop: cuir
+shop: Leder
 ---

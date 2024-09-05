@@ -1,5 +1,5 @@
 ---
 title: "Optique Eugenie"
 url: /arzacq-arraziguet/optique-eugenie/
-shop: opticien
+shop: Optiker
 ---

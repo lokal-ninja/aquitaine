@@ -1,5 +1,5 @@
 ---
 title: "L'Occitane"
 url: /bordeaux/loccitane/
-shop: beauté
+shop: Kosmetik
 ---

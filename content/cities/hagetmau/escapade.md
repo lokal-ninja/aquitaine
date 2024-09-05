@@ -1,5 +1,5 @@
 ---
 title: "Escapade"
 url: /hagetmau/escapade/
-shop: vêtements
+shop: Kleidung
 ---

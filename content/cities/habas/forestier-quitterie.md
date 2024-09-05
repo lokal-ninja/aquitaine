@@ -1,5 +1,5 @@
 ---
 title: "Forestier Quitterie"
 url: /habas/forestier-quitterie/
-shop: ferme
+shop: Hofladen
 ---

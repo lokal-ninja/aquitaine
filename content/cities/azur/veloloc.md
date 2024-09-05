@@ -1,5 +1,5 @@
 ---
 title: "Véloloc"
 url: /azur/veloloc/
-shop: vélo
+shop: Fahrrad
 ---

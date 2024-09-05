@@ -1,5 +1,5 @@
 ---
 title: "Swatch"
 url: /bordeaux/swatch/
-shop: montres
+shop: Uhren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Les bouchers complices"
 url: /tarnos/les-bouchers-complices/
-shop: boucherie
+shop: Metzgerei
 ---

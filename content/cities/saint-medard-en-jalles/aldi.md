@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /saint-medard-en-jalles/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

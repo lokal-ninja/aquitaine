@@ -1,5 +1,5 @@
 ---
 title: "Element"
 url: /soorts-hossegor/element/
-shop: vêtements
+shop: Kleidung
 ---

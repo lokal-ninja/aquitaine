@@ -1,5 +1,5 @@
 ---
 title: "Vanda"
 url: /anglet/vanda/
-shop: fleuriste
+shop: Blumen
 ---

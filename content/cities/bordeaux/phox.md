@@ -1,5 +1,5 @@
 ---
 title: "Phox"
 url: /bordeaux/phox/
-shop: caméra
+shop: Kamera
 ---

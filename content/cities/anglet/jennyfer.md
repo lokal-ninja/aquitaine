@@ -1,5 +1,5 @@
 ---
 title: "Jennyfer"
 url: /anglet/jennyfer/
-shop: vêtements
+shop: Kleidung
 ---

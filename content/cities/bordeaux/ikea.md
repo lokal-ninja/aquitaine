@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /bordeaux/ikea/
-shop: meubles
+shop: Möbel
 ---

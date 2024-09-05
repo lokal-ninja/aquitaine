@@ -1,5 +1,5 @@
 ---
 title: "Laverie des arènes"
 url: /dax/laverie-des-arenes/
-shop: blanchisserie
+shop: Wäscherei
 ---

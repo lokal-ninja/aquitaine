@@ -1,5 +1,5 @@
 ---
 title: "HIGH"
 url: /bordeaux/high/
-shop: vêtements
+shop: Kleidung
 ---

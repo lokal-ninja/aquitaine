@@ -1,5 +1,5 @@
 ---
 title: "Cybertek"
 url: /anglet/cybertek/
-shop: ordinateur
+shop: Computer
 ---

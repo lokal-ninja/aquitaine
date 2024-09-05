@@ -1,5 +1,5 @@
 ---
 title: "Netto"
 url: /andernos-les-bains/netto-boulevard-de-la-republique/
-shop: supermarché
+shop: Supermarkt
 ---

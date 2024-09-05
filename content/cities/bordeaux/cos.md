@@ -1,5 +1,5 @@
 ---
 title: "COS"
 url: /bordeaux/cos/
-shop: vêtements
+shop: Kleidung
 ---

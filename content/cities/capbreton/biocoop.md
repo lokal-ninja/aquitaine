@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /capbreton/biocoop/
-shop: supermarché
+shop: Supermarkt
 ---

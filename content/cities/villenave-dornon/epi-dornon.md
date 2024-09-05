@@ -1,5 +1,5 @@
 ---
 title: "Epi d'Ornon"
 url: /villenave-dornon/epi-dornon/
-shop: boulangerie
+shop: Bäckerei
 ---

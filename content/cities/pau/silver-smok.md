@@ -1,5 +1,5 @@
 ---
 title: "Silver Smok"
 url: /pau/silver-smok/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

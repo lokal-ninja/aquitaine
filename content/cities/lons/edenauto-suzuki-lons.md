@@ -1,5 +1,5 @@
 ---
 title: "Edenauto Suzuki Lons"
 url: /lons/edenauto-suzuki-lons/
-shop: voiture
+shop: Autohaus
 ---

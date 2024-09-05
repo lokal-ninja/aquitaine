@@ -1,5 +1,5 @@
 ---
 title: "Laingo"
 url: /saint-jean-de-luz/laingo/
-shop: vêtements
+shop: Kleidung
 ---

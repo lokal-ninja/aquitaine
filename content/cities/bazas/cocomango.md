@@ -1,5 +1,5 @@
 ---
 title: "CocoMango"
 url: /bazas/cocomango/
-shop: vêtements
+shop: Kleidung
 ---

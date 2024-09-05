@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /bordeaux/pandora/
-shop: bijoux
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Secrets de Pains"
 url: /bordeaux/secrets-de-pains/
-shop: boulangerie
+shop: Bäckerei
 ---

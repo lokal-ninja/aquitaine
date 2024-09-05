@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /pessac/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

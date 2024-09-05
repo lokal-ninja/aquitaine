@@ -1,5 +1,5 @@
 ---
 title: "Les Volailles du Tursan"
 url: /arboucave/les-volailles-du-tursan/
-shop: ferme
+shop: Hofladen
 ---

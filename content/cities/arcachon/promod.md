@@ -1,5 +1,5 @@
 ---
 title: "Promod"
 url: /arcachon/promod/
-shop: vêtements
+shop: Kleidung
 ---

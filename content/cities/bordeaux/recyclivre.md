@@ -1,5 +1,5 @@
 ---
 title: "Recyclivre"
 url: /bordeaux/recyclivre/
-shop: livres
+shop: Bücher
 ---

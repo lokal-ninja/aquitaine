@@ -1,5 +1,5 @@
 ---
 title: "Amos"
 url: /bordeaux/amos/
-shop: vêtements
+shop: Kleidung
 ---

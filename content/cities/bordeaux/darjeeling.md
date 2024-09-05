@@ -1,5 +1,5 @@
 ---
 title: "Darjeeling"
 url: /bordeaux/darjeeling/
-shop: vêtements
+shop: Kleidung
 ---

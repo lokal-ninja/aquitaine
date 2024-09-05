@@ -1,5 +1,5 @@
 ---
 title: "IDKIDS"
 url: /saint-pierre-dirube/idkids/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tilt Vintage"
 url: /bordeaux/tilt-vintage/
-shop: vêtements
+shop: Kleidung
 ---

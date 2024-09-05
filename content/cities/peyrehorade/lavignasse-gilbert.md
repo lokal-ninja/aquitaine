@@ -1,5 +1,5 @@
 ---
 title: "Lavignasse Gilbert"
 url: /peyrehorade/lavignasse-gilbert/
-shop: boulangerie
+shop: Bäckerei
 ---

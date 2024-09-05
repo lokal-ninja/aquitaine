@@ -1,5 +1,5 @@
 ---
 title: "Toto Tissus"
 url: /bordeaux/toto-tissus-cours-victor-hugo/
-shop: tissu
+shop: Textil
 ---

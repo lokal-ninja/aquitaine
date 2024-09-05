@@ -1,5 +1,5 @@
 ---
 title: "Victoire"
 url: /biarritz/victoire/
-shop: vêtements
+shop: Kleidung
 ---

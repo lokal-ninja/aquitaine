@@ -1,5 +1,5 @@
 ---
 title: "Kechiloa"
 url: /urrugne/kechiloa/
-shop: tabac
+shop: Tabak
 ---

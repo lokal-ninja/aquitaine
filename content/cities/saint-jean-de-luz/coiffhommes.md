@@ -1,5 +1,5 @@
 ---
 title: "Coiff'Hommes"
 url: /saint-jean-de-luz/coiffhommes/
-shop: coiffeur
+shop: Friseur
 ---

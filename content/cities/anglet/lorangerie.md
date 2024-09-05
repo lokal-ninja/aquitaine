@@ -1,5 +1,5 @@
 ---
 title: "L’Orangerie"
 url: /anglet/lorangerie/
-shop: légumes
+shop: Gemüse & Obst
 ---

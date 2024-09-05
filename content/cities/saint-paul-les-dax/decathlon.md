@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /saint-paul-les-dax/decathlon/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mango"
 url: /anglet/mango/
-shop: vêtements
+shop: Kleidung
 ---

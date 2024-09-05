@@ -1,5 +1,5 @@
 ---
 title: "Aux Reflets des Vins"
 url: /eysines/aux-reflets-des-vins/
-shop: vin
+shop: Wein
 ---

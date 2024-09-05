@@ -1,5 +1,5 @@
 ---
 title: "Poltronesofà"
 url: /merignac/poltronesofa/
-shop: meubles
+shop: Möbel
 ---

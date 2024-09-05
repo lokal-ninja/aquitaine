@@ -1,5 +1,5 @@
 ---
 title: "Ô Panier de Chalosse"
 url: /hagetmau/o-panier-de-chalosse/
-shop: légumes
+shop: Gemüse & Obst
 ---

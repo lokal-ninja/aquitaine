@@ -1,5 +1,5 @@
 ---
 title: "Des ptits hauts"
 url: /soorts-hossegor/des-ptits-hauts/
-shop: vêtements
+shop: Kleidung
 ---

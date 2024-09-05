@@ -1,5 +1,5 @@
 ---
 title: "Demarest"
 url: /soorts-hossegor/demarest/
-shop: tabac
+shop: Tabak
 ---

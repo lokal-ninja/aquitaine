@@ -1,5 +1,5 @@
 ---
 title: "AltiDeco"
 url: /bordeaux/altideco/
-shop: cuisine
+shop: Küchen
 ---

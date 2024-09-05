@@ -1,5 +1,5 @@
 ---
 title: "Ramuntcho Antiquités"
 url: /saint-jean-de-luz/ramuntcho-antiquites/
-shop: antiquités
+shop: Antiquitäten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /pau/vival/
-shop: commodité
+shop: Lebensmittel
 ---

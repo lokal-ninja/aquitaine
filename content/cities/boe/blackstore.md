@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /boe/blackstore/
-shop: vêtements
+shop: Kleidung
 ---

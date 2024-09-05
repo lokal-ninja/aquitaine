@@ -1,5 +1,5 @@
 ---
 title: "Ogi Bihia"
 url: /hasparren/ogi-bihia/
-shop: boulangerie
+shop: Bäckerei
 ---

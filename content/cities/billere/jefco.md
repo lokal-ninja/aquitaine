@@ -1,5 +1,5 @@
 ---
 title: "Jefco"
 url: /billere/jefco/
-shop: peinture
+shop: Farben
 ---

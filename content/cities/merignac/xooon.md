@@ -1,5 +1,5 @@
 ---
 title: "Xooon"
 url: /merignac/xooon/
-shop: meubles
+shop: Möbel
 ---

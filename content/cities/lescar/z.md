@@ -1,5 +1,5 @@
 ---
 title: "Z"
 url: /lescar/z/
-shop: vêtements
+shop: Kleidung
 ---

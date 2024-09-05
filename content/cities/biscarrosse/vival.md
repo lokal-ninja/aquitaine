@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /biscarrosse/vival/
-shop: commodité
+shop: Lebensmittel
 ---

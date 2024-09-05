@@ -1,5 +1,5 @@
 ---
 title: "Kembeya"
 url: /lormont/kembeya/
-shop: commodité
+shop: Lebensmittel
 ---

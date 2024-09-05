@@ -1,5 +1,5 @@
 ---
 title: "Ophite"
 url: /biarritz/ophite/
-shop: vêtements
+shop: Kleidung
 ---

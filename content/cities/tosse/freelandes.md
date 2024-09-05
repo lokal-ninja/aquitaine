@@ -1,5 +1,5 @@
 ---
 title: "Freelandes"
 url: /tosse/freelandes/
-shop: vélo
+shop: Fahrrad
 ---

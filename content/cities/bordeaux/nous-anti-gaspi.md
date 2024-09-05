@@ -1,5 +1,5 @@
 ---
 title: "NOUS anti-gaspi"
 url: /bordeaux/nous-anti-gaspi/
-shop: commodité
+shop: Lebensmittel
 ---

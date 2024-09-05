@@ -1,5 +1,5 @@
 ---
 title: "Casino express"
 url: /hastingues/casino-express/
-shop: supermarché
+shop: Supermarkt
 ---

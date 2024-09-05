@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /lescar/krys/
-shop: opticien
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chez Maxime"
 url: /bordeaux/chez-maxime/
-shop: légumes
+shop: Gemüse & Obst
 ---

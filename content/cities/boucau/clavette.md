@@ -1,5 +1,5 @@
 ---
 title: "Clavette"
 url: /boucau/clavette/
-shop: vélo
+shop: Fahrrad
 ---

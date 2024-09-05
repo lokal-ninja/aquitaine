@@ -1,5 +1,5 @@
 ---
 title: "La compagnie fermière"
 url: /merignac/la-compagnie-fermiere/
-shop: commodité
+shop: Lebensmittel
 ---

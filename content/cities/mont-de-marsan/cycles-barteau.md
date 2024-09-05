@@ -1,5 +1,5 @@
 ---
 title: "Cycles Barteau"
 url: /mont-de-marsan/cycles-barteau/
-shop: vélo
+shop: Fahrrad
 ---

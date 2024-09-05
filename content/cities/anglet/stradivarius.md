@@ -1,5 +1,5 @@
 ---
 title: "Stradivarius"
 url: /anglet/stradivarius/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /bordeaux/biocoop-avenue-du-general-leclerc/
-shop: supermarché
+shop: Supermarkt
 ---

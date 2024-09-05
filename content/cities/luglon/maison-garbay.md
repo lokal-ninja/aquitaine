@@ -1,5 +1,5 @@
 ---
 title: "Maison Garbay"
 url: /luglon/maison-garbay/
-shop: commodité
+shop: Lebensmittel
 ---

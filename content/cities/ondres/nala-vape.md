@@ -1,5 +1,5 @@
 ---
 title: "NALA VAPE"
 url: /ondres/nala-vape/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

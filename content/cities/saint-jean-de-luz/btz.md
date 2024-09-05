@@ -1,5 +1,5 @@
 ---
 title: "BTZ"
 url: /saint-jean-de-luz/btz/
-shop: vêtements
+shop: Kleidung
 ---

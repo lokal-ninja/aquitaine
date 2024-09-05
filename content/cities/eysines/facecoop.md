@@ -1,5 +1,5 @@
 ---
 title: "Facecoop"
 url: /eysines/facecoop/
-shop: coiffeur
+shop: Friseur
 ---

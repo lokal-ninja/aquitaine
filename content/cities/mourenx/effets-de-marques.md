@@ -1,5 +1,5 @@
 ---
 title: "Effets de marques"
 url: /mourenx/effets-de-marques/
-shop: vêtements
+shop: Kleidung
 ---

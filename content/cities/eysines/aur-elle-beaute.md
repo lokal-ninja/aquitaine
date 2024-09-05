@@ -1,5 +1,5 @@
 ---
 title: "Aur' Elle Beauté"
 url: /eysines/aur-elle-beaute/
-shop: beauté
+shop: Kosmetik
 ---

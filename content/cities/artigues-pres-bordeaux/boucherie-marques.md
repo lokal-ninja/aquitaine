@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Marques"
 url: /artigues-pres-bordeaux/boucherie-marques/
-shop: boucherie
+shop: Metzgerei
 ---

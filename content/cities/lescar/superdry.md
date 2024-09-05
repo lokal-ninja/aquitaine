@@ -1,5 +1,5 @@
 ---
 title: "Superdry"
 url: /lescar/superdry/
-shop: vêtements
+shop: Kleidung
 ---

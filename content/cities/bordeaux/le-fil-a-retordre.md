@@ -1,5 +1,5 @@
 ---
 title: "Le Fil à Retordre"
 url: /bordeaux/le-fil-a-retordre/
-shop: vêtements
+shop: Kleidung
 ---

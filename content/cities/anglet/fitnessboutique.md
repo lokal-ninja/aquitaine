@@ -1,5 +1,5 @@
 ---
 title: "FitnessBoutique"
 url: /anglet/fitnessboutique/
-shop: sports
+shop: Sport
 ---

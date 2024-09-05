@@ -1,5 +1,5 @@
 ---
 title: "Fanny Esthétique"
 url: /urrugne/fanny-esthetique/
-shop: beauté
+shop: Kosmetik
 ---

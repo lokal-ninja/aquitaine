@@ -1,5 +1,5 @@
 ---
 title: "PicWicToys"
 url: /bordeaux/picwictoys/
-shop: jouets
+shop: Spielzeug
 ---

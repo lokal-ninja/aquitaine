@@ -1,5 +1,5 @@
 ---
 title: "Image'in"
 url: /bruges/imagein/
-shop: coiffeur
+shop: Friseur
 ---
