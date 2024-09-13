@@ -1,5 +1,5 @@
 ---
 title: "Opticien"
 url: /hagetmau/opticien/
-shop: Optiker
+shop: opticien
 ---

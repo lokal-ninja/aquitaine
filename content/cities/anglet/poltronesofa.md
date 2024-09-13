@@ -1,5 +1,5 @@
 ---
 title: "Poltronesofà"
 url: /anglet/poltronesofa/
-shop: Möbel
+shop: meubles
 ---

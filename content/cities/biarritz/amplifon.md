@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /biarritz/amplifon/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

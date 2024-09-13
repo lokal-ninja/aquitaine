@@ -1,5 +1,5 @@
 ---
 title: "Rouge tendre - Boucherie-Charcuterie"
 url: /eysines/rouge-tendre-boucherie-charcuterie/
-shop: Metzgerei
+shop: boucherie
 ---

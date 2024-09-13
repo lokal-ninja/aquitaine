@@ -1,5 +1,5 @@
 ---
 title: "Free"
 url: /anglet/free/
-shop: Handy
+shop: téléphone portable
 ---

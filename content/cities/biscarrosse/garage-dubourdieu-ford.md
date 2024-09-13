@@ -1,5 +1,5 @@
 ---
 title: "Garage Dubourdieu Ford"
 url: /biscarrosse/garage-dubourdieu-ford/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

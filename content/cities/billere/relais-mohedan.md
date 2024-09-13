@@ -1,5 +1,5 @@
 ---
 title: "Relais Mohédan"
 url: /billere/relais-mohedan/
-shop: Lebensmittel
+shop: commodité
 ---

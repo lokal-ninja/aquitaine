@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /cars/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Au fin Palais"
 url: /saint-palais/au-fin-palais/
-shop: Kaffee
+shop: café
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meublena"
 url: /bergerac/meublena/
-shop: Antiquitäten
+shop: antiquités
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Presbytère de Gradignan"
 url: /gradignan/presbytere-de-gradignan/
-shop: Religion
+shop: religion
 ---

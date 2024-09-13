@@ -1,5 +1,5 @@
 ---
 title: "Cabane 191"
 url: /bordeaux/cabane-191/
-shop: Fisch
+shop: fruits de mer
 ---

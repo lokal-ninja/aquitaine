@@ -1,5 +1,5 @@
 ---
 title: "Ingrid Sarrailh"
 url: /bizanos/ingrid-sarrailh/
-shop: Friseur
+shop: coiffeur
 ---

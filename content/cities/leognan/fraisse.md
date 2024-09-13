@@ -1,5 +1,5 @@
 ---
 title: "Fraisse"
 url: /leognan/fraisse/
-shop: Metzgerei
+shop: boucherie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Celio"
 url: /lescar/celio/
-shop: Kleidung
+shop: vêtements
 ---

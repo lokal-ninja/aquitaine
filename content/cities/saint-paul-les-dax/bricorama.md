@@ -1,5 +1,5 @@
 ---
 title: "Bricorama"
 url: /saint-paul-les-dax/bricorama/
-shop: Baumarkt
+shop: à faire soi-même
 ---

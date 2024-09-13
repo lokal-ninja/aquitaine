@@ -1,5 +1,5 @@
 ---
 title: "Babelou"
 url: /ondres/babelou/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maison Aho"
 url: /bidart/maison-aho/
-shop: Metzgerei
+shop: boucherie
 ---

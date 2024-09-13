@@ -1,5 +1,5 @@
 ---
 title: "Ferme Lestrade"
 url: /orist/ferme-lestrade/
-shop: Hofladen
+shop: ferme
 ---

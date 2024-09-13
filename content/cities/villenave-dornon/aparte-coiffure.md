@@ -1,5 +1,5 @@
 ---
 title: "Aparte Coiffure"
 url: /villenave-dornon/aparte-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

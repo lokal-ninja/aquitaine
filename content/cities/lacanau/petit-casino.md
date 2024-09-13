@@ -1,5 +1,5 @@
 ---
 title: "Petit Casino"
 url: /lacanau/petit-casino/
-shop: Lebensmittel
+shop: commodité
 ---

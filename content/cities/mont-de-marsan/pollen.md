@@ -1,5 +1,5 @@
 ---
 title: "Pollen"
 url: /mont-de-marsan/pollen/
-shop: Kleidung
+shop: vêtements
 ---

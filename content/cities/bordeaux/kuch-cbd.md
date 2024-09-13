@@ -1,5 +1,5 @@
 ---
 title: "Kuch CBD"
 url: /bordeaux/kuch-cbd/
-shop: Nahrungsergänzung
+shop: les compléments alimentaires
 ---

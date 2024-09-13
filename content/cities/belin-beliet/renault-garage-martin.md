@@ -1,5 +1,5 @@
 ---
 title: "Renault - Garage Martin"
 url: /belin-beliet/renault-garage-martin/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

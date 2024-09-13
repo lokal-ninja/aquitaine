@@ -1,5 +1,5 @@
 ---
 title: "Les Serres d'Angresse"
 url: /angresse/les-serres-dangresse/
-shop: Garten-Center
+shop: centre de jardinage
 ---

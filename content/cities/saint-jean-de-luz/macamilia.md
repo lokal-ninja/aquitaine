@@ -1,5 +1,5 @@
 ---
 title: "Macamilia"
 url: /saint-jean-de-luz/macamilia/
-shop: Konditorei
+shop: pâtisserie
 ---

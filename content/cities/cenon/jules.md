@@ -1,5 +1,5 @@
 ---
 title: "Jules"
 url: /cenon/jules/
-shop: Bäckerei
+shop: boulangerie
 ---

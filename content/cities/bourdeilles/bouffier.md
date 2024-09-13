@@ -1,5 +1,5 @@
 ---
 title: "Bouffier"
 url: /bourdeilles/bouffier/
-shop: Tabak
+shop: tabac
 ---

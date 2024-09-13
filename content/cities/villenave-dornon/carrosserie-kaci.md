@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Kaci"
 url: /villenave-dornon/carrosserie-kaci/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

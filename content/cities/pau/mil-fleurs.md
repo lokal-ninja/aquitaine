@@ -1,5 +1,5 @@
 ---
 title: "Mil' Fleurs"
 url: /pau/mil-fleurs/
-shop: Blumen
+shop: fleuriste
 ---

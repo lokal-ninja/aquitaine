@@ -1,5 +1,5 @@
 ---
 title: "CL AUTO"
 url: /eysines/cl-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

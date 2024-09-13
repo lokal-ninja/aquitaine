@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /gornac/vival/
-shop: Lebensmittel
+shop: commodité
 ---

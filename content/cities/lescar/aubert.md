@@ -1,5 +1,5 @@
 ---
 title: "Aubert"
 url: /lescar/aubert/
-shop: Babysachen
+shop: produits pour bébés
 ---

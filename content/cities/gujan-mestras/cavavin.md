@@ -1,5 +1,5 @@
 ---
 title: "CAVAVIN"
 url: /gujan-mestras/cavavin/
-shop: Wein
+shop: vin
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Infinitif"
 url: /le-haillan/infinitif/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SDBATMARINE"
 url: /eysines/sdbatmarine/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

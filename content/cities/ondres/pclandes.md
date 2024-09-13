@@ -1,5 +1,5 @@
 ---
 title: "PcLandes"
 url: /ondres/pclandes/
-shop: Computer
+shop: ordinateur
 ---

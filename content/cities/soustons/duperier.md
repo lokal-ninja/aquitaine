@@ -1,5 +1,5 @@
 ---
 title: "Dupérier"
 url: /soustons/duperier/
-shop: Hofladen
+shop: ferme
 ---

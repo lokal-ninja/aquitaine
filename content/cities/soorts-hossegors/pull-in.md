@@ -1,5 +1,5 @@
 ---
 title: "PULL-IN"
 url: /soorts-hossegors/pull-in/
-shop: Kleidung
+shop: vêtements
 ---

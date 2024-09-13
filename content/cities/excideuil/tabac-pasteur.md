@@ -1,5 +1,5 @@
 ---
 title: "Tabac Pasteur"
 url: /excideuil/tabac-pasteur/
-shop: Tabak
+shop: tabac
 ---

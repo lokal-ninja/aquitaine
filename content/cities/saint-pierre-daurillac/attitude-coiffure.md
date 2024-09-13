@@ -1,5 +1,5 @@
 ---
 title: "Attitude coiffure"
 url: /saint-pierre-daurillac/attitude-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "L'Épicentre Paysan"
 url: /morlanne/lepicentre-paysan/
-shop: Supermarkt
+shop: supermarché
 ---

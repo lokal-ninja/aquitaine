@@ -1,5 +1,5 @@
 ---
 title: "KLO"
 url: /bergerac/klo/
-shop: Kramladen
+shop: magasin de variétés
 ---

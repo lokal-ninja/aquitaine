@@ -1,5 +1,5 @@
 ---
 title: "Datchary"
 url: /peyrehorade/datchary/
-shop: Metzgerei
+shop: boucherie
 ---

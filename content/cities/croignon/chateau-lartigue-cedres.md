@@ -1,5 +1,5 @@
 ---
 title: "Château Lartigue-Cèdres"
 url: /croignon/chateau-lartigue-cedres/
-shop: Spirituosen
+shop: alcool
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Guillemin"
 url: /biaudos/carrosserie-guillemin/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

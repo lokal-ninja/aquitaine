@@ -1,5 +1,5 @@
 ---
 title: "Océlia Poissonnerie"
 url: /tosse/ocelia-poissonnerie/
-shop: Fisch
+shop: fruits de mer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /merignac/decathlon/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lisa by melissa"
 url: /soorts-hossegor/lisa-by-melissa/
-shop: Kleidung
+shop: vêtements
 ---

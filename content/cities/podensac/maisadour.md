@@ -1,5 +1,5 @@
 ---
 title: "Maïsadour"
 url: /podensac/maisadour/
-shop: Garten-Center
+shop: centre de jardinage
 ---

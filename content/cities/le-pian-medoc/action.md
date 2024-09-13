@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /le-pian-medoc/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

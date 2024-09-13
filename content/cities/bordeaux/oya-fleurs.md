@@ -1,5 +1,5 @@
 ---
 title: "Oya Fleurs"
 url: /bordeaux/oya-fleurs/
-shop: Blumen
+shop: fleuriste
 ---

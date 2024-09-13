@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Besson"
 url: /listrac-medoc/boulangerie-besson/
-shop: Bäckerei
+shop: boulangerie
 ---

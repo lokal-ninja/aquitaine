@@ -1,5 +1,5 @@
 ---
 title: "Anbella"
 url: /billere/anbella/
-shop: Kosmetik
+shop: beauté
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie des Lacs"
 url: /villenave-dornon/carrosserie-des-lacs/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

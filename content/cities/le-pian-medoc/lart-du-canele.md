@@ -1,5 +1,5 @@
 ---
 title: "L'art Du Canelé"
 url: /le-pian-medoc/lart-du-canele/
-shop: Konditorei
+shop: pâtisserie
 ---

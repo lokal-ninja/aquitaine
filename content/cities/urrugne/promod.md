@@ -1,5 +1,5 @@
 ---
 title: "Promod"
 url: /urrugne/promod/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bouchara"
 url: /bordeaux/bouchara/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

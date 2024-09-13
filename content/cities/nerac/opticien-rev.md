@@ -1,5 +1,5 @@
 ---
 title: "Opticien REV"
 url: /nerac/opticien-rev/
-shop: Optiker
+shop: opticien
 ---

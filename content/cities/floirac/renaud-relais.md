@@ -1,5 +1,5 @@
 ---
 title: "Renaud relais"
 url: /floirac/renaud-relais/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

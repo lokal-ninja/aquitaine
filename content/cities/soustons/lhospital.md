@@ -1,5 +1,5 @@
 ---
 title: "Lhospital"
 url: /soustons/lhospital/
-shop: Fisch
+shop: fruits de mer
 ---

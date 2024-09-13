@@ -1,5 +1,5 @@
 ---
 title: "Eve Boutique"
 url: /mont-de-marsan/eve-boutique/
-shop: Kleidung
+shop: vêtements
 ---

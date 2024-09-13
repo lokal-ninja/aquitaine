@@ -1,5 +1,5 @@
 ---
 title: "La Belle Pinte"
 url: /agen/la-belle-pinte/
-shop: Spirituosen
+shop: alcool
 ---

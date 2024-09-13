@@ -1,5 +1,5 @@
 ---
 title: "Ronde des Pains"
 url: /saint-julien-en-born/ronde-des-pains/
-shop: Bäckerei
+shop: boulangerie
 ---

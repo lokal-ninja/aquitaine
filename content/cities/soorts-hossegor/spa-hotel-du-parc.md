@@ -1,5 +1,5 @@
 ---
 title: "Spa Hôtel du Parc"
 url: /soorts-hossegor/spa-hotel-du-parc/
-shop: Massage
+shop: massage
 ---

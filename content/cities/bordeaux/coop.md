@@ -1,5 +1,5 @@
 ---
 title: "COOP"
 url: /bordeaux/coop/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aurélie institut de beauté"
 url: /arzacq-arraziguet/aurelie-institut-de-beaute/
-shop: Kosmetik
+shop: beauté
 ---

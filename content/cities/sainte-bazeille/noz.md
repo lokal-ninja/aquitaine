@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /sainte-bazeille/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

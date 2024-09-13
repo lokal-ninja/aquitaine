@@ -1,5 +1,5 @@
 ---
 title: "Domaine Mourguy"
 url: /ispoure/domaine-mourguy/
-shop: Spirituosen
+shop: alcool
 ---

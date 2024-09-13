@@ -1,5 +1,5 @@
 ---
 title: "Les Ecluses"
 url: /bordeaux/les-ecluses/
-shop: Fisch
+shop: fruits de mer
 ---

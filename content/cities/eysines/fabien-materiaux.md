@@ -1,5 +1,5 @@
 ---
 title: "Fabien Matériaux"
 url: /eysines/fabien-materiaux/
-shop: Baumarkt
+shop: à faire soi-même
 ---

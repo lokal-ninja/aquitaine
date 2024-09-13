@@ -1,5 +1,5 @@
 ---
 title: "Au Cadeau Girondin"
 url: /le-bouscat/au-cadeau-girondin/
-shop: Zeitungen
+shop: marchand de journaux
 ---

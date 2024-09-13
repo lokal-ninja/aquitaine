@@ -1,5 +1,5 @@
 ---
 title: "Pylones"
 url: /anglet/pylones/
-shop: Andenken
+shop: cadeau
 ---

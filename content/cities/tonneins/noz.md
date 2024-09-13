@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /tonneins/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

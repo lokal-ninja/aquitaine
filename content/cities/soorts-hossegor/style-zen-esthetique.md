@@ -1,5 +1,5 @@
 ---
 title: "Style zen esthétique"
 url: /soorts-hossegor/style-zen-esthetique/
-shop: Kosmetik
+shop: beauté
 ---

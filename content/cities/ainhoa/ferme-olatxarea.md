@@ -1,5 +1,5 @@
 ---
 title: "Ferme Olatxarea"
 url: /ainhoa/ferme-olatxarea/
-shop: Hofladen
+shop: ferme
 ---

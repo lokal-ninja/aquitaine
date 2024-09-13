@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /creysse/intermarche/
-shop: Supermarkt
+shop: supermarché
 ---

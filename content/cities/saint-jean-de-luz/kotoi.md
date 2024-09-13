@@ -1,5 +1,5 @@
 ---
 title: "Kotoï"
 url: /saint-jean-de-luz/kotoi/
-shop: Kleidung
+shop: vêtements
 ---

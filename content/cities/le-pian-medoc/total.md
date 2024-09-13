@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /le-pian-medoc/total/
-shop: Lebensmittel
+shop: commodité
 ---

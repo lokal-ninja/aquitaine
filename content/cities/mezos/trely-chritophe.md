@@ -1,5 +1,5 @@
 ---
 title: "Trely Chritophe"
 url: /mezos/trely-chritophe/
-shop: Spirituosen
+shop: alcool
 ---

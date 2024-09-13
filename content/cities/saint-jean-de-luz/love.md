@@ -1,5 +1,5 @@
 ---
 title: "Love"
 url: /saint-jean-de-luz/love/
-shop: Allgemein
+shop: shop
 ---

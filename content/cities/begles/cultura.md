@@ -1,5 +1,5 @@
 ---
 title: "Cultura"
 url: /begles/cultura/
-shop: Bücher
+shop: livres
 ---

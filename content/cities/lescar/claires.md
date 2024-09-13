@@ -1,5 +1,5 @@
 ---
 title: "Claire's"
 url: /lescar/claires/
-shop: Modehaus
+shop: boutique
 ---

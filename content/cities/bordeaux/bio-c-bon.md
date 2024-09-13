@@ -1,5 +1,5 @@
 ---
 title: "Bio C' Bon"
 url: /bordeaux/bio-c-bon/
-shop: Supermarkt
+shop: supermarché
 ---

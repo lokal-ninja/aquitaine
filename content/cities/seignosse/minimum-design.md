@@ -1,5 +1,5 @@
 ---
 title: "Minimum Design"
 url: /seignosse/minimum-design/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

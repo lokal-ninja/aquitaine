@@ -1,5 +1,5 @@
 ---
 title: "Boucherie des Docks"
 url: /anglet/boucherie-des-docks/
-shop: Metzgerei
+shop: boucherie
 ---

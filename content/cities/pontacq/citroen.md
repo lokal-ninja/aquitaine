@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /pontacq/citroen/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

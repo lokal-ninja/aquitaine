@@ -1,5 +1,5 @@
 ---
 title: "Parfois"
 url: /lescar/parfois/
-shop: Modehaus
+shop: boutique
 ---

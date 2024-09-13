@@ -1,5 +1,5 @@
 ---
 title: "Laforêt"
 url: /lormont/laforet/
-shop: Immobilien
+shop: agent immobilier
 ---

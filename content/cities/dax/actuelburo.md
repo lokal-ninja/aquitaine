@@ -1,5 +1,5 @@
 ---
 title: "Actuelburo"
 url: /dax/actuelburo/
-shop: Computer
+shop: ordinateur
 ---

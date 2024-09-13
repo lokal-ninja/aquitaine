@@ -1,5 +1,5 @@
 ---
 title: "Sunrise"
 url: /soorts-hossegor/sunrise/
-shop: Fahrrad
+shop: vélo
 ---

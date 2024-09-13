@@ -1,5 +1,5 @@
 ---
 title: "Optique Tarnos"
 url: /tarnos/optique-tarnos/
-shop: Optiker
+shop: opticien
 ---

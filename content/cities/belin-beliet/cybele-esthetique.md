@@ -1,5 +1,5 @@
 ---
 title: "Cybele Esthetique"
 url: /belin-beliet/cybele-esthetique/
-shop: Kosmetik
+shop: beauté
 ---

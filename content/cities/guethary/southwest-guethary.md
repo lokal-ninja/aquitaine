@@ -1,5 +1,5 @@
 ---
 title: "Southwest Guéthary"
 url: /guethary/southwest-guethary/
-shop: Modehaus
+shop: boutique
 ---

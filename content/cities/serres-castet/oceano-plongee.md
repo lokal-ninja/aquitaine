@@ -1,5 +1,5 @@
 ---
 title: "Océano Plongée"
 url: /serres-castet/oceano-plongee/
-shop: Tauchen
+shop: plongée
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferme Uronakoborda"
 url: /ainhoa/ferme-uronakoborda/
-shop: Hofladen
+shop: ferme
 ---

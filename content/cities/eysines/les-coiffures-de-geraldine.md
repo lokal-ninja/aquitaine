@@ -1,5 +1,5 @@
 ---
 title: "Les Coiffures de Géraldine"
 url: /eysines/les-coiffures-de-geraldine/
-shop: Friseur
+shop: coiffeur
 ---

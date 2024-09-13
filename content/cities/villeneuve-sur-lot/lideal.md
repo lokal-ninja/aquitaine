@@ -1,5 +1,5 @@
 ---
 title: "L'Idéal"
 url: /villeneuve-sur-lot/lideal/
-shop: Feinkost
+shop: charcuterie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferme Pourrion"
 url: /larriviere-saint-savin/ferme-pourrion/
-shop: Hofladen
+shop: ferme
 ---

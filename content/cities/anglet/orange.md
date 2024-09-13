@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /anglet/orange/
-shop: Handy
+shop: téléphone portable
 ---

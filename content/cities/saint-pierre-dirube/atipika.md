@@ -1,5 +1,5 @@
 ---
 title: "Atipika"
 url: /saint-pierre-dirube/atipika/
-shop: Modehaus
+shop: boutique
 ---

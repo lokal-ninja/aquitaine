@@ -1,5 +1,5 @@
 ---
 title: "ASICS"
 url: /anglet/asics/
-shop: Schuhe
+shop: chaussures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ampiflon"
 url: /capbreton/ampiflon/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

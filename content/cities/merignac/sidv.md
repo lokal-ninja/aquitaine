@@ -1,5 +1,5 @@
 ---
 title: "SIDV"
 url: /merignac/sidv/
-shop: Baumarkt
+shop: à faire soi-même
 ---

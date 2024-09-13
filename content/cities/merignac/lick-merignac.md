@@ -1,5 +1,5 @@
 ---
 title: "Lick Merignac"
 url: /merignac/lick-merignac/
-shop: Handy
+shop: téléphone portable
 ---

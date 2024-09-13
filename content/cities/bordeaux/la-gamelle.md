@@ -1,5 +1,5 @@
 ---
 title: "La Gamelle"
 url: /bordeaux/la-gamelle/
-shop: Tiere
+shop: animal de compagnie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poupiz Performance"
 url: /eysines/poupiz-performance/
-shop: Motorrad
+shop: moto
 ---

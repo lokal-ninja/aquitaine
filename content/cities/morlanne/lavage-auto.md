@@ -1,5 +1,5 @@
 ---
 title: "Lavage auto"
 url: /morlanne/lavage-auto/
-shop: Autoservice
+shop: service automobile
 ---

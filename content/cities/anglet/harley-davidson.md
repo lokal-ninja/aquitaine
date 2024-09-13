@@ -1,5 +1,5 @@
 ---
 title: "Harley Davidson"
 url: /anglet/harley-davidson/
-shop: Motorrad
+shop: moto
 ---

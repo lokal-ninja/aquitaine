@@ -1,5 +1,5 @@
 ---
 title: "Xabina Larralde Lutherie"
 url: /la-bastide-clairence/xabina-larralde-lutherie/
-shop: Instrumente
+shop: instrument de musique
 ---

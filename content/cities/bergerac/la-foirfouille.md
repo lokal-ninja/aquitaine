@@ -1,5 +1,5 @@
 ---
 title: "La Foir'Fouille"
 url: /bergerac/la-foirfouille/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

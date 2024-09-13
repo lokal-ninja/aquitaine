@@ -1,5 +1,5 @@
 ---
 title: "Station Service Carrefour"
 url: /tarnos/station-service-carrefour/
-shop: Gasflaschen
+shop: gaz
 ---

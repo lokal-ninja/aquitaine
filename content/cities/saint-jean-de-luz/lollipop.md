@@ -1,5 +1,5 @@
 ---
 title: "Lollipop"
 url: /saint-jean-de-luz/lollipop/
-shop: Süßwaren
+shop: confiserie
 ---

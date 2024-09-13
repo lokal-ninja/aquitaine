@@ -1,5 +1,5 @@
 ---
 title: "ETS Argivier"
 url: /fronsac/ets-argivier/
-shop: Baustoffe
+shop: commerce
 ---

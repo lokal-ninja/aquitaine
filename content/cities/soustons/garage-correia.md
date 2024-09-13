@@ -1,5 +1,5 @@
 ---
 title: "Garage Correia"
 url: /soustons/garage-correia/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

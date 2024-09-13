@@ -1,5 +1,5 @@
 ---
 title: "Avia"
 url: /bergerac/avia/
-shop: Lebensmittel
+shop: commodité
 ---

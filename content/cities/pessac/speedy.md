@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /pessac/speedy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boulagerie Zouzette"
 url: /anglet/boulagerie-zouzette/
-shop: Bäckerei
+shop: boulangerie
 ---

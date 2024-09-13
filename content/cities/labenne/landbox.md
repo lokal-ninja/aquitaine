@@ -1,5 +1,5 @@
 ---
 title: "Landbox"
 url: /labenne/landbox/
-shop: Mieten
+shop: location de stockage
 ---

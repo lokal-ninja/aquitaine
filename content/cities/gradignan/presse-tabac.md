@@ -1,5 +1,5 @@
 ---
 title: "Presse Tabac"
 url: /gradignan/presse-tabac/
-shop: Zeitungen
+shop: marchand de journaux
 ---

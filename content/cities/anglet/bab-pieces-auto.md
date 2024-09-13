@@ -1,5 +1,5 @@
 ---
 title: "BAB Pièces Auto"
 url: /anglet/bab-pieces-auto/
-shop: Autoteile
+shop: pièces de voitures
 ---

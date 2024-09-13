@@ -1,5 +1,5 @@
 ---
 title: "Cidre Eztigar"
 url: /saint-just-ibarre/cidre-eztigar/
-shop: Hofladen
+shop: ferme
 ---

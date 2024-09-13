@@ -1,5 +1,5 @@
 ---
 title: "Mendiburu Opticien Eye-Like"
 url: /biarritz/mendiburu-opticien-eye-like/
-shop: Optiker
+shop: opticien
 ---

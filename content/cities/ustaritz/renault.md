@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /ustaritz/renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beillevaire"
 url: /bordeaux/beillevaire/
-shop: Milch
+shop: produits laitiers
 ---

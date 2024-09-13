@@ -1,5 +1,5 @@
 ---
 title: "Vert Louison"
 url: /capbreton/vert-louison/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

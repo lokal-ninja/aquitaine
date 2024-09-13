@@ -1,5 +1,5 @@
 ---
 title: "La Boutique"
 url: /mont-de-marsan/la-boutique/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

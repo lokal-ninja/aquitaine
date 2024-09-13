@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Poey"
 url: /arette/boulangerie-poey/
-shop: Bäckerei
+shop: boulangerie
 ---

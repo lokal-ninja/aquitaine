@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Abberis"
 url: /villenave-dornon/carrosserie-abberis/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

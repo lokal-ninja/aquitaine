@@ -1,5 +1,5 @@
 ---
 title: "Floraire"
 url: /soorts-hossegor/floraire/
-shop: Blumen
+shop: fleuriste
 ---

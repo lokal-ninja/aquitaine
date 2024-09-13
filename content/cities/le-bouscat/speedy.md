@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /le-bouscat/speedy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

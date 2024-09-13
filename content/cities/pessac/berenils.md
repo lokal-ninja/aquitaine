@@ -1,5 +1,5 @@
 ---
 title: "Bérénils"
 url: /pessac/berenils/
-shop: Bäckerei
+shop: boulangerie
 ---

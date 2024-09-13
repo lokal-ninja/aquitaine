@@ -1,5 +1,5 @@
 ---
 title: "Boisan Olivier"
 url: /saint-julien-en-born/boisan-olivier/
-shop: Bäckerei
+shop: boulangerie
 ---

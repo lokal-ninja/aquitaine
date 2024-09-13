@@ -1,5 +1,5 @@
 ---
 title: "Garage Sanzberro - mécanique et carrosserie"
 url: /espelette/garage-sanzberro-mecanique-et-carrosserie/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

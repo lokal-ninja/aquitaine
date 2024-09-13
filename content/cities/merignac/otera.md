@@ -1,5 +1,5 @@
 ---
 title: "Otera"
 url: /merignac/otera/
-shop: Hofladen
+shop: ferme
 ---

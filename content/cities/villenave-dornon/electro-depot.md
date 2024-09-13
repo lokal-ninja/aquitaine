@@ -1,5 +1,5 @@
 ---
 title: "Electro Dépôt"
 url: /villenave-dornon/electro-depot/
-shop: Elektronik
+shop: électronique
 ---

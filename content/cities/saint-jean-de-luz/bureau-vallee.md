@@ -1,5 +1,5 @@
 ---
 title: "Bureau Vallée"
 url: /saint-jean-de-luz/bureau-vallee/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

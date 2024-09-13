@@ -1,5 +1,5 @@
 ---
 title: "Edertegi"
 url: /hasparren/edertegi/
-shop: Kosmetik
+shop: beauté
 ---

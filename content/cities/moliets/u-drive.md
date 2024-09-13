@@ -1,5 +1,5 @@
 ---
 title: "U Drive"
 url: /moliets/u-drive/
-shop: Supermarkt
+shop: supermarché
 ---

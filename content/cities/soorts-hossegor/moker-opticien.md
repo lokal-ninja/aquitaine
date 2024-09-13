@@ -1,5 +1,5 @@
 ---
 title: "Moker opticien"
 url: /soorts-hossegor/moker-opticien/
-shop: Optiker
+shop: opticien
 ---

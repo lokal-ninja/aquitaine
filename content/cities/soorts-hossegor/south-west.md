@@ -1,5 +1,5 @@
 ---
 title: "South West"
 url: /soorts-hossegor/south-west/
-shop: Kleidung
+shop: vêtements
 ---

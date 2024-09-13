@@ -1,5 +1,5 @@
 ---
 title: "Pirouettes"
 url: /bordeaux/pirouettes/
-shop: Spiele
+shop: jeux
 ---

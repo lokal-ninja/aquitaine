@@ -1,5 +1,5 @@
 ---
 title: "La Librairie de la Plage"
 url: /hendaye/la-librairie-de-la-plage/
-shop: Zeitungen
+shop: marchand de journaux
 ---

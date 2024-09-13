@@ -1,5 +1,5 @@
 ---
 title: "Erian Company"
 url: /bidart/erian-company/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

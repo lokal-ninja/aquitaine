@@ -1,5 +1,5 @@
 ---
 title: "Loreak Mendian"
 url: /saint-jean-de-luz/loreak-mendian/
-shop: Kleidung
+shop: vêtements
 ---

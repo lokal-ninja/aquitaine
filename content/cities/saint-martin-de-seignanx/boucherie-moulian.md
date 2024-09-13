@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Moulian"
 url: /saint-martin-de-seignanx/boucherie-moulian/
-shop: Metzgerei
+shop: boucherie
 ---

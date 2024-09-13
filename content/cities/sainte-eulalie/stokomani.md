@@ -1,5 +1,5 @@
 ---
 title: "Stokomani"
 url: /sainte-eulalie/stokomani/
-shop: Kramladen
+shop: magasin de variétés
 ---

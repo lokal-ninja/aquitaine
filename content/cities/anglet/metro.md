@@ -1,5 +1,5 @@
 ---
 title: "METRO"
 url: /anglet/metro/
-shop: Großhandel
+shop: vente en gros
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moby Dick"
 url: /capbreton/moby-dick/
-shop: Zeitungen
+shop: marchand de journaux
 ---

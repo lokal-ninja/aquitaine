@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /saint-paul-les-dax/aldi/
-shop: Supermarkt
+shop: supermarché
 ---

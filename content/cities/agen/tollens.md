@@ -1,5 +1,5 @@
 ---
 title: "Tollens"
 url: /agen/tollens/
-shop: Farben
+shop: peinture
 ---

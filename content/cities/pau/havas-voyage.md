@@ -1,5 +1,5 @@
 ---
 title: "Havas voyage"
 url: /pau/havas-voyage/
-shop: Reisebüro
+shop: agence de voyage
 ---

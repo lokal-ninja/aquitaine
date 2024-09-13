@@ -1,5 +1,5 @@
 ---
 title: "AuditionSanté"
 url: /leognan/auditionsante/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

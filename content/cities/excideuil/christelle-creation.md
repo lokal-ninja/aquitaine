@@ -1,5 +1,5 @@
 ---
 title: "Christelle Création"
 url: /excideuil/christelle-creation/
-shop: Friseur
+shop: coiffeur
 ---

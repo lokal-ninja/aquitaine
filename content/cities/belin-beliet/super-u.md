@@ -1,5 +1,5 @@
 ---
 title: "Super U"
 url: /belin-beliet/super-u/
-shop: Supermarkt
+shop: supermarché
 ---

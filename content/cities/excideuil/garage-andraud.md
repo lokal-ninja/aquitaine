@@ -1,5 +1,5 @@
 ---
 title: "Garage Andraud"
 url: /excideuil/garage-andraud/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Placard"
 url: /bordeaux/le-placard/
-shop: Tattoo
+shop: tatouage
 ---

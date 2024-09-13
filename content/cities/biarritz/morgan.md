@@ -1,5 +1,5 @@
 ---
 title: "Morgan"
 url: /biarritz/morgan/
-shop: Kleidung
+shop: vêtements
 ---

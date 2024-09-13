@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /bardos/renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

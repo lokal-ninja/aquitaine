@@ -1,5 +1,5 @@
 ---
 title: "Alexandre Haute coiffure"
 url: /bordeaux/alexandre-haute-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

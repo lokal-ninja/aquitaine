@@ -1,5 +1,5 @@
 ---
 title: "Automobile Cazenave"
 url: /saint-sever/automobile-cazenave/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

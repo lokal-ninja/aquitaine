@@ -1,5 +1,5 @@
 ---
 title: "Etam Lingerie"
 url: /mont-de-marsan/etam-lingerie/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gravé"
 url: /urrugne/grave/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dufau"
 url: /bidart/dufau/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

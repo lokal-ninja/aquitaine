@@ -1,5 +1,5 @@
 ---
 title: "Poissonnerie"
 url: /messanges/poissonnerie/
-shop: Fisch
+shop: fruits de mer
 ---

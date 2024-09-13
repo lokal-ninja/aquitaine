@@ -1,5 +1,5 @@
 ---
 title: "Au Pain Canaulais"
 url: /lacanau/au-pain-canaulais/
-shop: Bäckerei
+shop: boulangerie
 ---

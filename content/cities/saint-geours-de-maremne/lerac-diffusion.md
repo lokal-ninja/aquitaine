@@ -1,5 +1,5 @@
 ---
 title: "Lerac Diffusion"
 url: /saint-geours-de-maremne/lerac-diffusion/
-shop: Badezimmer
+shop: salle de bains
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Esnekiak"
 url: /mendionde/esnekiak/
-shop: Hofladen
+shop: ferme
 ---

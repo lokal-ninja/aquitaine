@@ -1,5 +1,5 @@
 ---
 title: "Vitenvrac"
 url: /boe/vitenvrac/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goxoak"
 url: /biarritz/goxoak/
-shop: Konditorei
+shop: pâtisserie
 ---

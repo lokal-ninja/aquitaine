@@ -1,5 +1,5 @@
 ---
 title: "EcOrx"
 url: /orx/ecorx/
-shop: Lebensmittel
+shop: commodité
 ---

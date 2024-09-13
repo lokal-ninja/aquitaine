@@ -1,5 +1,5 @@
 ---
 title: "Pietho"
 url: /bordeaux/pietho/
-shop: Fahrrad
+shop: vélo
 ---

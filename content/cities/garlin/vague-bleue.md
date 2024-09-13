@@ -1,5 +1,5 @@
 ---
 title: "Vague Bleue"
 url: /garlin/vague-bleue/
-shop: Wäscherei
+shop: blanchisserie
 ---

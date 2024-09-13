@@ -1,5 +1,5 @@
 ---
 title: "Netto"
 url: /pau/netto/
-shop: Supermarkt
+shop: supermarché
 ---

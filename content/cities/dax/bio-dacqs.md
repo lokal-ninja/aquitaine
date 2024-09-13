@@ -1,5 +1,5 @@
 ---
 title: "Bio d'Acqs"
 url: /dax/bio-dacqs/
-shop: Lebensmittel
+shop: commodité
 ---

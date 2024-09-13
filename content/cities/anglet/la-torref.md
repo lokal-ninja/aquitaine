@@ -1,5 +1,5 @@
 ---
 title: "La Torref"
 url: /anglet/la-torref/
-shop: Kaffee
+shop: café
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bidartarak"
 url: /bidart/bidartarak/
-shop: Andenken
+shop: cadeau
 ---

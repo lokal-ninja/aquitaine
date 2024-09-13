@@ -1,5 +1,5 @@
 ---
 title: "Auduteau France Sonia"
 url: /berson/auduteau-france-sonia/
-shop: Friseur
+shop: coiffeur
 ---

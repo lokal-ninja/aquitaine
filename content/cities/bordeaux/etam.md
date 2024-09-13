@@ -1,5 +1,5 @@
 ---
 title: "Etam"
 url: /bordeaux/etam/
-shop: Kleidung
+shop: vêtements
 ---

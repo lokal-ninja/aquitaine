@@ -1,5 +1,5 @@
 ---
 title: "Soineko"
 url: /hasparren/soineko/
-shop: Kleidung
+shop: vêtements
 ---

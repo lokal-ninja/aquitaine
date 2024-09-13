@@ -1,5 +1,5 @@
 ---
 title: "Chez Jules"
 url: /villandraut/chez-jules/
-shop: Bäckerei
+shop: boulangerie
 ---

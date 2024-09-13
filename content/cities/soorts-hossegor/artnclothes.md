@@ -1,5 +1,5 @@
 ---
 title: "Art'N'Clothes"
 url: /soorts-hossegor/artnclothes/
-shop: Kleidung
+shop: vêtements
 ---

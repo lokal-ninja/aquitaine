@@ -1,5 +1,5 @@
 ---
 title: "Cycles Mariani"
 url: /pessac/cycles-mariani/
-shop: Fahrrad
+shop: vélo
 ---

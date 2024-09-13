@@ -1,5 +1,5 @@
 ---
 title: "Proxi"
 url: /bouniagues/proxi/
-shop: Supermarkt
+shop: supermarché
 ---

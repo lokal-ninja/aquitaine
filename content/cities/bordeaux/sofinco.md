@@ -1,5 +1,5 @@
 ---
 title: "Sofinco"
 url: /bordeaux/sofinco/
-shop: Leiher
+shop: prêteur sur gages
 ---

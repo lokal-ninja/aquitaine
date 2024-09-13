@@ -1,5 +1,5 @@
 ---
 title: "Dema Création"
 url: /saint-martin-darrossa/dema-creation/
-shop: Taschen & Koffer
+shop: sac
 ---

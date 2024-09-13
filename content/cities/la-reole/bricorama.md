@@ -1,5 +1,5 @@
 ---
 title: "Bricorama"
 url: /la-reole/bricorama/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /lescar/carrefour/
-shop: Supermarkt
+shop: supermarché
 ---

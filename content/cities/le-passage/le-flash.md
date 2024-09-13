@@ -1,5 +1,5 @@
 ---
 title: "Le Flash"
 url: /le-passage/le-flash/
-shop: Tabak
+shop: tabac
 ---

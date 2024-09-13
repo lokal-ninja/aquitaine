@@ -1,5 +1,5 @@
 ---
 title: "Mac Duff chaussures"
 url: /eysines/mac-duff-chaussures/
-shop: Schuhe
+shop: chaussures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lominé"
 url: /neuvic/lomine/
-shop: Bäckerei
+shop: boulangerie
 ---

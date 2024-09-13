@@ -1,5 +1,5 @@
 ---
 title: "Le park skate shop"
 url: /soorts-hossegor/le-park-skate-shop/
-shop: Kleidung
+shop: vêtements
 ---

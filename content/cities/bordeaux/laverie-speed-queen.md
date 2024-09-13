@@ -1,5 +1,5 @@
 ---
 title: "Laverie Speed Queen"
 url: /bordeaux/laverie-speed-queen/
-shop: Wäscherei
+shop: blanchisserie
 ---

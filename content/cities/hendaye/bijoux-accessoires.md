@@ -1,5 +1,5 @@
 ---
 title: "Bijoux, Accessoires"
 url: /hendaye/bijoux-accessoires/
-shop: Andenken
+shop: cadeau
 ---

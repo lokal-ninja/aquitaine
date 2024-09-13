@@ -1,5 +1,5 @@
 ---
 title: "Aubade"
 url: /anglet/aubade/
-shop: Kleidung
+shop: vêtements
 ---

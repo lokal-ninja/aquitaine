@@ -1,5 +1,5 @@
 ---
 title: "Etam Lingerie"
 url: /arcachon/etam-lingerie/
-shop: Kleidung
+shop: vêtements
 ---

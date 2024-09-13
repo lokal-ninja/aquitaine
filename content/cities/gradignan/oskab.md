@@ -1,5 +1,5 @@
 ---
 title: "Oskab"
 url: /gradignan/oskab/
-shop: Küchen
+shop: cuisine
 ---

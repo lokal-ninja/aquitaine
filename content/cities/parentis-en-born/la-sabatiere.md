@@ -1,5 +1,5 @@
 ---
 title: "La Sabatière"
 url: /parentis-en-born/la-sabatiere/
-shop: Zeitungen
+shop: marchand de journaux
 ---

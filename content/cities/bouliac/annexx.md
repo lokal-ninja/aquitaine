@@ -1,5 +1,5 @@
 ---
 title: "Annexx"
 url: /bouliac/annexx/
-shop: Mieten
+shop: location de stockage
 ---

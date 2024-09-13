@@ -1,5 +1,5 @@
 ---
 title: "Abysse-Spa"
 url: /le-bouscat/abysse-spa/
-shop: Kosmetik
+shop: beauté
 ---

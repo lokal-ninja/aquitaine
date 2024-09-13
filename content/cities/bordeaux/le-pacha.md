@@ -1,5 +1,5 @@
 ---
 title: "Le Pacha"
 url: /bordeaux/le-pacha/
-shop: Tabak
+shop: tabac
 ---

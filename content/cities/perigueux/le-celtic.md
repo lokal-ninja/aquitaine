@@ -1,5 +1,5 @@
 ---
 title: "Le Celtic"
 url: /perigueux/le-celtic/
-shop: Tabak
+shop: tabac
 ---

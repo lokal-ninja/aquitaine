@@ -1,5 +1,5 @@
 ---
 title: "DANYBERD"
 url: /bordeaux/danyberd/
-shop: Kleidung
+shop: vêtements
 ---

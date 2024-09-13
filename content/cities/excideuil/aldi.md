@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /excideuil/aldi/
-shop: Supermarkt
+shop: supermarché
 ---

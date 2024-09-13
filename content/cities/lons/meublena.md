@@ -1,5 +1,5 @@
 ---
 title: "Meublena"
 url: /lons/meublena/
-shop: Möbel
+shop: meubles
 ---

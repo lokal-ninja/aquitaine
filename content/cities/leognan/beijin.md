@@ -1,5 +1,5 @@
 ---
 title: "Beijin"
 url: /leognan/beijin/
-shop: Kleidung
+shop: vêtements
 ---

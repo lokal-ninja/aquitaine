@@ -1,5 +1,5 @@
 ---
 title: "Eneka"
 url: /hendaye/eneka/
-shop: Tiere
+shop: animal de compagnie
 ---

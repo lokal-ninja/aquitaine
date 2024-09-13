@@ -1,5 +1,5 @@
 ---
 title: "Bixente Espadrilles"
 url: /soorts-hossegor/bixente-espadrilles/
-shop: Schuhe
+shop: chaussures
 ---

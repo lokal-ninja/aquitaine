@@ -1,5 +1,5 @@
 ---
 title: "Ixina"
 url: /anglet/ixina/
-shop: Küchen
+shop: cuisine
 ---

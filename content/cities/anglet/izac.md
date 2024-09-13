@@ -1,5 +1,5 @@
 ---
 title: "Izac"
 url: /anglet/izac/
-shop: Kleidung
+shop: vêtements
 ---

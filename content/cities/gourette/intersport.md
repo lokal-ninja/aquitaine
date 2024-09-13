@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /gourette/intersport/
-shop: Sport
+shop: sports
 ---

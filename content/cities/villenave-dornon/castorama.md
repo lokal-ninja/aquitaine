@@ -1,5 +1,5 @@
 ---
 title: "Castorama"
 url: /villenave-dornon/castorama/
-shop: Baumarkt
+shop: à faire soi-même
 ---

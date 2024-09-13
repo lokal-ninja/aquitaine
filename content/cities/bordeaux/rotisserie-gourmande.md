@@ -1,5 +1,5 @@
 ---
 title: "Rotisserie Gourmande"
 url: /bordeaux/rotisserie-gourmande/
-shop: Metzgerei
+shop: boucherie
 ---

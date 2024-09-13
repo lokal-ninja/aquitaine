@@ -1,5 +1,5 @@
 ---
 title: "Franck Provost"
 url: /anglet/franck-provost/
-shop: Friseur
+shop: coiffeur
 ---

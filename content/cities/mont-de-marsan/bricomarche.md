@@ -1,5 +1,5 @@
 ---
 title: "Bricomarché"
 url: /mont-de-marsan/bricomarche/
-shop: Baumarkt
+shop: à faire soi-même
 ---

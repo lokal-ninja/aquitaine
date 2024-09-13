@@ -1,5 +1,5 @@
 ---
 title: "Cycles Bonanza"
 url: /capbreton/cycles-bonanza/
-shop: Fahrrad
+shop: vélo
 ---

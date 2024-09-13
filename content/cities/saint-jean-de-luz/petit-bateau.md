@@ -1,5 +1,5 @@
 ---
 title: "Petit Bateau"
 url: /saint-jean-de-luz/petit-bateau/
-shop: Kleidung
+shop: vêtements
 ---

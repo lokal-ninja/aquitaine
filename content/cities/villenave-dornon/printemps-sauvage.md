@@ -1,5 +1,5 @@
 ---
 title: "Printemps Sauvage"
 url: /villenave-dornon/printemps-sauvage/
-shop: Blumen
+shop: fleuriste
 ---

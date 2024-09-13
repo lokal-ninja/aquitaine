@@ -1,5 +1,5 @@
 ---
 title: "Transakauto"
 url: /libourne/transakauto/
-shop: Autohaus
+shop: voiture
 ---

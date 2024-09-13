@@ -1,5 +1,5 @@
 ---
 title: "Ferme Agerrea"
 url: /arbona/ferme-agerrea/
-shop: Hofladen
+shop: ferme
 ---

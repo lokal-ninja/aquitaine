@@ -1,5 +1,5 @@
 ---
 title: "Longchamp"
 url: /bordeaux/longchamp/
-shop: Leder
+shop: cuir
 ---

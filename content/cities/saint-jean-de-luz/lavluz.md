@@ -1,5 +1,5 @@
 ---
 title: "Lav'luz"
 url: /saint-jean-de-luz/lavluz/
-shop: Wäscherei
+shop: blanchisserie
 ---

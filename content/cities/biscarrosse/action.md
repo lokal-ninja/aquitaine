@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /biscarrosse/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

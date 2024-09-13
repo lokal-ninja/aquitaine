@@ -1,5 +1,5 @@
 ---
 title: "Histoire d'Or"
 url: /anglet/histoire-dor/
-shop: Schmuck
+shop: bijoux
 ---

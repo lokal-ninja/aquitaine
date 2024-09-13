@@ -1,5 +1,5 @@
 ---
 title: "Roady"
 url: /bayonne/roady/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

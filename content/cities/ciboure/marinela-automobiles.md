@@ -1,5 +1,5 @@
 ---
 title: "Marinela Automobiles"
 url: /ciboure/marinela-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

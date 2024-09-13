@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /le-passage/amplifon/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

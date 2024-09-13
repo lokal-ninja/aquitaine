@@ -1,5 +1,5 @@
 ---
 title: "L’Arbre à palabres"
 url: /riberac/larbre-a-palabres/
-shop: Bücher
+shop: livres
 ---

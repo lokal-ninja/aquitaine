@@ -1,5 +1,5 @@
 ---
 title: "HIPOPO"
 url: /bordeaux/hipopo/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /orthez/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

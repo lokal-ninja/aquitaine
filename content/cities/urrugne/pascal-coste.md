@@ -1,5 +1,5 @@
 ---
 title: "Pascal Coste"
 url: /urrugne/pascal-coste/
-shop: Friseur
+shop: coiffeur
 ---

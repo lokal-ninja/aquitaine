@@ -1,5 +1,5 @@
 ---
 title: "Chocolatier Taupy"
 url: /le-bouscat/chocolatier-taupy/
-shop: Schokolade
+shop: chocolat
 ---

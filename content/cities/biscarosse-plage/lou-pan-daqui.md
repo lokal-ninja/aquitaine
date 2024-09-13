@@ -1,5 +1,5 @@
 ---
 title: "Lou Pan d'Aqui"
 url: /biscarosse-plage/lou-pan-daqui/
-shop: Bäckerei
+shop: boulangerie
 ---

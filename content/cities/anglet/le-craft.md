@@ -1,5 +1,5 @@
 ---
 title: "Le Craft"
 url: /anglet/le-craft/
-shop: Spirituosen
+shop: alcool
 ---

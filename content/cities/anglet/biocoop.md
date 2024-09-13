@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /anglet/biocoop/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Influence Musique"
 url: /libourne/influence-musique/
-shop: Instrumente
+shop: instrument de musique
 ---

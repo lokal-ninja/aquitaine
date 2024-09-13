@@ -1,5 +1,5 @@
 ---
 title: "Jean-Vier"
 url: /biarritz/jean-vier/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

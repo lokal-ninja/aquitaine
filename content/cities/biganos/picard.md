@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /biganos/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CADRIMAGES"
 url: /bordeaux/cadrimages/
-shop: Andenken
+shop: cadeau
 ---

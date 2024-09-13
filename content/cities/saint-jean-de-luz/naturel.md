@@ -1,5 +1,5 @@
 ---
 title: "Naturel"
 url: /saint-jean-de-luz/naturel/
-shop: Kleidung
+shop: vêtements
 ---

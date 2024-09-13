@@ -1,5 +1,5 @@
 ---
 title: "Optique Langoiran"
 url: /langoiran/optique-langoiran/
-shop: Optiker
+shop: opticien
 ---

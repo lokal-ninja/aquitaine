@@ -1,5 +1,5 @@
 ---
 title: "La Picandine"
 url: /saint-astier/la-picandine/
-shop: Käse
+shop: fromage
 ---

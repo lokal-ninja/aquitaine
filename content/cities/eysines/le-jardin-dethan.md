@@ -1,5 +1,5 @@
 ---
 title: "Le Jardin d'Ethan"
 url: /eysines/le-jardin-dethan/
-shop: Hofladen
+shop: ferme
 ---

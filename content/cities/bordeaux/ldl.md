@@ -1,5 +1,5 @@
 ---
 title: "LDL"
 url: /bordeaux/ldl/
-shop: Kleidung
+shop: vêtements
 ---

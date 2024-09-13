@@ -1,5 +1,5 @@
 ---
 title: "MPB services informatique"
 url: /soustons/mpb-services-informatique/
-shop: Computer
+shop: ordinateur
 ---

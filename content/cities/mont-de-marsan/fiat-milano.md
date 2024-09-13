@@ -1,5 +1,5 @@
 ---
 title: "Fiat Milano"
 url: /mont-de-marsan/fiat-milano/
-shop: Autohaus
+shop: voiture
 ---

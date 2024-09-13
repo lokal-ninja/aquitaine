@@ -1,5 +1,5 @@
 ---
 title: "Brasserie Akerbeltz"
 url: /ascain/brasserie-akerbeltz/
-shop: Hofladen
+shop: ferme
 ---

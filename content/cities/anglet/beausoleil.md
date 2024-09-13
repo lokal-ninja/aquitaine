@@ -1,5 +1,5 @@
 ---
 title: "Beausoleil"
 url: /anglet/beausoleil/
-shop: Leder
+shop: cuir
 ---

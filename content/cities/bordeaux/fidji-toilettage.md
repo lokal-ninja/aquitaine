@@ -1,5 +1,5 @@
 ---
 title: "Fidji - Toilettage"
 url: /bordeaux/fidji-toilettage/
-shop: Tiere
+shop: animal de compagnie
 ---

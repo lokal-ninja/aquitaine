@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /ciboure/spar/
-shop: Supermarkt
+shop: supermarché
 ---

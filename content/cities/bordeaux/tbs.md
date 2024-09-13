@@ -1,5 +1,5 @@
 ---
 title: "TBS"
 url: /bordeaux/tbs/
-shop: Kleidung
+shop: vêtements
 ---

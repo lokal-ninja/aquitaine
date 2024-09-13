@@ -1,5 +1,5 @@
 ---
 title: "La Bocca"
 url: /bordeaux/la-bocca/
-shop: Feinkost
+shop: charcuterie
 ---

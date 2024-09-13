@@ -1,5 +1,5 @@
 ---
 title: "Annexx"
 url: /bordeaux/annexx/
-shop: Mieten
+shop: location de stockage
 ---

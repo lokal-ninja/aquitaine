@@ -1,5 +1,5 @@
 ---
 title: "JS Auto"
 url: /ascain/js-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

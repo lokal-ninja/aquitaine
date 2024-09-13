@@ -1,5 +1,5 @@
 ---
 title: "Terre de Vrac"
 url: /le-haillan/terre-de-vrac/
-shop: Leerstehend
+shop: vacant
 ---

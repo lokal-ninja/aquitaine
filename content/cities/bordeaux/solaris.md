@@ -1,5 +1,5 @@
 ---
 title: "Solaris"
 url: /bordeaux/solaris/
-shop: Optiker
+shop: opticien
 ---

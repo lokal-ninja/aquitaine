@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /issigeac/spar/
-shop: Supermarkt
+shop: supermarché
 ---

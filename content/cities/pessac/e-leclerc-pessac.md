@@ -1,5 +1,5 @@
 ---
 title: "E.Leclerc Pessac"
 url: /pessac/e-leclerc-pessac/
-shop: Supermarkt
+shop: supermarché
 ---

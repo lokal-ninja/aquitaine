@@ -1,5 +1,5 @@
 ---
 title: "Selectour"
 url: /mont-de-marsan/selectour/
-shop: Reisebüro
+shop: agence de voyage
 ---

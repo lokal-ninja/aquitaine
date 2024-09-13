@@ -1,5 +1,5 @@
 ---
 title: "Cellier de la Lémance"
 url: /condezaygues/cellier-de-la-lemance/
-shop: Spirituosen
+shop: alcool
 ---

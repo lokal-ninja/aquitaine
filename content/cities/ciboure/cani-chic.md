@@ -1,5 +1,5 @@
 ---
 title: "Cani Chic"
 url: /ciboure/cani-chic/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

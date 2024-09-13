@@ -1,5 +1,5 @@
 ---
 title: "Vignobles Alain DUFOURG"
 url: /targon/vignobles-alain-dufourg/
-shop: Spirituosen
+shop: alcool
 ---

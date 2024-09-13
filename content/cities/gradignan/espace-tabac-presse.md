@@ -1,5 +1,5 @@
 ---
 title: "Espace Tabac Presse"
 url: /gradignan/espace-tabac-presse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

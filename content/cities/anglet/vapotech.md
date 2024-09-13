@@ -1,5 +1,5 @@
 ---
 title: "Vapotech"
 url: /anglet/vapotech/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

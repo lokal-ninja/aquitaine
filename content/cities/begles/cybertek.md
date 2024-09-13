@@ -1,5 +1,5 @@
 ---
 title: "Cybertek"
 url: /begles/cybertek/
-shop: Computer
+shop: ordinateur
 ---

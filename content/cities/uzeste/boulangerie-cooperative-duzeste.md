@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie coopérative d'Uzeste"
 url: /uzeste/boulangerie-cooperative-duzeste/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hyperburo"
 url: /merignac/hyperburo/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chrispatisa"
 url: /villenave-dornon/chrispatisa/
-shop: Friseur
+shop: coiffeur
 ---

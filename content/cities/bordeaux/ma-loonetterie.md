@@ -1,5 +1,5 @@
 ---
 title: "Ma Loonetterie"
 url: /bordeaux/ma-loonetterie/
-shop: Optiker
+shop: opticien
 ---

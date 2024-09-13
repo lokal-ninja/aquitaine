@@ -1,5 +1,5 @@
 ---
 title: "Fnac"
 url: /bergerac/fnac/
-shop: Elektronik
+shop: électronique
 ---

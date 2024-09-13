@@ -1,5 +1,5 @@
 ---
 title: "Aux Trésors d'Auclomé"
 url: /jurancon/aux-tresors-dauclome/
-shop: Babysachen
+shop: produits pour bébés
 ---

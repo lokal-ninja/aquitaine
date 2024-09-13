@@ -1,5 +1,5 @@
 ---
 title: "Grand Frais"
 url: /le-haillan/grand-frais/
-shop: Supermarkt
+shop: supermarché
 ---

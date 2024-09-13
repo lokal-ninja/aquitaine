@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /bergerac/citroen/
-shop: Autohaus
+shop: voiture
 ---

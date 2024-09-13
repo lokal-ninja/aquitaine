@@ -1,5 +1,5 @@
 ---
 title: "l'Atelier Champêtre"
 url: /brantome/latelier-champetre/
-shop: Blumen
+shop: fleuriste
 ---

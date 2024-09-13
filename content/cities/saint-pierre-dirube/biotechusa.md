@@ -1,5 +1,5 @@
 ---
 title: "BioTechUSA"
 url: /saint-pierre-dirube/biotechusa/
-shop: Nahrungsergänzung
+shop: les compléments alimentaires
 ---

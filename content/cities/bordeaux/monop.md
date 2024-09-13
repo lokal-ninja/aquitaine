@@ -1,5 +1,5 @@
 ---
 title: "Monop'"
 url: /bordeaux/monop/
-shop: Lebensmittel
+shop: commodité
 ---

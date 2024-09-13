@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /messanges/spar/
-shop: Lebensmittel
+shop: commodité
 ---

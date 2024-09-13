@@ -1,5 +1,5 @@
 ---
 title: "Annexx"
 url: /gradignan/annexx/
-shop: Mieten
+shop: location de stockage
 ---

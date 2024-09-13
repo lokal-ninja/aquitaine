@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie d'Eysines"
 url: /eysines/carrosserie-deysines/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

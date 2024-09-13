@@ -1,5 +1,5 @@
 ---
 title: "Tabac Topaze"
 url: /villenave-dornon/tabac-topaze/
-shop: Tabak
+shop: tabac
 ---

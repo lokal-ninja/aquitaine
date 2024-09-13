@@ -1,5 +1,5 @@
 ---
 title: "Tajinebanane"
 url: /bordeaux/tajinebanane/
-shop: Kleidung
+shop: vêtements
 ---

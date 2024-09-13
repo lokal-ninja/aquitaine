@@ -1,5 +1,5 @@
 ---
 title: "Cogeferm"
 url: /villenave-dornon/cogeferm/
-shop: Eisenwaren
+shop: matériel informatique
 ---

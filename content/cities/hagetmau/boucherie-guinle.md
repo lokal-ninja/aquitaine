@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Guinle"
 url: /hagetmau/boucherie-guinle/
-shop: Metzgerei
+shop: boucherie
 ---

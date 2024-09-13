@@ -1,5 +1,5 @@
 ---
 title: "La Bouquinerie Plus"
 url: /merignac/la-bouquinerie-plus/
-shop: Bücher
+shop: livres
 ---

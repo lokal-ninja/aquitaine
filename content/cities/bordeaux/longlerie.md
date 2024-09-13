@@ -1,5 +1,5 @@
 ---
 title: "L'Onglerie"
 url: /bordeaux/longlerie/
-shop: Kosmetik
+shop: beauté
 ---

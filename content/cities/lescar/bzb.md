@@ -1,5 +1,5 @@
 ---
 title: "Bzb"
 url: /lescar/bzb/
-shop: Kleidung
+shop: vêtements
 ---

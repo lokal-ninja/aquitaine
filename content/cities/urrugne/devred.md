@@ -1,5 +1,5 @@
 ---
 title: "Devred"
 url: /urrugne/devred/
-shop: Kleidung
+shop: vêtements
 ---

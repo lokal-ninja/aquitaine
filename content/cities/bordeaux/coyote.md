@@ -1,5 +1,5 @@
 ---
 title: "Coyote"
 url: /bordeaux/coyote/
-shop: Autoteile
+shop: pièces de voitures
 ---

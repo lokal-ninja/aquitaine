@@ -1,5 +1,5 @@
 ---
 title: "Super U"
 url: /cestas/super-u/
-shop: Gasflaschen
+shop: gaz
 ---

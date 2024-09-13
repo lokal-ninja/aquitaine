@@ -1,5 +1,5 @@
 ---
 title: "Xirikota"
 url: /mauleon-licharre/xirikota/
-shop: Feinkost
+shop: charcuterie
 ---

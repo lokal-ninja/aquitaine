@@ -1,5 +1,5 @@
 ---
 title: "SPR"
 url: /soorts-hossegor/spr/
-shop: Motorrad
+shop: moto
 ---

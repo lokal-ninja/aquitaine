@@ -1,5 +1,5 @@
 ---
 title: "Pierre Mathieu"
 url: /bordeaux/pierre-mathieu/
-shop: Süßwaren
+shop: confiserie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Rohan"
 url: /bordeaux/le-rohan/
-shop: Tabak
+shop: tabac
 ---

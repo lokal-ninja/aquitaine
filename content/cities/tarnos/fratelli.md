@@ -1,5 +1,5 @@
 ---
 title: "Fratelli"
 url: /tarnos/fratelli/
-shop: Lebensmittel
+shop: commodité
 ---

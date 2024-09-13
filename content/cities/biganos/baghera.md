@@ -1,5 +1,5 @@
 ---
 title: "Baghera"
 url: /biganos/baghera/
-shop: Bäckerei
+shop: boulangerie
 ---

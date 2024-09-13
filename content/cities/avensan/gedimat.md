@@ -1,5 +1,5 @@
 ---
 title: "Gedimat"
 url: /avensan/gedimat/
-shop: Baumarkt
+shop: à faire soi-même
 ---

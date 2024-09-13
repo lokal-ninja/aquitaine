@@ -1,5 +1,5 @@
 ---
 title: "Parallele"
 url: /saint-jean-de-luz/parallele/
-shop: Kleidung
+shop: vêtements
 ---

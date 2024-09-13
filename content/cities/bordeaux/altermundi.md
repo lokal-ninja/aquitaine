@@ -1,5 +1,5 @@
 ---
 title: "Altermundi"
 url: /bordeaux/altermundi/
-shop: Kleidung
+shop: vêtements
 ---

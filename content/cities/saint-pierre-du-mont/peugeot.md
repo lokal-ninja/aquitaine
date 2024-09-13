@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /saint-pierre-du-mont/peugeot/
-shop: Autohaus
+shop: voiture
 ---

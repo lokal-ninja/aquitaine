@@ -1,5 +1,5 @@
 ---
 title: "Les Candides"
 url: /saint-jean-de-luz/les-candides/
-shop: Kleidung
+shop: vêtements
 ---

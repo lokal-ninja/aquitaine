@@ -1,5 +1,5 @@
 ---
 title: "Cycles Igouassel"
 url: /oloron-sainte-marie/cycles-igouassel/
-shop: Sport
+shop: sports
 ---

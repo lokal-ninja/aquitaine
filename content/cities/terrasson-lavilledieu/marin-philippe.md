@@ -1,5 +1,5 @@
 ---
 title: "Marin Philippe"
 url: /terrasson-lavilledieu/marin-philippe/
-shop: Metzgerei
+shop: boucherie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Econergy Bullerjan Diffusion"
 url: /eysines/econergy-bullerjan-diffusion/
-shop: Kamine & Öfen
+shop: cheminée
 ---

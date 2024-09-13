@@ -1,5 +1,5 @@
 ---
 title: "A nos marques"
 url: /nontron/a-nos-marques/
-shop: Kleidung
+shop: vêtements
 ---

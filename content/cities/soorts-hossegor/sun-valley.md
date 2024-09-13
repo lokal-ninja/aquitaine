@@ -1,5 +1,5 @@
 ---
 title: "Sun Valley"
 url: /soorts-hossegor/sun-valley/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coutellerie Castant"
 url: /bordeaux/coutellerie-castant/
-shop: Allgemein
+shop: shop
 ---

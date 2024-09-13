@@ -1,5 +1,5 @@
 ---
 title: "Garage Arrieta"
 url: /ustaritz/garage-arrieta/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

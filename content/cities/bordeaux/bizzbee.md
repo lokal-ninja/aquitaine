@@ -1,5 +1,5 @@
 ---
 title: "Bizzbee"
 url: /bordeaux/bizzbee/
-shop: Kleidung
+shop: vêtements
 ---

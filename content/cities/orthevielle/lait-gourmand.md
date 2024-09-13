@@ -1,5 +1,5 @@
 ---
 title: "Lait Gourmand"
 url: /orthevielle/lait-gourmand/
-shop: Hofladen
+shop: ferme
 ---

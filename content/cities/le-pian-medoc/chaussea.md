@@ -1,5 +1,5 @@
 ---
 title: "Chaussea"
 url: /le-pian-medoc/chaussea/
-shop: Schuhe
+shop: chaussures
 ---

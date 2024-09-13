@@ -1,5 +1,5 @@
 ---
 title: "Patisserie boulangerie Lafargue"
 url: /castets/patisserie-boulangerie-lafargue/
-shop: Bäckerei
+shop: boulangerie
 ---

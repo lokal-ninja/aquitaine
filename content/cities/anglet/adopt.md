@@ -1,5 +1,5 @@
 ---
 title: "Adopt'"
 url: /anglet/adopt/
-shop: Parfümerie
+shop: parfumerie
 ---

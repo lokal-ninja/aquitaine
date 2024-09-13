@@ -1,5 +1,5 @@
 ---
 title: "Monoprix"
 url: /merignac/monoprix/
-shop: Supermarkt
+shop: supermarché
 ---

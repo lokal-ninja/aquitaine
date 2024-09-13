@@ -1,5 +1,5 @@
 ---
 title: "Micromania"
 url: /anglet/micromania/
-shop: Videospiele
+shop: jeux vidéo
 ---

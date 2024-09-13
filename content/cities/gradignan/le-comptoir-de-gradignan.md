@@ -1,5 +1,5 @@
 ---
 title: "Le comptoir de Gradignan"
 url: /gradignan/le-comptoir-de-gradignan/
-shop: Spirituosen
+shop: alcool
 ---

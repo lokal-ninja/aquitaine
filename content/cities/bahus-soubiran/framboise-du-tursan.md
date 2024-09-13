@@ -1,5 +1,5 @@
 ---
 title: "Framboise du Tursan"
 url: /bahus-soubiran/framboise-du-tursan/
-shop: Hofladen
+shop: ferme
 ---

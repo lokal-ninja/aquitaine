@@ -1,5 +1,5 @@
 ---
 title: "La Brocante de Sabres"
 url: /sabres/la-brocante-de-sabres/
-shop: Kramladen
+shop: magasin de variétés
 ---

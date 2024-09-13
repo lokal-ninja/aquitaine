@@ -1,5 +1,5 @@
 ---
 title: "Le Tabac de Saint-Paul"
 url: /saint-paul-les-dax/le-tabac-de-saint-paul/
-shop: Zeitungen
+shop: marchand de journaux
 ---

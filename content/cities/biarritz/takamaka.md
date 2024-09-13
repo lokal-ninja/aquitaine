@@ -1,5 +1,5 @@
 ---
 title: "Takamaka"
 url: /biarritz/takamaka/
-shop: Sport
+shop: sports
 ---

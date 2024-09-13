@@ -1,5 +1,5 @@
 ---
 title: "Car Atlantique"
 url: /tarnos/car-atlantique/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

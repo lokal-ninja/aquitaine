@@ -1,5 +1,5 @@
 ---
 title: "Rosemary Tatoo"
 url: /biarritz/rosemary-tatoo/
-shop: Tattoo
+shop: tatouage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intermede Coiffure"
 url: /eysines/intermede-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

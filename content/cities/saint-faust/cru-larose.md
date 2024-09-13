@@ -1,5 +1,5 @@
 ---
 title: "Cru Larose"
 url: /saint-faust/cru-larose/
-shop: Wein
+shop: vin
 ---

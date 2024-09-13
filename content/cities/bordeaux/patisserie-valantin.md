@@ -1,5 +1,5 @@
 ---
 title: "Pâtisserie Valantin"
 url: /bordeaux/patisserie-valantin/
-shop: Konditorei
+shop: pâtisserie
 ---

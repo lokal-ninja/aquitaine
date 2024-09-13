@@ -1,5 +1,5 @@
 ---
 title: "Just Pour Plaire"
 url: /grenade-sur-ladour/just-pour-plaire/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Contact"
 url: /montfort-en-chalosse/carrefour-contact/
-shop: Supermarkt
+shop: supermarché
 ---

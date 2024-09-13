@@ -1,5 +1,5 @@
 ---
 title: "Roxy"
 url: /soorts-hossegor/roxy/
-shop: Kleidung
+shop: vêtements
 ---

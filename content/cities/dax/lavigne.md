@@ -1,5 +1,5 @@
 ---
 title: "Lavigne"
 url: /dax/lavigne/
-shop: Metzgerei
+shop: boucherie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Promovacances"
 url: /saint-pierre-dirube/promovacances/
-shop: Reisebüro
+shop: agence de voyage
 ---

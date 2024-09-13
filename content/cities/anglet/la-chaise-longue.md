@@ -1,5 +1,5 @@
 ---
 title: "La Chaise Longue"
 url: /anglet/la-chaise-longue/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

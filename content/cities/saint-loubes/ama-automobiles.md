@@ -1,5 +1,5 @@
 ---
 title: "Ama Automobiles"
 url: /saint-loubes/ama-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

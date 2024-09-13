@@ -1,5 +1,5 @@
 ---
 title: "Audition Labelson"
 url: /arzacq-arraziguet/audition-labelson/
-shop: Kramladen
+shop: magasin de variétés
 ---

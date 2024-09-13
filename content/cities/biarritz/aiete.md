@@ -1,5 +1,5 @@
 ---
 title: "Aiete"
 url: /biarritz/aiete/
-shop: Käse
+shop: fromage
 ---

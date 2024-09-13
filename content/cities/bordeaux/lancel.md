@@ -1,5 +1,5 @@
 ---
 title: "Lancel"
 url: /bordeaux/lancel/
-shop: Leder
+shop: cuir
 ---

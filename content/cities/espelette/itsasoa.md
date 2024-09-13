@@ -1,5 +1,5 @@
 ---
 title: "Itsasoa"
 url: /espelette/itsasoa/
-shop: Fisch
+shop: fruits de mer
 ---

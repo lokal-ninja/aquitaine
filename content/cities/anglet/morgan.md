@@ -1,5 +1,5 @@
 ---
 title: "Morgan"
 url: /anglet/morgan/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Rose des Sables"
 url: /saint-sever/la-rose-des-sables/
-shop: Bäckerei
+shop: boulangerie
 ---

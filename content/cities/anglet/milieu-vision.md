@@ -1,5 +1,5 @@
 ---
 title: "Milieu Vision"
 url: /anglet/milieu-vision/
-shop: Optiker
+shop: opticien
 ---

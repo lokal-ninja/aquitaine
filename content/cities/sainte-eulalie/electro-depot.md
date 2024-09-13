@@ -1,5 +1,5 @@
 ---
 title: "Electro Dépôt"
 url: /sainte-eulalie/electro-depot/
-shop: Kramladen
+shop: magasin de variétés
 ---

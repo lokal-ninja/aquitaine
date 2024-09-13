@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /bordeaux/decathlon/
-shop: Sport
+shop: sports
 ---

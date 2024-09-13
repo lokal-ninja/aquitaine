@@ -1,5 +1,5 @@
 ---
 title: "Gitem"
 url: /garlin/gitem/
-shop: Haushaltsgeräte
+shop: appareil ménager
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chausson Matériaux"
 url: /cars/chausson-materiaux/
-shop: Baumarkt
+shop: à faire soi-même
 ---

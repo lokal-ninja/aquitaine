@@ -1,5 +1,5 @@
 ---
 title: "Xabel Chausseur"
 url: /saint-jean-de-luz/xabel-chausseur/
-shop: Schuhe
+shop: chaussures
 ---

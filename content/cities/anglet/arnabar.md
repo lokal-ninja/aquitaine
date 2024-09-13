@@ -1,5 +1,5 @@
 ---
 title: "Arnabar"
 url: /anglet/arnabar/
-shop: Metzgerei
+shop: boucherie
 ---

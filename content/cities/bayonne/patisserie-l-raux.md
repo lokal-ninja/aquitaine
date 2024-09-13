@@ -1,5 +1,5 @@
 ---
 title: "Patisserie L. Raux"
 url: /bayonne/patisserie-l-raux/
-shop: Konditorei
+shop: pâtisserie
 ---

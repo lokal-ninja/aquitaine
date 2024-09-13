@@ -1,5 +1,5 @@
 ---
 title: "L'Alternative"
 url: /eysines/lalternative/
-shop: Lebensmittel
+shop: commodité
 ---

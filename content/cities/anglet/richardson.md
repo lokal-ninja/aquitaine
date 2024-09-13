@@ -1,5 +1,5 @@
 ---
 title: "Richardson"
 url: /anglet/richardson/
-shop: Badezimmer
+shop: salle de bains
 ---

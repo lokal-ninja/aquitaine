@@ -1,5 +1,5 @@
 ---
 title: "Garage Masson"
 url: /leognan/garage-masson/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

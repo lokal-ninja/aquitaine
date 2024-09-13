@@ -1,5 +1,5 @@
 ---
 title: "SARL Garage Sallaberry"
 url: /hasparren/sarl-garage-sallaberry/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

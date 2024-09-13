@@ -1,5 +1,5 @@
 ---
 title: "La Tabatière"
 url: /biscarosse/la-tabatiere/
-shop: Zeitungen
+shop: marchand de journaux
 ---

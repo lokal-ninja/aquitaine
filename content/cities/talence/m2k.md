@@ -1,5 +1,5 @@
 ---
 title: "M2K"
 url: /talence/m2k/
-shop: Computer
+shop: ordinateur
 ---

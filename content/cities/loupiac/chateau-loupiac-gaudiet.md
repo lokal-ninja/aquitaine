@@ -1,5 +1,5 @@
 ---
 title: "Château Loupiac-Gaudiet"
 url: /loupiac/chateau-loupiac-gaudiet/
-shop: Spirituosen
+shop: alcool
 ---

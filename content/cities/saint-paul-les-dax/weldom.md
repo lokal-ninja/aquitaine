@@ -1,5 +1,5 @@
 ---
 title: "Weldom"
 url: /saint-paul-les-dax/weldom/
-shop: Baumarkt
+shop: à faire soi-même
 ---

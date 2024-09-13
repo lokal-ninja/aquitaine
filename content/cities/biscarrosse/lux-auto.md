@@ -1,5 +1,5 @@
 ---
 title: "Lux Auto"
 url: /biscarrosse/lux-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

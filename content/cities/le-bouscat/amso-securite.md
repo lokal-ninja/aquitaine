@@ -1,5 +1,5 @@
 ---
 title: "Amso Securite"
 url: /le-bouscat/amso-securite/
-shop: Schlüsseldienst
+shop: serrurier
 ---

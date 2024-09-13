@@ -1,5 +1,5 @@
 ---
 title: "Marionnaud"
 url: /anglet/marionnaud/
-shop: Parfümerie
+shop: parfumerie
 ---

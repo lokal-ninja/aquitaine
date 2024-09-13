@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /anglet/spar-2/
-shop: Lebensmittel
+shop: commodité
 ---

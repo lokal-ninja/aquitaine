@@ -1,5 +1,5 @@
 ---
 title: "Micromania"
 url: /begles/micromania/
-shop: Videospiele
+shop: jeux vidéo
 ---

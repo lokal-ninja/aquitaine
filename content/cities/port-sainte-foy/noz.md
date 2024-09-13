@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /port-sainte-foy/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Avia"
 url: /gradignan/avia/
-shop: Lebensmittel
+shop: commodité
 ---

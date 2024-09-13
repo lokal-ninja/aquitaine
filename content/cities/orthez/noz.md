@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /orthez/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

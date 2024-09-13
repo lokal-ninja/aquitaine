@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /serres-castet/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Landes Médical"
 url: /parentis-en-born/landes-medical/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

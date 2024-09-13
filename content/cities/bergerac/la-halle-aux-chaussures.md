@@ -1,5 +1,5 @@
 ---
 title: "La Halle aux Chaussures"
 url: /bergerac/la-halle-aux-chaussures/
-shop: Schuhe
+shop: chaussures
 ---

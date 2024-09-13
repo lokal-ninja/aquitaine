@@ -1,5 +1,5 @@
 ---
 title: "Prot-tech-Nutrition"
 url: /agen/prot-tech-nutrition/
-shop: Nahrungsergänzung
+shop: les compléments alimentaires
 ---

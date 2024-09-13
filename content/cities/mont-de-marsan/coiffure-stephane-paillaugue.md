@@ -1,5 +1,5 @@
 ---
 title: "Coiffure stéphane Paillaugue"
 url: /mont-de-marsan/coiffure-stephane-paillaugue/
-shop: Friseur
+shop: coiffeur
 ---

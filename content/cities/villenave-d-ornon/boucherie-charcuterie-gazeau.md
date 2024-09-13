@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Charcuterie Gazeau"
 url: /villenave-d-ornon/boucherie-charcuterie-gazeau/
-shop: Metzgerei
+shop: boucherie
 ---

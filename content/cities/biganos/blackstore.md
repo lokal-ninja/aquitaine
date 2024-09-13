@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /biganos/blackstore/
-shop: Kleidung
+shop: vêtements
 ---

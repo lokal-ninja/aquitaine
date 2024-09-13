@@ -1,5 +1,5 @@
 ---
 title: "Garage Kléber"
 url: /libourne/garage-kleber/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

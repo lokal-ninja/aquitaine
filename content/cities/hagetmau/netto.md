@@ -1,5 +1,5 @@
 ---
 title: "Netto"
 url: /hagetmau/netto/
-shop: Supermarkt
+shop: supermarché
 ---

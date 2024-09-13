@@ -1,5 +1,5 @@
 ---
 title: "Boo"
 url: /saint-jean-de-luz/boo/
-shop: Schmuck
+shop: bijoux
 ---

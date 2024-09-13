@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /saint-pierre-du-mont/aldi/
-shop: Supermarkt
+shop: supermarché
 ---

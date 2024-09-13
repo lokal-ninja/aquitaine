@@ -1,5 +1,5 @@
 ---
 title: "Diamantine"
 url: /anglet/diamantine/
-shop: Schmuck
+shop: bijoux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cavavin"
 url: /serres-castet/cavavin/
-shop: Wein
+shop: vin
 ---

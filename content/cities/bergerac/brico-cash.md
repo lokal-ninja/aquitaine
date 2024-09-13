@@ -1,5 +1,5 @@
 ---
 title: "Brico Cash"
 url: /bergerac/brico-cash/
-shop: Baumarkt
+shop: à faire soi-même
 ---

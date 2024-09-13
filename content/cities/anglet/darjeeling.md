@@ -1,5 +1,5 @@
 ---
 title: "Darjeeling"
 url: /anglet/darjeeling/
-shop: Kleidung
+shop: vêtements
 ---

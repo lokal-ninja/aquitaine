@@ -1,5 +1,5 @@
 ---
 title: "Courir"
 url: /lescar/courir/
-shop: Schuhe
+shop: chaussures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Audition Pedarregaix"
 url: /pau/audition-pedarregaix/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

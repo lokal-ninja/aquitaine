@@ -1,5 +1,5 @@
 ---
 title: "Gémo"
 url: /bergerac/gemo/
-shop: Kleidung
+shop: vêtements
 ---

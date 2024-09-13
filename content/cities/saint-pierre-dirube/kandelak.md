@@ -1,5 +1,5 @@
 ---
 title: "Kandelak"
 url: /saint-pierre-dirube/kandelak/
-shop: Kerzen
+shop: bougies
 ---

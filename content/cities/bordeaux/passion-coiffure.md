@@ -1,5 +1,5 @@
 ---
 title: "Passion Coiffure"
 url: /bordeaux/passion-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

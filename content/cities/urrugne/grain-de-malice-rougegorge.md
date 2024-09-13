@@ -1,5 +1,5 @@
 ---
 title: "Grain de Malice / RougeGorge"
 url: /urrugne/grain-de-malice-rougegorge/
-shop: Kleidung
+shop: vêtements
 ---

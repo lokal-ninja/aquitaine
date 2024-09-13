@@ -1,5 +1,5 @@
 ---
 title: "Garrage central auto Arlac"
 url: /merignac/garrage-central-auto-arlac/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

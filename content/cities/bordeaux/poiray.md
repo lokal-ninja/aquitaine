@@ -1,5 +1,5 @@
 ---
 title: "Poiray"
 url: /bordeaux/poiray/
-shop: Schmuck
+shop: bijoux
 ---

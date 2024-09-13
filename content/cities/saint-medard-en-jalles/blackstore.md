@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /saint-medard-en-jalles/blackstore/
-shop: Kleidung
+shop: vêtements
 ---

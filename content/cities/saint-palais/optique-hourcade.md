@@ -1,5 +1,5 @@
 ---
 title: "Optique Hourcade"
 url: /saint-palais/optique-hourcade/
-shop: Optiker
+shop: opticien
 ---

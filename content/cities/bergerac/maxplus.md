@@ -1,5 +1,5 @@
 ---
 title: "MaxPlus"
 url: /bergerac/maxplus/
-shop: Kramladen
+shop: magasin de variétés
 ---

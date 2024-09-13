@@ -1,5 +1,5 @@
 ---
 title: "Kiswash"
 url: /bidart/kiswash/
-shop: Wäscherei
+shop: blanchisserie
 ---

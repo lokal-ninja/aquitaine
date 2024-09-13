@@ -1,5 +1,5 @@
 ---
 title: "Agri Oto 64"
 url: /osses/agri-oto-64/
-shop: Autoteile
+shop: pièces de voitures
 ---

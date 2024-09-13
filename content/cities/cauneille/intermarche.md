@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /cauneille/intermarche/
-shop: Supermarkt
+shop: supermarché
 ---

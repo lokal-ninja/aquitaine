@@ -1,5 +1,5 @@
 ---
 title: "Bastide"
 url: /floirac/bastide/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

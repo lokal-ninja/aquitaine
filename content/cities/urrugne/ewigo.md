@@ -1,5 +1,5 @@
 ---
 title: "Ewigo "
 url: /urrugne/ewigo/
-shop: Autohaus
+shop: voiture
 ---

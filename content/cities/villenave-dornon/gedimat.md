@@ -1,5 +1,5 @@
 ---
 title: "Gedimat"
 url: /villenave-dornon/gedimat/
-shop: Baumarkt
+shop: à faire soi-même
 ---

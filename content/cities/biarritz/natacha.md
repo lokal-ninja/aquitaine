@@ -1,5 +1,5 @@
 ---
 title: "Natacha"
 url: /biarritz/natacha/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gifi"
 url: /villenave-dornon/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

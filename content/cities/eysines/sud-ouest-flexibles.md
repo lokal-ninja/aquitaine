@@ -1,5 +1,5 @@
 ---
 title: "Sud-Ouest Flexibles"
 url: /eysines/sud-ouest-flexibles/
-shop: Baumarkt
+shop: à faire soi-même
 ---

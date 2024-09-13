@@ -1,5 +1,5 @@
 ---
 title: "Maison Bourgeais"
 url: /saint-martin-de-seignanx/maison-bourgeais/
-shop: Bäckerei
+shop: boulangerie
 ---

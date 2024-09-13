@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /villenave-dornon/krys/
-shop: Optiker
+shop: opticien
 ---

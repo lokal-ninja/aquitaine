@@ -1,5 +1,5 @@
 ---
 title: "E.Leclerc Drive"
 url: /saint-paul-les-dax/e-leclerc-drive/
-shop: Außenstelle
+shop: avant-poste
 ---

@@ -1,5 +1,5 @@
 ---
 title: "L'intuition"
 url: /saint-sever/lintuition/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La mie Fredo"
 url: /saint-nexans/la-mie-fredo/
-shop: Lebensmittel
+shop: commodité
 ---

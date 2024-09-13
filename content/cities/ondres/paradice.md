@@ -1,5 +1,5 @@
 ---
 title: "Parad'Ice"
 url: /ondres/paradice/
-shop: Eisprodukte
+shop: crème glacée
 ---

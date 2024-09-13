@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /bergerac/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

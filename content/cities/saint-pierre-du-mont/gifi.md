@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /saint-pierre-du-mont/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

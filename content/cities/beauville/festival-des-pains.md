@@ -1,5 +1,5 @@
 ---
 title: "Festival des Pains"
 url: /beauville/festival-des-pains/
-shop: Bäckerei
+shop: boulangerie
 ---

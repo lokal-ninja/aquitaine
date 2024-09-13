@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /lescar/next/
-shop: Kleidung
+shop: vêtements
 ---

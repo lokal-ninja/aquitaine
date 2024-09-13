@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /gradignan/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

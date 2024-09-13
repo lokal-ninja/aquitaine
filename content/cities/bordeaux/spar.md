@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /bordeaux/spar/
-shop: Supermarkt
+shop: supermarché
 ---

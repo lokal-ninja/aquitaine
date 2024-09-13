@@ -1,5 +1,5 @@
 ---
 title: "Matériaux Fam"
 url: /arzacq-arraziguet/materiaux-fam/
-shop: Großhandel
+shop: vente en gros
 ---

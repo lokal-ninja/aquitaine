@@ -1,5 +1,5 @@
 ---
 title: "Granger Mikaël"
 url: /lacropte/granger-mikael/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

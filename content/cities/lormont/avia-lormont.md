@@ -1,5 +1,5 @@
 ---
 title: "Avia Lormont"
 url: /lormont/avia-lormont/
-shop: Lebensmittel
+shop: commodité
 ---

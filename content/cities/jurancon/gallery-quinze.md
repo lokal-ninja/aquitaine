@@ -1,5 +1,5 @@
 ---
 title: "Gallery Quinze"
 url: /jurancon/gallery-quinze/
-shop: Kunst
+shop: art
 ---

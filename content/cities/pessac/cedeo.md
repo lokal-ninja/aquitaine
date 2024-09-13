@@ -1,5 +1,5 @@
 ---
 title: "CEDEO"
 url: /pessac/cedeo/
-shop: Baumarkt
+shop: à faire soi-même
 ---

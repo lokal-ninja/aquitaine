@@ -1,5 +1,5 @@
 ---
 title: "Garage Léger"
 url: /sabres/garage-leger/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

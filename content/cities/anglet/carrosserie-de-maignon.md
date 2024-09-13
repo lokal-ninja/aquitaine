@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie de Maignon"
 url: /anglet/carrosserie-de-maignon/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

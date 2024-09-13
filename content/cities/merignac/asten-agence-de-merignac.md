@@ -1,5 +1,5 @@
 ---
 title: "Asten - Agence de Mérignac"
 url: /merignac/asten-agence-de-merignac/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

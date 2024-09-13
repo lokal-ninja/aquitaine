@@ -1,5 +1,5 @@
 ---
 title: "BKCR"
 url: /bayonne/bkcr/
-shop: Tattoo
+shop: tatouage
 ---

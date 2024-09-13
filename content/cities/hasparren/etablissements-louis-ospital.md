@@ -1,5 +1,5 @@
 ---
 title: "Etablissements Louis Ospital"
 url: /hasparren/etablissements-louis-ospital/
-shop: Metzgerei
+shop: boucherie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gémo"
 url: /merignac/gemo/
-shop: Kleidung
+shop: vêtements
 ---

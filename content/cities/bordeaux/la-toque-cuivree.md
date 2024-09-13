@@ -1,5 +1,5 @@
 ---
 title: "La Toque Cuivrée"
 url: /bordeaux/la-toque-cuivree/
-shop: Konditorei
+shop: pâtisserie
 ---

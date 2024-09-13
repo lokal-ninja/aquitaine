@@ -1,5 +1,5 @@
 ---
 title: "Garage Cazaux"
 url: /ondres/garage-cazaux/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

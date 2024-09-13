@@ -1,5 +1,5 @@
 ---
 title: "Poulette land"
 url: /pau/poulette-land/
-shop: Babysachen
+shop: produits pour bébés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Jardin des Anges"
 url: /capbreton/le-jardin-des-anges/
-shop: Konditorei
+shop: pâtisserie
 ---

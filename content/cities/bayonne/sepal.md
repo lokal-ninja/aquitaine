@@ -1,5 +1,5 @@
 ---
 title: "Sepal"
 url: /bayonne/sepal/
-shop: Küchen
+shop: cuisine
 ---

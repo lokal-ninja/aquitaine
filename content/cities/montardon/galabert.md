@@ -1,5 +1,5 @@
 ---
 title: "Galabert"
 url: /montardon/galabert/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bouygues Telecom"
 url: /lescar/bouygues-telecom/
-shop: Handy
+shop: téléphone portable
 ---

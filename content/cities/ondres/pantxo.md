@@ -1,5 +1,5 @@
 ---
 title: "Pantxo"
 url: /ondres/pantxo/
-shop: Allgemein
+shop: shop
 ---

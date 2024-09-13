@@ -1,5 +1,5 @@
 ---
 title: "Spa Destribats"
 url: /saint-avit/spa-destribats/
-shop: Autoteile
+shop: pièces de voitures
 ---

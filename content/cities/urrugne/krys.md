@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /urrugne/krys/
-shop: Optiker
+shop: opticien
 ---

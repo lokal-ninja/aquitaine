@@ -1,5 +1,5 @@
 ---
 title: "CBA Matériaux"
 url: /hasparren/cba-materiaux/
-shop: Baustoffe
+shop: commerce
 ---

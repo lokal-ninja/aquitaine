@@ -1,5 +1,5 @@
 ---
 title: "Garage Des Ombrages"
 url: /pessac/garage-des-ombrages/
-shop: Autohaus
+shop: voiture
 ---

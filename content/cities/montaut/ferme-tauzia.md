@@ -1,5 +1,5 @@
 ---
 title: "Ferme Tauzia"
 url: /montaut/ferme-tauzia/
-shop: Hofladen
+shop: ferme
 ---

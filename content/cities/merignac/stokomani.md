@@ -1,5 +1,5 @@
 ---
 title: "Stokomani"
 url: /merignac/stokomani/
-shop: Kramladen
+shop: magasin de variétés
 ---

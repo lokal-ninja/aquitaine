@@ -1,5 +1,5 @@
 ---
 title: "Poésie Florale"
 url: /belin-beliet/poesie-florale/
-shop: Blumen
+shop: fleuriste
 ---

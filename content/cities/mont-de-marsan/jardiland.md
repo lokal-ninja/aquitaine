@@ -1,5 +1,5 @@
 ---
 title: "Jardiland"
 url: /mont-de-marsan/jardiland/
-shop: Garten-Center
+shop: centre de jardinage
 ---

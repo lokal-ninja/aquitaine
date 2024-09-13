@@ -1,5 +1,5 @@
 ---
 title: "Ongi Ina"
 url: /urrugne/ongi-ina/
-shop: Schuhe
+shop: chaussures
 ---

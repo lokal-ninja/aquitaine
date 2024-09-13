@@ -1,5 +1,5 @@
 ---
 title: "Select Otomatic"
 url: /bordeaux/select-otomatic/
-shop: Videospiele
+shop: jeux vidéo
 ---

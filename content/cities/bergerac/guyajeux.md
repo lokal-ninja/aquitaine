@@ -1,5 +1,5 @@
 ---
 title: "Guyajeux"
 url: /bergerac/guyajeux/
-shop: Spiele
+shop: jeux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garage Ginestie Motoplaisance"
 url: /excideuil/garage-ginestie-motoplaisance/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

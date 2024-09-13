@@ -1,5 +1,5 @@
 ---
 title: "Centre Commercial Aushopping Bouliac"
 url: /bouliac/centre-commercial-aushopping-bouliac/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

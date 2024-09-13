@@ -1,5 +1,5 @@
 ---
 title: "Dacia"
 url: /issigeac/dacia/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tabac-presse du Grand Caillou"
 url: /eysines/tabac-presse-du-grand-caillou/
-shop: Zeitungen
+shop: marchand de journaux
 ---

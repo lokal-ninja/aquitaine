@@ -1,5 +1,5 @@
 ---
 title: "Motrio Automobile"
 url: /urrugne/motrio-automobile/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

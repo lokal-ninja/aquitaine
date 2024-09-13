@@ -1,5 +1,5 @@
 ---
 title: "Garage Nardou"
 url: /rauzan/garage-nardou/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

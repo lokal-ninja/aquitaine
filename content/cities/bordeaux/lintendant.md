@@ -1,5 +1,5 @@
 ---
 title: "L'Intendant"
 url: /bordeaux/lintendant/
-shop: Wein
+shop: vin
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Choubidou"
 url: /capbreton/choubidou/
-shop: Konditorei
+shop: pâtisserie
 ---

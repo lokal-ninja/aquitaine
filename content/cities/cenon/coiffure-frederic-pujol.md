@@ -1,5 +1,5 @@
 ---
 title: "Coiffure Frédéric Pujol"
 url: /cenon/coiffure-frederic-pujol/
-shop: Friseur
+shop: coiffeur
 ---

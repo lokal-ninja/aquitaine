@@ -1,5 +1,5 @@
 ---
 title: "Coiffure Maite"
 url: /anglet/coiffure-maite/
-shop: Friseur
+shop: coiffeur
 ---

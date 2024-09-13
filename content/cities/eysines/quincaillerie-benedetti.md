@@ -1,5 +1,5 @@
 ---
 title: "Quincaillerie Bénédetti"
 url: /eysines/quincaillerie-benedetti/
-shop: Eisenwaren
+shop: matériel informatique
 ---

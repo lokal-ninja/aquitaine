@@ -1,5 +1,5 @@
 ---
 title: "Cobatri"
 url: /bergerac/cobatri/
-shop: Baumarkt
+shop: à faire soi-même
 ---

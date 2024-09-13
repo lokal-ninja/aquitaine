@@ -1,5 +1,5 @@
 ---
 title: "Lefrancois Pneus"
 url: /bayonne/lefrancois-pneus/
-shop: Autoteile
+shop: pièces de voitures
 ---

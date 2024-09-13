@@ -1,5 +1,5 @@
 ---
 title: "ASM Cuisines et Bains"
 url: /eysines/asm-cuisines-et-bains/
-shop: Küchen
+shop: cuisine
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Spot"
 url: /biscarrosse-plage/le-spot/
-shop: Zeitungen
+shop: marchand de journaux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "L'Armoire Poéthique"
 url: /bordeaux/larmoire-poethique/
-shop: Kleidung
+shop: vêtements
 ---

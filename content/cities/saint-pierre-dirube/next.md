@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /saint-pierre-dirube/next/
-shop: Kleidung
+shop: vêtements
 ---

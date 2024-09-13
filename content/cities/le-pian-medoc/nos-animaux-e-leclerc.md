@@ -1,5 +1,5 @@
 ---
 title: "Nos Animaux E.Leclerc"
 url: /le-pian-medoc/nos-animaux-e-leclerc/
-shop: Tiere
+shop: animal de compagnie
 ---

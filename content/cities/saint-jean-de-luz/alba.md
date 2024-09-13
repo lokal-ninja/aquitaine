@@ -1,5 +1,5 @@
 ---
 title: "Alba"
 url: /saint-jean-de-luz/alba/
-shop: Kleidung
+shop: vêtements
 ---

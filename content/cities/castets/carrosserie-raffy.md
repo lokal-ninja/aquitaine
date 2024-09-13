@@ -1,5 +1,5 @@
 ---
 title: "carrosserie raffy"
 url: /castets/carrosserie-raffy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Proxi"
 url: /libourne/proxi/
-shop: Lebensmittel
+shop: commodité
 ---

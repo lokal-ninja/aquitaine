@@ -1,5 +1,5 @@
 ---
 title: "Terre Océane"
 url: /camblanes-et-meynac/terre-oceane/
-shop: Kosmetik
+shop: beauté
 ---

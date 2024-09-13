@@ -1,5 +1,5 @@
 ---
 title: "Pablo"
 url: /bordeaux/pablo/
-shop: Kleidung
+shop: vêtements
 ---

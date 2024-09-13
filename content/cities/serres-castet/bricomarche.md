@@ -1,5 +1,5 @@
 ---
 title: "Bricomarché"
 url: /serres-castet/bricomarche/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Géant Casino"
 url: /villenave-dornon/geant-casino/
-shop: Gasflaschen
+shop: gaz
 ---

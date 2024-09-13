@@ -1,5 +1,5 @@
 ---
 title: "Bureauservices"
 url: /bon-encontre/bureauservices/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

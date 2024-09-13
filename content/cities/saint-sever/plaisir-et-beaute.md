@@ -1,5 +1,5 @@
 ---
 title: "Plaisir et Beauté"
 url: /saint-sever/plaisir-et-beaute/
-shop: Kosmetik
+shop: beauté
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Joe Bike"
 url: /capbreton/joe-bike-quai-de-la-pecherie/
-shop: Fahrrad
+shop: vélo
 ---

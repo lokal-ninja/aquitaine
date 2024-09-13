@@ -1,5 +1,5 @@
 ---
 title: "Maison Montauzer"
 url: /anglet/maison-montauzer/
-shop: Metzgerei
+shop: boucherie
 ---

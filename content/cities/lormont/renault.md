@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /lormont/renault/
-shop: Autohaus
+shop: voiture
 ---

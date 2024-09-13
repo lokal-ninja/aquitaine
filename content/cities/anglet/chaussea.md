@@ -1,5 +1,5 @@
 ---
 title: "Chaussea"
 url: /anglet/chaussea/
-shop: Schuhe
+shop: chaussures
 ---

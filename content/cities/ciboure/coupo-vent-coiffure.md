@@ -1,5 +1,5 @@
 ---
 title: "Coup'O vent coiffure"
 url: /ciboure/coupo-vent-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

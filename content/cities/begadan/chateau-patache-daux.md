@@ -1,5 +1,5 @@
 ---
 title: "Château Patache d'Aux"
 url: /begadan/chateau-patache-daux/
-shop: Spirituosen
+shop: alcool
 ---

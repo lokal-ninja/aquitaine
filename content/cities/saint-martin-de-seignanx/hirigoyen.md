@@ -1,5 +1,5 @@
 ---
 title: "Hirigoyen"
 url: /saint-martin-de-seignanx/hirigoyen/
-shop: Hofladen
+shop: ferme
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auto 40 Aquitaine"
 url: /biscarrosse/auto-40-aquitaine/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Palace Caravanes"
 url: /labenne/palace-caravanes/
-shop: Wohnwagen
+shop: caravane
 ---

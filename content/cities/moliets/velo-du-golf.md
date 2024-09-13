@@ -1,5 +1,5 @@
 ---
 title: "Vélo du Golf"
 url: /moliets/velo-du-golf/
-shop: Fahrrad
+shop: vélo
 ---

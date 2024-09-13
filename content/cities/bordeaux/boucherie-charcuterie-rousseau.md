@@ -1,5 +1,5 @@
 ---
 title: "Boucherie charcuterie Rousseau"
 url: /bordeaux/boucherie-charcuterie-rousseau/
-shop: Metzgerei
+shop: boucherie
 ---

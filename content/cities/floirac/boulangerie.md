@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie"
 url: /floirac/boulangerie/
-shop: Bäckerei
+shop: boulangerie
 ---

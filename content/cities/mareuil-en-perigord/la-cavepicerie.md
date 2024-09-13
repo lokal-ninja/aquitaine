@@ -1,5 +1,5 @@
 ---
 title: "La Cav'Epicerie"
 url: /mareuil-en-perigord/la-cavepicerie/
-shop: Wein
+shop: vin
 ---

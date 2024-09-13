@@ -1,5 +1,5 @@
 ---
 title: "La croquetterie"
 url: /pessac/la-croquetterie/
-shop: Tiere
+shop: animal de compagnie
 ---

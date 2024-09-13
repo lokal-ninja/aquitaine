@@ -1,5 +1,5 @@
 ---
 title: "Le Métro"
 url: /tarnos/le-metro/
-shop: Zeitungen
+shop: marchand de journaux
 ---

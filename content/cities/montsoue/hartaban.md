@@ -1,5 +1,5 @@
 ---
 title: "Hartaban"
 url: /montsoue/hartaban/
-shop: Hofladen
+shop: ferme
 ---

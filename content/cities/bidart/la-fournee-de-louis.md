@@ -1,5 +1,5 @@
 ---
 title: "La Fournée de Louis"
 url: /bidart/la-fournee-de-louis/
-shop: Bäckerei
+shop: boulangerie
 ---

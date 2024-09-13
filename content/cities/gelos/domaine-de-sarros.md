@@ -1,5 +1,5 @@
 ---
 title: "Domaine de Sarros"
 url: /gelos/domaine-de-sarros/
-shop: Wein
+shop: vin
 ---

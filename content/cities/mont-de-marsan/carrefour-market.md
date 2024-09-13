@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /mont-de-marsan/carrefour-market/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cyrillus"
 url: /bordeaux/cyrillus/
-shop: Kleidung
+shop: vêtements
 ---

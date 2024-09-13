@@ -1,5 +1,5 @@
 ---
 title: "Labechiloa"
 url: /saint-jean-de-luz/labechiloa/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carrelages du Marais"
 url: /bordeaux/carrelages-du-marais/
-shop: Fliesen
+shop: tuiles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garance"
 url: /saint-jean-de-luz/garance/
-shop: Friseur
+shop: coiffeur
 ---

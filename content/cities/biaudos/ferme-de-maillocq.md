@@ -1,5 +1,5 @@
 ---
 title: "Ferme de Maillocq"
 url: /biaudos/ferme-de-maillocq/
-shop: Hofladen
+shop: ferme
 ---

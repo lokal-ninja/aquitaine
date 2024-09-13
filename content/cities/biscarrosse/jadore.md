@@ -1,5 +1,5 @@
 ---
 title: "J'Adore"
 url: /biscarrosse/jadore/
-shop: Kleidung
+shop: vêtements
 ---

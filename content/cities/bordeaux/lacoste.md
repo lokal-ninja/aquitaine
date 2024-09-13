@@ -1,5 +1,5 @@
 ---
 title: "Lacoste"
 url: /bordeaux/lacoste/
-shop: Kleidung
+shop: vêtements
 ---

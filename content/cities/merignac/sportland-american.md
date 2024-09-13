@@ -1,5 +1,5 @@
 ---
 title: "Sportland American"
 url: /merignac/sportland-american/
-shop: Kleidung
+shop: vêtements
 ---

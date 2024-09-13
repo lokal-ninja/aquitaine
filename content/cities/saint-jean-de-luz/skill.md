@@ -1,5 +1,5 @@
 ---
 title: "Skill"
 url: /saint-jean-de-luz/skill/
-shop: Schuhe
+shop: chaussures
 ---

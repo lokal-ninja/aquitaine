@@ -1,5 +1,5 @@
 ---
 title: "Repair and run"
 url: /bordeaux/repair-and-run/
-shop: Fahrrad
+shop: vélo
 ---

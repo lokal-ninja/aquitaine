@@ -1,5 +1,5 @@
 ---
 title: "Styleco"
 url: /nontron/styleco/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "L’Entre-pot’s"
 url: /buzy/lentre-pots/
-shop: Metzgerei
+shop: boucherie
 ---

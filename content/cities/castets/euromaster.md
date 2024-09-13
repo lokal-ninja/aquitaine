@@ -1,5 +1,5 @@
 ---
 title: "Euromaster"
 url: /castets/euromaster/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

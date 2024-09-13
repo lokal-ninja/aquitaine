@@ -1,5 +1,5 @@
 ---
 title: "Adishatz"
 url: /soorts-hossegor/adishatz/
-shop: Kleidung
+shop: vêtements
 ---

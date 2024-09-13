@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /langon/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yann Coiffure"
 url: /biscarrosse-plage/yann-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

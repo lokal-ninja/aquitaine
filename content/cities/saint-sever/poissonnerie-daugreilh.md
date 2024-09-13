@@ -1,5 +1,5 @@
 ---
 title: "Poissonnerie DAUGREILH"
 url: /saint-sever/poissonnerie-daugreilh/
-shop: Fisch
+shop: fruits de mer
 ---

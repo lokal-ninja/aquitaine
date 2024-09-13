@@ -1,5 +1,5 @@
 ---
 title: "Fermiers du Landes'main"
 url: /benquet/fermiers-du-landesmain/
-shop: Hofladen
+shop: ferme
 ---

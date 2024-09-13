@@ -1,5 +1,5 @@
 ---
 title: "Antton Chocolatier"
 url: /urrugne/antton-chocolatier/
-shop: Schokolade
+shop: chocolat
 ---

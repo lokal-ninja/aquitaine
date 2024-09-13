@@ -1,5 +1,5 @@
 ---
 title: "Au Fournil Gambetta"
 url: /bergerac/au-fournil-gambetta/
-shop: Bäckerei
+shop: boulangerie
 ---

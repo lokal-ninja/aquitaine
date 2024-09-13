@@ -1,5 +1,5 @@
 ---
 title: "But"
 url: /biganos/but/
-shop: Möbel
+shop: meubles
 ---

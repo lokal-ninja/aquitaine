@@ -1,5 +1,5 @@
 ---
 title: "Dom Motors"
 url: /biscarrosse/dom-motors/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

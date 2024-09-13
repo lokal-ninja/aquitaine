@@ -1,5 +1,5 @@
 ---
 title: "Magpresse"
 url: /nerac/magpresse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

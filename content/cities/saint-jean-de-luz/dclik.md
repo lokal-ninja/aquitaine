@@ -1,5 +1,5 @@
 ---
 title: "Dclik"
 url: /saint-jean-de-luz/dclik/
-shop: Kleidung
+shop: vêtements
 ---

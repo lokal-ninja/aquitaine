@@ -1,5 +1,5 @@
 ---
 title: "Amand'in Cakes"
 url: /mimizan/amandin-cakes/
-shop: Konditorei
+shop: pâtisserie
 ---

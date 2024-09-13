@@ -1,5 +1,5 @@
 ---
 title: "Clauzier"
 url: /labatut/clauzier/
-shop: Bäckerei
+shop: boulangerie
 ---

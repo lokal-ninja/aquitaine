@@ -1,5 +1,5 @@
 ---
 title: "Captain Music"
 url: /bordeaux/captain-music/
-shop: Instrumente
+shop: instrument de musique
 ---

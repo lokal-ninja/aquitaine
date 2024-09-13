@@ -1,5 +1,5 @@
 ---
 title: "Bureau Vallée"
 url: /saint-paul-les-dax/bureau-vallee/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

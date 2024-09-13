@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /cars/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

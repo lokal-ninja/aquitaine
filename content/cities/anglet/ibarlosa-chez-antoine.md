@@ -1,5 +1,5 @@
 ---
 title: "Ibarlosa - Chez Antoine"
 url: /anglet/ibarlosa-chez-antoine/
-shop: Metzgerei
+shop: boucherie
 ---

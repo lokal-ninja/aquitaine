@@ -1,5 +1,5 @@
 ---
 title: "Marc Postulka"
 url: /bordeaux/marc-postulka/
-shop: Garten-Center
+shop: centre de jardinage
 ---

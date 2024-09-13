@@ -1,5 +1,5 @@
 ---
 title: "Bathestia Récup'"
 url: /moustey/bathestia-recup/
-shop: Baumarkt
+shop: à faire soi-même
 ---

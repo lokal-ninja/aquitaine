@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /lescar/sfr/
-shop: Handy
+shop: téléphone portable
 ---

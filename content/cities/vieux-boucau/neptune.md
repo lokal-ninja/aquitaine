@@ -1,5 +1,5 @@
 ---
 title: "Neptune"
 url: /vieux-boucau/neptune/
-shop: Fisch
+shop: fruits de mer
 ---

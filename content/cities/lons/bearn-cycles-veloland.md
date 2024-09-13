@@ -1,5 +1,5 @@
 ---
 title: "Béarn Cycles - Veloland"
 url: /lons/bearn-cycles-veloland/
-shop: Fahrrad
+shop: vélo
 ---

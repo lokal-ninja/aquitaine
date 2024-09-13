@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /castets/intermarche/
-shop: Supermarkt
+shop: supermarché
 ---

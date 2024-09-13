@@ -1,5 +1,5 @@
 ---
 title: "Au Grand Large"
 url: /villenave-dornon/au-grand-large/
-shop: Fisch
+shop: fruits de mer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pharmacie Despujols"
 url: /dax/pharmacie-despujols/
-shop: Drogerie
+shop: chimiste
 ---

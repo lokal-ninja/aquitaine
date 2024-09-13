@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Cazauran Frères"
 url: /ustaritz/carrosserie-cazauran-freres/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

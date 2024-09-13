@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /gujan-mestras/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

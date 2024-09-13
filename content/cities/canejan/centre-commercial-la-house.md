@@ -1,5 +1,5 @@
 ---
 title: "Centre Commercial la House"
 url: /canejan/centre-commercial-la-house/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Huilerie BOCERNO"
 url: /plazac/huilerie-bocerno/
-shop: Allgemein
+shop: shop
 ---

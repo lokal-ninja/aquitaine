@@ -1,5 +1,5 @@
 ---
 title: "AbriFrance Box"
 url: /nerac/abrifrance-box/
-shop: Möbel
+shop: meubles
 ---

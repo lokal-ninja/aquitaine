@@ -1,5 +1,5 @@
 ---
 title: "HEXA"
 url: /anglet/hexa/
-shop: Allgemein
+shop: shop
 ---

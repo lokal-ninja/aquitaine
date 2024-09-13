@@ -1,5 +1,5 @@
 ---
 title: "Copra"
 url: /ordiarp/copra/
-shop: Haushaltsgeräte
+shop: appareil ménager
 ---

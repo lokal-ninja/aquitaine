@@ -1,5 +1,5 @@
 ---
 title: "Fabrice Automobiles"
 url: /urrugne/fabrice-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

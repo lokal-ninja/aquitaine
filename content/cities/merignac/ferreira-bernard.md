@@ -1,5 +1,5 @@
 ---
 title: "Ferreira Bernard"
 url: /merignac/ferreira-bernard/
-shop: Friseur
+shop: coiffeur
 ---

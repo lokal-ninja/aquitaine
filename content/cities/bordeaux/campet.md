@@ -1,5 +1,5 @@
 ---
 title: "Campet"
 url: /bordeaux/campet/
-shop: Metzgerei
+shop: boucherie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Olo Surfshop"
 url: /soorts-hossegor/olo-surfshop/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tchip Coiffure"
 url: /bordeaux/tchip-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

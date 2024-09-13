@@ -1,5 +1,5 @@
 ---
 title: "O Levain D'Ossau"
 url: /buzy/o-levain-dossau/
-shop: Bäckerei
+shop: boulangerie
 ---

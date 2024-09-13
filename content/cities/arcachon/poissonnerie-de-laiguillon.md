@@ -1,5 +1,5 @@
 ---
 title: "Poissonnerie de l'Aiguillon"
 url: /arcachon/poissonnerie-de-laiguillon/
-shop: Fisch
+shop: fruits de mer
 ---

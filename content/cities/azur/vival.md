@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /azur/vival/
-shop: Lebensmittel
+shop: commodité
 ---

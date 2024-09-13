@@ -1,5 +1,5 @@
 ---
 title: "Ximti"
 url: /agen/ximti/
-shop: Lebensmittel
+shop: commodité
 ---

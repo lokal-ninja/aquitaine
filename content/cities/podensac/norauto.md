@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /podensac/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

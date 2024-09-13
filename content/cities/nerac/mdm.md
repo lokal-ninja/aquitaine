@@ -1,5 +1,5 @@
 ---
 title: "MDM"
 url: /nerac/mdm/
-shop: Kleidung
+shop: vêtements
 ---

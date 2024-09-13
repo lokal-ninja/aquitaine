@@ -1,5 +1,5 @@
 ---
 title: "Catena Lonzi"
 url: /excideuil/catena-lonzi/
-shop: Eisenwaren
+shop: matériel informatique
 ---

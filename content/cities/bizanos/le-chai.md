@@ -1,5 +1,5 @@
 ---
 title: "Le Chai"
 url: /bizanos/le-chai/
-shop: Wein
+shop: vin
 ---

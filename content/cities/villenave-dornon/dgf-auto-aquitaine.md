@@ -1,5 +1,5 @@
 ---
 title: "DGF Auto Aquitaine"
 url: /villenave-dornon/dgf-auto-aquitaine/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

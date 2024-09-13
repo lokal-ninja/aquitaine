@@ -1,5 +1,5 @@
 ---
 title: "OliKrom"
 url: /pessac/olikrom/
-shop: Farben
+shop: peinture
 ---

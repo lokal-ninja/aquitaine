@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /bergerac/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

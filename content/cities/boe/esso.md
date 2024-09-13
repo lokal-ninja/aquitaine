@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /boe/esso/
-shop: Lebensmittel
+shop: commodité
 ---

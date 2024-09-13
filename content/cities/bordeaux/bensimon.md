@@ -1,5 +1,5 @@
 ---
 title: "Bensimon"
 url: /bordeaux/bensimon/
-shop: Kleidung
+shop: vêtements
 ---

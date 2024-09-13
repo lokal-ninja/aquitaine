@@ -1,5 +1,5 @@
 ---
 title: "Thalia"
 url: /nerac/thalia/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

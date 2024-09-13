@@ -1,5 +1,5 @@
 ---
 title: "Coiff Mode"
 url: /arzacq-arraziguet/coiff-mode/
-shop: Friseur
+shop: coiffeur
 ---

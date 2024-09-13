@@ -1,5 +1,5 @@
 ---
 title: "Bexley"
 url: /bordeaux/bexley/
-shop: Schuhe
+shop: chaussures
 ---

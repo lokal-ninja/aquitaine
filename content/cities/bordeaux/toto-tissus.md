@@ -1,5 +1,5 @@
 ---
 title: "Toto Tissus"
 url: /bordeaux/toto-tissus/
-shop: Textil
+shop: tissu
 ---

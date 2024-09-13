@@ -1,5 +1,5 @@
 ---
 title: "SB3 Outlet"
 url: /soorts-hossegor/sb3-outlet/
-shop: Kleidung
+shop: vêtements
 ---

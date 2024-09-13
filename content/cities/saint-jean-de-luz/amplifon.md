@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /saint-jean-de-luz/amplifon/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

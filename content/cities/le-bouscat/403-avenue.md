@@ -1,5 +1,5 @@
 ---
 title: "403 Avenue"
 url: /le-bouscat/403-avenue/
-shop: Friseur
+shop: coiffeur
 ---

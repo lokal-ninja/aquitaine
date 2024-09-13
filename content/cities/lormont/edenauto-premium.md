@@ -1,5 +1,5 @@
 ---
 title: "Edenauto Premium"
 url: /lormont/edenauto-premium/
-shop: Autohaus
+shop: voiture
 ---

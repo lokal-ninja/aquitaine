@@ -1,5 +1,5 @@
 ---
 title: "Batiland"
 url: /etauliers/batiland/
-shop: Baumarkt
+shop: à faire soi-même
 ---

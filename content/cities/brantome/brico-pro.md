@@ -1,5 +1,5 @@
 ---
 title: "Brico Pro"
 url: /brantome/brico-pro/
-shop: Baumarkt
+shop: à faire soi-même
 ---

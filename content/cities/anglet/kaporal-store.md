@@ -1,5 +1,5 @@
 ---
 title: "Kaporal Store"
 url: /anglet/kaporal-store/
-shop: Kleidung
+shop: vêtements
 ---

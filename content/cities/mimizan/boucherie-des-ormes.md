@@ -1,5 +1,5 @@
 ---
 title: "Boucherie des Ormes"
 url: /mimizan/boucherie-des-ormes/
-shop: Metzgerei
+shop: boucherie
 ---

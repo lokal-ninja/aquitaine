@@ -1,5 +1,5 @@
 ---
 title: "Orchestra"
 url: /biganos/orchestra/
-shop: Babysachen
+shop: produits pour bébés
 ---

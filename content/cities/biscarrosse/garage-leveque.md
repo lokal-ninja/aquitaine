@@ -1,5 +1,5 @@
 ---
 title: "Garage Lévêque"
 url: /biscarrosse/garage-leveque/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

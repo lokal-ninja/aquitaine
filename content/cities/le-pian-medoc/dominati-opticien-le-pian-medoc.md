@@ -1,5 +1,5 @@
 ---
 title: "Dominati Opticien Le Pian Médoc"
 url: /le-pian-medoc/dominati-opticien-le-pian-medoc/
-shop: Optiker
+shop: opticien
 ---

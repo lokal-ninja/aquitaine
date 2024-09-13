@@ -1,5 +1,5 @@
 ---
 title: "Mystic Mama"
 url: /soorts-hossegor/mystic-mama/
-shop: Allgemein
+shop: shop
 ---

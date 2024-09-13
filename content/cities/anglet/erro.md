@@ -1,5 +1,5 @@
 ---
 title: "ERRO"
 url: /anglet/erro/
-shop: Leder
+shop: cuir
 ---

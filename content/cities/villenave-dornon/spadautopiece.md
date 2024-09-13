@@ -1,5 +1,5 @@
 ---
 title: "Spadautopiece"
 url: /villenave-dornon/spadautopiece/
-shop: Autoteile
+shop: pièces de voitures
 ---

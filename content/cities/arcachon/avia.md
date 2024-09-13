@@ -1,5 +1,5 @@
 ---
 title: "Avia"
 url: /arcachon/avia/
-shop: Lebensmittel
+shop: commodité
 ---

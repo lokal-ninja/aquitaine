@@ -1,5 +1,5 @@
 ---
 title: "TAB"
 url: /libourne/tab/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

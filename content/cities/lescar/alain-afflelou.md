@@ -1,5 +1,5 @@
 ---
 title: "Alain Afflelou"
 url: /lescar/alain-afflelou/
-shop: Optiker
+shop: opticien
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Les Miches Moneinchonnes"
 url: /monein/les-miches-moneinchonnes/
-shop: Bäckerei
+shop: boulangerie
 ---

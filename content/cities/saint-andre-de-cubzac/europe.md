@@ -1,5 +1,5 @@
 ---
 title: "Europe"
 url: /saint-andre-de-cubzac/europe/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

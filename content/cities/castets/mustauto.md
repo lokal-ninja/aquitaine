@@ -1,5 +1,5 @@
 ---
 title: "mustauto"
 url: /castets/mustauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cap'tif"
 url: /capbreton/captif/
-shop: Friseur
+shop: coiffeur
 ---

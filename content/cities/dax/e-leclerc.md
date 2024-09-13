@@ -1,5 +1,5 @@
 ---
 title: "E.Leclerc"
 url: /dax/e-leclerc/
-shop: Supermarkt
+shop: supermarché
 ---

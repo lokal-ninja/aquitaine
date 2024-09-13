@@ -1,5 +1,5 @@
 ---
 title: "Soltechnic"
 url: /bruges/soltechnic/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Halle de Pessac"
 url: /pessac/la-halle-de-pessac/
-shop: Gemüse & Obst
+shop: légumes
 ---

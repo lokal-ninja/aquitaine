@@ -1,5 +1,5 @@
 ---
 title: "Acuitis"
 url: /pau/acuitis/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

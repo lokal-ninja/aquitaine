@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /billere/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

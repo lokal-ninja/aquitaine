@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Charcuterie Urrutia"
 url: /urrugne/boucherie-charcuterie-urrutia/
-shop: Metzgerei
+shop: boucherie
 ---

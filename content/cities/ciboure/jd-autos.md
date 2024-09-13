@@ -1,5 +1,5 @@
 ---
 title: "JD Autos"
 url: /ciboure/jd-autos/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

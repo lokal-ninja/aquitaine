@@ -1,5 +1,5 @@
 ---
 title: "Nuances Unikalo"
 url: /capbreton/nuances-unikalo/
-shop: Farben
+shop: peinture
 ---

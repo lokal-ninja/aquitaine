@@ -1,5 +1,5 @@
 ---
 title: "Tamara"
 url: /saint-pierre-du-mont/tamara/
-shop: Schmuck
+shop: bijoux
 ---

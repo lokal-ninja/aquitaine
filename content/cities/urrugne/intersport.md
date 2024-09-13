@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /urrugne/intersport/
-shop: Sport
+shop: sports
 ---

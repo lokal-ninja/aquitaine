@@ -1,5 +1,5 @@
 ---
 title: "Be Coiff"
 url: /hendaye/be-coiff/
-shop: Friseur
+shop: coiffeur
 ---

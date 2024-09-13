@@ -1,5 +1,5 @@
 ---
 title: "Épicerie cocotte"
 url: /soorts-hossegor/epicerie-cocotte/
-shop: Feinkost
+shop: charcuterie
 ---
