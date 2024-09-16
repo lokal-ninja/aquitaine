@@ -1,11 +1,11 @@
 id: 1220332897
-type: way
+type: node
 latitude: 44.83479
 longitude: -0.63761
 postcode: "33700"
 city: Mérignac
-street: "Avenue de la Marne"
-housenumber: 207
+street: Avenue de la Marne
+housenumber: "207"
 phone: ""
 opening_hours: ""
 website: ""

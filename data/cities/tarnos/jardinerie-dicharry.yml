@@ -4,8 +4,8 @@ latitude: 43.53091
 longitude: -1.44289
 postcode: "40220"
 city: Tarnos
-street: "Chemin de Lavigne"
-housenumber: 298
-phone: "+33 5 59 64 25 94"
-opening_hours: "Mo-Sa 09:15-12:00,14:15-19:00; Su 15:00-18:00"
-website: "https://www.jardinerie-dicharry.fr"
+street: Chemin de Lavigne
+housenumber: "298"
+phone: +33 5 59 64 25 94
+opening_hours: Mo-Sa 09:15-12:00,14:15-19:00; Su 15:00-18:00
+website: https://www.jardinerie-dicharry.fr

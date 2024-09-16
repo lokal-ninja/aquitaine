@@ -4,8 +4,8 @@ latitude: 44.84129
 longitude: -0.57374
 postcode: "33000"
 city: Bordeaux
-street: "Rue Saint-Rémi"
-housenumber: 63
+street: Rue Saint-Rémi
+housenumber: "63"
 phone: "+33556525146"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.bordeauxhome.fr"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.bordeauxhome.fr

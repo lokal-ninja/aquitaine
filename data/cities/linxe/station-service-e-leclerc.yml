@@ -1,11 +1,11 @@
 id: 115516258
-type: way
+type: node
 latitude: 43.92763
 longitude: -1.25576
 postcode: "40260"
 city: Linxe
-street: "Rue des Morilles"
-housenumber: 32
+street: Rue des Morilles
+housenumber: "32"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

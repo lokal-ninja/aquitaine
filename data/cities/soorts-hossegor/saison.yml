@@ -4,8 +4,8 @@ latitude: 43.65941
 longitude: -1.42751
 postcode: "40150"
 city: Soorts-Hossegor
-street: "Avenue de la Gare"
-housenumber: 53
-phone: "+33 5 40 77 22 05"
-opening_hours: "Mo-Su 10:00-19:00"
-website: "https://www.saisondici.fr/"
+street: Avenue de la Gare
+housenumber: "53"
+phone: +33 5 40 77 22 05
+opening_hours: Mo-Su 10:00-19:00
+website: https://www.saisondici.fr/

@@ -1,11 +1,11 @@
 id: 164300063
-type: way
+type: node
 latitude: 44.831
 longitude: -0.65532
 postcode: "33700"
 city: Mérignac
 street: ""
-housenumber: 
-phone: "+33 5 56121206"
-opening_hours: "Mo-Sa 09:00-19:00"
+housenumber: ""
+phone: +33 5 56121206
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

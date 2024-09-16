@@ -1,11 +1,11 @@
 id: 1013107665
-type: way
+type: node
 latitude: 45.41783
 longitude: 0.92052
 postcode: "24800"
 city: Thiviers
-street: "Rue Pierre Semard"
-housenumber: 4
+street: Rue Pierre Semard
+housenumber: "4"
 phone: ""
-opening_hours: "Tu,We,Fr 14:00-18:00; Sa 09:30-13:00"
-website: "https://www.larecreathiv.fr"
+opening_hours: Tu,We,Fr 14:00-18:00; Sa 09:30-13:00
+website: https://www.larecreathiv.fr

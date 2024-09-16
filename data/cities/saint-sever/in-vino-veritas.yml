@@ -4,8 +4,8 @@ latitude: 43.76068
 longitude: -0.57421
 postcode: ""
 city: Saint-Sever
-street: "Rue Lafayette"
-housenumber: 20
-phone: "+33 5 58 75 78 62"
-opening_hours: "Tu-Th 09:30-12:30; Fr,Sa 09:00-19:00"
-website: "https://invinoveritas-landes.fr/"
+street: Rue Lafayette
+housenumber: "20"
+phone: +33 5 58 75 78 62
+opening_hours: Tu-Th 09:30-12:30; Fr,Sa 09:00-19:00
+website: https://invinoveritas-landes.fr/

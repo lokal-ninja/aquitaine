@@ -4,8 +4,8 @@ latitude: 44.84191
 longitude: -0.57849
 postcode: "33000"
 city: Bordeaux
-street: "Cours de l'Intendance"
-housenumber: 55
+street: Cours de l'Intendance
+housenumber: "55"
 phone: "+33557831990"
-opening_hours: "Mo-Sa 10:00-19:30"
+opening_hours: Mo-Sa 10:00-19:30
 website: ""

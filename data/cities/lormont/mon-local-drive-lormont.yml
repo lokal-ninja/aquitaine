@@ -5,7 +5,7 @@ longitude: -0.51783
 postcode: "33310"
 city: Lormont
 street: ""
-housenumber: 1
-phone: "+33 5 56 30 23 87"
+housenumber: "1"
+phone: +33 5 56 30 23 87
 opening_hours: ""
-website: "https://www.ledrivebordelais.fr/"
+website: https://www.ledrivebordelais.fr/

@@ -4,8 +4,8 @@ latitude: 43.77321
 longitude: -0.42846
 postcode: ""
 city: Grenade-Sur-Adour
-street: "Avenue de Hesingue"
-housenumber: 2
-phone: "+33 5 58 06 30 43"
-opening_hours: "Tu-Sa 07:00-12:30,15:00-19:00; Su 07:00-12:30"
-website: "https://au-bon-boucher.fr/"
+street: Avenue de Hesingue
+housenumber: "2"
+phone: +33 5 58 06 30 43
+opening_hours: Tu-Sa 07:00-12:30,15:00-19:00; Su 07:00-12:30
+website: https://au-bon-boucher.fr/

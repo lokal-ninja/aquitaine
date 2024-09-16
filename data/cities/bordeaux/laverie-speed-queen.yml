@@ -4,8 +4,8 @@ latitude: 44.83217
 longitude: -0.57343
 postcode: "33000"
 city: Bordeaux
-street: "Cours Pasteur"
-housenumber: 50
-phone: "+33 6 75 84 53 32"
-opening_hours: "Mo-Su 07:00-22:00"
+street: Cours Pasteur
+housenumber: "50"
+phone: +33 6 75 84 53 32
+opening_hours: Mo-Su 07:00-22:00
 website: ""

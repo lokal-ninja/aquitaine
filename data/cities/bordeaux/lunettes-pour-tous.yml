@@ -4,8 +4,8 @@ latitude: 44.83705
 longitude: -0.57382
 postcode: "33000"
 city: Bordeaux
-street: "Rue Sainte-Catherine"
-housenumber: 125
-phone: "+33 9 72 57 98 00"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://lunettespourtous.com"
+street: Rue Sainte-Catherine
+housenumber: "125"
+phone: +33 9 72 57 98 00
+opening_hours: Mo-Sa 10:00-20:00
+website: https://lunettespourtous.com

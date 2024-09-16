@@ -4,8 +4,8 @@ latitude: 44.77095
 longitude: -0.54114
 postcode: "33140"
 city: Villenave-d'Ornon
-street: "Chemin de Galgon"
-housenumber: 1
-phone: "+33 5 57 96 82 26"
-opening_hours: "Mo,Tu,Th,Fr 09:30-19:30; Sa 09:30-15:30"
-website: "https://www.dusensalabeaute.fr/"
+street: Chemin de Galgon
+housenumber: "1"
+phone: +33 5 57 96 82 26
+opening_hours: Mo,Tu,Th,Fr 09:30-19:30; Sa 09:30-15:30
+website: https://www.dusensalabeaute.fr/

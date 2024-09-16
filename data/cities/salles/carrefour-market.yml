@@ -1,11 +1,11 @@
 id: 288053183
-type: way
+type: node
 latitude: 44.54638
 longitude: -0.87416
 postcode: "33770"
 city: Salles
-street: "Route du Martinet"
-housenumber: 2
-phone: "+33 5 56 88 41 99"
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:30"
-website: "https://www.carrefour.fr/magasin/market-salles"
+street: Route du Martinet
+housenumber: "2"
+phone: +33 5 56 88 41 99
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:30
+website: https://www.carrefour.fr/magasin/market-salles

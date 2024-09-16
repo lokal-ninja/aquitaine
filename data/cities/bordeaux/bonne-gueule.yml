@@ -4,8 +4,8 @@ latitude: 44.84116
 longitude: -0.57602
 postcode: "33000"
 city: Bordeaux
-street: "Place Puy Paulin"
-housenumber: 3
+street: Place Puy Paulin
+housenumber: "3"
 phone: "+33556446062"
-opening_hours: "Mo-Sa 10:00-19:00; Su off"
-website: "https://shop.bonnegueule.fr/"
+opening_hours: Mo-Sa 10:00-19:00; Su off
+website: https://shop.bonnegueule.fr/

@@ -4,8 +4,8 @@ latitude: 44.84204
 longitude: -0.57694
 postcode: "33000"
 city: Bordeaux
-street: "Cours de l'Intendance"
-housenumber: 29
+street: Cours de l'Intendance
+housenumber: "29"
 phone: "+33556007695"
-opening_hours: "Mo 11:00-19:00; Tu-Sa 10:00-19:00; Su off"
-website: "https://www.zapa.fr/fr_fr/"
+opening_hours: Mo 11:00-19:00; Tu-Sa 10:00-19:00; Su off
+website: https://www.zapa.fr/fr_fr/

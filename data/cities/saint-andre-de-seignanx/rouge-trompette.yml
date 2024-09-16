@@ -1,11 +1,11 @@
 id: 881063061
-type: way
+type: node
 latitude: 43.556
 longitude: -1.33544
 postcode: "40390"
 city: Saint-André-de-Seignanx
-street: "Chemin de Senguina"
-housenumber: 740
-phone: "+33 6 62 21 58 56"
+street: Chemin de Senguina
+housenumber: "740"
+phone: +33 6 62 21 58 56
 opening_hours: ""
-website: "https://www.rougetrompette.com/"
+website: https://www.rougetrompette.com/

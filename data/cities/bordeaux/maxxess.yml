@@ -4,8 +4,8 @@ latitude: 44.8743
 longitude: -0.56378
 postcode: "33300"
 city: Bordeaux
-street: "Rue Francis Garnier"
-housenumber: 9
+street: Rue Francis Garnier
+housenumber: "9"
 phone: "+33557102626"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:30-12:30, 14:00-19:00"
-website: "https://reseau.maxxess.fr/notre-reseau-de-magasins-maxxess/maxxess-bordeaux-33/"
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:30-12:30, 14:00-19:00
+website: https://reseau.maxxess.fr/notre-reseau-de-magasins-maxxess/maxxess-bordeaux-33/

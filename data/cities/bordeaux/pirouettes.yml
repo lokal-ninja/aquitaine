@@ -4,8 +4,8 @@ latitude: 44.85194
 longitude: -0.5734
 postcode: ""
 city: Bordeaux
-street: "Cours de Verdun"
-housenumber: 130
-phone: "+33 9 81 05 70 82"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "http://33pirouettes.fr/"
+street: Cours de Verdun
+housenumber: "130"
+phone: +33 9 81 05 70 82
+opening_hours: Tu-Sa 10:00-19:00
+website: http://33pirouettes.fr/

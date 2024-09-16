@@ -1,11 +1,11 @@
 id: 837935134
-type: way
+type: node
 latitude: 43.398
 longitude: -0.94161
 postcode: "64390"
 city: Sauveterre-de-Béarn
-street: "Rue Léon Bérard"
-housenumber: 2
+street: Rue Léon Bérard
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

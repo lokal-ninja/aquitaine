@@ -4,8 +4,8 @@ latitude: 43.72457
 longitude: -1.05736
 postcode: "40990"
 city: Saint-Paul-lès-Dax
-street: "Avenue de la Résistance"
-housenumber: 40
-phone: "+33 5 58 91 76 17"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00,14:00-17:00"
-website: "http://sanitconfort.fr/"
+street: Avenue de la Résistance
+housenumber: "40"
+phone: +33 5 58 91 76 17
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00,14:00-17:00
+website: http://sanitconfort.fr/

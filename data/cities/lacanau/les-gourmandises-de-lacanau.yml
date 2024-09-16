@@ -4,8 +4,8 @@ latitude: 44.97767
 longitude: -1.07563
 postcode: "33680"
 city: Lacanau
-street: "Rue de Caupos"
-housenumber: 2
+street: Rue de Caupos
+housenumber: "2"
 phone: ""
-opening_hours: "covid-19 : ouvert"
+opening_hours: 'covid-19 : ouvert'
 website: ""

@@ -1,11 +1,11 @@
 id: 971707307
-type: way
+type: node
 latitude: 44.62917
 longitude: -1.14718
 postcode: "33260"
 city: La Teste-de-Buch
 street: ""
-housenumber: 4
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

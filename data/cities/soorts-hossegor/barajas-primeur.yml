@@ -4,8 +4,8 @@ latitude: 43.67163
 longitude: -1.38801
 postcode: "40150"
 city: Soorts-Hossegor
-street: "Avenue des Charpentiers"
-housenumber: 354
-phone: "+33 5 58 43 63 45"
-opening_hours: "Mo-Sa 08:00-19:00; Tu-Th 08:00-13:00,15:00-19:00"
-website: "https://barajas.fr/"
+street: Avenue des Charpentiers
+housenumber: "354"
+phone: +33 5 58 43 63 45
+opening_hours: Mo-Sa 08:00-19:00; Tu-Th 08:00-13:00,15:00-19:00
+website: https://barajas.fr/

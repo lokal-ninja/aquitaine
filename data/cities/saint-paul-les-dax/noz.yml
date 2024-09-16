@@ -1,11 +1,11 @@
 id: 64969499
-type: way
+type: node
 latitude: 43.72506
 longitude: -1.07679
 postcode: "40990"
 city: Saint-Paul-lès-Dax
-street: "Rue des Arts et Métiers"
-housenumber: 147
+street: Rue des Arts et Métiers
+housenumber: "147"
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/saint-paul-les-dax/"
+website: https://www.nozarrivages.com/magasin/saint-paul-les-dax/

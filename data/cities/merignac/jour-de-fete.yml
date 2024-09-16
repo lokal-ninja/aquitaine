@@ -1,11 +1,11 @@
 id: 164307383
-type: way
+type: node
 latitude: 44.83039
 longitude: -0.66676
 postcode: "33700"
 city: Mérignac
-street: "Rue Georges Ohm"
-housenumber: 
+street: Rue Georges Ohm
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

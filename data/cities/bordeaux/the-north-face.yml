@@ -4,8 +4,8 @@ latitude: 44.83975
 longitude: -0.57804
 postcode: "33000"
 city: Bordeaux
-street: "Rue Vital Carles"
-housenumber: 30
+street: Rue Vital Carles
+housenumber: "30"
 phone: "+33981246832"
-opening_hours: "Mo-Sa 11:00-19:00"
-website: "https://www.thenorthface.fr/"
+opening_hours: Mo-Sa 11:00-19:00
+website: https://www.thenorthface.fr/

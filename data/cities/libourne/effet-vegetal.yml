@@ -1,11 +1,11 @@
 id: 637881138
-type: way
+type: node
 latitude: 44.90801
 longitude: -0.23158
 postcode: "33500"
 city: Libourne
-street: "Avenue du Général de Gaulle"
-housenumber: 11
-phone: "+33 632104972"
-opening_hours: "Mo-Sa 09:00-12:30,14:00-18:30"
+street: Avenue du Général de Gaulle
+housenumber: "11"
+phone: +33 632104972
+opening_hours: Mo-Sa 09:00-12:30,14:00-18:30
 website: ""

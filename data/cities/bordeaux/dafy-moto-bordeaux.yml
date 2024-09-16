@@ -4,8 +4,8 @@ latitude: 44.87339
 longitude: -0.56415
 postcode: "33000"
 city: Bordeaux
-street: "Rue Francis Garnier"
-housenumber: 43
-phone: "+33 5 56291819"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:30-12:00,14:00-19:00; Su,PH off"
-website: "https://www.dafy-moto.com/magasin/dafy-moto-bordeaux.html"
+street: Rue Francis Garnier
+housenumber: "43"
+phone: +33 5 56291819
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:30-12:00,14:00-19:00; Su,PH off
+website: https://www.dafy-moto.com/magasin/dafy-moto-bordeaux.html

@@ -1,11 +1,11 @@
 id: 49562768
-type: way
+type: node
 latitude: 44.88603
 longitude: -0.69944
 postcode: "33160"
 city: Saint-Médard-en-Jalles
-street: "Avenue Descartes"
-housenumber: 2
+street: Avenue Descartes
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:30; Sa 09:30-20:00"
+opening_hours: Mo-Fr 09:30-19:30; Sa 09:30-20:00
 website: ""

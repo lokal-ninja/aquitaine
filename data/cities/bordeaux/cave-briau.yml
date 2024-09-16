@@ -4,8 +4,8 @@ latitude: 44.85165
 longitude: -0.5873
 postcode: "33000"
 city: Bordeaux
-street: "Rue David Johnston"
-housenumber: 94
-phone: "+33 5 56 79 25 71"
-opening_hours: "Mo-Sa 09:00-12:30,14:00-19:30"
-website: "https://www.briau.com/"
+street: Rue David Johnston
+housenumber: "94"
+phone: +33 5 56 79 25 71
+opening_hours: Mo-Sa 09:00-12:30,14:00-19:30
+website: https://www.briau.com/

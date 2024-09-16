@@ -1,11 +1,11 @@
 id: 273790048
-type: way
+type: node
 latitude: 44.63592
 longitude: -0.9729
 postcode: "33380"
 city: Biganos
 street: ""
-housenumber: 55
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Su 06:30-20:00"
+opening_hours: Mo-Su 06:30-20:00
 website: ""

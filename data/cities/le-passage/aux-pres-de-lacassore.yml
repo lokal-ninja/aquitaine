@@ -1,11 +1,11 @@
 id: 220444943
-type: way
+type: node
 latitude: 44.19323
 longitude: 0.60606
 postcode: "47520"
 city: Le Passage
-street: "Avenue de Verdun"
-housenumber: 38
+street: Avenue de Verdun
+housenumber: "38"
 phone: ""
-opening_hours: "Tu-Th 08:45-13:00,14:30-19:00; Fr,Sa 08:45-19:00; Su 08:45-12:30"
-website: "https://aux-pres-de-lacassore.eatbu.com/"
+opening_hours: Tu-Th 08:45-13:00,14:30-19:00; Fr,Sa 08:45-19:00; Su 08:45-12:30
+website: https://aux-pres-de-lacassore.eatbu.com/

@@ -1,11 +1,11 @@
 id: 109021059
-type: way
+type: node
 latitude: 44.95562
 longitude: -0.63034
 postcode: "33290"
 city: Le Pian-Médoc
-street: "Route de Pauillac"
-housenumber: 
-phone: "+33 5 56 95 58 00"
-opening_hours: "24/7"
-website: "https://www.e.leclerc/mag/e-leclerc-le-pian"
+street: Route de Pauillac
+housenumber: ""
+phone: +33 5 56 95 58 00
+opening_hours: 24/7
+website: https://www.e.leclerc/mag/e-leclerc-le-pian

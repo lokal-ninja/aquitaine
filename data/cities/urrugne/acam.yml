@@ -4,8 +4,8 @@ latitude: 43.3747
 longitude: -1.67922
 postcode: "64122"
 city: Urrugne
-street: "D810"
-housenumber: 210
+street: D810
+housenumber: "210"
 phone: "+33559512903"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.acam-materiel-medical.fr/accueil"
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.acam-materiel-medical.fr/accueil

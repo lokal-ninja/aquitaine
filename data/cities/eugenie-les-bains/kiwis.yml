@@ -1,11 +1,11 @@
 id: 394406241
-type: way
+type: node
 latitude: 43.69037
 longitude: -0.37801
 postcode: "40320"
 city: Eugénie-les-Bains
-street: "Route de Mourtera"
-housenumber: 1045
-phone: "+33 5 58 51 16 59"
+street: Route de Mourtera
+housenumber: "1045"
+phone: +33 5 58 51 16 59
 opening_hours: ""
 website: ""

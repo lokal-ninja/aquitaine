@@ -1,11 +1,11 @@
 id: 227599042
-type: way
+type: node
 latitude: 44.77602
 longitude: -0.61197
 postcode: "23170"
 city: Gradignan
-street: "Cours du Général de Gaulle"
-housenumber: 115
+street: Cours du Général de Gaulle
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

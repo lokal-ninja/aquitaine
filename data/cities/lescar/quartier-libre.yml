@@ -1,11 +1,11 @@
 id: 230195654
-type: way
+type: node
 latitude: 43.31651
 longitude: -0.43381
 postcode: "64230"
 city: Lescar
-street: "Boulevard de l'Europe"
-housenumber: 180
+street: Boulevard de l'Europe
+housenumber: "180"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

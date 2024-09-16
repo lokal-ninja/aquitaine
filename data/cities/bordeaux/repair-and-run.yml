@@ -4,8 +4,8 @@ latitude: 44.82832
 longitude: -0.56789
 postcode: "33800"
 city: Bordeaux
-street: "Rue de Bègles"
-housenumber: 21
-phone: "+33.5 56 74 93 47"
+street: Rue de Bègles
+housenumber: "21"
+phone: +33.5 56 74 93 47
 opening_hours: ""
-website: "https://www.repairandrun.com/bordeaux-st-jean/"
+website: https://www.repairandrun.com/bordeaux-st-jean/

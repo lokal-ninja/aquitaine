@@ -4,8 +4,8 @@ latitude: 43.49074
 longitude: -0.77555
 postcode: "64300"
 city: Orthez
-street: "Rue Saint-Pierre"
-housenumber: 21
+street: Rue Saint-Pierre
+housenumber: "21"
 phone: "+33559698691"
-opening_hours: "Mo-Th 08:00-12:00,13:30-17:30; Fr 08:00-12:00,13:30-16:30"
+opening_hours: Mo-Th 08:00-12:00,13:30-17:30; Fr 08:00-12:00,13:30-16:30
 website: ""

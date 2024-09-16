@@ -4,8 +4,8 @@ latitude: 44.89326
 longitude: -0.66669
 postcode: "33320"
 city: Eysines
-street: "Avenue du Médoc"
-housenumber: 309
-phone: "+33 5 56 12 02 16"
-opening_hours: "Mo-Su 06:30-20:00"
+street: Avenue du Médoc
+housenumber: "309"
+phone: +33 5 56 12 02 16
+opening_hours: Mo-Su 06:30-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 187049568
-type: way
+type: node
 latitude: 44.86832
 longitude: -0.67012
 postcode: "33185"
 city: Le Haillan
-street: "Avenue Pasteur"
-housenumber: 15
-phone: "+33 5 56 35 77 85"
+street: Avenue Pasteur
+housenumber: "15"
+phone: +33 5 56 35 77 85
 opening_hours: ""
-website: "https://www.jotul.fr/revendeurs/33185/le-haillan/cheminees-gironde"
+website: https://www.jotul.fr/revendeurs/33185/le-haillan/cheminees-gironde

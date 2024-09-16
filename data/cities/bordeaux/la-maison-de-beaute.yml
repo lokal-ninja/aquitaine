@@ -4,8 +4,8 @@ latitude: 44.84089
 longitude: -0.57771
 postcode: "33000"
 city: Bordeaux
-street: "Rue Porte Dijeaux"
-housenumber: 65
+street: Rue Porte Dijeaux
+housenumber: "65"
 phone: "+33556445286"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.calzedonia.com/fr"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.calzedonia.com/fr

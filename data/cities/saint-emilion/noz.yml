@@ -1,11 +1,11 @@
 id: 173279964
-type: way
+type: node
 latitude: 44.89068
 longitude: -0.19333
 postcode: "33330"
 city: Saint-Émilion
-street: "Le Bois de l'Or"
-housenumber: 
+street: Le Bois de l'Or
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://nozarrivages.com/magasin/saint-emilion/"
+website: https://nozarrivages.com/magasin/saint-emilion/

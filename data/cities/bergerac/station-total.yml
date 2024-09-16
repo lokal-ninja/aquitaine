@@ -1,11 +1,11 @@
 id: 68442122
-type: way
+type: node
 latitude: 44.83225
 longitude: 0.49673
 postcode: "24100"
 city: Bergerac
-street: "Route d'Agen"
-housenumber: 
+street: Route d'Agen
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

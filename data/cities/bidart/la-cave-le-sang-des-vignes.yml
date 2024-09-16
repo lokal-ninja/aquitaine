@@ -4,8 +4,8 @@ latitude: 43.44858
 longitude: -1.57105
 postcode: "64210"
 city: Bidart
-street: "Avenue de Bayonne"
-housenumber: 530
-phone: "+33 9 70 35 29 18"
-opening_hours: "Tu-Sa 09:30-13:00 , 15:00-19:30"
-website: "https://www.lacave-bidart.fr/"
+street: Avenue de Bayonne
+housenumber: "530"
+phone: +33 9 70 35 29 18
+opening_hours: Tu-Sa 09:30-13:00 , 15:00-19:30
+website: https://www.lacave-bidart.fr/

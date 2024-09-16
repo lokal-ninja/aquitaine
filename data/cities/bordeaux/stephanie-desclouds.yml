@@ -4,8 +4,8 @@ latitude: 44.84145
 longitude: -0.58274
 postcode: "33000"
 city: Bordeaux
-street: "Rue Judaïque"
-housenumber: 30
+street: Rue Judaïque
+housenumber: "30"
 phone: ""
-opening_hours: "Tu-Sa 09:30-19:30; Su 09:30-13:30"
-website: "https://www.stephanie-desclouds-fleuriste.fr"
+opening_hours: Tu-Sa 09:30-19:30; Su 09:30-13:30
+website: https://www.stephanie-desclouds-fleuriste.fr

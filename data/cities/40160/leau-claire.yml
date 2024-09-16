@@ -3,9 +3,9 @@ type: node
 latitude: 44.32768
 longitude: -0.95319
 postcode: ""
-city: 40160
-street: "Rue Félix Arnaudin"
-housenumber: 40
-phone: "+339 80 63 95 44"
-opening_hours: "Mo-Su 07:00-20:00"
-website: "https://fr-fr.facebook.com/Pressing.l.Eau.Claire.Ychoux/"
+city: "40160"
+street: Rue Félix Arnaudin
+housenumber: "40"
+phone: +339 80 63 95 44
+opening_hours: Mo-Su 07:00-20:00
+website: https://fr-fr.facebook.com/Pressing.l.Eau.Claire.Ychoux/

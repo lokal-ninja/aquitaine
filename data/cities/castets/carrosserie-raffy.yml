@@ -1,11 +1,11 @@
 id: 232253277
-type: way
+type: node
 latitude: 43.87253
 longitude: -1.13861
 postcode: "40260"
 city: Castets
-street: "Rue des Mousquetaires"
-housenumber: 307
-phone: "+33 5 58 89 41 41"
+street: Rue des Mousquetaires
+housenumber: "307"
+phone: +33 5 58 89 41 41
 opening_hours: ""
-website: "https://carrosserie-jraffy-landes.com/fr/page/accueil"
+website: https://carrosserie-jraffy-landes.com/fr/page/accueil

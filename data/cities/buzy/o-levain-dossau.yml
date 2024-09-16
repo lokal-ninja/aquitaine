@@ -4,8 +4,8 @@ latitude: 43.13297
 longitude: -0.4567
 postcode: "64260"
 city: Buzy
-street: "Rue du Château de Lassalle"
-housenumber: 12
+street: Rue du Château de Lassalle
+housenumber: "12"
 phone: ""
-opening_hours: "Mo,Th-Sa 07:00-13:30, 16:00-19:00, Tu,Su 07:00-13:00"
+opening_hours: Mo,Th-Sa 07:00-13:30, 16:00-19:00, Tu,Su 07:00-13:00
 website: ""

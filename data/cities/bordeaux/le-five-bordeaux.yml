@@ -4,8 +4,8 @@ latitude: 44.87986
 longitude: -0.55939
 postcode: "33300"
 city: Bordeaux
-street: "Rue Dumont d'Urville"
+street: Rue Dumont d'Urville
 housenumber: 9-13
 phone: ""
-opening_hours: "Mo-Fr 10:00-23:00; Sa-Su 10:00-21:00"
-website: "https://www.lefive.fr/bordeaux/"
+opening_hours: Mo-Fr 10:00-23:00; Sa-Su 10:00-21:00
+website: https://www.lefive.fr/bordeaux/

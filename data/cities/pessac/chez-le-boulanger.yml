@@ -4,8 +4,8 @@ latitude: 44.81159
 longitude: -0.61869
 postcode: "33600"
 city: Pessac
-street: "Avenue Jean Jaurès"
-housenumber: 101
-phone: "+33 5 56 95 19 16"
-opening_hours: "Mo-Su 07:00-20:00"
-website: "http://laurentlachenal.com"
+street: Avenue Jean Jaurès
+housenumber: "101"
+phone: +33 5 56 95 19 16
+opening_hours: Mo-Su 07:00-20:00
+website: http://laurentlachenal.com

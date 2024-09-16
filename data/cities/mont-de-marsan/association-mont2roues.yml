@@ -4,8 +4,8 @@ latitude: 43.88783
 longitude: -0.50605
 postcode: "40000"
 city: Mont-de-Marsan
-street: "Rue du Ruisseau"
-housenumber: 29
+street: Rue du Ruisseau
+housenumber: "29"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Sa 09:00-12:00"
-website: "https://www.mont2roues.fr/"
+opening_hours: Mo 14:00-19:00; Sa 09:00-12:00
+website: https://www.mont2roues.fr/

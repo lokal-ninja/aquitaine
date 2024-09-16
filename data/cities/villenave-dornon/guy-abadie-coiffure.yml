@@ -4,8 +4,8 @@ latitude: 44.78147
 longitude: -0.56805
 postcode: "33140"
 city: Villenave-d'Ornon
-street: "Avenue du Maréchal Leclerc"
-housenumber: 5
-phone: "+33 5 40 25 07 53"
-opening_hours: "Mo-Sa 08:30-19:00"
-website: "https://www.abadiecoiffure.fr"
+street: Avenue du Maréchal Leclerc
+housenumber: "5"
+phone: +33 5 40 25 07 53
+opening_hours: Mo-Sa 08:30-19:00
+website: https://www.abadiecoiffure.fr

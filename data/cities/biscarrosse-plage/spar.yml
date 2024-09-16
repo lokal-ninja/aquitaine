@@ -1,11 +1,11 @@
 id: 127819076
-type: way
+type: node
 latitude: 44.45603
 longitude: -1.2421
 postcode: "40600"
 city: Biscarrosse Plage
-street: "Rue du Tit"
-housenumber: 275
+street: Rue du Tit
+housenumber: "275"
 phone: ""
 opening_hours: ""
 website: ""

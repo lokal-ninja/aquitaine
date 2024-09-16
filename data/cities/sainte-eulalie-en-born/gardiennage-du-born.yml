@@ -1,11 +1,11 @@
 id: 676559894
-type: way
+type: node
 latitude: 44.27995
 longitude: -1.18102
 postcode: "40200"
 city: Sainte-Eulalie-en-Born
-street: "Rue des Biganons"
-housenumber: 242
+street: Rue des Biganons
+housenumber: "242"
 phone: ""
 opening_hours: ""
 website: ""

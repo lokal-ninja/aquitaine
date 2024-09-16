@@ -4,8 +4,8 @@ latitude: 43.31714
 longitude: -0.43373
 postcode: "64230"
 city: Lescar
-street: "Boulevard de l'Europe"
-housenumber: 180
+street: Boulevard de l'Europe
+housenumber: "180"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.quartierlibre-lescar.fr/boutique/mondbo/#"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.quartierlibre-lescar.fr/boutique/mondbo/#

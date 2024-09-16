@@ -4,8 +4,8 @@ latitude: 44.84267
 longitude: -0.57741
 postcode: "33000"
 city: Bordeaux
-street: "Rue Voltaire"
-housenumber: 18
+street: Rue Voltaire
+housenumber: "18"
 phone: "+33556817558"
-opening_hours: "Mo-Sa 11:00-19:00"
-website: "https://www.longchamp.com/"
+opening_hours: Mo-Sa 11:00-19:00
+website: https://www.longchamp.com/

@@ -4,8 +4,8 @@ latitude: 43.31968
 longitude: -0.43586
 postcode: "64230"
 city: Lescar
-street: "Rue du Corps Franc Pommiès"
-housenumber: 3
-phone: "+33 5 59 81 16 84"
-opening_hours: "Mo-Fr 09:30-12:30, 13:30-19:00; Sa 09:30-19:00"
-website: "https://www.aubert.com/magasin/MD2/aubert-pau-lescar"
+street: Rue du Corps Franc Pommiès
+housenumber: "3"
+phone: +33 5 59 81 16 84
+opening_hours: Mo-Fr 09:30-12:30, 13:30-19:00; Sa 09:30-19:00
+website: https://www.aubert.com/magasin/MD2/aubert-pau-lescar

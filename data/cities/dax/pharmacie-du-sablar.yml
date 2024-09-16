@@ -4,8 +4,8 @@ latitude: 43.71325
 longitude: -1.05758
 postcode: "40100"
 city: Dax
-street: "Place Maréchal Joffre"
-housenumber: 60
-phone: "+33 5 58 74 00 28"
-opening_hours: "Mo-Sa 08:30-19:30"
+street: Place Maréchal Joffre
+housenumber: "60"
+phone: +33 5 58 74 00 28
+opening_hours: Mo-Sa 08:30-19:30
 website: ""

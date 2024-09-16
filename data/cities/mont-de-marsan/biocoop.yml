@@ -1,11 +1,11 @@
 id: 46991383
-type: way
+type: node
 latitude: 43.8875
 longitude: -0.48858
 postcode: "40000"
 city: Mont-de-Marsan
-street: "Boulevard Jean Larrieu"
-housenumber: 337
-phone: "+33 5 58 46 24 25"
-opening_hours: "Mo 14:30-19:30; Tu-Th 09:30-13:00,14:30-19:30; Fr,Sa 09:30-19:30"
-website: "https://www.biocoop-natureetsante.com/"
+street: Boulevard Jean Larrieu
+housenumber: "337"
+phone: +33 5 58 46 24 25
+opening_hours: Mo 14:30-19:30; Tu-Th 09:30-13:00,14:30-19:30; Fr,Sa 09:30-19:30
+website: https://www.biocoop-natureetsante.com/

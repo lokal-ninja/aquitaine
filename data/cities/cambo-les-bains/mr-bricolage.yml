@@ -1,11 +1,11 @@
 id: 74716488
-type: way
+type: node
 latitude: 43.35554
 longitude: -1.41341
 postcode: "64250"
 city: Cambo-les-Bains
-street: "Avenue d'Espagne"
-housenumber: 69
+street: Avenue d'Espagne
+housenumber: "69"
 phone: "+33559292429"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00; Su 10:00-12:30,15:00-18:00"
-website: "https://conseils.mr-bricolage.fr/magasin/cambo-les-bains"
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00; Su 10:00-12:30,15:00-18:00
+website: https://conseils.mr-bricolage.fr/magasin/cambo-les-bains

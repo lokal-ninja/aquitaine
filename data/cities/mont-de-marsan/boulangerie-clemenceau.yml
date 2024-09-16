@@ -4,8 +4,8 @@ latitude: 43.88634
 longitude: -0.4968
 postcode: "40000"
 city: Mont-de-Marsan
-street: "Avenue Georges Clemenceau"
-housenumber: 233
-phone: "+33 5 58 75 15 29"
-opening_hours: "Mo-Sa 07:30-13:30,16:00-19:30; Su 07:30-13:30"
+street: Avenue Georges Clemenceau
+housenumber: "233"
+phone: +33 5 58 75 15 29
+opening_hours: Mo-Sa 07:30-13:30,16:00-19:30; Su 07:30-13:30
 website: ""

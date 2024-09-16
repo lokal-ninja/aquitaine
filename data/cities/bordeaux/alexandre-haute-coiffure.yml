@@ -1,11 +1,11 @@
 id: 155599938
-type: way
+type: node
 latitude: 44.83138
 longitude: -0.58734
 postcode: "33000"
 city: Bordeaux
-street: "Rue François de Sourdis"
-housenumber: 134
+street: Rue François de Sourdis
+housenumber: "134"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:30; Sa 08:30-17:00"
+opening_hours: Tu-Fr 09:00-18:30; Sa 08:30-17:00
 website: ""

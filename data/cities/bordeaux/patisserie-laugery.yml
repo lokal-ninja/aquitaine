@@ -4,8 +4,8 @@ latitude: 44.87301
 longitude: -0.54665
 postcode: "33300"
 city: Bordeaux
-street: "Rue Achard"
-housenumber: 213
-phone: "+33 5 56 43 28 11"
-opening_hours: "Mo-Fr 06:30-19:30; Sa-Su 07:00-13:00"
-website: "https://www.facebook.com/patisserielaugery/"
+street: Rue Achard
+housenumber: "213"
+phone: +33 5 56 43 28 11
+opening_hours: Mo-Fr 06:30-19:30; Sa-Su 07:00-13:00
+website: https://www.facebook.com/patisserielaugery/

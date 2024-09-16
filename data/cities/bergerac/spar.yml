@@ -4,8 +4,8 @@ latitude: 44.85515
 longitude: 0.47947
 postcode: "24100"
 city: Bergerac
-street: "Rue des Frères Prêcheurs"
-housenumber: 32
-phone: "+33 5 53 57 30 90"
-opening_hours: "Mo 09:00-20:00; Tu-Sa 07:30-20:00; Su 09:00-12:30"
-website: "https://magasins.spar.fr/fr/s/spar-supermarche-bergerac"
+street: Rue des Frères Prêcheurs
+housenumber: "32"
+phone: +33 5 53 57 30 90
+opening_hours: Mo 09:00-20:00; Tu-Sa 07:30-20:00; Su 09:00-12:30
+website: https://magasins.spar.fr/fr/s/spar-supermarche-bergerac

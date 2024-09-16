@@ -4,8 +4,8 @@ latitude: 44.83733
 longitude: -0.57127
 postcode: ""
 city: Bordeaux
-street: "Rue Sainte-Colombe"
-housenumber: 45
-phone: "+33 5 56 81 80 28"
-opening_hours: "Tu-Sa 11:00-19:00"
-website: "https://www.larmoirepoethique.com"
+street: Rue Sainte-Colombe
+housenumber: "45"
+phone: +33 5 56 81 80 28
+opening_hours: Tu-Sa 11:00-19:00
+website: https://www.larmoirepoethique.com

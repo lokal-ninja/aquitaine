@@ -1,11 +1,11 @@
 id: 77924045
-type: way
+type: node
 latitude: 44.82913
 longitude: -0.54126
 postcode: "33100"
 city: Bordeaux
-street: "Quai de la Souys"
-housenumber: 116
-phone: "+33 5 57 54 11 25"
-opening_hours: "24/7"
-website: "https://services.totalenergies.fr/"
+street: Quai de la Souys
+housenumber: "116"
+phone: +33 5 57 54 11 25
+opening_hours: 24/7
+website: https://services.totalenergies.fr/

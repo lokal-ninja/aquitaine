@@ -4,8 +4,8 @@ latitude: 44.84436
 longitude: -0.57721
 postcode: "33000"
 city: Bordeaux
-street: "Allées de Tourny"
-housenumber: 50
+street: Allées de Tourny
+housenumber: "50"
 phone: "+33556442269"
-opening_hours: "Mo 13:00-19:00; Tu-Sa 10:00-19:00"
-website: "https://www.panajou.fr/"
+opening_hours: Mo 13:00-19:00; Tu-Sa 10:00-19:00
+website: https://www.panajou.fr/

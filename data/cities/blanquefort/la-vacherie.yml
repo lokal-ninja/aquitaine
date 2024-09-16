@@ -1,11 +1,11 @@
 id: 110786133
-type: way
+type: node
 latitude: 44.90303
 longitude: -0.6464
 postcode: "33290"
 city: Blanquefort
-street: "Rue François Ransinangue"
-housenumber: 44
+street: Rue François Ransinangue
+housenumber: "44"
 phone: ""
-opening_hours: "We 15:00-17:30; Sa 10:00-12:00, 15:00-17:30"
-website: "https://www.ville-blanquefort.fr/activites-et-sorties/se-cultiver/la-vacheriev"
+opening_hours: We 15:00-17:30; Sa 10:00-12:00, 15:00-17:30
+website: https://www.ville-blanquefort.fr/activites-et-sorties/se-cultiver/la-vacheriev

@@ -4,8 +4,8 @@ latitude: 44.69769
 longitude: -0.2546
 postcode: "33215"
 city: Ladaux
-street: "Pédebert"
-housenumber: 3
-phone: "+33 5 56 23 47 36"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "http://oree-du-bois.fr/"
+street: Pédebert
+housenumber: "3"
+phone: +33 5 56 23 47 36
+opening_hours: Mo-Fr 08:00-18:00
+website: http://oree-du-bois.fr/

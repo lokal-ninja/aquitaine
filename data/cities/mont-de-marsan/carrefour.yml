@@ -1,11 +1,11 @@
 id: 44950099
-type: way
+type: node
 latitude: 43.90226
 longitude: -0.4799
 postcode: "40000"
 city: Mont-de-Marsan
-street: "Avenue du Maréchal Juin"
-housenumber: 760
+street: Avenue du Maréchal Juin
+housenumber: "760"
 phone: ""
 opening_hours: ""
 website: ""

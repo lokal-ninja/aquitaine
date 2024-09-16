@@ -1,11 +1,11 @@
 id: 376198299
-type: way
+type: node
 latitude: 44.88801
 longitude: 1.21625
 postcode: "24200"
 city: Sarlat-la-Canéda
 street: ""
-housenumber: 56
-phone: "+33 5 53 29 64 01"
-opening_hours: "Tu-Sa 09:00-19:00"
-website: "https://l-lui.fr"
+housenumber: "56"
+phone: +33 5 53 29 64 01
+opening_hours: Tu-Sa 09:00-19:00
+website: https://l-lui.fr

@@ -4,8 +4,8 @@ latitude: 43.92208
 longitude: -1.24797
 postcode: "40260"
 city: Linxe
-street: "Route de l'Océan"
-housenumber: 254
-phone: "+33 5 58 42 97 22"
-opening_hours: "07:00-12:30"
+street: Route de l'Océan
+housenumber: "254"
+phone: +33 5 58 42 97 22
+opening_hours: 07:00-12:30
 website: ""

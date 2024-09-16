@@ -1,11 +1,11 @@
 id: 159702017
-type: way
+type: node
 latitude: 44.79137
 longitude: -0.52899
 postcode: "33140"
 city: Villenave-d'Ornon
-street: "Rue Denis Papin"
-housenumber: 
+street: Rue Denis Papin
+housenumber: ""
 phone: "+33892011010"
-opening_hours: "Mo-Fr 09:30-19:30; Sa 09:00-19:30"
-website: "https://magasin.darty.com/23-darty-bordeaux-begles"
+opening_hours: Mo-Fr 09:30-19:30; Sa 09:00-19:30
+website: https://magasin.darty.com/23-darty-bordeaux-begles

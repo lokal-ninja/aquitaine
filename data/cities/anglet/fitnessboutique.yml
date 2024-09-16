@@ -4,8 +4,8 @@ latitude: 43.49336
 longitude: -1.52166
 postcode: "64600"
 city: Anglet
-street: "Rue Jean Hausseguy"
-housenumber: 20
-phone: "+33 5 59 74 15 12"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://anglet.fitnessboutique.fr/"
+street: Rue Jean Hausseguy
+housenumber: "20"
+phone: +33 5 59 74 15 12
+opening_hours: Mo-Sa 10:00-19:00
+website: https://anglet.fitnessboutique.fr/

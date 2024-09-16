@@ -1,11 +1,11 @@
 id: 329680085
-type: way
+type: node
 latitude: 44.06176
 longitude: -1.22511
 postcode: "40170"
 city: Saint-Julien-en-Born
-street: "Route d'Uza"
-housenumber: 72
-phone: "+33 9 51 04 85 18"
-opening_hours: "Mo-Su 07:00-13:00,16:00-19:00; We off"
+street: Route d'Uza
+housenumber: "72"
+phone: +33 9 51 04 85 18
+opening_hours: Mo-Su 07:00-13:00,16:00-19:00; We off
 website: ""

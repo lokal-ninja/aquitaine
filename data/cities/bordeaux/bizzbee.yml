@@ -4,8 +4,8 @@ latitude: 44.84043
 longitude: -0.57413
 postcode: "33000"
 city: Bordeaux
-street: "Rue Sainte-Catherine"
-housenumber: 40
+street: Rue Sainte-Catherine
+housenumber: "40"
 phone: "+33556522718"
-opening_hours: "Mo-Sa 10:00-19:30; Su 13:30-19:00"
-website: "https://www.bizzbee.com/"
+opening_hours: Mo-Sa 10:00-19:30; Su 13:30-19:00
+website: https://www.bizzbee.com/

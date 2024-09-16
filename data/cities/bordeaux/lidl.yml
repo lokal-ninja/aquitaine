@@ -4,8 +4,8 @@ latitude: 44.86237
 longitude: -0.55587
 postcode: "33000"
 city: Bordeaux
-street: "Rue Lucien Faure"
-housenumber: 44
-phone: "+33 1 88 24 70 70"
-opening_hours: "Mo-Sa 08:30-20:30; Su 08:30-12:30"
-website: "https://www.lidl.fr/"
+street: Rue Lucien Faure
+housenumber: "44"
+phone: +33 1 88 24 70 70
+opening_hours: Mo-Sa 08:30-20:30; Su 08:30-12:30
+website: https://www.lidl.fr/

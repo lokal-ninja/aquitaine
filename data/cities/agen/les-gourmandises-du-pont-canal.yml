@@ -1,11 +1,11 @@
 id: 65293697
-type: way
+type: node
 latitude: 44.21001
 longitude: 0.61078
 postcode: "47000"
 city: Agen
-street: "Avenue Georges Delpech"
-housenumber: 16
+street: Avenue Georges Delpech
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

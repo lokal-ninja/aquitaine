@@ -1,11 +1,11 @@
 id: 218263606
-type: way
+type: node
 latitude: 44.85793
 longitude: -0.46792
 postcode: "33370"
 city: Tresses
-street: "Chemin de Lapeyre"
-housenumber: 8
-phone: "+33 5 57 34 11 82"
-opening_hours: "Mo-Fr 09:00-17:30"
-website: "https://maisongrandeau.com"
+street: Chemin de Lapeyre
+housenumber: "8"
+phone: +33 5 57 34 11 82
+opening_hours: Mo-Fr 09:00-17:30
+website: https://maisongrandeau.com

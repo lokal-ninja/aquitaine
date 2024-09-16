@@ -1,11 +1,11 @@
 id: 173357571
-type: way
+type: node
 latitude: 44.88968
 longitude: -0.64931
 postcode: "33320"
 city: Eysines
-street: "Avenue du Médoc"
-housenumber: 
+street: Avenue du Médoc
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 606031564
-type: way
+type: node
 latitude: 43.37712
 longitude: -0.38004
 postcode: "64121"
 city: Serres-Castet
-street: "Route de Bordeaux"
-housenumber: 
+street: Route de Bordeaux
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su 07:30-13:30, 16:00-20:00"
-website: "https://jchabat.wixsite.com/accueil"
+opening_hours: Mo-Sa 07:00-20:00; Su 07:30-13:30, 16:00-20:00
+website: https://jchabat.wixsite.com/accueil

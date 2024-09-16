@@ -1,11 +1,11 @@
 id: 139707190
-type: way
+type: node
 latitude: 44.7849
 longitude: -0.59047
 postcode: "33140"
 city: Villenave-d'Ornon
-street: "Rue Jean-Honoré Fragonard"
-housenumber: 
-phone: "+33 5 57 59 85 90"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.leclercdrive.fr/region-nouvelle-aquitaine/bordeaux/drive-villenave-dornon.aspx"
+street: Rue Jean-Honoré Fragonard
+housenumber: ""
+phone: +33 5 57 59 85 90
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.leclercdrive.fr/region-nouvelle-aquitaine/bordeaux/drive-villenave-dornon.aspx

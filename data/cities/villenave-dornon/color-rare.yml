@@ -4,8 +4,8 @@ latitude: 44.78546
 longitude: -0.57995
 postcode: "33140"
 city: Villenave-d'Ornon
-street: "Rue Pablo Neruda"
-housenumber: 19
-phone: "+33 5 56 52 04 79"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00"
-website: "https://colorare.fr"
+street: Rue Pablo Neruda
+housenumber: "19"
+phone: +33 5 56 52 04 79
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00
+website: https://colorare.fr

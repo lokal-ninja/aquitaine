@@ -4,8 +4,8 @@ latitude: 43.659
 longitude: -0.59101
 postcode: ""
 city: Hagetmau
-street: "Route de Bellevue"
-housenumber: 27
-phone: "+33 5 58 79 38 15"
-opening_hours: "Mo-Sa 08:00-12:00,15:00-18:30"
-website: "https://store.totalenergies.fr/en_EN/NF041376"
+street: Route de Bellevue
+housenumber: "27"
+phone: +33 5 58 79 38 15
+opening_hours: Mo-Sa 08:00-12:00,15:00-18:30
+website: https://store.totalenergies.fr/en_EN/NF041376

@@ -4,8 +4,8 @@ latitude: 44.18141
 longitude: 0.62302
 postcode: "47000"
 city: Agen
-street: "Avenue du Général Leclerc"
-housenumber: 235
-phone: "+33 5 53477301"
-opening_hours: "Mo-Th 08:00-12:00,13:30-17:30; Fr 08:00-12:00,13:30-16:30"
+street: Avenue du Général Leclerc
+housenumber: "235"
+phone: +33 5 53477301
+opening_hours: Mo-Th 08:00-12:00,13:30-17:30; Fr 08:00-12:00,13:30-16:30
 website: ""

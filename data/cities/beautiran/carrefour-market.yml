@@ -1,11 +1,11 @@
 id: 147071973
-type: way
+type: node
 latitude: 44.69978
 longitude: -0.46582
 postcode: "33640"
 city: Beautiran
 street: ""
-housenumber: 0
-phone: "+33 5 56 67 17 88"
-opening_hours: "Mo-Sa 08:30-19:30, Su 09:00-12:30"
-website: "https://www.carrefour.fr/magasin/market-beautiran"
+housenumber: "0"
+phone: +33 5 56 67 17 88
+opening_hours: Mo-Sa 08:30-19:30, Su 09:00-12:30
+website: https://www.carrefour.fr/magasin/market-beautiran

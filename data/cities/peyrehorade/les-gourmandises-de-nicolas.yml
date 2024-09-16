@@ -4,8 +4,8 @@ latitude: 43.54489
 longitude: -1.10476
 postcode: "40300"
 city: Peyrehorade
-street: "Place Aristide Briand"
-housenumber: 498
-phone: "+33 5 58 73 79 08"
-opening_hours: "Tu-Su 07:00-19:30"
-website: "https://www.lesgourmandisesdenicolas.fr/"
+street: Place Aristide Briand
+housenumber: "498"
+phone: +33 5 58 73 79 08
+opening_hours: Tu-Su 07:00-19:30
+website: https://www.lesgourmandisesdenicolas.fr/

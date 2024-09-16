@@ -4,8 +4,8 @@ latitude: 43.30515
 longitude: -0.40245
 postcode: "64140"
 city: Billère
-street: "Route de Bayonne"
-housenumber: 65
-phone: "+33 5 59 32 03 17"
-opening_hours: "Mo 14:00-18:00; Tu-Fr 09:00-18:30; Th 09:00-21:00; Sa 08:30-17:30"
-website: "https://coiffeur-billere.com/"
+street: Route de Bayonne
+housenumber: "65"
+phone: +33 5 59 32 03 17
+opening_hours: Mo 14:00-18:00; Tu-Fr 09:00-18:30; Th 09:00-21:00; Sa 08:30-17:30
+website: https://coiffeur-billere.com/

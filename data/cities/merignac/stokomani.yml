@@ -1,11 +1,11 @@
 id: 164308509
-type: way
+type: node
 latitude: 44.8295
 longitude: -0.65248
 postcode: "33700"
 city: Mérignac
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.stokomani.fr/"
+website: https://www.stokomani.fr/

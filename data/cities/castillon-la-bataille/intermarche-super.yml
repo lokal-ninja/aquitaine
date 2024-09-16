@@ -1,11 +1,11 @@
 id: 243133441
-type: way
+type: node
 latitude: 44.8522
 longitude: -0.04631
 postcode: "33350"
 city: Castillon-la-Bataille
-street: "Avenue Jules Ferry"
-housenumber: 4
+street: Avenue Jules Ferry
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 903303183
-type: way
+type: node
 latitude: 45.32451
 longitude: -0.96158
 postcode: "33340"
 city: Gaillan-en-Médoc
-street: "Route de Soulac"
-housenumber: 12
-phone: "+33 5 56 59 22 96"
+street: Route de Soulac
+housenumber: "12"
+phone: +33 5 56 59 22 96
 opening_hours: ""
-website: "toumabi.com"
+website: toumabi.com

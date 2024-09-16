@@ -4,8 +4,8 @@ latitude: 43.70803
 longitude: -1.04404
 postcode: "40100"
 city: Dax
-street: "Rue de la Croix-Blanche"
-housenumber: 74
-phone: "+33 5 58 56 68 00"
-opening_hours: "24/7"
-website: "http://www.e-leclerc.com/"
+street: Rue de la Croix-Blanche
+housenumber: "74"
+phone: +33 5 58 56 68 00
+opening_hours: 24/7
+website: http://www.e-leclerc.com/

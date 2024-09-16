@@ -1,11 +1,11 @@
 id: 189904970
-type: way
+type: node
 latitude: 44.78694
 longitude: -0.6406
 postcode: "33600"
 city: Pessac
-street: "Avenue Gustave Eiffel"
-housenumber: 6
-phone: "+33 5 57 26 44 00"
+street: Avenue Gustave Eiffel
+housenumber: "6"
+phone: +33 5 57 26 44 00
 opening_hours: ""
-website: "https://feteetdeco.fr/"
+website: https://feteetdeco.fr/

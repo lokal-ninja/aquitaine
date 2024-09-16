@@ -1,11 +1,11 @@
 id: 75337689
-type: way
+type: node
 latitude: 45.18493
 longitude: 0.71425
 postcode: "24000"
 city: Périgueux
-street: "Rue du Président Wilson"
-housenumber: 34
-phone: "+33 5 53 53 43 02"
-opening_hours: "09:30-19:00"
+street: Rue du Président Wilson
+housenumber: "34"
+phone: +33 5 53 53 43 02
+opening_hours: 09:30-19:00
 website: ""

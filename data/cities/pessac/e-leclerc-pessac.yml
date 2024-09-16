@@ -1,11 +1,11 @@
 id: 226888013
-type: way
+type: node
 latitude: 44.8096
 longitude: -0.61965
 postcode: "33600"
 city: Pessac
-street: "Avenue Jean Jaurès"
+street: Avenue Jean Jaurès
 housenumber: 110 bis
-phone: "+33 5 56 15 12 82"
+phone: +33 5 56 15 12 82
 opening_hours: ""
-website: "https://www.e.leclerc/mag/e-leclerc-pessac"
+website: https://www.e.leclerc/mag/e-leclerc-pessac

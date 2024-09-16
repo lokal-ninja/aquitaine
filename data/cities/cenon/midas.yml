@@ -4,8 +4,8 @@ latitude: 44.8651
 longitude: -0.51515
 postcode: "33150"
 city: Cenon
-street: "Avenue Carnot"
-housenumber: 213
-phone: "+33 5 56 32 57 57"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.midas.fr/"
+street: Avenue Carnot
+housenumber: "213"
+phone: +33 5 56 32 57 57
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.midas.fr/

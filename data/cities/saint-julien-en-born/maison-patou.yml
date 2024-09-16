@@ -1,11 +1,11 @@
 id: 329681019
-type: way
+type: node
 latitude: 44.06183
 longitude: -1.2262
 postcode: "40170"
 city: Saint-Julien-en-Born
-street: "rue du Nel"
-housenumber: 8
-phone: "+33 5 58 42 80 20"
-opening_hours: "Mo 09:00-13:00,16:00-19:30; Tu-Sa 08:30-13:00,16:00-19:30; Su 09:00-13:00"
+street: rue du Nel
+housenumber: "8"
+phone: +33 5 58 42 80 20
+opening_hours: Mo 09:00-13:00,16:00-19:30; Tu-Sa 08:30-13:00,16:00-19:30; Su 09:00-13:00
 website: ""

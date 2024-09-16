@@ -1,11 +1,11 @@
 id: 101265834
-type: way
+type: node
 latitude: 44.88074
 longitude: -0.51691
 postcode: "33310"
 city: Lormont
-street: "Avenue de la Résistance"
-housenumber: 
+street: Avenue de la Résistance
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

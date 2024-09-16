@@ -4,8 +4,8 @@ latitude: 43.32754
 longitude: -0.3845
 postcode: "64140"
 city: Lons
-street: "Mail de l'Hippodrome"
-housenumber: 7
-phone: "+33 5 59 92 04 27"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.maxplus.fr/magasin-34-pau.php"
+street: Mail de l'Hippodrome
+housenumber: "7"
+phone: +33 5 59 92 04 27
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.maxplus.fr/magasin-34-pau.php

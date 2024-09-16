@@ -4,8 +4,8 @@ latitude: 43.65337
 longitude: -0.5942
 postcode: "40700"
 city: Hagetmau
-street: "Rue Thiers"
-housenumber: 164
-phone: "+33 5 58 79 31 26"
-opening_hours: "Tu-Sa 06:30-20:00; Su 06:30-13:00"
+street: Rue Thiers
+housenumber: "164"
+phone: +33 5 58 79 31 26
+opening_hours: Tu-Sa 06:30-20:00; Su 06:30-13:00
 website: ""

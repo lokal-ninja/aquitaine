@@ -4,8 +4,8 @@ latitude: 45.00292
 longitude: -0.76925
 postcode: "33480"
 city: Avensan
-street: "Route de Bordeaux"
-housenumber: 25
+street: Route de Bordeaux
+housenumber: "25"
 phone: "+33556581553"
-opening_hours: "Fr,Sa 09:00-12:00,14:00-18:00"
-website: "https://fermedevertessec.com/"
+opening_hours: Fr,Sa 09:00-12:00,14:00-18:00
+website: https://fermedevertessec.com/

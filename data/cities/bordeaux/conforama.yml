@@ -1,11 +1,11 @@
 id: 154154235
-type: way
+type: node
 latitude: 44.87723
 longitude: -0.55847
 postcode: "33000"
 city: Bordeaux
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 10:00-19:30"
-website: "https://www.conforama.fr/magasins-conforama/bordeaux?lat=44.877037&long=-0.559541&name=BORDEAUX"
+opening_hours: Mo-Su 10:00-19:30
+website: https://www.conforama.fr/magasins-conforama/bordeaux?lat=44.877037&long=-0.559541&name=BORDEAUX

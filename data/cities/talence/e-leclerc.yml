@@ -1,11 +1,11 @@
 id: 311627416
-type: way
+type: node
 latitude: 44.80076
 longitude: -0.583
 postcode: "33400"
 city: Talence
-street: "Rue de Pacaris"
-housenumber: 
-phone: "+33 5 57 35 09 09"
+street: Rue de Pacaris
+housenumber: ""
+phone: +33 5 57 35 09 09
 opening_hours: ""
-website: "http://www.e-leclerc.com/"
+website: http://www.e-leclerc.com/

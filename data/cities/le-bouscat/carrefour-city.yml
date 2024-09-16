@@ -4,8 +4,8 @@ latitude: 44.86539
 longitude: -0.60524
 postcode: ""
 city: Le Bouscat
-street: "Avenue de la Libération"
-housenumber: 298
-phone: "+33 5 56 70 33 43"
-opening_hours: "Mo-Sa 07:00-21:00; Su 09:00-21:00"
-website: "https://www.carrefour.fr/magasin/city-le-bouscat"
+street: Avenue de la Libération
+housenumber: "298"
+phone: +33 5 56 70 33 43
+opening_hours: Mo-Sa 07:00-21:00; Su 09:00-21:00
+website: https://www.carrefour.fr/magasin/city-le-bouscat

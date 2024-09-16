@@ -1,11 +1,11 @@
 id: 815923468
-type: way
+type: node
 latitude: 43.36019
 longitude: -0.38579
 postcode: "64121"
 city: Serres-Castet
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
 website: ""

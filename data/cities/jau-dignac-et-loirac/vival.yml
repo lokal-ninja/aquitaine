@@ -1,11 +1,11 @@
 id: 581904398
-type: way
+type: node
 latitude: 45.40812
 longitude: -0.95957
 postcode: "33590"
 city: Jau-Dignac-et-Loirac
-street: "Rue du Presbytère,"
-housenumber: 7
+street: Rue du Presbytère,
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

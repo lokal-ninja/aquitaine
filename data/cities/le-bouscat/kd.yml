@@ -1,11 +1,11 @@
 id: 154703359
-type: way
+type: node
 latitude: 44.86859
 longitude: -0.59219
 postcode: "33110"
 city: Le Bouscat
-street: "Rue Mondon"
-housenumber: 58
+street: Rue Mondon
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Su 07:00-13:00; Mo-Sa 15:00-19:30"
+opening_hours: Mo-Su 07:00-13:00; Mo-Sa 15:00-19:30
 website: ""

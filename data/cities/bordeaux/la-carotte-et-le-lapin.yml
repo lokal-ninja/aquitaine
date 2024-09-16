@@ -4,8 +4,8 @@ latitude: 44.87688
 longitude: -0.54464
 postcode: "33300"
 city: Bordeaux
-street: "Rue Joseph Brunet"
-housenumber: 81
-phone: "+33 5 56 37 34 16"
-opening_hours: "Mo-Sa 10:00-13:00"
-website: "https://www.facebook.com/LaCarotteetLeLapin/"
+street: Rue Joseph Brunet
+housenumber: "81"
+phone: +33 5 56 37 34 16
+opening_hours: Mo-Sa 10:00-13:00
+website: https://www.facebook.com/LaCarotteetLeLapin/

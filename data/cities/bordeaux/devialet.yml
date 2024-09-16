@@ -4,8 +4,8 @@ latitude: 44.84407
 longitude: -0.57833
 postcode: "33000"
 city: Bordeaux
-street: "Cours Georges Clemenceau"
-housenumber: 62
+street: Cours Georges Clemenceau
+housenumber: "62"
 phone: ""
 opening_hours: ""
-website: "https://www.access-images.com/"
+website: https://www.access-images.com/

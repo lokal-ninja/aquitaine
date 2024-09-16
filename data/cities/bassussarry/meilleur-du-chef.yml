@@ -1,11 +1,11 @@
 id: 587537909
-type: way
+type: node
 latitude: 43.44546
 longitude: -1.48538
 postcode: "64200"
 city: Bassussarry
-street: "Impasse Oihana"
-housenumber: 141
-phone: "+33 5 59 24 54 48"
+street: Impasse Oihana
+housenumber: "141"
+phone: +33 5 59 24 54 48
 opening_hours: ""
-website: "https://www.meilleurduchef.com"
+website: https://www.meilleurduchef.com

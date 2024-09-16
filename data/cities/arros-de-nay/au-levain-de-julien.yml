@@ -1,11 +1,11 @@
 id: 1179756903
-type: way
+type: node
 latitude: 43.1988
 longitude: -0.28273
 postcode: "64800"
 city: Arros-de-Nay
-street: "Rue du Marché"
-housenumber: 2
+street: Rue du Marché
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

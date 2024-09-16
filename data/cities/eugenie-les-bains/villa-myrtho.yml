@@ -1,11 +1,11 @@
 id: 394406375
-type: way
+type: node
 latitude: 43.7033
 longitude: -0.37474
 postcode: "40320"
 city: Eugénie-les-Bains
-street: "Route de Grenade"
-housenumber: 926
-phone: "+33 6 38 02 49 78"
+street: Route de Grenade
+housenumber: "926"
+phone: +33 6 38 02 49 78
 opening_hours: ""
 website: ""

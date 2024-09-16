@@ -4,8 +4,9 @@ latitude: 43.30197
 longitude: -0.40015
 postcode: "64140"
 city: Billère
-street: "Allée Montesquieu"
-housenumber: 
-phone: "+33 6 15 50 21 14"
-opening_hours: "We 13:00-18:00; Fr 13:00-18:00; Sa 09:00-12:00 || By appointment, every other Saturday"
-website: "https://www.ateliervelopau.fr"
+street: Allée Montesquieu
+housenumber: ""
+phone: +33 6 15 50 21 14
+opening_hours: We 13:00-18:00; Fr 13:00-18:00; Sa 09:00-12:00 || "By appointment,
+    every other Saturday"
+website: https://www.ateliervelopau.fr

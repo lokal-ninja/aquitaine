@@ -1,11 +1,11 @@
 id: 65293117
-type: way
+type: node
 latitude: 44.19019
 longitude: 0.63028
 postcode: "47000"
 city: Agen
-street: "Boulevard Édouard Lacour"
-housenumber: 12
+street: Boulevard Édouard Lacour
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "Agen"
+website: Agen

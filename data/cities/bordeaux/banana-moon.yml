@@ -4,8 +4,8 @@ latitude: 44.84085
 longitude: -0.57687
 postcode: "33000"
 city: Bordeaux
-street: "Rue Porte Dijeaux"
-housenumber: 34
+street: Rue Porte Dijeaux
+housenumber: "34"
 phone: "+33556481822"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.bananamoon.com/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.bananamoon.com/

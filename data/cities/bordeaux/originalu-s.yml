@@ -4,8 +4,8 @@ latitude: 44.84826
 longitude: -0.58217
 postcode: "33000"
 city: Bordeaux
-street: "Rue Fondaudège"
-housenumber: 117
+street: Rue Fondaudège
+housenumber: "117"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00"
-website: "https://www.facebook.com/OriginalUs33/"
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00
+website: https://www.facebook.com/OriginalUs33/

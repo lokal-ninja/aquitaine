@@ -4,8 +4,8 @@ latitude: 44.84042
 longitude: -0.57974
 postcode: "33000"
 city: Bordeaux
-street: "Rue des remparts"
-housenumber: 5
+street: Rue des remparts
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:15,14:00-19:00"
-website: "https://www.mercerie-tissus-laffargue.fr/"
+opening_hours: Mo-Sa 09:00-12:15,14:00-19:00
+website: https://www.mercerie-tissus-laffargue.fr/

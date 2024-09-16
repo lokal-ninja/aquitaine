@@ -1,11 +1,11 @@
 id: 68443201
-type: way
+type: node
 latitude: 44.83965
 longitude: 0.4597
 postcode: "24100"
 city: Bergerac
-street: "Avenue de Bordeaux"
-housenumber: 
+street: Avenue de Bordeaux
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-12:30,14:00-19:00; PH closed"
+opening_hours: Mo-Sa 09:30-12:30,14:00-19:00; PH closed
 website: ""

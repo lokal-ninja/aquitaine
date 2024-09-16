@@ -4,8 +4,8 @@ latitude: 44.84035
 longitude: -0.57158
 postcode: "33000"
 city: Bordeaux
-street: "Rue du Parlement Saint-Pierre"
-housenumber: 32
-phone: "+33 5 56 81 65 42"
-opening_hours: "Tu-Su 14:00-19:00"
-website: "https://www.ladiplomate.fr/"
+street: Rue du Parlement Saint-Pierre
+housenumber: "32"
+phone: +33 5 56 81 65 42
+opening_hours: Tu-Su 14:00-19:00
+website: https://www.ladiplomate.fr/

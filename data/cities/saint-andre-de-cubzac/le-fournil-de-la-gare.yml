@@ -1,11 +1,11 @@
 id: 162479279
-type: way
+type: node
 latitude: 44.99365
 longitude: -0.44059
 postcode: "33240"
 city: Saint-André-de-Cubzac
-street: "Rue Dantangnan"
-housenumber: 87
+street: Rue Dantangnan
+housenumber: "87"
 phone: ""
-opening_hours: "06:00-20:00"
+opening_hours: 06:00-20:00
 website: ""

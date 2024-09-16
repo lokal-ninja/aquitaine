@@ -1,11 +1,11 @@
 id: 63344877
-type: way
+type: node
 latitude: 43.36243
 longitude: -0.38849
 postcode: "64121"
 city: Serres-Castet
-street: "Rue de Fabrèges"
-housenumber: 
+street: Rue de Fabrèges
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://magasins.bricomarche.com/magasin-bricolage/serres-castet/07554"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://magasins.bricomarche.com/magasin-bricolage/serres-castet/07554

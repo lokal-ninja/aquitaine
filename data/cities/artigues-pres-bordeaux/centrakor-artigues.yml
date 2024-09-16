@@ -1,11 +1,11 @@
 id: 228106604
-type: way
+type: node
 latitude: 44.87043
 longitude: -0.49953
 postcode: "33370"
 city: Artigues-près-Bordeaux
-street: "Rue du moulin d'Antounes"
-housenumber: 
+street: Rue du moulin d'Antounes
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su 10:30-18:30"
-website: "https://www.centrakor.com/magasin-centrakor/mpf24/centrakor-artigues-33370.html/"
+opening_hours: Mo-Sa 09:00-19:00; Su 10:30-18:30
+website: https://www.centrakor.com/magasin-centrakor/mpf24/centrakor-artigues-33370.html/

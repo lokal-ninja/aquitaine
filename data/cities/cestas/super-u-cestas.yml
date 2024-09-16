@@ -1,11 +1,11 @@
 id: 179268519
-type: way
+type: node
 latitude: 44.73951
 longitude: -0.68038
 postcode: "33611"
 city: Cestas
-street: "Chemin de Pujau"
-housenumber: 
-phone: "+33 5 56 78 12 60"
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-12:45"
-website: "https://www.magasins-u.com/superu-cestas"
+street: Chemin de Pujau
+housenumber: ""
+phone: +33 5 56 78 12 60
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-12:45
+website: https://www.magasins-u.com/superu-cestas

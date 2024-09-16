@@ -4,8 +4,8 @@ latitude: 44.76802
 longitude: -0.58012
 postcode: "33140"
 city: Villenave-d'Ornon
-street: "Route de Léognan"
-housenumber: 51
-phone: "+33 5 56 64 13 80"
-opening_hours: "Tu-Fr 9:00-12:00"
-website: "https://orcompagnie.fr/"
+street: Route de Léognan
+housenumber: "51"
+phone: +33 5 56 64 13 80
+opening_hours: Tu-Fr 9:00-12:00
+website: https://orcompagnie.fr/

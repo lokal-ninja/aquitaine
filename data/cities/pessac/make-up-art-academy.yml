@@ -1,11 +1,11 @@
 id: 226904260
-type: way
+type: node
 latitude: 44.80572
 longitude: -0.61428
 postcode: "33600"
 city: pessac
-street: "Avenue du Rond-Point"
-housenumber: 22
-phone: "+33 6 72 81 28 03"
+street: Avenue du Rond-Point
+housenumber: "22"
+phone: +33 6 72 81 28 03
 opening_hours: ""
-website: "https://www.makeupartacademy.fr/contact/"
+website: https://www.makeupartacademy.fr/contact/

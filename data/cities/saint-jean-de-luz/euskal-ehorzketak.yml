@@ -4,8 +4,8 @@ latitude: 43.38627
 longitude: -1.66096
 postcode: "64500"
 city: Saint-Jean-de-Luz
-street: "Boulevard du Commandant Passicot"
-housenumber: 3
+street: Boulevard du Commandant Passicot
+housenumber: "3"
 phone: "+33554132148"
-opening_hours: "Mo-Fr 14:00-18:00"
-website: "https://www.pflandaboure.fr/agences/agence-de-saint-jean-de-luz"
+opening_hours: Mo-Fr 14:00-18:00
+website: https://www.pflandaboure.fr/agences/agence-de-saint-jean-de-luz

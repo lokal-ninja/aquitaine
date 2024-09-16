@@ -4,8 +4,8 @@ latitude: 44.85227
 longitude: -0.61899
 postcode: "33200"
 city: Bordeaux
-street: "Avenue Louis Barthou"
-housenumber: 188
-phone: "+33 5 56 42 51 40"
-opening_hours: "Tu-Sa 09:00-18:00"
+street: Avenue Louis Barthou
+housenumber: "188"
+phone: +33 5 56 42 51 40
+opening_hours: Tu-Sa 09:00-18:00
 website: ""

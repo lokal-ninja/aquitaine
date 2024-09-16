@@ -4,8 +4,8 @@ latitude: 44.78932
 longitude: -0.52631
 postcode: "33140"
 city: Villenave-d'Ornon
-street: "Rue Lino Ventura"
-housenumber: 5
-phone: "+33 5 56 48 32 52"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.chaussea.com/fr/"
+street: Rue Lino Ventura
+housenumber: "5"
+phone: +33 5 56 48 32 52
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.chaussea.com/fr/

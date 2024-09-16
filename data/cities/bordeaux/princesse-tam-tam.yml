@@ -4,8 +4,8 @@ latitude: 44.84079
 longitude: -0.57758
 postcode: "33000"
 city: Bordeaux
-street: "Rue Porte Dijeaux"
-housenumber: 46
+street: Rue Porte Dijeaux
+housenumber: "46"
 phone: "+33556811060"
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://www.princessetamtam.com/"
+opening_hours: Mo-Sa 10:00-19:30
+website: https://www.princessetamtam.com/

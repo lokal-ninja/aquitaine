@@ -4,8 +4,8 @@ latitude: 43.16529
 longitude: -1.19498
 postcode: "64220"
 city: Saint-Jean-le-Vieux
-street: "Route du Bourg"
-housenumber: 90
-phone: "+33 617923179"
-opening_hours: "Mo,We,Fr 09:30-12:30; Tu,Th 09:30-12:30,13:30-18:00"
-website: "https://www.iturbide-informatique.com/"
+street: Route du Bourg
+housenumber: "90"
+phone: +33 617923179
+opening_hours: Mo,We,Fr 09:30-12:30; Tu,Th 09:30-12:30,13:30-18:00
+website: https://www.iturbide-informatique.com/

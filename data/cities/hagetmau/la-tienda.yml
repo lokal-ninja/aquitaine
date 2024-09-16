@@ -1,11 +1,11 @@
 id: 184590537
-type: way
+type: node
 latitude: 43.65196
 longitude: -0.59717
 postcode: "40700"
 city: Hagetmau
-street: "Avenue Robert Ducournau"
-housenumber: 118
-phone: "+33 9 54 47 30 37"
+street: Avenue Robert Ducournau
+housenumber: "118"
+phone: +33 9 54 47 30 37
 opening_hours: ""
 website: ""

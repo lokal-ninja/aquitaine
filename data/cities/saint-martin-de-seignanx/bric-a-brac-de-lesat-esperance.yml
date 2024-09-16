@@ -1,11 +1,11 @@
 id: 143440424
-type: way
+type: node
 latitude: 43.55094
 longitude: -1.40139
 postcode: "40390"
 city: Saint-Martin-de-Seignanx
-street: "Route Océane"
-housenumber: 3134
-phone: "+33 5 59 56 53 21"
+street: Route Océane
+housenumber: "3134"
+phone: +33 5 59 56 53 21
 opening_hours: ""
-website: "https://www.esat-esperance.fr/"
+website: https://www.esat-esperance.fr/

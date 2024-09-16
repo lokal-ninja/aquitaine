@@ -1,11 +1,11 @@
 id: 79331359
-type: way
+type: node
 latitude: 44.91931
 longitude: -0.24116
 postcode: "33500"
 city: Libourne
-street: "Avenue Georges Clemenceau"
-housenumber: 19
+street: Avenue Georges Clemenceau
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

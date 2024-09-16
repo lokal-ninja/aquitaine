@@ -4,8 +4,8 @@ latitude: 44.84204
 longitude: -0.57687
 postcode: "33000"
 city: Bordeaux
-street: "Cours de l'Intendance"
-housenumber: 29
+street: Cours de l'Intendance
+housenumber: "29"
 phone: "+33557870471"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://www.tournis.fr/"
+opening_hours: Tu-Sa 10:00-19:00
+website: https://www.tournis.fr/

@@ -1,11 +1,11 @@
 id: 151919477
-type: way
+type: node
 latitude: 43.71289
 longitude: -0.26174
 postcode: "40800"
 city: Aire-sur-l'Adour
-street: "Avenue de Bordeaux"
-housenumber: 28
-phone: "+33 5 58 71 83 08"
-opening_hours: "Tu-Fr 09:00-12:00, 14:30-19:00; Sa 09:00-12:00, 14:30-18:00"
-website: "https://www.cyclesbarteau.fr/"
+street: Avenue de Bordeaux
+housenumber: "28"
+phone: +33 5 58 71 83 08
+opening_hours: Tu-Fr 09:00-12:00, 14:30-19:00; Sa 09:00-12:00, 14:30-18:00
+website: https://www.cyclesbarteau.fr/

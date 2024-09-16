@@ -4,8 +4,8 @@ latitude: 44.84078
 longitude: -0.57927
 postcode: "33000"
 city: Bordeaux
-street: "Rue Porte Dijeaux"
-housenumber: 99
+street: Rue Porte Dijeaux
+housenumber: "99"
 phone: "+33556482384"
 opening_hours: ""
-website: "https://fr.benetton.com"
+website: https://fr.benetton.com

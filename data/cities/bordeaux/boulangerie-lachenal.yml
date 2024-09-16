@@ -4,8 +4,8 @@ latitude: 44.81964
 longitude: -0.57248
 postcode: "33800"
 city: Bordeaux
-street: "Cours de la Somme"
-housenumber: 273
-phone: "+33 5 56 91 63 54"
-opening_hours: "Mo-Sa 07:00-20:00; Su 07:00-13:30"
-website: "http://laurentlachenal.com"
+street: Cours de la Somme
+housenumber: "273"
+phone: +33 5 56 91 63 54
+opening_hours: Mo-Sa 07:00-20:00; Su 07:00-13:30
+website: http://laurentlachenal.com

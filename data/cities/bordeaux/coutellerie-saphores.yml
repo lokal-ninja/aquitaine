@@ -4,8 +4,8 @@ latitude: 44.84158
 longitude: -0.58305
 postcode: "33000"
 city: Bordeaux
-street: "Rue Judaïque"
-housenumber: 41
+street: Rue Judaïque
+housenumber: "41"
 phone: ""
-opening_hours: "Tu-Sa 09:00-12:30,14:00-19:00"
-website: "http://www.saphores.com"
+opening_hours: Tu-Sa 09:00-12:30,14:00-19:00
+website: http://www.saphores.com

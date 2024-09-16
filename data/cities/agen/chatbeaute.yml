@@ -4,8 +4,8 @@ latitude: 44.19072
 longitude: 0.5971
 postcode: "47520"
 city: Agen
-street: "Avenue Jean Sébastien Bach"
-housenumber: 15
-phone: "+33 6 74090170"
-opening_hours: "Tu-Fr 08:30-18:30; Sa 08:30-14:30"
+street: Avenue Jean Sébastien Bach
+housenumber: "15"
+phone: +33 6 74090170
+opening_hours: Tu-Fr 08:30-18:30; Sa 08:30-14:30
 website: ""

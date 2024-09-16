@@ -4,8 +4,8 @@ latitude: 44.84477
 longitude: -0.57784
 postcode: "33000"
 city: Bordeaux
-street: "Place Tourny"
-housenumber: 2
-phone: "+33 5 56 01 23 19"
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-19:00"
-website: "https://www.lejardindesfleurs.com/magasins/bordeaux-tourny/"
+street: Place Tourny
+housenumber: "2"
+phone: +33 5 56 01 23 19
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-19:00
+website: https://www.lejardindesfleurs.com/magasins/bordeaux-tourny/

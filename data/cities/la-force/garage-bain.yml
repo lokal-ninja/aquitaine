@@ -1,11 +1,11 @@
 id: 68901196
-type: way
+type: node
 latitude: 44.86863
 longitude: 0.37251
 postcode: "24130"
 city: La Force
-street: "Rue de Jacob"
-housenumber: 4
+street: Rue de Jacob
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

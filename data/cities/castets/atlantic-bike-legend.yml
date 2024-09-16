@@ -1,11 +1,11 @@
 id: 232256720
-type: way
+type: node
 latitude: 43.87409
 longitude: -1.14278
 postcode: "40260"
 city: Castets
-street: "Rue de Gascogne"
-housenumber: 
-phone: "+33 5 58 58 91 96"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 10:00-12:00,14:00-18:00"
-website: "https://www.atlantic-bike-legend.com/"
+street: Rue de Gascogne
+housenumber: ""
+phone: +33 5 58 58 91 96
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 10:00-12:00,14:00-18:00
+website: https://www.atlantic-bike-legend.com/

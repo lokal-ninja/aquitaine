@@ -4,8 +4,8 @@ latitude: 43.67091
 longitude: -1.3492
 postcode: ""
 city: Saubion
-street: "Place des Marronniers"
-housenumber: 2
-phone: "+33 5 58 77 26 41"
-opening_hours: "Mo-Sa 07:00-13:30,15:30-19:30; Su 07:00-13:30"
+street: Place des Marronniers
+housenumber: "2"
+phone: +33 5 58 77 26 41
+opening_hours: Mo-Sa 07:00-13:30,15:30-19:30; Su 07:00-13:30
 website: ""

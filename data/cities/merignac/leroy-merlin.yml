@@ -1,11 +1,11 @@
 id: 164299986
-type: way
+type: node
 latitude: 44.83261
 longitude: -0.66561
 postcode: "33700"
 city: Mérignac
-street: "Avenue Henri Vigneau"
-housenumber: 90
-phone: "+33 5 56 34 39 02"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-18:00"
-website: "https://www.leroymerlin.fr/MERIGNAC"
+street: Avenue Henri Vigneau
+housenumber: "90"
+phone: +33 5 56 34 39 02
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-18:00
+website: https://www.leroymerlin.fr/MERIGNAC

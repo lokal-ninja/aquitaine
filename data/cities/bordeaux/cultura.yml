@@ -4,8 +4,8 @@ latitude: 44.87878
 longitude: -0.56903
 postcode: "33000"
 city: Bordeaux
-street: "Avenue des 40 Journaux"
-housenumber: 90
+street: Avenue des 40 Journaux
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

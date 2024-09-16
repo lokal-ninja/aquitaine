@@ -4,8 +4,8 @@ latitude: 44.83486
 longitude: -0.57092
 postcode: "33000"
 city: Bordeaux
-street: "Cours Victor Hugo"
-housenumber: 102
+street: Cours Victor Hugo
+housenumber: "102"
 phone: ""
-opening_hours: "Mo-Su 10:30-19:00"
+opening_hours: Mo-Su 10:30-19:00
 website: ""

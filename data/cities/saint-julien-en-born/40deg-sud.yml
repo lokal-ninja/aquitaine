@@ -1,11 +1,11 @@
 id: 1306382760
-type: way
+type: node
 latitude: 44.06173
 longitude: -1.22466
 postcode: "40170"
 city: Saint-Julien-en-Born
-street: "Route d'Uza"
-housenumber: 110
+street: Route d'Uza
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

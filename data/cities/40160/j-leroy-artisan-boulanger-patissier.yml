@@ -3,9 +3,9 @@ type: node
 latitude: 44.32808
 longitude: -0.96106
 postcode: ""
-city: 40160
-street: "8 Rue Félix Arnaudin"
-housenumber: 
+city: "40160"
+street: 8 Rue Félix Arnaudin
+housenumber: ""
 phone: "+33558047739"
-opening_hours: "Mo-Sa 06:30-13:00,15:00-18:00; Su 06:30-13:00"
-website: "https://leroy-commande.fr/"
+opening_hours: Mo-Sa 06:30-13:00,15:00-18:00; Su 06:30-13:00
+website: https://leroy-commande.fr/

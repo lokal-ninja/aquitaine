@@ -1,11 +1,11 @@
 id: 904345359
-type: way
+type: node
 latitude: 43.30597
 longitude: -0.40318
 postcode: "64140"
 city: Billère
-street: "Route de Bayonne"
-housenumber: 90
+street: Route de Bayonne
+housenumber: "90"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

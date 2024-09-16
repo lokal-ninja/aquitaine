@@ -4,8 +4,8 @@ latitude: 44.84832
 longitude: -0.62392
 postcode: "33200"
 city: Bordeaux
-street: "Rue Morton"
-housenumber: 27
-phone: "+33 5 47 33 11 39"
-opening_hours: "Tu-Fr 06:30-13:00,15:30-19:30; Sa,Su 06:30-13:00"
+street: Rue Morton
+housenumber: "27"
+phone: +33 5 47 33 11 39
+opening_hours: Tu-Fr 06:30-13:00,15:30-19:30; Sa,Su 06:30-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 44.8387
 longitude: -0.57585
 postcode: "33000"
 city: Bordeaux
-street: "Rue des Trois Conils"
-housenumber: 24
+street: Rue des Trois Conils
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.toc.fr/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.toc.fr/

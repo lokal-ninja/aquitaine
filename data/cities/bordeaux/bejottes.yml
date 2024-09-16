@@ -4,8 +4,8 @@ latitude: 44.84225
 longitude: -0.57918
 postcode: "33000"
 city: Bordeaux
-street: "Rue Condillac"
-housenumber: 11
-phone: "+33 5 56 48 09 30"
+street: Rue Condillac
+housenumber: "11"
+phone: +33 5 56 48 09 30
 opening_hours: ""
-website: "https://www.droguerie-bejottes.fr"
+website: https://www.droguerie-bejottes.fr

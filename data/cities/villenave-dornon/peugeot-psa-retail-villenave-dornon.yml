@@ -4,8 +4,8 @@ latitude: 44.7931
 longitude: -0.56802
 postcode: "33140"
 city: Villenave-d'Ornon
-street: "Route de Toulouse"
-housenumber: 411
+street: Route de Toulouse
+housenumber: "411"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:00; Sa 09:00-12:15,13:45-18:30"
-website: "https://www.psa-retail.com/fr/peugeot/bordeaux/psa-retail-villenave-dornon/"
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:00; Sa 09:00-12:15,13:45-18:30
+website: https://www.psa-retail.com/fr/peugeot/bordeaux/psa-retail-villenave-dornon/

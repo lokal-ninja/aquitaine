@@ -1,11 +1,11 @@
 id: 75348785
-type: way
+type: node
 latitude: 45.18365
 longitude: 0.72404
 postcode: "24000"
 city: Périgueux
-street: "Avenue Daumesnil"
-housenumber: 8
+street: Avenue Daumesnil
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://demotheque.wixsite.com/demothequ"
+website: https://demotheque.wixsite.com/demothequ

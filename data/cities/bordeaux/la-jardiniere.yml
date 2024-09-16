@@ -4,8 +4,8 @@ latitude: 44.85239
 longitude: -0.57408
 postcode: "33000"
 city: Bordeaux
-street: "Place Paul Doumer"
-housenumber: 14
+street: Place Paul Doumer
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 07:45-20:30; Su 09:00-14:00"
+opening_hours: Mo-Sa 07:45-20:30; Su 09:00-14:00
 website: ""

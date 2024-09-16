@@ -4,8 +4,8 @@ latitude: 43.32725
 longitude: -1.03195
 postcode: "64120"
 city: Saint-Palais
-street: "Place des Allées"
-housenumber: 4
-phone: "+33 5 59 65 83 10"
+street: Place des Allées
+housenumber: "4"
+phone: +33 5 59 65 83 10
 opening_hours: ""
-website: "http://www.naturea64.fr/"
+website: http://www.naturea64.fr/

@@ -1,11 +1,11 @@
 id: 116151072
-type: way
+type: node
 latitude: 43.74829
 longitude: -0.56119
 postcode: ""
 city: Saint-Sever
-street: "Zone Artisanele Escalès"
-housenumber: 15
-phone: "+33 5 58 45 87 87"
-opening_hours: "Tu-Fr 08:00-12:00,14:30-18:30; Sa 08:00-12:00"
+street: Zone Artisanele Escalès
+housenumber: "15"
+phone: +33 5 58 45 87 87
+opening_hours: Tu-Fr 08:00-12:00,14:30-18:30; Sa 08:00-12:00
 website: ""

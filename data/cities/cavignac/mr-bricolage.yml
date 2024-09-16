@@ -1,11 +1,11 @@
 id: 220568739
-type: way
+type: node
 latitude: 45.09454
 longitude: -0.38605
 postcode: "33620"
 city: Cavignac
-street: "Rue du Marlacca"
-housenumber: 
+street: Rue du Marlacca
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

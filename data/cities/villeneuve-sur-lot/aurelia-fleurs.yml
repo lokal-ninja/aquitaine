@@ -1,11 +1,13 @@
 id: 119672251
-type: way
+type: node
 latitude: 44.40645
 longitude: 0.70597
 postcode: "47300"
 city: Villeneuve-sur-Lot
-street: "Place Lafayette"
-housenumber: 6
-phone: "05 53 70 46 95"
-opening_hours: "Monday	9 AM–12:30 PM, 2–6 PM Tuesday	9 AM–12:30 PM, 2–7 PM Wednesday	9 AM–12:30 PM, 2–7 PM Thursday	9 AM–12:30 PM, 2–7 PM Friday	9 AM–12:30 PM, 2–7 PM Saturday	9 AM–12:30 PM, 2–7 PM Sunday	10 AM–12:30 PM, 2–5 PM"
+street: Place Lafayette
+housenumber: "6"
+phone: 05 53 70 46 95
+opening_hours: "Monday\t9 AM–12:30 PM, 2–6 PM Tuesday\t9 AM–12:30 PM, 2–7 PM Wednesday\t9 AM–12:30 PM,
+    2–7 PM Thursday\t9 AM–12:30 PM, 2–7 PM Friday\t9 AM–12:30 PM, 2–7 PM Saturday\t9 AM–12:30 PM,
+    2–7 PM Sunday\t10 AM–12:30 PM, 2–5 PM"
 website: ""

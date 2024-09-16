@@ -4,8 +4,8 @@ latitude: 44.84423
 longitude: -0.57823
 postcode: "33000"
 city: Bordeaux
-street: "Cours Georges Clemenceau"
-housenumber: 68
+street: Cours Georges Clemenceau
+housenumber: "68"
 phone: "+33556387902"
 opening_hours: ""
-website: "https://www.moncoyote.com/fr/store/bordeaux.html"
+website: https://www.moncoyote.com/fr/store/bordeaux.html

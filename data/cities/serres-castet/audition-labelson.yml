@@ -4,8 +4,9 @@ latitude: 43.37746
 longitude: -0.38092
 postcode: "64121"
 city: Serres-Castet
-street: "Chemin Morlanné"
-housenumber: 5
+street: Chemin Morlanné
+housenumber: "5"
 phone: ""
-opening_hours: "Tu 09:00-12:00, 14:00-18:30; We-Th 09:00-12:00; Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00"
-website: "https://www.audition-labelson-bearn.fr/"
+opening_hours: Tu 09:00-12:00, 14:00-18:30; We-Th 09:00-12:00; Fr 09:00-12:00, 14:00-18:00;
+    Sa 09:00-12:00
+website: https://www.audition-labelson-bearn.fr/

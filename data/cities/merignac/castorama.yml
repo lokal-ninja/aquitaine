@@ -1,11 +1,11 @@
 id: 164302440
-type: way
+type: node
 latitude: 44.83936
 longitude: -0.67456
 postcode: "33700"
 city: Mérignac
-street: "Avenue des Martyrs de la Libération"
-housenumber: 29
-phone: "+33 5 57 53 37 40"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Avenue des Martyrs de la Libération
+housenumber: "29"
+phone: +33 5 57 53 37 40
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

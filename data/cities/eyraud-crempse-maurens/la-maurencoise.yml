@@ -1,11 +1,11 @@
 id: 510549314
-type: way
+type: node
 latitude: 44.93505
 longitude: 0.48399
 postcode: "24140"
 city: Eyraud-Crempse-Maurens
-street: "Bourg"
-housenumber: 
-phone: "+33 5 53 73 31 61"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Bourg
+housenumber: ""
+phone: +33 5 53 73 31 61
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

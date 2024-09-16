@@ -4,8 +4,8 @@ latitude: 44.84088
 longitude: -0.57998
 postcode: "33000"
 city: Bordeaux
-street: "Place Gambetta"
-housenumber: 12
+street: Place Gambetta
+housenumber: "12"
 phone: ""
-opening_hours: "Tu-Fr 08:00-19:00; Sa 09:00-19:00"
+opening_hours: Tu-Fr 08:00-19:00; Sa 09:00-19:00
 website: ""

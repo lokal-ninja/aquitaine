@@ -4,8 +4,8 @@ latitude: 44.84317
 longitude: -0.57735
 postcode: "33000"
 city: Bordeaux
-street: "Place des Grands Homme"
-housenumber: 12
+street: Place des Grands Homme
+housenumber: "12"
 phone: "+33556521979"
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://www.christeas.fr/"
+opening_hours: Mo-Sa 10:00-19:30
+website: https://www.christeas.fr/

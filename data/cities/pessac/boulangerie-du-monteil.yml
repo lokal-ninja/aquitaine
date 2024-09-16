@@ -4,8 +4,8 @@ latitude: 44.80249
 longitude: -0.64749
 postcode: "33600"
 city: Pessac
-street: "Avenue Pasteur"
-housenumber: 202
+street: Avenue Pasteur
+housenumber: "202"
 phone: "+33556362998"
-opening_hours: "Mo-Sa 06:00-20:00; Su 06:30-13:00"
-website: "https://boulangerie-du-monteil.eatbu.com"
+opening_hours: Mo-Sa 06:00-20:00; Su 06:30-13:00
+website: https://boulangerie-du-monteil.eatbu.com

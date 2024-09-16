@@ -4,8 +4,8 @@ latitude: 44.73056
 longitude: -0.60072
 postcode: "33850"
 city: Léognan
-street: "Cours du Maréchal Leclerc"
-housenumber: 33
-phone: "+33 5 56 92 15 35"
-opening_hours: "Tu-Fr 08:30-17:45; Sa 08:30-14:30"
-website: "https://www.proximitheleognan.fr/"
+street: Cours du Maréchal Leclerc
+housenumber: "33"
+phone: +33 5 56 92 15 35
+opening_hours: Tu-Fr 08:30-17:45; Sa 08:30-14:30
+website: https://www.proximitheleognan.fr/

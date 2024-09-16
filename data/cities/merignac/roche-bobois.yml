@@ -1,11 +1,11 @@
 id: 164307119
-type: way
+type: node
 latitude: 44.83544
 longitude: -0.67041
 postcode: "33700"
 city: Mérignac
-street: "Avenue Jean Perrin"
-housenumber: 26
+street: Avenue Jean Perrin
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 10:00-12:00,14:00-19:00"
+opening_hours: Mo-Sa 10:00-12:00,14:00-19:00
 website: ""

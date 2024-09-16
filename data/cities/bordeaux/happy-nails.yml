@@ -4,8 +4,8 @@ latitude: 44.84168
 longitude: -0.58352
 postcode: "33000"
 city: Bordeaux
-street: "Place des Martyrs de la Résistance"
-housenumber: 12
+street: Place des Martyrs de la Résistance
+housenumber: "12"
 phone: "+33556444400"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 10:00-16:00"
-website: "https://happynails.com/"
+opening_hours: Mo-Fr 09:30-19:00; Sa 10:00-16:00
+website: https://happynails.com/

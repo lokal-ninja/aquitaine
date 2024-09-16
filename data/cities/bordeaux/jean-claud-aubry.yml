@@ -4,8 +4,8 @@ latitude: 44.84129
 longitude: -0.57386
 postcode: "33000"
 city: Bordeaux
-street: "Rue Saint-Rémi"
-housenumber: 65
+street: Rue Saint-Rémi
+housenumber: "65"
 phone: ""
 opening_hours: ""
-website: "https://jca-community.fr"
+website: https://jca-community.fr

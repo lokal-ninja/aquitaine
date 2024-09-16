@@ -1,11 +1,11 @@
 id: 146751062
-type: way
+type: node
 latitude: 43.70981
 longitude: -1.04119
 postcode: "40100"
 city: Dax
-street: "Rue Gaston Phoebus"
-housenumber: 7
+street: Rue Gaston Phoebus
+housenumber: "7"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

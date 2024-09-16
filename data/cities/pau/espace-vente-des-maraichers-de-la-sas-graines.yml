@@ -4,8 +4,8 @@ latitude: 43.32898
 longitude: -0.34788
 postcode: "64000"
 city: Pau
-street: "Avenue de l'Europe"
-housenumber: 76
-phone: "+335 59 84 70 63"
-opening_hours: "Tu,Fr 15:00-19:00"
-website: "http://lesmaraichersdepau.civam.fr/"
+street: Avenue de l'Europe
+housenumber: "76"
+phone: +335 59 84 70 63
+opening_hours: Tu,Fr 15:00-19:00
+website: http://lesmaraichersdepau.civam.fr/

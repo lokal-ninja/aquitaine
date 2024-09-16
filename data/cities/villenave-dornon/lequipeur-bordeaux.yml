@@ -4,8 +4,8 @@ latitude: 44.78182
 longitude: -0.58736
 postcode: "33140"
 city: Villenave-d'Ornon
-street: "Avenue Roger Lapébie"
-housenumber: 9
-phone: "+33 5 33 05 71 87"
-opening_hours: "Mo-Th 08:30-12:00,14:00-18:00; Fr 08:30-12:00,14:00-15:30"
-website: "https://equipeur.fr/fr/"
+street: Avenue Roger Lapébie
+housenumber: "9"
+phone: +33 5 33 05 71 87
+opening_hours: Mo-Th 08:30-12:00,14:00-18:00; Fr 08:30-12:00,14:00-15:30
+website: https://equipeur.fr/fr/

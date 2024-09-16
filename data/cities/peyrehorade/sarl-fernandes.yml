@@ -1,11 +1,11 @@
 id: 250036252
-type: way
+type: node
 latitude: 43.54524
 longitude: -1.09813
 postcode: "40300"
 city: Peyrehorade
-street: "Rue Lembarry"
-housenumber: 320
-phone: "+33 5 58 73 01 17"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00"
+street: Rue Lembarry
+housenumber: "320"
+phone: +33 5 58 73 01 17
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00
 website: ""

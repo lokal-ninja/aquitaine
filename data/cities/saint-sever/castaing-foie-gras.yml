@@ -1,11 +1,11 @@
 id: 116145452
-type: way
+type: node
 latitude: 43.77201
 longitude: -0.57653
 postcode: ""
 city: Saint-Sever
-street: "Avenue de l'Océan"
-housenumber: 19
+street: Avenue de l'Océan
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "http://www.castaing-foiegras.com/"
+website: http://www.castaing-foiegras.com/

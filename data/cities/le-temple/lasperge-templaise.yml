@@ -4,8 +4,8 @@ latitude: 44.8804
 longitude: -0.93402
 postcode: "33680"
 city: Le Temple
-street: "Route de Sautuges"
-housenumber: 8
+street: Route de Sautuges
+housenumber: "8"
 phone: "+33667025481"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-17:00; Tu,We,Sa 09:00-12:30"
+opening_hours: Mo-Fr 09:00-12:30,14:30-17:00; Tu,We,Sa 09:00-12:30
 website: ""

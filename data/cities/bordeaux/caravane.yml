@@ -4,8 +4,8 @@ latitude: 44.84576
 longitude: -0.57728
 postcode: "33000"
 city: Bordeaux
-street: "Cours de Verdun"
-housenumber: 14
+street: Cours de Verdun
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.caravane.fr/fr/shops/bordeaux"
+website: https://www.caravane.fr/fr/shops/bordeaux

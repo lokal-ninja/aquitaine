@@ -1,11 +1,11 @@
 id: 228084190
-type: way
+type: node
 latitude: 44.74213
 longitude: -0.61605
 postcode: "33850"
 city: Léognan
-street: "Chemin de Bel Air"
-housenumber: 145
-phone: "+33 5 56 64 06 10"
-opening_hours: "Mo-Th 08:00-12:00,13:30-17:30; Fr 08:00-12:00,13:30-16:30"
-website: "https://www.cap-hygiene-leognan.fr/"
+street: Chemin de Bel Air
+housenumber: "145"
+phone: +33 5 56 64 06 10
+opening_hours: Mo-Th 08:00-12:00,13:30-17:30; Fr 08:00-12:00,13:30-16:30
+website: https://www.cap-hygiene-leognan.fr/

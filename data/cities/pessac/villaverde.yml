@@ -1,11 +1,11 @@
 id: 218795704
-type: way
+type: node
 latitude: 44.78306
 longitude: -0.6363
 postcode: "33600"
 city: Pessac
-street: "Avenue de la Tuileranne"
-housenumber: 
+street: Avenue de la Tuileranne
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

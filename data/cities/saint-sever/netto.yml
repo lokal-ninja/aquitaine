@@ -1,11 +1,11 @@
 id: 116144008
-type: way
+type: node
 latitude: 43.77163
 longitude: -0.57025
 postcode: "40500"
 city: Saint-Sever
 street: ""
-housenumber: 
-phone: "+33 5 58 76 50 28"
-opening_hours: "Mo-Sa 09:00-19:00; Su 09:00-12:00"
-website: "https://magasin.netto.fr/159-netto-saint-sever"
+housenumber: ""
+phone: +33 5 58 76 50 28
+opening_hours: Mo-Sa 09:00-19:00; Su 09:00-12:00
+website: https://magasin.netto.fr/159-netto-saint-sever

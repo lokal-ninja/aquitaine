@@ -1,11 +1,11 @@
 id: 147723207
-type: way
+type: node
 latitude: 43.66223
 longitude: -1.4431
 postcode: "40150"
 city: Soorts-Hossegor
-street: "Boulevard de la Dune"
-housenumber: 385
+street: Boulevard de la Dune
+housenumber: "385"
 phone: "+33558439290"
 opening_hours: ""
-website: "https://tao-magic-glisse.com/"
+website: https://tao-magic-glisse.com/

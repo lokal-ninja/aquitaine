@@ -4,8 +4,8 @@ latitude: 44.78429
 longitude: -0.63888
 postcode: "33600"
 city: Pessac
-street: "Avenue Gustave Eiffel"
-housenumber: 1
+street: Avenue Gustave Eiffel
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.yves-rocher.fr/tout-sur-les-magasins/nouvelle-aquitaine/pessac/pessac/S-FRYROC620"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.yves-rocher.fr/tout-sur-les-magasins/nouvelle-aquitaine/pessac/pessac/S-FRYROC620

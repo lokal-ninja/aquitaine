@@ -4,8 +4,8 @@ latitude: 43.66729
 longitude: -1.28514
 postcode: "40230"
 city: Saint Vincent de Tyrosse
-street: "Route de Bordeaux"
-housenumber: 1500
-phone: "+33 9 81 91 45 55"
-opening_hours: "Tu-Fr 09:00-12:30,15:00-19:00; Sa 09:00-12:00,14:00-18:00"
-website: "https://www.mondovelo.fr/magasins/121-mondovelo-saint-vincent-de-tyrosse"
+street: Route de Bordeaux
+housenumber: "1500"
+phone: +33 9 81 91 45 55
+opening_hours: Tu-Fr 09:00-12:30,15:00-19:00; Sa 09:00-12:00,14:00-18:00
+website: https://www.mondovelo.fr/magasins/121-mondovelo-saint-vincent-de-tyrosse

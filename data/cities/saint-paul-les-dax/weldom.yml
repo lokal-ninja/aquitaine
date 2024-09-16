@@ -1,11 +1,11 @@
 id: 65139185
-type: way
+type: node
 latitude: 43.72926
 longitude: -1.0426
 postcode: "40990"
 city: Saint-Paul-lès-Dax
-street: "Boulevard Saint-Vincent de Paul"
-housenumber: 919
-phone: "+33 5 58 56 84 44"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.weldom.fr/m/weldom-saint-paul-les-dax"
+street: Boulevard Saint-Vincent de Paul
+housenumber: "919"
+phone: +33 5 58 56 84 44
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.weldom.fr/m/weldom-saint-paul-les-dax

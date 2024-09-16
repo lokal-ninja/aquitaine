@@ -1,11 +1,11 @@
 id: 273791957
-type: way
+type: node
 latitude: 44.63636
 longitude: -0.96101
 postcode: "33380"
 city: Biganos
 street: ""
-housenumber: 30
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://biganos.joueclubdrive.fr/"
+website: https://biganos.joueclubdrive.fr/

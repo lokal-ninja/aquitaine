@@ -4,8 +4,8 @@ latitude: 43.70892
 longitude: -1.05413
 postcode: "40100"
 city: Dax
-street: "Rue Saint-Vincent"
-housenumber: 12
-phone: "+33 5 58 49 98 40"
-opening_hours: "Mo-Sa 07:30-19:00; Su 07:30-12:30"
+street: Rue Saint-Vincent
+housenumber: "12"
+phone: +33 5 58 49 98 40
+opening_hours: Mo-Sa 07:30-19:00; Su 07:30-12:30
 website: ""

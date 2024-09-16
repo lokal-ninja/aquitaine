@@ -1,11 +1,11 @@
 id: 161535509
-type: way
+type: node
 latitude: 44.80543
 longitude: -0.55736
 postcode: "33130"
 city: Bègles
-street: "Rue Ferdinand Buisson"
-housenumber: 22
+street: Rue Ferdinand Buisson
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

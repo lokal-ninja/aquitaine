@@ -4,8 +4,8 @@ latitude: 43.65976
 longitude: -1.43063
 postcode: "40150"
 city: Soorts-Hossegor
-street: "Avenue Paul Lahary"
-housenumber: 205
-phone: "+33 5 58 43 50 16"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-13:00"
-website: "https://www.floraire-fleurs.com/"
+street: Avenue Paul Lahary
+housenumber: "205"
+phone: +33 5 58 43 50 16
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-13:00
+website: https://www.floraire-fleurs.com/

@@ -4,8 +4,8 @@ latitude: 44.84106
 longitude: -0.57095
 postcode: "33000"
 city: Bordeaux
-street: "Rue Fernand Philippart"
-housenumber: 8
-phone: "+33 5 57 59 93 72"
-opening_hours: "Mo,Su 11:00-18:00; Tu-Fr 10:00-19:00; Sa 10:00-12:30,14:00-19:00"
-website: "https://www.auguste-k.com/"
+street: Rue Fernand Philippart
+housenumber: "8"
+phone: +33 5 57 59 93 72
+opening_hours: Mo,Su 11:00-18:00; Tu-Fr 10:00-19:00; Sa 10:00-12:30,14:00-19:00
+website: https://www.auguste-k.com/

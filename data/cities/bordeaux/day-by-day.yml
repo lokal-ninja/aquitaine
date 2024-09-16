@@ -1,11 +1,11 @@
 id: 154772532
-type: way
+type: node
 latitude: 44.84716
 longitude: -0.58024
 postcode: "33000"
 city: Bordeaux
-street: "Rue Fondaudège"
-housenumber: 61
-phone: "+33 5 56 44 37 59"
-opening_hours: "Tu-Sa 10:00-13:30,15:00-19:30"
-website: "https://daybyday-shop.com/magasin/bordeaux"
+street: Rue Fondaudège
+housenumber: "61"
+phone: +33 5 56 44 37 59
+opening_hours: Tu-Sa 10:00-13:30,15:00-19:30
+website: https://daybyday-shop.com/magasin/bordeaux

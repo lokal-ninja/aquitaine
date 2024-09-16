@@ -4,8 +4,8 @@ latitude: 44.84101
 longitude: -0.5768
 postcode: "33000"
 city: Bordeaux
-street: "Rue Porte Dijeaux"
-housenumber: 47
+street: Rue Porte Dijeaux
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Th 10:00-19:00; Sa 10:00-19:30; Su 13:00-18:00; Fr off"
+opening_hours: Mo-Th 10:00-19:00; Sa 10:00-19:30; Su 13:00-18:00; Fr off
 website: ""

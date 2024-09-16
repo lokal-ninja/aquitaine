@@ -4,8 +4,8 @@ latitude: 44.7695
 longitude: -0.57825
 postcode: "33140"
 city: Villenave-d'Ornon
-street: "Rue Jean Bonnardel"
-housenumber: 2
-phone: "+33 5 57 04 25 03"
-opening_hours: "Mo-Sa 10:00-12:00,14:00-19:00"
-website: "https://www.cuisines-references.fr/trouvez-votre-magasin/magasin-cuisines-references-villenave-d-ornon"
+street: Rue Jean Bonnardel
+housenumber: "2"
+phone: +33 5 57 04 25 03
+opening_hours: Mo-Sa 10:00-12:00,14:00-19:00
+website: https://www.cuisines-references.fr/trouvez-votre-magasin/magasin-cuisines-references-villenave-d-ornon

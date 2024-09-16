@@ -4,8 +4,8 @@ latitude: 43.87121
 longitude: -1.14224
 postcode: "40260"
 city: Castets
-street: "Rue des Mousquetaires"
-housenumber: 4
-phone: "+33 6 18 15 10 66"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"
-website: "https://garage.garage-premier.fr/fr/france-FR/CUST-IN0436/must-auto/details"
+street: Rue des Mousquetaires
+housenumber: "4"
+phone: +33 6 18 15 10 66
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00
+website: https://garage.garage-premier.fr/fr/france-FR/CUST-IN0436/must-auto/details

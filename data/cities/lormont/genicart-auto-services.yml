@@ -1,11 +1,11 @@
 id: 104958171
-type: way
+type: node
 latitude: 44.87277
 longitude: -0.52525
 postcode: ""
 city: Lormont
 street: ""
-housenumber: 31
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:30"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:30
 website: ""

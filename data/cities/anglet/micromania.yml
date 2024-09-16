@@ -4,8 +4,8 @@ latitude: 43.48734
 longitude: -1.49906
 postcode: "64600"
 city: Anglet
-street: "Avenue Jean-Léon Laporte"
-housenumber: 6
+street: Avenue Jean-Léon Laporte
+housenumber: "6"
 phone: "+33559151099"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.micromania.fr/magasin?storeid=B2"
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.micromania.fr/magasin?storeid=B2

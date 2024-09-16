@@ -4,8 +4,8 @@ latitude: 43.64395
 longitude: -1.43206
 postcode: "40130"
 city: Capbreton
-street: "Boulevard du Dr Junqua"
-housenumber: 6
-phone: "+33 5 58 41 06 06"
-opening_hours: "Mo-Su 06:00-20:00"
-website: "https://www.copaline.com/"
+street: Boulevard du Dr Junqua
+housenumber: "6"
+phone: +33 5 58 41 06 06
+opening_hours: Mo-Su 06:00-20:00
+website: https://www.copaline.com/

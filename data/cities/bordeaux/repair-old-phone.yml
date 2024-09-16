@@ -4,8 +4,8 @@ latitude: 44.83713
 longitude: -0.59918
 postcode: "33200"
 city: Bordeaux
-street: "Boulevard du Président Wilson"
-housenumber: 7
-phone: "+33 5 33 05 74 62"
-opening_hours: "Mo-Sa 09:30-13:00,14:00-19:00"
+street: Boulevard du Président Wilson
+housenumber: "7"
+phone: +33 5 33 05 74 62
+opening_hours: Mo-Sa 09:30-13:00,14:00-19:00
 website: ""

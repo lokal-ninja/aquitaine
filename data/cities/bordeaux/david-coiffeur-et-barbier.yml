@@ -1,11 +1,11 @@
 id: 155810035
-type: way
+type: node
 latitude: 44.81707
 longitude: -0.5721
 postcode: "33800"
 city: Bordeaux
-street: "Cours de la Somme"
-housenumber: 320
-phone: "+33 5 56 91 94 24"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 08:30-18:00"
-website: "https://www.coiffeur-barbier-david-bordeaux.fr/"
+street: Cours de la Somme
+housenumber: "320"
+phone: +33 5 56 91 94 24
+opening_hours: Tu-Fr 09:00-19:00; Sa 08:30-18:00
+website: https://www.coiffeur-barbier-david-bordeaux.fr/

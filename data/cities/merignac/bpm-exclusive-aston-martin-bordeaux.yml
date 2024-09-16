@@ -1,11 +1,11 @@
 id: 258253993
-type: way
+type: node
 latitude: 44.83463
 longitude: -0.69111
 postcode: "33700"
 city: Mérignac
-street: "Avenue du Président John Fitzgerald Kennedy"
-housenumber: 114
+street: Avenue du Président John Fitzgerald Kennedy
+housenumber: "114"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00, 14:00-18:00"
-website: "https://www.bpmgroup.fr/concessions/aston-martin-bordeaux/"
+opening_hours: Mo-Fr 08:30-12:00, 14:00-18:00
+website: https://www.bpmgroup.fr/concessions/aston-martin-bordeaux/

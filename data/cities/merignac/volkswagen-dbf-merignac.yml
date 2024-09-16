@@ -1,11 +1,11 @@
 id: 167432900
-type: way
+type: node
 latitude: 44.84783
 longitude: -0.68037
 postcode: "33700"
 city: Mérignac
-street: "Avenue Marcel Dassault"
-housenumber: 8
+street: Avenue Marcel Dassault
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

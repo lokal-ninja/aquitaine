@@ -4,8 +4,8 @@ latitude: 44.83982
 longitude: -0.58202
 postcode: "33000"
 city: Bordeaux
-street: "Rue Saint-Sernin"
-housenumber: 20
+street: Rue Saint-Sernin
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://limagier-encadreur.com/"
+website: https://limagier-encadreur.com/

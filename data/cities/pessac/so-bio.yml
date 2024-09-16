@@ -1,11 +1,11 @@
 id: 785425169
-type: way
+type: node
 latitude: 44.78681
 longitude: -0.64289
 postcode: "33600"
 city: Pessac
-street: "Avenue Gustave Eiffel"
-housenumber: 10
+street: Avenue Gustave Eiffel
+housenumber: "10"
 phone: ""
-opening_hours: "Mo 14:30-19:30; Tu-Sa 09:30-19:30"
-website: "https://www.sobio.fr/magasin/pessac"
+opening_hours: Mo 14:30-19:30; Tu-Sa 09:30-19:30
+website: https://www.sobio.fr/magasin/pessac

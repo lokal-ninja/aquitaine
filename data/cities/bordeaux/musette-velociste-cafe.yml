@@ -4,8 +4,8 @@ latitude: 44.828
 longitude: -0.57227
 postcode: "33800"
 city: Bordeaux
-street: "Cours de la Somme"
-housenumber: 72
-phone: "+33 983 598 526"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 10:00-18:00"
-website: "https://musettebordeaux.com/"
+street: Cours de la Somme
+housenumber: "72"
+phone: +33 983 598 526
+opening_hours: Mo-Fr 08:00-19:00; Sa 10:00-18:00
+website: https://musettebordeaux.com/

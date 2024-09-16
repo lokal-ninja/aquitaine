@@ -4,8 +4,8 @@ latitude: 44.83827
 longitude: -0.57794
 postcode: "33000"
 city: Bordeaux
-street: "Place Pey Berland"
-housenumber: 8
-phone: "+33 5 56 12 24 53"
-opening_hours: "Tu-Fr 11:00-19:30; Sa 10:00-20:00; Su 10:00-18:30"
-website: "https://www.pmpatissierbordelais.fr/"
+street: Place Pey Berland
+housenumber: "8"
+phone: +33 5 56 12 24 53
+opening_hours: Tu-Fr 11:00-19:30; Sa 10:00-20:00; Su 10:00-18:30
+website: https://www.pmpatissierbordelais.fr/

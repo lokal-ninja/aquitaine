@@ -4,8 +4,9 @@ latitude: 43.16173
 longitude: -1.2375
 postcode: "64220"
 city: Saint-Jean-Pied-de-Port
-street: "Rue d'Espagne"
-housenumber: 17
+street: Rue d'Espagne
+housenumber: "17"
 phone: ""
-opening_hours: "Mo,Tu,Th 08:00-12:30,14:00-19:00; We 08:00-13:00,14:00-19:00; Sa-Su 08:00-19:00"
+opening_hours: Mo,Tu,Th 08:00-12:30,14:00-19:00; We 08:00-13:00,14:00-19:00; Sa-Su
+    08:00-19:00
 website: ""

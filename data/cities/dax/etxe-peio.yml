@@ -4,8 +4,8 @@ latitude: 43.70921
 longitude: -1.05401
 postcode: "40100"
 city: Dax
-street: "Rue des Carmes"
-housenumber: 52
-phone: "+33 5 58 98 86 64"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://etxepeio.com/"
+street: Rue des Carmes
+housenumber: "52"
+phone: +33 5 58 98 86 64
+opening_hours: Tu-Sa 10:00-19:00
+website: https://etxepeio.com/

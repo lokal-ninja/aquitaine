@@ -1,11 +1,11 @@
 id: 192701294
-type: way
+type: node
 latitude: 45.04613
 longitude: -0.96054
 postcode: "33480"
 city: Brach
-street: "Mayne Bernard Nord"
-housenumber: 10
+street: Mayne Bernard Nord
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Su,PH 09:00-12:00,14:00-19:00"
+opening_hours: Mo-Su,PH 09:00-12:00,14:00-19:00
 website: ""

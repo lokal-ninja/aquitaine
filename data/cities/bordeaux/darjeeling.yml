@@ -4,8 +4,8 @@ latitude: 44.84093
 longitude: -0.578
 postcode: "33000"
 city: Bordeaux
-street: "Rue Porte Dijeaux"
-housenumber: 71
+street: Rue Porte Dijeaux
+housenumber: "71"
 phone: "+33556442055"
 opening_hours: ""
-website: "https://www.darjeeling.fr/storelocator"
+website: https://www.darjeeling.fr/storelocator

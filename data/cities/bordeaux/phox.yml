@@ -4,8 +4,8 @@ latitude: 44.84287
 longitude: -0.57512
 postcode: "33000"
 city: Bordeaux
-street: "Allées de Tourny"
-housenumber: 6
+street: Allées de Tourny
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.dechartre.com"
+website: https://www.dechartre.com

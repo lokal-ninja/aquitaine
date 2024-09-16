@@ -4,8 +4,8 @@ latitude: 43.86371
 longitude: -1.1618
 postcode: "40260"
 city: Castets
-street: "Route de Bayonne"
-housenumber: 1328
-phone: "+33 5 58 89 47 51"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.copadax.fr/"
+street: Route de Bayonne
+housenumber: "1328"
+phone: +33 5 58 89 47 51
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.copadax.fr/

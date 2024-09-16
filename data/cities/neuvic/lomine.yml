@@ -1,11 +1,11 @@
 id: 415252220
-type: way
+type: node
 latitude: 45.10102
 longitude: 0.46913
 postcode: "24190"
 city: Neuvic
-street: "Place Eugène Le Roy"
-housenumber: 
+street: Place Eugène Le Roy
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

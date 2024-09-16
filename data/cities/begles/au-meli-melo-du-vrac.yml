@@ -4,8 +4,9 @@ latitude: 44.80707
 longitude: -0.54849
 postcode: "33130"
 city: Bègles
-street: "Place du Quatorze Juillet"
-housenumber: 5
+street: Place du Quatorze Juillet
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Tu 09:30-13:30, 15:30-19:00; We 09:30-19:00; Fr 09:30-13:30, 15:30-19:00; Sa 08:00-15:00"
-website: "https://aumelimeloduvrac.com/"
+opening_hours: Mo-Tu 09:30-13:30, 15:30-19:00; We 09:30-19:00; Fr 09:30-13:30, 15:30-19:00;
+    Sa 08:00-15:00
+website: https://aumelimeloduvrac.com/

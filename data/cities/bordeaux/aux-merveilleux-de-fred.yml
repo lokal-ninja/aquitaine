@@ -4,8 +4,8 @@ latitude: 44.84336
 longitude: -0.57082
 postcode: "33000"
 city: Bordeaux
-street: "Place Jean Jaurès"
-housenumber: 7
+street: Place Jean Jaurès
+housenumber: "7"
 phone: "+33557837633"
-opening_hours: "Tu-Sa 07:30-19:45; Su 07:30-19:30"
-website: "https://www.auxmerveilleux.com/home/"
+opening_hours: Tu-Sa 07:30-19:45; Su 07:30-19:30
+website: https://www.auxmerveilleux.com/home/

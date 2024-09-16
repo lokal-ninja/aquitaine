@@ -4,8 +4,8 @@ latitude: 44.83006
 longitude: -0.57319
 postcode: "33000"
 city: Bordeaux
-street: "Cours de l'Argonne"
-housenumber: 9
+street: Cours de l'Argonne
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 14:00-20:30"
+opening_hours: Mo-Sa 08:00-21:00; Su 14:00-20:30
 website: ""

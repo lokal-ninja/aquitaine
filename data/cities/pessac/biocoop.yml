@@ -1,11 +1,11 @@
 id: 226903073
-type: way
+type: node
 latitude: 44.80632
 longitude: -0.62974
 postcode: "33600"
 city: Pessac
-street: "Avenue Jean Jaurès"
-housenumber: 14
+street: Avenue Jean Jaurès
+housenumber: "14"
 phone: ""
-opening_hours: "Mo 10:30-19:30; Tu 09:00-19:30; We-Sa 09:30-19:30"
-website: "https://www.biocooppessac.fr"
+opening_hours: Mo 10:30-19:30; Tu 09:00-19:30; We-Sa 09:30-19:30
+website: https://www.biocooppessac.fr

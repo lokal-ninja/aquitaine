@@ -1,11 +1,11 @@
 id: 48804411
-type: way
+type: node
 latitude: 43.31914
 longitude: -0.43568
 postcode: "64230"
 city: Lescar
-street: "Boulevard de l'Europe"
-housenumber: 176
+street: Boulevard de l'Europe
+housenumber: "176"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.decathlon.fr/fr/store?store_id=PS_24"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.decathlon.fr/fr/store?store_id=PS_24

@@ -4,8 +4,8 @@ latitude: 44.81195
 longitude: -0.59002
 postcode: "33400"
 city: Talence
-street: "Cours de la Libération"
-housenumber: 300
-phone: "+33 5 56 04 68 00"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:30-19:30"
-website: "https://www.librairiegeorges.com/"
+street: Cours de la Libération
+housenumber: "300"
+phone: +33 5 56 04 68 00
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:30-19:30
+website: https://www.librairiegeorges.com/

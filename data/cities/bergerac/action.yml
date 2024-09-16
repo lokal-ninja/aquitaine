@@ -4,8 +4,8 @@ latitude: 44.83495
 longitude: 0.45143
 postcode: "24100"
 city: Bergerac
-street: "Rue du Tounet"
-housenumber: 
+street: Rue du Tounet
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

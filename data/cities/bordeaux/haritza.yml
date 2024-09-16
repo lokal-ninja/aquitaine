@@ -4,8 +4,8 @@ latitude: 44.85087
 longitude: -0.61395
 postcode: "33200"
 city: Bordeaux
-street: "Rue de l'Église"
-housenumber: 18
-phone: "+33 6 81 18 39 74"
-opening_hours: "Mo-Su 09:00-19:00"
-website: "https://www.haritzafleuriste.com"
+street: Rue de l'Église
+housenumber: "18"
+phone: +33 6 81 18 39 74
+opening_hours: Mo-Su 09:00-19:00
+website: https://www.haritzafleuriste.com

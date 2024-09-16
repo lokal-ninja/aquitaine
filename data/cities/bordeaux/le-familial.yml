@@ -4,8 +4,8 @@ latitude: 44.81423
 longitude: -0.57298
 postcode: "33800"
 city: Bordeaux
-street: "Route de Toulouse"
-housenumber: 9
+street: Route de Toulouse
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/barrieredetoulouse"
+website: https://www.facebook.com/barrieredetoulouse

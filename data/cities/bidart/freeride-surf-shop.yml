@@ -4,8 +4,8 @@ latitude: 43.44634
 longitude: -1.58303
 postcode: "64210"
 city: Bidart
-street: "Rue de l'Océan"
-housenumber: 2
-phone: "+33 5 59 54 71 41"
-opening_hours: "Mo-Sa 10:00-13:00,15:00-19:00"
-website: "https://www.freeride-surfshop.com/"
+street: Rue de l'Océan
+housenumber: "2"
+phone: +33 5 59 54 71 41
+opening_hours: Mo-Sa 10:00-13:00,15:00-19:00
+website: https://www.freeride-surfshop.com/

@@ -4,8 +4,8 @@ latitude: 44.84101
 longitude: -0.57698
 postcode: "33000"
 city: Bordeaux
-street: "Rue Porte Dijeaux"
-housenumber: 51
+street: Rue Porte Dijeaux
+housenumber: "51"
 phone: "+33556064152"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.okaidi.fr"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.okaidi.fr

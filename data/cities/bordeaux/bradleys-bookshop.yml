@@ -4,8 +4,8 @@ latitude: 44.83902
 longitude: -0.57331
 postcode: "33000"
 city: Bordeaux
-street: "Rue de la Merci"
-housenumber: 1
+street: Rue de la Merci
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Sa 10:00-19:00"
+opening_hours: Tu-Sa 10:00-19:00
 website: ""

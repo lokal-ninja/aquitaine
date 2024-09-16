@@ -1,11 +1,11 @@
 id: 785412749
-type: way
+type: node
 latitude: 44.7823
 longitude: -0.63795
 postcode: "33600"
 city: Pessac
-street: "Avenue de Tuileranne"
-housenumber: 
+street: Avenue de Tuileranne
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.intersport.fr/-/PESSAC-33600/INTERSPORT-PESSAC/00168_000/"
+website: https://www.intersport.fr/-/PESSAC-33600/INTERSPORT-PESSAC/00168_000/

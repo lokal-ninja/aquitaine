@@ -1,11 +1,11 @@
 id: 785425170
-type: way
+type: node
 latitude: 44.78653
 longitude: -0.64281
 postcode: "33600"
 city: Pessac
-street: "Avenue Gustave Eiffel"
-housenumber: 10
-phone: "+33 5 57 26 80 67"
+street: Avenue Gustave Eiffel
+housenumber: "10"
+phone: +33 5 57 26 80 67
 opening_hours: ""
-website: "https://www.cedeo.fr/infos-agence/pessac-cedeo-2321"
+website: https://www.cedeo.fr/infos-agence/pessac-cedeo-2321

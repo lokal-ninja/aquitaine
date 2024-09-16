@@ -4,8 +4,8 @@ latitude: 44.84381
 longitude: -0.579
 postcode: "33000"
 city: Bordeaux
-street: "Cours Georges Clemenceau"
-housenumber: 43
+street: Cours Georges Clemenceau
+housenumber: "43"
 phone: "+33556819316"
 opening_hours: ""
-website: "https://www.freelance.fr/fr"
+website: https://www.freelance.fr/fr

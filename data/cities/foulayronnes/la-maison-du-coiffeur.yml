@@ -4,8 +4,8 @@ latitude: 44.23387
 longitude: 0.63971
 postcode: "47510"
 city: Foulayronnes
-street: "Allée du Stade"
-housenumber: 1
-phone: "+33 5 53 96 12 45"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-17:30"
-website: "https://www.lamaisonducoiffeur-agen.fr/"
+street: Allée du Stade
+housenumber: "1"
+phone: +33 5 53 96 12 45
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-17:30
+website: https://www.lamaisonducoiffeur-agen.fr/

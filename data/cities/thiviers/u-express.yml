@@ -1,11 +1,11 @@
 id: 447835842
-type: way
+type: node
 latitude: 45.4159
 longitude: 0.91752
 postcode: "24800"
 city: Thiviers
-street: "Place du Champ de Foire"
-housenumber: 
+street: Place du Champ de Foire
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:30"
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:30
 website: ""

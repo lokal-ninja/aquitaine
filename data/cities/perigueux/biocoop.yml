@@ -1,11 +1,11 @@
 id: 75339816
-type: way
+type: node
 latitude: 45.18405
 longitude: 0.72139
 postcode: "24000"
 city: Périgueux
-street: "Rue Salinière"
-housenumber: 7
+street: Rue Salinière
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.biocoop-perigueux.fr/"
+website: https://www.biocoop-perigueux.fr/

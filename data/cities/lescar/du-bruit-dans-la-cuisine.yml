@@ -4,8 +4,8 @@ latitude: 43.31723
 longitude: -0.4336
 postcode: "64230"
 city: Lescar
-street: "Boulevard de l'Europe"
-housenumber: 180
-phone: "+33 5 59 77 98 75"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.dubruitdanslacuisine.fr/boutiques/lescar-pau/"
+street: Boulevard de l'Europe
+housenumber: "180"
+phone: +33 5 59 77 98 75
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.dubruitdanslacuisine.fr/boutiques/lescar-pau/

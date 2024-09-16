@@ -1,11 +1,11 @@
 id: 184585699
-type: way
+type: node
 latitude: 43.66612
 longitude: -0.58909
 postcode: ""
 city: Hagetmau
-street: "Route de Bellevue"
-housenumber: 803
-phone: "+33 5 58 79 58 58"
+street: Route de Bellevue
+housenumber: "803"
+phone: +33 5 58 79 58 58
 opening_hours: ""
 website: ""

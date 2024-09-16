@@ -1,11 +1,11 @@
 id: 228078862
-type: way
+type: node
 latitude: 44.73168
 longitude: -0.60684
 postcode: "33850"
 city: Léognan
-street: "Avenue de Gradignan"
-housenumber: 41
-phone: "+33 5 56 64 75 25"
+street: Avenue de Gradignan
+housenumber: "41"
+phone: +33 5 56 64 75 25
 opening_hours: ""
-website: "https://www.garage-morettodayon-leognan.fr/"
+website: https://www.garage-morettodayon-leognan.fr/

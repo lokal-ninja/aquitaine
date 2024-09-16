@@ -1,11 +1,11 @@
 id: 175973645
-type: way
+type: node
 latitude: 45.07354
 longitude: -0.79303
 postcode: "33480"
 city: Listrac Médoc
-street: "Avenue de Soulac"
-housenumber: 21
-phone: "+33 556 58 03 73"
+street: Avenue de Soulac
+housenumber: "21"
+phone: +33 556 58 03 73
 opening_hours: ""
 website: ""

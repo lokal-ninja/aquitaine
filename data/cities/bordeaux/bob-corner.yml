@@ -4,8 +4,8 @@ latitude: 44.8429
 longitude: -0.57865
 postcode: "33000"
 city: Bordeaux
-street: "Rue Fénelon"
-housenumber: 7
+street: Rue Fénelon
+housenumber: "7"
 phone: "+33556231870"
 opening_hours: ""
-website: "https://www.bob-corner.fr/"
+website: https://www.bob-corner.fr/

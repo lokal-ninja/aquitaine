@@ -1,11 +1,11 @@
 id: 1020267659
-type: way
+type: node
 latitude: 44.71536
 longitude: -0.39001
 postcode: "33550"
 city: Langoiran
-street: "Route de Créon"
-housenumber: 25
-phone: "+33 5 56 67 58 38"
+street: Route de Créon
+housenumber: "25"
+phone: +33 5 56 67 58 38
 opening_hours: ""
 website: ""

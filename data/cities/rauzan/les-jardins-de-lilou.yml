@@ -1,11 +1,11 @@
 id: 674202546
-type: way
+type: node
 latitude: 44.7706
 longitude: -0.11909
 postcode: "33420"
 city: Rauzan
-street: "Petit Bourg Sud"
-housenumber: 4
+street: Petit Bourg Sud
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

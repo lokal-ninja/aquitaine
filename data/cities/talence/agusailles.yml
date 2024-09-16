@@ -4,8 +4,8 @@ latitude: 44.8165
 longitude: -0.58615
 postcode: "33400"
 city: Talence
-street: "Rue Roustaing"
-housenumber: 2
+street: Rue Roustaing
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Sa 10:00-21:00; Su 10:00-13:00"
+opening_hours: Tu-Sa 10:00-21:00; Su 10:00-13:00
 website: ""

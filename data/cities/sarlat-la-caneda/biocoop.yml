@@ -4,8 +4,8 @@ latitude: 44.87715
 longitude: 1.20959
 postcode: "24200"
 city: Sarlat-la-Canéda
-street: "Route du Bugue"
-housenumber: 
-phone: "+33 5 53 59 03 10"
-opening_hours: "Mo 14:30-19:00; Tu-Fr 09:30-13:00, 14:30-19:00; Sa 09:30-19:00"
-website: "https://www.biocoopsarlat.fr"
+street: Route du Bugue
+housenumber: ""
+phone: +33 5 53 59 03 10
+opening_hours: Mo 14:30-19:00; Tu-Fr 09:30-13:00, 14:30-19:00; Sa 09:30-19:00
+website: https://www.biocoopsarlat.fr

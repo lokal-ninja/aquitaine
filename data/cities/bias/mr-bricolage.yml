@@ -1,11 +1,11 @@
 id: 459573820
-type: way
+type: node
 latitude: 44.40396
 longitude: 0.66582
 postcode: "47300"
 city: Bias
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

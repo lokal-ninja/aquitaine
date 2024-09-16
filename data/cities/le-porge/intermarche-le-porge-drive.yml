@@ -1,11 +1,11 @@
 id: 483533062
-type: way
+type: node
 latitude: 44.87689
 longitude: -1.079
 postcode: "33680"
 city: Le Porge
-street: "Zae de la Gare"
-housenumber: 33
-phone: "+33 557176436"
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-12:30"
-website: "https://www.intermarche.com/magasin"
+street: Zae de la Gare
+housenumber: "33"
+phone: +33 557176436
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-12:30
+website: https://www.intermarche.com/magasin

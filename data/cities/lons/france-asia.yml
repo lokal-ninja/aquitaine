@@ -1,11 +1,11 @@
 id: 63484972
-type: way
+type: node
 latitude: 43.31165
 longitude: -0.42413
 postcode: "64140"
 city: Lons
-street: "Avenue André Marie Ampère"
-housenumber: 6
-phone: "+33 5 59 00 00 00"
-opening_hours: "Mo-Sa 10:00-13:00, 14:30-19:30"
-website: "https://france-asia.com"
+street: Avenue André Marie Ampère
+housenumber: "6"
+phone: +33 5 59 00 00 00
+opening_hours: Mo-Sa 10:00-13:00, 14:30-19:30
+website: https://france-asia.com

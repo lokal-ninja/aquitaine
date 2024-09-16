@@ -4,8 +4,8 @@ latitude: 44.79339
 longitude: -0.60617
 postcode: "33600"
 city: Pessac
-street: "Rue de Compostelle"
-housenumber: 45
+street: Rue de Compostelle
+housenumber: "45"
 phone: "+33556802942"
-opening_hours: "9:00-19:00"
+opening_hours: 9:00-19:00
 website: ""

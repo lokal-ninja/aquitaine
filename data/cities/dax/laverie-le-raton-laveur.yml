@@ -4,8 +4,8 @@ latitude: 43.70938
 longitude: -1.04945
 postcode: "40100"
 city: Dax
-street: "Place Saint-Pierre"
-housenumber: 1
-phone: "+33 6 07 82 03 27"
-opening_hours: "07:00-21:00"
+street: Place Saint-Pierre
+housenumber: "1"
+phone: +33 6 07 82 03 27
+opening_hours: 07:00-21:00
 website: ""

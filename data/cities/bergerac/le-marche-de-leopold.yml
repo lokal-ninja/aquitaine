@@ -4,8 +4,8 @@ latitude: 44.8352
 longitude: 0.45136
 postcode: "24100"
 city: Bergerac
-street: "Route de Bordeaux"
-housenumber: 
+street: Route de Bordeaux
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:15"
-website: "https://www.lemarchedeleopold.com/"
+opening_hours: Mo-Sa 09:30-19:15
+website: https://www.lemarchedeleopold.com/

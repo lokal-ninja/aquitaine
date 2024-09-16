@@ -4,8 +4,8 @@ latitude: 43.16282
 longitude: -1.23704
 postcode: "64220"
 city: Saint-Jean-Pied-de-Port
-street: "Rue de la Citadelle"
-housenumber: 5
+street: Rue de la Citadelle
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Su 11:00-19:30"
-website: "https://www.lesmanexdupaysbasque.com/"
+opening_hours: Mo-Su 11:00-19:30
+website: https://www.lesmanexdupaysbasque.com/

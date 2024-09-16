@@ -4,8 +4,8 @@ latitude: 44.8329
 longitude: -0.57081
 postcode: "33000"
 city: Bordeaux
-street: "Rue du Mirail"
-housenumber: 52
+street: Rue du Mirail
+housenumber: "52"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Sa 11:00-19:00"
+opening_hours: Mo 14:00-19:00; Tu-Sa 11:00-19:00
 website: ""

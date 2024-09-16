@@ -1,11 +1,11 @@
 id: 116152653
-type: way
+type: node
 latitude: 43.75872
 longitude: -0.57078
 postcode: "40500"
 city: Saint-Sever
-street: "Rue du Bellocq"
-housenumber: 1
-phone: "+33 5 58 76 14 88"
-opening_hours: "Mo-Fr 06:30-13:00,16:00-19:00; Sa 06:30-12:00"
+street: Rue du Bellocq
+housenumber: "1"
+phone: +33 5 58 76 14 88
+opening_hours: Mo-Fr 06:30-13:00,16:00-19:00; Sa 06:30-12:00
 website: ""

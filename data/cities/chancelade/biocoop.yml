@@ -4,8 +4,8 @@ latitude: 45.19833
 longitude: 0.66023
 postcode: "24650"
 city: Chancelade
-street: "Route de Ribérac"
-housenumber: 
+street: Route de Ribérac
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.biocoop-chancelade.fr"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.biocoop-chancelade.fr

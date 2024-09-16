@@ -4,8 +4,8 @@ latitude: 44.89444
 longitude: -0.71329
 postcode: "33160"
 city: Saint-Médard-en-Jalles
-street: "Avenue Montaigne"
-housenumber: 168
-phone: "+33 5 56 99 22 42"
-opening_hours: "Mo 14:00-19:30, Tu-Sa 09:00-19:00"
+street: Avenue Montaigne
+housenumber: "168"
+phone: +33 5 56 99 22 42
+opening_hours: Mo 14:00-19:30, Tu-Sa 09:00-19:00
 website: ""

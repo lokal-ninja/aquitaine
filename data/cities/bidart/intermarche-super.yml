@@ -1,11 +1,11 @@
 id: 733579653
-type: way
+type: node
 latitude: 43.44835
 longitude: -1.57427
 postcode: "64210"
 city: Bidart
-street: "Avenue de Bayonne"
-housenumber: 
-phone: "+33 5 59 47 58 00"
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
+street: Avenue de Bayonne
+housenumber: ""
+phone: +33 5 59 47 58 00
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
 website: ""

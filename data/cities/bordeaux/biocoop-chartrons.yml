@@ -4,8 +4,8 @@ latitude: 44.85203
 longitude: -0.57272
 postcode: "33300"
 city: Bordeaux
-street: "Rue Sicard"
-housenumber: 6
-phone: "+33 5 56 58 46 07"
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Nouvelle-Aquitaine2/Gironde/BIOCOOP-CHARTRONS"
+street: Rue Sicard
+housenumber: "6"
+phone: +33 5 56 58 46 07
+opening_hours: Mo-Sa 10:00-19:30
+website: https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Nouvelle-Aquitaine2/Gironde/BIOCOOP-CHARTRONS

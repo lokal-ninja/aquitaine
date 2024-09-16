@@ -1,11 +1,11 @@
 id: 232254039
-type: way
+type: node
 latitude: 43.87793
 longitude: -1.1479
 postcode: "40260"
 city: Castets
-street: "Rue de la Poterie"
-housenumber: 292
-phone: "+33 5 58 89 17 75"
-opening_hours: "Mo-Fr 09:00-12:30,13:30-18:00; Sa 09:00-12:00"
-website: "https://www.gascogneboislecomptoir.com/magasins-gascogne-bois-le-comptoir/gascogne-bois-le-comptoir-castets/"
+street: Rue de la Poterie
+housenumber: "292"
+phone: +33 5 58 89 17 75
+opening_hours: Mo-Fr 09:00-12:30,13:30-18:00; Sa 09:00-12:00
+website: https://www.gascogneboislecomptoir.com/magasins-gascogne-bois-le-comptoir/gascogne-bois-le-comptoir-castets/

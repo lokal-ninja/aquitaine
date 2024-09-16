@@ -1,11 +1,11 @@
 id: 169571483
-type: way
+type: node
 latitude: 44.49187
 longitude: 0.94855
 postcode: "47500"
 city: Fumel
-street: "Route de Périgueux"
-housenumber: 
+street: Route de Périgueux
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://nozarrivages.com/magasin/fumel/"
+website: https://nozarrivages.com/magasin/fumel/

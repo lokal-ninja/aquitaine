@@ -1,11 +1,11 @@
 id: 100853339
-type: way
+type: node
 latitude: 44.85994
 longitude: -0.51464
 postcode: "33150"
 city: Cenon
-street: "Avenue René Cassagne"
-housenumber: 
-phone: "+33 5 56 86 79 30"
+street: Avenue René Cassagne
+housenumber: ""
+phone: +33 5 56 86 79 30
 opening_hours: ""
 website: ""

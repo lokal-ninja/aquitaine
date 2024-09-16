@@ -1,11 +1,11 @@
 id: 273789868
-type: way
+type: node
 latitude: 44.64
 longitude: -0.95646
 postcode: "33380"
 city: Biganos
-street: "Rue Gutemberg"
-housenumber: 
+street: Rue Gutemberg
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

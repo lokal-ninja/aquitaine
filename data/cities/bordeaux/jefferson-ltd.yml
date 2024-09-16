@@ -4,8 +4,8 @@ latitude: 44.84344
 longitude: -0.57836
 postcode: "33000"
 city: Bordeaux
-street: "Rue Buffon"
-housenumber: 16
+street: Rue Buffon
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://jeffersonltd.fr"
+website: https://jeffersonltd.fr

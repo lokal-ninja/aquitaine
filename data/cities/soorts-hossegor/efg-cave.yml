@@ -1,11 +1,11 @@
 id: 147717694
-type: way
+type: node
 latitude: 43.67086
 longitude: -1.38776
 postcode: "40150"
 city: Soorts-Hossegor
-street: "Avenue de Pédebert"
-housenumber: 281
+street: Avenue de Pédebert
+housenumber: "281"
 phone: "+33786105150"
-opening_hours: "Mo-Th 09:00-12:30,14:00-19:30; Fr,Sa 09:00-12:30,14:00-20:00; Su 09:00-12:30,15:00-19:30"
-website: "http://www.efgcave.sitew.fr/"
+opening_hours: Mo-Th 09:00-12:30,14:00-19:30; Fr,Sa 09:00-12:30,14:00-20:00; Su 09:00-12:30,15:00-19:30
+website: http://www.efgcave.sitew.fr/

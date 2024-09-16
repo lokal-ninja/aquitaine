@@ -4,8 +4,8 @@ latitude: 44.78854
 longitude: -0.53137
 postcode: "33140"
 city: Villenave-d'Ornon
-street: "Rue Louis de Funès"
-housenumber: 4
-phone: "+33 5 56 21 84 65"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.cuizin-bordeaux.com"
+street: Rue Louis de Funès
+housenumber: "4"
+phone: +33 5 56 21 84 65
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.cuizin-bordeaux.com

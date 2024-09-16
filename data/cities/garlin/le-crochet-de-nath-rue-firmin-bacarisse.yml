@@ -1,11 +1,11 @@
 id: 1013115406
-type: way
+type: node
 latitude: 43.56073
 longitude: -0.27178
 postcode: "64430"
 city: Garlin
-street: "Rue Firmin Bacarisse"
-housenumber: 5
-phone: "+33 6 31 92 41 13"
+street: Rue Firmin Bacarisse
+housenumber: "5"
+phone: +33 6 31 92 41 13
 opening_hours: ""
-website: "https://www.facebook.com/le.crochet.de.nath/"
+website: https://www.facebook.com/le.crochet.de.nath/

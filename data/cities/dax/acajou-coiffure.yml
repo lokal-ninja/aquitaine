@@ -4,8 +4,8 @@ latitude: 43.70148
 longitude: -1.06301
 postcode: "40100"
 city: Dax
-street: "Boulevard Hippolyte Sintas"
-housenumber: 1
-phone: "+33 5 58 74 11 88"
-opening_hours: "Tu,We 09:00-12:00,14:00-19:00; Th,Fr 09:00-19:00; Sa 08:30-17:00"
-website: "https://www.acajou-coiffure-dax.fr/"
+street: Boulevard Hippolyte Sintas
+housenumber: "1"
+phone: +33 5 58 74 11 88
+opening_hours: Tu,We 09:00-12:00,14:00-19:00; Th,Fr 09:00-19:00; Sa 08:30-17:00
+website: https://www.acajou-coiffure-dax.fr/

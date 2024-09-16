@@ -3,9 +3,9 @@ type: node
 latitude: 44.32795
 longitude: -0.95693
 postcode: ""
-city: 40160
-street: "24 Rue Félix Arnaudin"
-housenumber: 
+city: "40160"
+street: 24 Rue Félix Arnaudin
+housenumber: ""
 phone: "+33558042752"
-opening_hours: "Tu-Sa 09:30-12:00,14:00-18:30"
-website: "https://www.institut-fleur-de-lys.com/"
+opening_hours: Tu-Sa 09:30-12:00,14:00-18:30
+website: https://www.institut-fleur-de-lys.com/

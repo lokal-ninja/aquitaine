@@ -4,8 +4,8 @@ latitude: 44.20443
 longitude: 0.61493
 postcode: "47000"
 city: Agen
-street: "Boulevard de la République"
-housenumber: 36
+street: Boulevard de la République
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://muymucho.es"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://muymucho.es

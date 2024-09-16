@@ -1,11 +1,12 @@
 id: 75345347
-type: way
+type: node
 latitude: 45.18988
 longitude: 0.71177
 postcode: "24000"
 city: Périgueux
-street: "Rue Victor Hugo"
-housenumber: 100
+street: Rue Victor Hugo
+housenumber: "100"
 phone: ""
-opening_hours: "Tu-Th 09:00-12:00, Tu 14:00-18:00, We 14:00-17:00, Th 14:00-19:00, Fr 09:00-19:00, Sa 09:00-15:00"
+opening_hours: Tu-Th 09:00-12:00, Tu 14:00-18:00, We 14:00-17:00, Th 14:00-19:00,
+    Fr 09:00-19:00, Sa 09:00-15:00
 website: ""

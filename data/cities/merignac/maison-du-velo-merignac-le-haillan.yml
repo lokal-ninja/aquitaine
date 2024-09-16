@@ -4,8 +4,8 @@ latitude: 44.83794
 longitude: -0.65387
 postcode: "33700"
 city: Mérignac
-street: "Rue Jean Veyri"
-housenumber: 4
-phone: "+33 5 25 35 34 69"
-opening_hours: "We 14:00-19:45; Fr 10:00-12:00,14:00-18:45; Sa 10:00-12:00,14:00:17:45"
-website: "https://www.leonavelo.org"
+street: Rue Jean Veyri
+housenumber: "4"
+phone: +33 5 25 35 34 69
+opening_hours: We 14:00-19:45; Fr 10:00-12:00,14:00-18:45; Sa 10:00-12:00,14:00:17:45
+website: https://www.leonavelo.org

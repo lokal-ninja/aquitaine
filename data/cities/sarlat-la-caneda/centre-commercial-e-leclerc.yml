@@ -1,11 +1,11 @@
 id: 376208509
-type: way
+type: node
 latitude: 44.87573
 longitude: 1.22559
 postcode: "24200"
 city: Sarlat-la-Canéda
-street: "Avenue de Madrazes"
-housenumber: 
-phone: "+33 5 53313535"
-opening_hours: "Mo-Th 08:30-19:30; Fr 08:30-20:00; Sa 08:30-19:30; Su 08:30-12:30"
+street: Avenue de Madrazes
+housenumber: ""
+phone: +33 5 53313535
+opening_hours: Mo-Th 08:30-19:30; Fr 08:30-20:00; Sa 08:30-19:30; Su 08:30-12:30
 website: ""

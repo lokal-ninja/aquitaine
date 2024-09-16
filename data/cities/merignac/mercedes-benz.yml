@@ -4,8 +4,8 @@ latitude: 44.84602
 longitude: -0.66948
 postcode: "33700"
 city: Mérignac
-street: "Rue Jacques Prévert"
-housenumber: 34
-phone: "+33 5 57 92 40 90"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-18:00"
-website: "https://www.bpmgroup.mercedes-benz.fr"
+street: Rue Jacques Prévert
+housenumber: "34"
+phone: +33 5 57 92 40 90
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-18:00
+website: https://www.bpmgroup.mercedes-benz.fr

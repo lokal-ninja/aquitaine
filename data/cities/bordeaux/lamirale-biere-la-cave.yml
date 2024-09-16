@@ -4,8 +4,8 @@ latitude: 44.83677
 longitude: -0.57162
 postcode: "33000"
 city: Bordeaux
-street: "Rue Saint-James"
-housenumber: 5
-phone: "+33 983 874 600"
-opening_hours: "15:00 - 20:00"
-website: "https://lamiralebiere.fr/"
+street: Rue Saint-James
+housenumber: "5"
+phone: +33 983 874 600
+opening_hours: 15:00 - 20:00
+website: https://lamiralebiere.fr/

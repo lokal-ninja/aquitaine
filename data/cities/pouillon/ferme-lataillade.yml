@@ -1,11 +1,11 @@
 id: 145514487
-type: way
+type: node
 latitude: 43.59305
 longitude: -1.00324
 postcode: "40350"
 city: Pouillon
-street: "Impasse de Béraoute"
-housenumber: 153
-phone: "+33 6 89 57 11 98"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-17:00"
+street: Impasse de Béraoute
+housenumber: "153"
+phone: +33 6 89 57 11 98
+opening_hours: Mo-Sa 09:00-12:00,14:00-17:00
 website: ""

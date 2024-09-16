@@ -4,8 +4,8 @@ latitude: 44.32635
 longitude: -1.1473
 postcode: "40160"
 city: Gastes
-street: "Place des Commerces"
-housenumber: 73
-phone: "+33 9 83 90 80 91"
-opening_hours: "Mo,Su 07:30-20:00"
+street: Place des Commerces
+housenumber: "73"
+phone: +33 9 83 90 80 91
+opening_hours: Mo,Su 07:30-20:00
 website: ""

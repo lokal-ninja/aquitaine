@@ -4,8 +4,8 @@ latitude: 44.84166
 longitude: -0.57915
 postcode: "33000"
 city: Bordeaux
-street: "Cours de l'Intendance"
-housenumber: 62
+street: Cours de l'Intendance
+housenumber: "62"
 phone: ""
 opening_hours: ""
-website: "https://www.nespresso.com/fr/fr/"
+website: https://www.nespresso.com/fr/fr/

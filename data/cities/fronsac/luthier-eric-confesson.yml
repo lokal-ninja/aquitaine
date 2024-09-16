@@ -1,11 +1,11 @@
 id: 356945890
-type: way
+type: node
 latitude: 44.9204
 longitude: -0.24523
 postcode: "33126"
 city: Fronsac
-street: "lieu dit Loiseau"
-housenumber: 15
+street: lieu dit Loiseau
+housenumber: "15"
 phone: ""
-opening_hours: "09:00-12:00,14:00-19:00"
-website: "http://www.luthier-confesson.com/"
+opening_hours: 09:00-12:00,14:00-19:00
+website: http://www.luthier-confesson.com/

@@ -1,11 +1,11 @@
 id: 75348232
-type: way
+type: node
 latitude: 45.18497
 longitude: 0.71454
 postcode: "24000"
 city: Périgueux
-street: "Rue du Président Wilson"
-housenumber: 32
+street: Rue du Président Wilson
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.0735
 longitude: -0.79256
 postcode: "33480"
 city: Listrac-Médoc
-street: "Avenue de Soulac"
-housenumber: 20
+street: Avenue de Soulac
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-19:30; Su 07:00-12:30"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-19:30; Su 07:00-12:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.12768
 longitude: 1.3051
 postcode: "24120"
 city: Terrasson-Lavilledieu
-street: "Rue Margontier"
-housenumber: 5
+street: Rue Margontier
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Su 09:00-19:00"
-website: "https://www.lesjardinsdecoly.com"
+opening_hours: Mo-Su 09:00-19:00
+website: https://www.lesjardinsdecoly.com

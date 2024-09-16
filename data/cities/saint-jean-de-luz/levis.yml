@@ -4,8 +4,8 @@ latitude: 43.38945
 longitude: -1.6598
 postcode: "64500"
 city: Saint-Jean-de-Luz
-street: "Rue Léon Gambetta"
-housenumber: 63
+street: Rue Léon Gambetta
+housenumber: "63"
 phone: "+33559478684"
-opening_hours: "Mo-Su 10:00-19:00"
-website: "https://www.levi.com/FR/fr_FR/"
+opening_hours: Mo-Su 10:00-19:00
+website: https://www.levi.com/FR/fr_FR/

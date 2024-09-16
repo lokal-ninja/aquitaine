@@ -1,11 +1,11 @@
 id: 68443240
-type: way
+type: node
 latitude: 44.82927
 longitude: 0.47048
 postcode: "24100"
 city: Bergerac
-street: "ZA Les Sardines"
-housenumber: 
+street: ZA Les Sardines
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.decathlon.fr/fr/store?store_id=PS_225"
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.decathlon.fr/fr/store?store_id=PS_225

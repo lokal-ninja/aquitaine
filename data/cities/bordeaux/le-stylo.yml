@@ -4,8 +4,8 @@ latitude: 44.84309
 longitude: -0.57733
 postcode: "33000"
 city: Bordeaux
-street: "Place des Grands Hommes"
-housenumber: 5
+street: Place des Grands Hommes
+housenumber: "5"
 phone: "+33556812596"
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://www.stylos-montres.fr/"
+opening_hours: Mo-Sa 10:00-19:30
+website: https://www.stylos-montres.fr/

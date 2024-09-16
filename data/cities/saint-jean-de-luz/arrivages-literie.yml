@@ -4,8 +4,8 @@ latitude: 43.40429
 longitude: -1.62645
 postcode: "64500"
 city: Saint-Jean-de-Luz
-street: "Avenue de Jalday"
-housenumber: 108
-phone: "+33 5 59 26 42 42"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://arrivagesliterie.fr/"
+street: Avenue de Jalday
+housenumber: "108"
+phone: +33 5 59 26 42 42
+opening_hours: Mo-Sa 09:30-19:00
+website: https://arrivagesliterie.fr/

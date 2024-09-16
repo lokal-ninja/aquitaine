@@ -4,8 +4,8 @@ latitude: 44.82244
 longitude: -0.60134
 postcode: "33000"
 city: Bordeaux
-street: "Rue du Tauzin"
-housenumber: 11
-phone: "+33 5 56 35 97 52"
-opening_hours: "Mo-Sa 08:00-14:00"
-website: "https://le-fournil-d-octave-bordeaux.eatbu.com/"
+street: Rue du Tauzin
+housenumber: "11"
+phone: +33 5 56 35 97 52
+opening_hours: Mo-Sa 08:00-14:00
+website: https://le-fournil-d-octave-bordeaux.eatbu.com/

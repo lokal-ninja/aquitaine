@@ -4,8 +4,8 @@ latitude: 44.8422
 longitude: -0.57478
 postcode: "33000"
 city: Bordeaux
-street: "Cours de l'Intendance"
-housenumber: 1
-phone: "+33 2 98 50 96 84"
-opening_hours: "Mo-Sa 09:30-20:00; Su 10:00-20:00"
-website: "https://larnicol.com/"
+street: Cours de l'Intendance
+housenumber: "1"
+phone: +33 2 98 50 96 84
+opening_hours: Mo-Sa 09:30-20:00; Su 10:00-20:00
+website: https://larnicol.com/

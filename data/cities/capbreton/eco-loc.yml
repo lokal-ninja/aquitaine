@@ -4,8 +4,8 @@ latitude: 43.6501
 longitude: -1.43374
 postcode: "40130"
 city: Capbreton
-street: "Avenue Maurice Martin"
-housenumber: 5
-phone: "+33 5 58 43 15 27"
-opening_hours: "Tu-Su 10:00-12:00,14:30-18:30; Sep 10:00-12:00,14:30-18:30"
-website: "https://www.eco-loc-velos.fr/"
+street: Avenue Maurice Martin
+housenumber: "5"
+phone: +33 5 58 43 15 27
+opening_hours: Tu-Su 10:00-12:00,14:30-18:30; Sep 10:00-12:00,14:30-18:30
+website: https://www.eco-loc-velos.fr/

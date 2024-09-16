@@ -4,8 +4,8 @@ latitude: 43.57551
 longitude: -0.68108
 postcode: "40330"
 city: Marpaps
-street: "Route de Darracq"
-housenumber: 156
+street: Route de Darracq
+housenumber: "156"
 phone: ""
-opening_hours: "Sa 09:00-12:00"
-website: "https://fermedarracq.fr/"
+opening_hours: Sa 09:00-12:00
+website: https://fermedarracq.fr/

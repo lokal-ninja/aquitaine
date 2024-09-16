@@ -4,8 +4,8 @@ latitude: 43.3899
 longitude: -1.65973
 postcode: "64500"
 city: Saint-Jean-de-Luz
-street: "Rue Louis-Fortuné Loquin"
-housenumber: 7
+street: Rue Louis-Fortuné Loquin
+housenumber: "7"
 phone: "+33559512100"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://www.maisonducru.fr/"
+opening_hours: Tu-Sa 10:00-19:00
+website: https://www.maisonducru.fr/

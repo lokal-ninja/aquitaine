@@ -1,11 +1,11 @@
 id: 706196125
-type: way
+type: node
 latitude: 43.72759
 longitude: -1.07665
 postcode: "40990"
 city: Saint-Paul-lès-Dax
-street: "Avenue de la Résistance"
-housenumber: 2104
-phone: "+33 800 90 03 43"
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:15"
-website: "https://www.lidl.fr/"
+street: Avenue de la Résistance
+housenumber: "2104"
+phone: +33 800 90 03 43
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:15
+website: https://www.lidl.fr/

@@ -4,8 +4,8 @@ latitude: 43.67191
 longitude: -1.38741
 postcode: "40150"
 city: Soorts-Hossegor
-street: "Avenue des Charpentiers"
-housenumber: 358
-phone: "+33 9 88 44 46 40"
-opening_hours: "Mo-Sa 10:00-13:00,15:00-19:00"
-website: "https://www.chipiron.fr/"
+street: Avenue des Charpentiers
+housenumber: "358"
+phone: +33 9 88 44 46 40
+opening_hours: Mo-Sa 10:00-13:00,15:00-19:00
+website: https://www.chipiron.fr/

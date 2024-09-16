@@ -4,8 +4,8 @@ latitude: 43.65789
 longitude: -1.31194
 postcode: "40230"
 city: Saint-Vincent-de-Tyrosse
-street: "Route de Bayonne"
-housenumber: 114
-phone: "+33 5 58 77 05 98"
-opening_hours: "Mo 06:00-14:45,15:45-19:30; We-Sa 06:00-14:45,15:45-19:30; Su 06:00-13:00"
+street: Route de Bayonne
+housenumber: "114"
+phone: +33 5 58 77 05 98
+opening_hours: Mo 06:00-14:45,15:45-19:30; We-Sa 06:00-14:45,15:45-19:30; Su 06:00-13:00
 website: ""

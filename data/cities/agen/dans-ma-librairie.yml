@@ -4,8 +4,8 @@ latitude: 44.20434
 longitude: 0.6164
 postcode: "47000"
 city: Agen
-street: "Rue Garonne"
-housenumber: 32
+street: Rue Garonne
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 10:30-12:30; 14:00-19:00"
-website: "https://dansmalibrairie.fr/accueil"
+opening_hours: Mo-Sa 10:30-12:30; 14:00-19:00
+website: https://dansmalibrairie.fr/accueil

@@ -4,8 +4,8 @@ latitude: 43.3558
 longitude: -1.56327
 postcode: "64310"
 city: Saint-Pée-sur-Nivelle
-street: "Route de Saint-Jean-de-Luz"
-housenumber: 
+street: Route de Saint-Jean-de-Luz
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.laverie-saint-pee-sur-nivelle.fr/"
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.laverie-saint-pee-sur-nivelle.fr/

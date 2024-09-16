@@ -4,8 +4,8 @@ latitude: 43.74568
 longitude: -1.33018
 postcode: "40140"
 city: Soustons
-street: "Rue d'Aquitaine"
-housenumber: 7
-phone: "+33 5 58 48 20 61"
-opening_hours: "Sep-Jun Mo-Sa 09:00-13:00,14:00-20:00; Jul-Aug Mo-Su 09:00-12:00,14:00-19:00"
-website: "https://www.velos-albret.fr/"
+street: Rue d'Aquitaine
+housenumber: "7"
+phone: +33 5 58 48 20 61
+opening_hours: Sep-Jun Mo-Sa 09:00-13:00,14:00-20:00; Jul-Aug Mo-Su 09:00-12:00,14:00-19:00
+website: https://www.velos-albret.fr/

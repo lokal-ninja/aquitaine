@@ -1,11 +1,11 @@
 id: 384109217
-type: way
+type: node
 latitude: 44.18347
 longitude: 0.57429
 postcode: "47310"
 city: Estillac
-street: "Route d'Agen"
-housenumber: 46
-phone: "+33 553680816"
+street: Route d'Agen
+housenumber: "46"
+phone: +33 553680816
 opening_hours: ""
-website: "https://reseau.citroen.fr/reparateur-estillac"
+website: https://reseau.citroen.fr/reparateur-estillac

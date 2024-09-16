@@ -1,11 +1,11 @@
 id: 63498833
-type: way
+type: node
 latitude: 43.32711
 longitude: -0.38358
 postcode: "64140"
 city: Lons
 street: ""
-housenumber: 5
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://nozarrivages.com/magasin/lons/"
+opening_hours: Mo-Sa 09:30-19:30
+website: https://nozarrivages.com/magasin/lons/

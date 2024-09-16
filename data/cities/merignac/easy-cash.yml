@@ -1,11 +1,11 @@
 id: 427630970
-type: way
+type: node
 latitude: 44.83127
 longitude: -0.66703
 postcode: "33700"
 city: Mérignac
-street: "Rue Georges Ohm"
-housenumber: 5
-phone: "+33 5 56 55 90 27"
+street: Rue Georges Ohm
+housenumber: "5"
+phone: +33 5 56 55 90 27
 opening_hours: ""
-website: "https://magasins.easycash.fr/Gironde-33/ENT38-Merignac-33700"
+website: https://magasins.easycash.fr/Gironde-33/ENT38-Merignac-33700

@@ -4,8 +4,8 @@ latitude: 44.8489
 longitude: -0.58308
 postcode: "33000"
 city: Bordeaux
-street: "Rue Fondaudège"
-housenumber: 145
-phone: "+33 5 57 34 87 36"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://chocolaterie-lalere.fr"
+street: Rue Fondaudège
+housenumber: "145"
+phone: +33 5 57 34 87 36
+opening_hours: Mo-Sa 09:30-19:00
+website: https://chocolaterie-lalere.fr

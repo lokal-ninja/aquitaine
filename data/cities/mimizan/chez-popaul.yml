@@ -4,8 +4,8 @@ latitude: 44.2032
 longitude: -1.22822
 postcode: "40200"
 city: Mimizan
-street: "Place des Ormes"
-housenumber: 4
-phone: "+33 5 58 07 09 22"
-opening_hours: "Tu-Sa 09:00-19:00"
+street: Place des Ormes
+housenumber: "4"
+phone: +33 5 58 07 09 22
+opening_hours: Tu-Sa 09:00-19:00
 website: ""

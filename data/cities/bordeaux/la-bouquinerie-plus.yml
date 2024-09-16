@@ -4,8 +4,8 @@ latitude: 44.84179
 longitude: -0.58033
 postcode: "33000"
 city: Bordeaux
-street: "Place Gambetta"
-housenumber: 44
+street: Place Gambetta
+housenumber: "44"
 phone: "+33556010910"
-opening_hours: "Mo-Sa 10:30-19:00"
-website: "https://www.labouquinerieplus.com/"
+opening_hours: Mo-Sa 10:30-19:00
+website: https://www.labouquinerieplus.com/

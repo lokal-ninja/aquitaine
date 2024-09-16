@@ -4,8 +4,8 @@ latitude: 44.87846
 longitude: -0.56006
 postcode: "33300"
 city: Bordeaux
-street: "Rue Duguay Trouin"
-housenumber: 
-phone: "+33 5 56 37 97 40"
-opening_hours: "Mo-Tu 06:30-20:00; We-Sa 06:30-20:30"
-website: "https://www.boulangerie-ange.fr/"
+street: Rue Duguay Trouin
+housenumber: ""
+phone: +33 5 56 37 97 40
+opening_hours: Mo-Tu 06:30-20:00; We-Sa 06:30-20:30
+website: https://www.boulangerie-ange.fr/

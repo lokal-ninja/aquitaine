@@ -4,8 +4,8 @@ latitude: 44.83288
 longitude: -0.57314
 postcode: "33000"
 city: Bordeaux
-street: "Rue Sainte-Catherine"
-housenumber: 233
+street: Rue Sainte-Catherine
+housenumber: "233"
 phone: ""
-opening_hours: "PH,Mo-Sa 11:30-19:15; Su off"
+opening_hours: PH,Mo-Sa 11:30-19:15; Su off
 website: ""

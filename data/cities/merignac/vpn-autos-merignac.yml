@@ -1,11 +1,11 @@
 id: 164304154
-type: way
+type: node
 latitude: 44.83258
 longitude: -0.67143
 postcode: "33700"
 city: Mérignac
-street: "Rue Euler"
-housenumber: 5
-phone: "+33 5 64 28 93 66"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-19:00"
-website: "https://bordeaux-merignac.vpn-autos.com"
+street: Rue Euler
+housenumber: "5"
+phone: +33 5 64 28 93 66
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-19:00
+website: https://bordeaux-merignac.vpn-autos.com

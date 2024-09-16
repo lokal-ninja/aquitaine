@@ -4,8 +4,8 @@ latitude: 44.85367
 longitude: -0.571
 postcode: "33000"
 city: Bordeaux
-street: "Cours de la Martinique"
-housenumber: 54
-phone: "+33 5 56 04 99 24"
-opening_hours: "Mo-Sa 07:00-22:00 Sun 09:00-20:00"
-website: "https://www.carrefour.fr/magasin/city-bordeaux-martinique"
+street: Cours de la Martinique
+housenumber: "54"
+phone: +33 5 56 04 99 24
+opening_hours: Mo-Sa 07:00-22:00 Sun 09:00-20:00
+website: https://www.carrefour.fr/magasin/city-bordeaux-martinique

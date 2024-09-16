@@ -4,8 +4,8 @@ latitude: 43.53615
 longitude: -0.41363
 postcode: "64410"
 city: Arzacq-Arraziguet
-street: "Place de la République"
-housenumber: 34
-phone: "+33 5 59 04 53 69"
-opening_hours: "Mo-Fr 07:00-12:15,14:30-19:00; Sa 07:00-12:30; Su off"
+street: Place de la République
+housenumber: "34"
+phone: +33 5 59 04 53 69
+opening_hours: Mo-Fr 07:00-12:15,14:30-19:00; Sa 07:00-12:30; Su off
 website: ""

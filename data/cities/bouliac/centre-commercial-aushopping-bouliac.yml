@@ -1,11 +1,11 @@
 id: 187168771
-type: way
+type: node
 latitude: 44.81732
 longitude: -0.5274
 postcode: "33270"
 city: Bouliac
-street: "Rue de la Gabarre"
-housenumber: 1
+street: Rue de la Gabarre
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://bouliac.aushopping.com/fr"
+website: https://bouliac.aushopping.com/fr

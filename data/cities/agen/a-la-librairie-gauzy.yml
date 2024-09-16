@@ -4,8 +4,8 @@ latitude: 44.20631
 longitude: 0.62502
 postcode: "47000"
 city: Agen
-street: "Rue Courteline"
-housenumber: 1
-phone: "+33 5 53 66 38 89"
-opening_hours: "Tu 09:00-12:00,14:00-19:00 || ou sur rendez-vous"
-website: "https://www.librairie-gauzy.fr"
+street: Rue Courteline
+housenumber: "1"
+phone: +33 5 53 66 38 89
+opening_hours: Tu 09:00-12:00,14:00-19:00 || "ou sur rendez-vous"
+website: https://www.librairie-gauzy.fr

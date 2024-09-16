@@ -1,11 +1,11 @@
 id: 849347864
-type: way
+type: node
 latitude: 44.86943
 longitude: -0.5009
 postcode: "33370"
 city: Artigues-près-Bordeaux
-street: "Avenue du Millac"
-housenumber: 3
+street: Avenue du Millac
+housenumber: "3"
 phone: "+33536283030"
 opening_hours: ""
-website: "https://bordeaux-artigues.cash-piscines.com"
+website: https://bordeaux-artigues.cash-piscines.com

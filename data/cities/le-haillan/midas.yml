@@ -4,8 +4,8 @@ latitude: 44.86921
 longitude: -0.6731
 postcode: "33185"
 city: Le Haillan
-street: "Avenue Pasteur"
-housenumber: 96
-phone: "+33 5 56 01 23 16"
+street: Avenue Pasteur
+housenumber: "96"
+phone: +33 5 56 01 23 16
 opening_hours: ""
-website: "https://www.midas.fr/"
+website: https://www.midas.fr/

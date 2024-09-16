@@ -1,11 +1,11 @@
 id: 228080853
-type: way
+type: node
 latitude: 44.74169
 longitude: -0.61319
 postcode: "33850"
 city: Léognan
-street: "Rue Denis Papin"
-housenumber: 3
+street: Rue Denis Papin
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

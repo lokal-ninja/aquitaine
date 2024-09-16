@@ -4,8 +4,8 @@ latitude: 43.49206
 longitude: -1.45898
 postcode: "64100"
 city: Bayonne
-street: "Avenue Maréchal Juin"
-housenumber: 18
+street: Avenue Maréchal Juin
+housenumber: "18"
 phone: ""
 opening_hours: ""
-website: "http://www.sepal-bayonne.fr/index.php"
+website: http://www.sepal-bayonne.fr/index.php

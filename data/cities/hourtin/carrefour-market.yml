@@ -1,11 +1,11 @@
 id: 842489999
-type: way
+type: node
 latitude: 45.18649
 longitude: -1.05404
 postcode: "33990"
 city: Hourtin
-street: "Rue de Cantelaude"
+street: Rue de Cantelaude
 housenumber: 1b
 phone: "+33556732305"
-opening_hours: "Mo-Sa 08:30-20:00; Su 09:00-12:30"
+opening_hours: Mo-Sa 08:30-20:00; Su 09:00-12:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 44.84072
 longitude: -0.57443
 postcode: "33000"
 city: Bordeaux
-street: "Rue Sainte-Catherine"
-housenumber: 27
-phone: "+33 5 56 38 08 82"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.solaris.fr/fr/store/Solaris-Bordeaux-Sainte-Catherine,29778.html"
+street: Rue Sainte-Catherine
+housenumber: "27"
+phone: +33 5 56 38 08 82
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.solaris.fr/fr/store/Solaris-Bordeaux-Sainte-Catherine,29778.html

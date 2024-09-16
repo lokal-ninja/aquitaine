@@ -1,11 +1,11 @@
 id: 231068586
-type: way
+type: node
 latitude: 43.54432
 longitude: -0.16884
 postcode: "64330"
 city: Conchez-de-Béarn
-street: "Le Bourg"
-housenumber: 
+street: Le Bourg
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 09:00-20:00"
+opening_hours: Mo-Su 09:00-20:00
 website: ""

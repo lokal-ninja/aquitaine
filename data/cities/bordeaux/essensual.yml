@@ -4,8 +4,8 @@ latitude: 44.85262
 longitude: -0.61786
 postcode: "33200"
 city: Bordeaux
-street: "Avenue Louis Barthou"
-housenumber: 209
-phone: "+33 9 54 78 03 98"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00"
-website: "https://essensual.fr/"
+street: Avenue Louis Barthou
+housenumber: "209"
+phone: +33 9 54 78 03 98
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-18:00
+website: https://essensual.fr/

@@ -4,8 +4,8 @@ latitude: 45.33525
 longitude: 1.04873
 postcode: "24160"
 city: Excideuil
-street: "Place du Château"
-housenumber: 10
+street: Place du Château
+housenumber: "10"
 phone: ""
-opening_hours: "Tu-Su"
-website: "https://www.franceboulangerie.fr/boulangeries/boulangerie-du-chateau"
+opening_hours: Tu-Su
+website: https://www.franceboulangerie.fr/boulangeries/boulangerie-du-chateau

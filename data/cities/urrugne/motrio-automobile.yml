@@ -4,8 +4,8 @@ latitude: 43.38406
 longitude: -1.69396
 postcode: "64122"
 city: Urrugne
-street: "Rue de Socoa"
-housenumber: 3
+street: Rue de Socoa
+housenumber: "3"
 phone: "+33559471526"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
-website: "https://www.motrio.fr/"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
+website: https://www.motrio.fr/

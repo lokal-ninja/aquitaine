@@ -1,11 +1,11 @@
 id: 155696094
-type: way
+type: node
 latitude: 44.8258
 longitude: -0.56175
 postcode: "33000"
 city: Bordeaux
-street: "Rue Malbec"
-housenumber: 64
+street: Rue Malbec
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:30; Su 08:30-12:15"
-website: "https://www.lidl.fr"
+opening_hours: Mo-Sa 08:30-20:30; Su 08:30-12:15
+website: https://www.lidl.fr

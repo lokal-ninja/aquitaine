@@ -1,11 +1,11 @@
 id: 228084333
-type: way
+type: node
 latitude: 44.72963
 longitude: -0.60084
 postcode: "33850"
 city: Léognan
-street: "Cours du Maréchal Leclerc"
-housenumber: 11
+street: Cours du Maréchal Leclerc
+housenumber: "11"
 phone: "+33557806839"
 opening_hours: ""
 website: ""

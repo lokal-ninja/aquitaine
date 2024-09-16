@@ -4,8 +4,8 @@ latitude: 44.85377
 longitude: -0.57274
 postcode: "33000"
 city: Bordeaux
-street: "Cours Portal"
-housenumber: 43
-phone: "+33 5 56 52 46 22"
-opening_hours: "Mo 10:00-13:00,16:00-19:30; Tu-Sa 09:00-13:00,16:00-19:30"
-website: "http://www.lafromageriedepierre.fr/"
+street: Cours Portal
+housenumber: "43"
+phone: +33 5 56 52 46 22
+opening_hours: Mo 10:00-13:00,16:00-19:30; Tu-Sa 09:00-13:00,16:00-19:30
+website: http://www.lafromageriedepierre.fr/

@@ -1,11 +1,11 @@
 id: 69313565
-type: way
+type: node
 latitude: 45.18691
 longitude: 0.76414
 postcode: "24750"
 city: Boulazac
-street: "Zone d'activites du Ponteix"
-housenumber: 
-phone: "+33 5 53 03 39 39"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.decathlon.fr/store-view/magasin-de-sports-perigueux-boulazac-0070019900199"
+street: Zone d'activites du Ponteix
+housenumber: ""
+phone: +33 5 53 03 39 39
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.decathlon.fr/store-view/magasin-de-sports-perigueux-boulazac-0070019900199

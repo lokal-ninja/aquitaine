@@ -4,8 +4,8 @@ latitude: 43.61094
 longitude: -1.04214
 postcode: "40350"
 city: gaas
-street: "Chemin de Latappy"
-housenumber: 95
-phone: "+33 6 48 60 46 60"
-opening_hours: "Mo-Sa 14:00-18:00"
-website: "https://www.fermelassalle.net/"
+street: Chemin de Latappy
+housenumber: "95"
+phone: +33 6 48 60 46 60
+opening_hours: Mo-Sa 14:00-18:00
+website: https://www.fermelassalle.net/

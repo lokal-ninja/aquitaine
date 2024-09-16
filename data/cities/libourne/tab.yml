@@ -1,11 +1,11 @@
 id: 79365455
-type: way
+type: node
 latitude: 44.91916
 longitude: -0.2401
 postcode: "33500"
 city: Libourne
-street: "Avenue Georges Clemenceau"
-housenumber: 12
+street: Avenue Georges Clemenceau
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "http://www.tabfrance.com/"
+opening_hours: Mo-Fr 09:00-18:00
+website: http://www.tabfrance.com/

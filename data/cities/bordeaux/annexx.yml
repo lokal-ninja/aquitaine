@@ -4,8 +4,8 @@ latitude: 44.87313
 longitude: -0.56472
 postcode: "33300"
 city: Bordeaux
-street: "Rue Francis Garnier"
-housenumber: 15
+street: Rue Francis Garnier
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00,09:00-18:00; Sa 09:00-13:00,09:00-13:00"
-website: "https://www.annexx.com/bordeauxn.htm"
+opening_hours: Mo-Fr 09:00-18:00,09:00-18:00; Sa 09:00-13:00,09:00-13:00
+website: https://www.annexx.com/bordeauxn.htm

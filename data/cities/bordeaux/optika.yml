@@ -4,8 +4,8 @@ latitude: 44.84295
 longitude: -0.5774
 postcode: "33000"
 city: Bordeaux
-street: "Place des Grands Hommes"
-housenumber: 14
+street: Place des Grands Hommes
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:30"
+opening_hours: Mo-Sa 10:00-19:30
 website: ""

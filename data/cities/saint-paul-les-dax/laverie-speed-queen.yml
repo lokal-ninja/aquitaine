@@ -4,8 +4,8 @@ latitude: 43.72355
 longitude: -1.05414
 postcode: "40990"
 city: Saint-Paul-lès-Dax
-street: "Place du Marché Baheigne"
-housenumber: 4
-phone: "+33 6 43 45 77 52"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "http://www.laverie-saint-paul-dax.fr/"
+street: Place du Marché Baheigne
+housenumber: "4"
+phone: +33 6 43 45 77 52
+opening_hours: Mo-Su 07:00-22:00
+website: http://www.laverie-saint-paul-dax.fr/

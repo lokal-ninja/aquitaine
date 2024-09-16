@@ -1,11 +1,11 @@
 id: 116148197
-type: way
+type: node
 latitude: 43.7497
 longitude: -0.56073
 postcode: ""
 city: Saint-Sever
-street: "Zone Artisanale d'escales"
-housenumber: 4
-phone: "+33 5 58 03 85 56"
-opening_hours: "Tu-Sa 09:30-12:30,14:00-19:00"
-website: "https://www.districenter.fr/nos-magasins/st-sever.html"
+street: Zone Artisanale d'escales
+housenumber: "4"
+phone: +33 5 58 03 85 56
+opening_hours: Tu-Sa 09:30-12:30,14:00-19:00
+website: https://www.districenter.fr/nos-magasins/st-sever.html

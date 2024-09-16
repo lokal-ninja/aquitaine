@@ -4,8 +4,8 @@ latitude: 44.83512
 longitude: -0.57175
 postcode: "33000"
 city: Bordeaux
-street: "Cours Victor Hugo"
-housenumber: 115
-phone: "+335 56 52 90 34"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.weldom.fr/"
+street: Cours Victor Hugo
+housenumber: "115"
+phone: +335 56 52 90 34
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.weldom.fr/

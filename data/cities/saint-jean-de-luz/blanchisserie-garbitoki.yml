@@ -4,8 +4,8 @@ latitude: 43.38797
 longitude: -1.66059
 postcode: "64500"
 city: Saint-Jean-de-Luz
-street: "Boulevard Victor Hugo"
-housenumber: 25
+street: Boulevard Victor Hugo
+housenumber: "25"
 phone: "+33559260094"
-opening_hours: "Mo-Sa 08:30-12:30,15:00-19:00"
-website: "http://www.garbitoki.com/"
+opening_hours: Mo-Sa 08:30-12:30,15:00-19:00
+website: http://www.garbitoki.com/

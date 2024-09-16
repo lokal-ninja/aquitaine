@@ -4,8 +4,8 @@ latitude: 43.49423
 longitude: -1.51738
 postcode: "64600"
 city: Anglet
-street: "Rue de Bahinos"
-housenumber: 3000
-phone: "+33 5 59 74 09 32"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://anglet.cybertek.fr/"
+street: Rue de Bahinos
+housenumber: "3000"
+phone: +33 5 59 74 09 32
+opening_hours: Mo-Sa 10:00-19:00
+website: https://anglet.cybertek.fr/

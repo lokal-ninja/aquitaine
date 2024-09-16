@@ -1,11 +1,11 @@
 id: 154703403
-type: way
+type: node
 latitude: 44.86711
 longitude: -0.60718
 postcode: "33110"
 city: Le Bouscat
-street: "Avenue de la Libération"
-housenumber: 340
+street: Avenue de la Libération
+housenumber: "340"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:00,14:00-19:00; Sa 09:00-19:00"
-website: "https://lebouscat.biocoop.net"
+opening_hours: Mo-Fr 09:30-13:00,14:00-19:00; Sa 09:00-19:00
+website: https://lebouscat.biocoop.net

@@ -1,11 +1,11 @@
 id: 183019163
-type: way
+type: node
 latitude: 44.79976
 longitude: -0.58389
 postcode: "33400"
 city: Talence
-street: "Rue de Pacaris"
-housenumber: 
+street: Rue de Pacaris
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

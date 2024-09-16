@@ -4,8 +4,8 @@ latitude: 44.80167
 longitude: -0.5445
 postcode: "33130"
 city: Bègles
-street: "Place du Général de Gaulle"
-housenumber: 1
+street: Place du Général de Gaulle
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:30-19:00; Su 08:00-13:00"
+opening_hours: Mo-Fr 06:30-19:00; Su 08:00-13:00
 website: ""

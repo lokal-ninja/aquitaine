@@ -1,11 +1,11 @@
 id: 606031563
-type: way
+type: node
 latitude: 43.37712
 longitude: -0.38
 postcode: "64121"
 city: Serres-Castet
-street: "Route de Bordeaux"
-housenumber: 
+street: Route de Bordeaux
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:00-13:00; Dec 25 off; Jan 01 off"
-website: "https://www.carrefour.fr/magasin/contact-serres-castet"
+opening_hours: Mo-Sa 08:00-20:00; Su 08:00-13:00; Dec 25 off; Jan 01 off
+website: https://www.carrefour.fr/magasin/contact-serres-castet

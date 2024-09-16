@@ -1,11 +1,11 @@
 id: 154310395
-type: way
+type: node
 latitude: 44.86484
 longitude: -0.56287
 postcode: "33000"
 city: Bordeaux
-street: "Cours du Raccordement"
-housenumber: 58
+street: Cours du Raccordement
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Sa 9:00-19:30"
-website: "https://www.aldi.fr/"
+opening_hours: Mo-Sa 9:00-19:30
+website: https://www.aldi.fr/

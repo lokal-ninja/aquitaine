@@ -1,11 +1,11 @@
 id: 220606541
-type: way
+type: node
 latitude: 45.35743
 longitude: 0.65478
 postcode: "24310"
 city: Brantôme
-street: "Avenue du 8 Mai 1945"
-housenumber: 
+street: Avenue du 8 Mai 1945
+housenumber: ""
 phone: "+33553352772"
 opening_hours: ""
-website: "https://www.bricopro.fr/"
+website: https://www.bricopro.fr/

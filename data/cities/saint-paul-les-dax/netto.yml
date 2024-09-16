@@ -1,11 +1,11 @@
 id: 65144504
-type: way
+type: node
 latitude: 43.72548
 longitude: -1.07426
 postcode: "40990"
 city: Saint-Paul-lès-Dax
-street: "Avenue de la Résistance"
-housenumber: 1795
-phone: "+33 5 58 90 80 94"
-opening_hours: "Mo-Th 08:30-19:30; Fr,Sa 08:30-19:45; Su 08:45-12:45"
-website: "https://magasin.netto.fr/161-netto-st-paul-les-dax"
+street: Avenue de la Résistance
+housenumber: "1795"
+phone: +33 5 58 90 80 94
+opening_hours: Mo-Th 08:30-19:30; Fr,Sa 08:30-19:45; Su 08:45-12:45
+website: https://magasin.netto.fr/161-netto-st-paul-les-dax

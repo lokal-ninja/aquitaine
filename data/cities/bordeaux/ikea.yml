@@ -1,11 +1,11 @@
 id: 154156604
-type: way
+type: node
 latitude: 44.88446
 longitude: -0.56561
 postcode: "33300"
 city: Bordeaux
-street: "Avenue Des Quarante Journaux"
-housenumber: 
+street: Avenue Des Quarante Journaux
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 44.85271
 longitude: -0.5734
 postcode: "33000"
 city: Bordeaux
-street: "Cours Portal"
-housenumber: 15
+street: Cours Portal
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00, Su 09:00-12:45"
+opening_hours: Mo-Sa 09:00-20:00, Su 09:00-12:45
 website: ""

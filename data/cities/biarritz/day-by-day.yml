@@ -4,8 +4,8 @@ latitude: 43.45898
 longitude: -1.54097
 postcode: "64200"
 city: Biarritz
-street: "Rue Luis Mariano"
-housenumber: 44
+street: Rue Luis Mariano
+housenumber: "44"
 phone: "+33559260239"
-opening_hours: "Tu-Sa 09:00-13:00,15:30-19:00; Su 10:00-12:30"
-website: "https://daybyday-shop.com/magasin/biarritz"
+opening_hours: Tu-Sa 09:00-13:00,15:30-19:00; Su 10:00-12:30
+website: https://daybyday-shop.com/magasin/biarritz

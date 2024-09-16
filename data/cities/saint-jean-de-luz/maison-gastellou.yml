@@ -4,8 +4,8 @@ latitude: 43.38873
 longitude: -1.6611
 postcode: "64500"
 city: Saint-Jean-de-Luz
-street: "Rue Léon Gambetta"
-housenumber: 37
+street: Rue Léon Gambetta
+housenumber: "37"
 phone: "+33559234073"
-opening_hours: "Mo-Su 10:00-19:00"
-website: "https://www.maison-gastellou.com/fr/"
+opening_hours: Mo-Su 10:00-19:00
+website: https://www.maison-gastellou.com/fr/

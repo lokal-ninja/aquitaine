@@ -1,11 +1,11 @@
 id: 63344460
-type: way
+type: node
 latitude: 43.37069
 longitude: -0.3822
 postcode: "64121"
 city: Serres-Castet
-street: "Impasse du Pourtalet"
-housenumber: 76
+street: Impasse du Pourtalet
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00"
+opening_hours: Mo-Fr 08:30-19:00
 website: ""

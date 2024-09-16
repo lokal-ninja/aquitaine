@@ -4,8 +4,8 @@ latitude: 43.66029
 longitude: -1.42751
 postcode: "40150"
 city: Soorts-Hossegor
-street: "Avenue Paul Marguerite"
-housenumber: 20
-phone: "+33 5 58 41 75 96"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.osmose-hossegor.com/"
+street: Avenue Paul Marguerite
+housenumber: "20"
+phone: +33 5 58 41 75 96
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.osmose-hossegor.com/

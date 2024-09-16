@@ -4,8 +4,8 @@ latitude: 44.78432
 longitude: -0.49651
 postcode: "33360"
 city: Latresne
-street: "Avenue de la Libération"
-housenumber: 25
-phone: "+33 9 81 79 75 59"
-opening_hours: "Tu-Sa 10:00-13:00,15:00-19:00; Su 10:00-13:00; Mo off"
-website: "https://lisons-sous-la-pluie.fr/"
+street: Avenue de la Libération
+housenumber: "25"
+phone: +33 9 81 79 75 59
+opening_hours: Tu-Sa 10:00-13:00,15:00-19:00; Su 10:00-13:00; Mo off
+website: https://lisons-sous-la-pluie.fr/

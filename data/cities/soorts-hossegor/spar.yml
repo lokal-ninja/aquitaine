@@ -1,11 +1,11 @@
 id: 147718601
-type: way
+type: node
 latitude: 43.65741
 longitude: -1.42934
 postcode: "40150"
 city: Soorts-Hossegor
-street: "Avenue du Touring Club"
-housenumber: 337
+street: Avenue du Touring Club
+housenumber: "337"
 phone: "+33558486824"
-opening_hours: "Mo-Su 08:30-19:30"
-website: "https://magasins.spar.fr/fr/s/spar-hossegor"
+opening_hours: Mo-Su 08:30-19:30
+website: https://magasins.spar.fr/fr/s/spar-hossegor

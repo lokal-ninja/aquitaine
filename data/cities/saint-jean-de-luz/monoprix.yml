@@ -4,8 +4,8 @@ latitude: 43.39042
 longitude: -1.65777
 postcode: "64500"
 city: Saint-Jean-de-Luz
-street: "Rue Léon Gambetta"
-housenumber: 102
-phone: "+33 5 59 26 18 62"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.monoprix.fr/820.html"
+street: Rue Léon Gambetta
+housenumber: "102"
+phone: +33 5 59 26 18 62
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.monoprix.fr/820.html

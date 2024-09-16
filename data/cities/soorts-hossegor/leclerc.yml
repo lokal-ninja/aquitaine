@@ -1,11 +1,11 @@
 id: 707256675
-type: way
+type: node
 latitude: 43.66125
 longitude: -1.436
 postcode: "40150"
 city: Soorts-Hossegor
-street: "Avenue de la Grande Dune"
-housenumber: 
-phone: "+33 5 58 43 55 27"
-opening_hours: "closed"
+street: Avenue de la Grande Dune
+housenumber: ""
+phone: +33 5 58 43 55 27
+opening_hours: closed
 website: ""

@@ -1,11 +1,11 @@
 id: 325197793
-type: way
+type: node
 latitude: 44.64932
 longitude: 0.0869
 postcode: "33580"
 city: Monségur
-street: "Avenue Jean Paul Glanet"
-housenumber: 
-phone: "+33 5 56 61 81 66"
-opening_hours: "08:00-20:00"
-website: "https://www.carrefour.fr/magasin/contact-monsegur"
+street: Avenue Jean Paul Glanet
+housenumber: ""
+phone: +33 5 56 61 81 66
+opening_hours: 08:00-20:00
+website: https://www.carrefour.fr/magasin/contact-monsegur

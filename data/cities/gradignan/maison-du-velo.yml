@@ -1,11 +1,11 @@
 id: 227591561
-type: way
+type: node
 latitude: 44.77348
 longitude: -0.61838
 postcode: "33170"
 city: Gradignan
-street: "Avenue Jean Larrieu"
-housenumber: 16
+street: Avenue Jean Larrieu
+housenumber: "16"
 phone: "+33556917711"
-opening_hours: "We 14:00-19:00"
-website: "http://eturecup.org/"
+opening_hours: We 14:00-19:00
+website: http://eturecup.org/

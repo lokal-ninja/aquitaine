@@ -4,8 +4,8 @@ latitude: 43.55
 longitude: -1.0114
 postcode: "40300"
 city: Labatut
-street: "Route de Pouillon"
-housenumber: 70
-phone: "+33 5 58 35 31 08"
-opening_hours: "Th-Sa 09:00-19:00"
+street: Route de Pouillon
+housenumber: "70"
+phone: +33 5 58 35 31 08
+opening_hours: Th-Sa 09:00-19:00
 website: ""

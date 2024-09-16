@@ -4,8 +4,8 @@ latitude: 44.8366
 longitude: -0.57254
 postcode: "33000"
 city: Bordeaux
-street: "Rue Ravez"
-housenumber: 22
+street: Rue Ravez
+housenumber: "22"
 phone: ""
-opening_hours: "Tu-Sa 10:30-12:30,14:00-18:30"
+opening_hours: Tu-Sa 10:30-12:30,14:00-18:30
 website: ""

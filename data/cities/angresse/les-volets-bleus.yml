@@ -4,8 +4,8 @@ latitude: 43.6588
 longitude: -1.37301
 postcode: "40150"
 city: Angresse
-street: "Avenue de la Mairie"
-housenumber: 3
-phone: "+33 6 81 36 23 01"
-opening_hours: "Mo-Su 10:30-12:30,14:30-18:30"
-website: "https://www.voletsbleusbrocante.com/"
+street: Avenue de la Mairie
+housenumber: "3"
+phone: +33 6 81 36 23 01
+opening_hours: Mo-Su 10:30-12:30,14:30-18:30
+website: https://www.voletsbleusbrocante.com/

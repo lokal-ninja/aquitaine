@@ -1,11 +1,11 @@
 id: 429303173
-type: way
+type: node
 latitude: 44.97388
 longitude: -0.38631
 postcode: "33240"
 city: La Lande-de-Fronsac
-street: "ZA de l'Îllot"
-housenumber: 15
+street: ZA de l'Îllot
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

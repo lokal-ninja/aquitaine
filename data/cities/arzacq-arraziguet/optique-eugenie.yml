@@ -4,8 +4,8 @@ latitude: 43.53628
 longitude: -0.414
 postcode: "64410"
 city: Arzacq-Arraziguet
-street: "Place de la République"
-housenumber: 29
-phone: "+33 5 52 02 67 83"
-opening_hours: "Mo off; Tu-Fr 09:30-12:30,14:30-18:30; Sa 09:00-12:30; Su off"
-website: "https://optiqueeugenie-lescar.monopticien.com/"
+street: Place de la République
+housenumber: "29"
+phone: +33 5 52 02 67 83
+opening_hours: Mo off; Tu-Fr 09:30-12:30,14:30-18:30; Sa 09:00-12:30; Su off
+website: https://optiqueeugenie-lescar.monopticien.com/

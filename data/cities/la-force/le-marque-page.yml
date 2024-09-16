@@ -1,11 +1,11 @@
 id: 68901473
-type: way
+type: node
 latitude: 44.86754
 longitude: 0.3765
 postcode: "24130"
 city: La Force
-street: "Rue du Docteur Clament"
-housenumber: 25
-phone: "+33 5 53 58 18 40"
-opening_hours: "Mo-Sa 06:45-12:15,14:15-19:00"
+street: Rue du Docteur Clament
+housenumber: "25"
+phone: +33 5 53 58 18 40
+opening_hours: Mo-Sa 06:45-12:15,14:15-19:00
 website: ""

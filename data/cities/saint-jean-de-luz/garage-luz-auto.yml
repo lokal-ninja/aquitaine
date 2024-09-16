@@ -4,8 +4,8 @@ latitude: 43.39926
 longitude: -1.63841
 postcode: "64500"
 city: Saint-Jean-de-Luz
-street: "Rue Dominique Larrea"
-housenumber: 2
+street: Rue Dominique Larrea
+housenumber: "2"
 phone: "+33559510360"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00"
-website: "https://www.garage-luz-auto.fr/"
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00
+website: https://www.garage-luz-auto.fr/

@@ -1,11 +1,11 @@
 id: 1053028720
-type: way
+type: node
 latitude: 44.89274
 longitude: -0.65273
 postcode: "33320"
 city: Eysines
-street: "Rue du Moulin Blanc"
-housenumber: 14
+street: Rue du Moulin Blanc
+housenumber: "14"
 phone: ""
-opening_hours: "24/7"
-website: "https://jardindethan.fr/casier-en-libre-service/"
+opening_hours: 24/7
+website: https://jardindethan.fr/casier-en-libre-service/

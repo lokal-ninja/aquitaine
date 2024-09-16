@@ -4,8 +4,8 @@ latitude: 43.87319
 longitude: -0.4909
 postcode: "40000"
 city: Mont-de-Marsan
-street: "Avenue du Président John F. Kennedy"
-housenumber: 1671
-phone: "+33 5 58 46 22 61"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-19:00; Sa 09:00-19:00; Su 09:00-12:30,14:00-18:00"
-website: "https://www.jardiland.com/magasins/magasin-saint-pierre-du-mont"
+street: Avenue du Président John F. Kennedy
+housenumber: "1671"
+phone: +33 5 58 46 22 61
+opening_hours: Mo-Fr 09:00-12:30,14:00-19:00; Sa 09:00-19:00; Su 09:00-12:30,14:00-18:00
+website: https://www.jardiland.com/magasins/magasin-saint-pierre-du-mont

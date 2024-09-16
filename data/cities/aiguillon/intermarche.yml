@@ -1,11 +1,11 @@
 id: 543650984
-type: way
+type: node
 latitude: 44.29825
 longitude: 0.34396
 postcode: "47190"
 city: Aiguillon
-street: "Rue Anatole France"
-housenumber: 
+street: Rue Anatole France
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

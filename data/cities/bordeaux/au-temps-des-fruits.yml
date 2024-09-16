@@ -4,8 +4,8 @@ latitude: 44.84678
 longitude: -0.58011
 postcode: "33000"
 city: Bordeaux
-street: "Rue Fondaudège"
-housenumber: 51
-phone: "+33 5 56 44 05 90"
+street: Rue Fondaudège
+housenumber: "51"
+phone: +33 5 56 44 05 90
 opening_hours: ""
-website: "https://www.autempsdesfruits.fr/"
+website: https://www.autempsdesfruits.fr/

@@ -1,11 +1,11 @@
 id: 653419264
-type: way
+type: node
 latitude: 43.31481
 longitude: -0.4283
 postcode: "64230"
 city: Lescar
-street: "Rue Jean Jaurès"
-housenumber: 8
+street: Rue Jean Jaurès
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:30-21:00; Su 10:00-21:30"
-website: "https://www.carrefour-lescar.fr/"
+opening_hours: Mo-Sa 08:30-21:00; Su 10:00-21:30
+website: https://www.carrefour-lescar.fr/

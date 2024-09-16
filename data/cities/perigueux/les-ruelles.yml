@@ -1,11 +1,11 @@
 id: 75346089
-type: way
+type: node
 latitude: 45.18436
 longitude: 0.72067
 postcode: "24000"
 city: Périgueux
-street: "Place de l'Ancien Hôtel de Ville"
-housenumber: 7
+street: Place de l'Ancien Hôtel de Ville
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

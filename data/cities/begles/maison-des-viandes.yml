@@ -1,11 +1,11 @@
 id: 159411443
-type: way
+type: node
 latitude: 44.80729
 longitude: -0.54897
 postcode: "33130"
 city: Bègles
-street: "Place du Quatorze Juillet"
-housenumber: 6
+street: Place du Quatorze Juillet
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

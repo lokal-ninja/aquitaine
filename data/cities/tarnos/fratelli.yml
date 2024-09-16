@@ -4,8 +4,8 @@ latitude: 43.53411
 longitude: -1.4605
 postcode: "40220"
 city: Tarnos
-street: "Boulevard Jacques Duclos"
-housenumber: 40
-phone: "+33 5 59 03 19 33"
-opening_hours: "Mo-Su 10:30-13:00,16:30-21:00"
-website: "https://www.fratelli-restaurant-tarnos.fr/"
+street: Boulevard Jacques Duclos
+housenumber: "40"
+phone: +33 5 59 03 19 33
+opening_hours: Mo-Su 10:30-13:00,16:30-21:00
+website: https://www.fratelli-restaurant-tarnos.fr/

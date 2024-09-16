@@ -4,8 +4,8 @@ latitude: 44.85907
 longitude: 0.49152
 postcode: "24100"
 city: Bergerac
-street: "Rue Alfred de Musset"
-housenumber: 26
+street: Rue Alfred de Musset
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
 website: ""

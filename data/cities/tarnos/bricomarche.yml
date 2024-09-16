@@ -1,11 +1,11 @@
 id: 158722272
-type: way
+type: node
 latitude: 43.5301
 longitude: -1.46093
 postcode: "40220"
 city: Tarnos
-street: "Rue de Castillon"
-housenumber: 2
+street: Rue de Castillon
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Sa 09:00-12:30,14:00-19:00"
+opening_hours: Tu-Sa 09:00-12:30,14:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 356947192
-type: way
+type: node
 latitude: 44.92013
 longitude: -0.24605
 postcode: "33126"
 city: Fronsac
-street: "lieu dit Loiseau"
-housenumber: 8
+street: lieu dit Loiseau
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

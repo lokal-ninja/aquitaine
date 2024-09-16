@@ -4,8 +4,9 @@ latitude: 43.88133
 longitude: -1.14804
 postcode: "40260"
 city: Castets
-street: "Rue Sainte-Hélène"
-housenumber: 143
-phone: "+33 5 58 89 48 18"
-opening_hours: "Tu 09:00-12:30,15:00-19:00; We 09:30-12:30,15:00-18:00; Th,Fr 09:30-12:30,15:00-19:00; Sa 09:30-12:30,15:00-17:30"
+street: Rue Sainte-Hélène
+housenumber: "143"
+phone: +33 5 58 89 48 18
+opening_hours: Tu 09:00-12:30,15:00-19:00; We 09:30-12:30,15:00-18:00; Th,Fr 09:30-12:30,15:00-19:00;
+    Sa 09:30-12:30,15:00-17:30
 website: ""

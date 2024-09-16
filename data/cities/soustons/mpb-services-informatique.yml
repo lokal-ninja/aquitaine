@@ -4,8 +4,8 @@ latitude: 43.74788
 longitude: -1.31631
 postcode: "40140"
 city: Soustons
-street: "Allée de la Forêts"
-housenumber: 2
-phone: "+33 6 82 95 31 35"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.mpbsoustons.fr"
+street: Allée de la Forêts
+housenumber: "2"
+phone: +33 6 82 95 31 35
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.mpbsoustons.fr

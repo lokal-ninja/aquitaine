@@ -4,8 +4,8 @@ latitude: 45.27366
 longitude: -0.88745
 postcode: "33340"
 city: Saint Germain d’Esteuil
-street: "Route de Lesparre"
-housenumber: 3
-phone: "+33 5 56 73 08 19"
-opening_hours: "Mo-Sa 07:30-09:00; Mo-Sa 12:00-13:00; Sun 07:15-13:30"
+street: Route de Lesparre
+housenumber: "3"
+phone: +33 5 56 73 08 19
+opening_hours: Mo-Sa 07:30-09:00; Mo-Sa 12:00-13:00; Sun 07:15-13:30
 website: ""

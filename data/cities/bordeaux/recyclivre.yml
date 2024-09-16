@@ -4,8 +4,8 @@ latitude: 44.82789
 longitude: -0.57252
 postcode: "33000"
 city: Bordeaux
-street: "Cours de la Somme"
-housenumber: 67
+street: Cours de la Somme
+housenumber: "67"
 phone: "+33535542530"
 opening_hours: ""
-website: "https://recyclivre.com/"
+website: https://recyclivre.com/

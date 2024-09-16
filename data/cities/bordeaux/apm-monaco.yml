@@ -4,8 +4,8 @@ latitude: 44.8416
 longitude: -0.57978
 postcode: "33000"
 city: Bordeaux
-street: "Cours de l'Intendance"
-housenumber: 74
+street: Cours de l'Intendance
+housenumber: "74"
 phone: "+33556060120"
 opening_hours: ""
-website: "https://www.apm.mc"
+website: https://www.apm.mc

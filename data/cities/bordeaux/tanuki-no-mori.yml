@@ -4,8 +4,8 @@ latitude: 44.83815
 longitude: -0.57572
 postcode: "33000"
 city: BORDEAUX
-street: "Rue de Cheverus"
-housenumber: 39
+street: Rue de Cheverus
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Su 09:00-19:00"
-website: "https://tanukinomori.fr/"
+opening_hours: Mo-Su 09:00-19:00
+website: https://tanukinomori.fr/

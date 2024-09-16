@@ -1,11 +1,11 @@
 id: 192594282
-type: way
+type: node
 latitude: 45.02228
 longitude: -0.78802
 postcode: "33480"
 city: Avensan
-street: "Route de Bordeaux Le Pas du Soc"
-housenumber: 
+street: Route de Bordeaux Le Pas du Soc
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,13:30-18:00; Sa 08:00-12:00,13:30-17:30"
+opening_hours: Mo-Fr 07:30-12:00,13:30-18:00; Sa 08:00-12:00,13:30-17:30
 website: ""

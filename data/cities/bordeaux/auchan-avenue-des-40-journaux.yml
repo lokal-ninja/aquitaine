@@ -1,11 +1,11 @@
 id: 1049251372
-type: way
+type: node
 latitude: 44.88168
 longitude: -0.56573
 postcode: "33300"
 city: Bordeaux
-street: "Avenue des 40 Journaux"
-housenumber: 
+street: Avenue des 40 Journaux
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-21:30; Su 08:30-12:30"
-website: "https://www.auchandrive.fr"
+opening_hours: Mo-Sa 08:30-21:30; Su 08:30-12:30
+website: https://www.auchandrive.fr

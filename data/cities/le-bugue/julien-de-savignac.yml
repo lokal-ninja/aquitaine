@@ -1,11 +1,11 @@
 id: 82256000
-type: way
+type: node
 latitude: 44.913
 longitude: 0.9247
 postcode: "24260"
 city: Le Bugue
-street: "Avenue de la Libération"
-housenumber: 
+street: Avenue de la Libération
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.julien-de-savignac.com/"
+website: https://www.julien-de-savignac.com/

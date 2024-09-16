@@ -1,11 +1,11 @@
 id: 45826884
-type: way
+type: node
 latitude: 43.89559
 longitude: -0.49149
 postcode: "40000"
 city: Mont-de-Marsan
-street: "Avenue du Maréchal Foch"
-housenumber: 536
+street: Avenue du Maréchal Foch
+housenumber: "536"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:30"
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.88322
 longitude: -1.14705
 postcode: "40260"
 city: Castets
-street: "Rue du Marensin"
-housenumber: 75
+street: Rue du Marensin
+housenumber: "75"
 phone: ""
-opening_hours: "Tu-Fr 08:00-15:30; Sa 09:30-12:45"
-website: "https://www.leloup-primeurs.com/"
+opening_hours: Tu-Fr 08:00-15:30; Sa 09:30-12:45
+website: https://www.leloup-primeurs.com/

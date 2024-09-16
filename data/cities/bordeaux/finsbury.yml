@@ -4,8 +4,8 @@ latitude: 44.84323
 longitude: -0.57885
 postcode: "33000"
 city: Bordeaux
-street: "Cours Georges Clemenceau"
-housenumber: 40
+street: Cours Georges Clemenceau
+housenumber: "40"
 phone: "+33540050795"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.finsbury-shoes.com/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.finsbury-shoes.com/

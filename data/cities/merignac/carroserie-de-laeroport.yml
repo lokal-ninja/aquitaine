@@ -1,11 +1,11 @@
 id: 167437974
-type: way
+type: node
 latitude: 44.84891
 longitude: -0.68028
 postcode: "33700"
 city: Mérignac
-street: "Rue Gay Lussac"
-housenumber: 12
+street: Rue Gay Lussac
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

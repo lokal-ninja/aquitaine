@@ -4,8 +4,8 @@ latitude: 43.75951
 longitude: -0.57435
 postcode: ""
 city: Saint-Sever
-street: "Place du Tour du Sol"
-housenumber: 6
-phone: "+33 5 58 76 14 88"
-opening_hours: "Tu-Sa 06:30-13:00,15:30-19:00; Su 06:30-12:00"
+street: Place du Tour du Sol
+housenumber: "6"
+phone: +33 5 58 76 14 88
+opening_hours: Tu-Sa 06:30-13:00,15:30-19:00; Su 06:30-12:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.69153
 longitude: -1.05045
 postcode: "40100"
 city: Dax
-street: "Route de la Parcelle"
-housenumber: 1
-phone: "+33 5 58 74 01 22"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://pharmacie-dax.fr/"
+street: Route de la Parcelle
+housenumber: "1"
+phone: +33 5 58 74 01 22
+opening_hours: Mo-Sa 09:00-19:30
+website: https://pharmacie-dax.fr/

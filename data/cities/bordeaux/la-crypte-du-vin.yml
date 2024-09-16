@@ -4,8 +4,8 @@ latitude: 44.84952
 longitude: -0.57245
 postcode: "33000"
 city: Bordeaux
-street: "Rue Notre-Dame"
-housenumber: 6
-phone: "+33 9 72 10 31 65"
-opening_hours: "Tu-Sa 10:30-19:30"
-website: "https://btc-wine.com/"
+street: Rue Notre-Dame
+housenumber: "6"
+phone: +33 9 72 10 31 65
+opening_hours: Tu-Sa 10:30-19:30
+website: https://btc-wine.com/

@@ -4,8 +4,8 @@ latitude: 44.83948
 longitude: -0.57668
 postcode: "33000"
 city: Bordeaux
-street: "Rue Père Louis de Jabrun"
-housenumber: 17
-phone: "+33 5 57 14 43 80"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-12:45"
-website: "https://www.monoprix.fr/1232.html"
+street: Rue Père Louis de Jabrun
+housenumber: "17"
+phone: +33 5 57 14 43 80
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-12:45
+website: https://www.monoprix.fr/1232.html

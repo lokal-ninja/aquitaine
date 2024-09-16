@@ -4,8 +4,8 @@ latitude: 44.84168
 longitude: -0.57847
 postcode: "33000"
 city: Bordeaux
-street: "Cours de l'Intendance"
-housenumber: 52
+street: Cours de l'Intendance
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://agence.orange.fr/6148-boutique-orange-intendance-bordeaux"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://agence.orange.fr/6148-boutique-orange-intendance-bordeaux

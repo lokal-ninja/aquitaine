@@ -1,11 +1,11 @@
 id: 381139379
-type: way
+type: node
 latitude: 43.69864
 longitude: -1.12118
 postcode: "40990"
 city: Mées
-street: "Route de la Grange"
-housenumber: 16
+street: Route de la Grange
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

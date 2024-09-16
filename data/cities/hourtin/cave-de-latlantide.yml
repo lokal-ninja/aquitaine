@@ -1,11 +1,11 @@
 id: 688245180
-type: way
+type: node
 latitude: 45.18599
 longitude: -1.05666
 postcode: "33990"
 city: Hourtin
-street: "Rue du Médoc"
-housenumber: 4
+street: Rue du Médoc
+housenumber: "4"
 phone: "+33556092276"
-opening_hours: "Mo-Sa 09:30-13:00,14:30-19:00; Su 09:30-13:00"
-website: "https://www.cave-atlantide.com/"
+opening_hours: Mo-Sa 09:30-13:00,14:30-19:00; Su 09:30-13:00
+website: https://www.cave-atlantide.com/

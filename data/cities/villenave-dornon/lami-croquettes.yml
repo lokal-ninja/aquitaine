@@ -1,11 +1,11 @@
 id: 139696596
-type: way
+type: node
 latitude: 44.76456
 longitude: -0.5538
 postcode: "33140"
 city: Villenave-d'Ornon
-street: "Avenue Fernand Coin"
-housenumber: 39
-phone: "+335 56 75 98 69"
-opening_hours: "Tu-Fr 09:30-12:30,14:30-19:30; Sa 09:30-12:30,15:00-18:30"
-website: "https://www.lami-croquettes.fr/"
+street: Avenue Fernand Coin
+housenumber: "39"
+phone: +335 56 75 98 69
+opening_hours: Tu-Fr 09:30-12:30,14:30-19:30; Sa 09:30-12:30,15:00-18:30
+website: https://www.lami-croquettes.fr/

@@ -4,8 +4,8 @@ latitude: 43.52967
 longitude: -1.38918
 postcode: "40390"
 city: Saint-Martin-de-Seignanx
-street: "Avenue du Quartier-Neuf"
-housenumber: 2221
-phone: "+33 5 59 56 14 39"
-opening_hours: "Mo-Sa 06:30-12:45,15:15-19:15; Th off; Su 07:00-12:30"
+street: Avenue du Quartier-Neuf
+housenumber: "2221"
+phone: +33 5 59 56 14 39
+opening_hours: Mo-Sa 06:30-12:45,15:15-19:15; Th off; Su 07:00-12:30
 website: ""

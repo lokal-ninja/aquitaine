@@ -1,11 +1,11 @@
 id: 164307330
-type: way
+type: node
 latitude: 44.83271
 longitude: -0.64921
 postcode: "33700"
 city: Mérignac
-street: "Avenue de la Somme"
+street: Avenue de la Somme
 housenumber: 8-12
-phone: "+33 5 56 97 73 73"
+phone: +33 5 56 97 73 73
 opening_hours: ""
-website: "https://www.midas.fr/"
+website: https://www.midas.fr/

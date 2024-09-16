@@ -1,11 +1,11 @@
 id: 498366305
-type: way
+type: node
 latitude: 43.74797
 longitude: -0.56386
 postcode: ""
 city: Saint Sever
-street: "avenue du Tursan"
-housenumber: 19
-phone: "+33 5 58 46 40 64"
-opening_hours: "Mo-Sa 07:00-12:30,15:00-19:00"
+street: avenue du Tursan
+housenumber: "19"
+phone: +33 5 58 46 40 64
+opening_hours: Mo-Sa 07:00-12:30,15:00-19:00
 website: ""

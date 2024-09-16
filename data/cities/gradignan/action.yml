@@ -1,11 +1,11 @@
 id: 227596777
-type: way
+type: node
 latitude: 44.77417
 longitude: -0.64397
 postcode: "33170"
 city: Gradignan
-street: "Robert Schumann"
-housenumber: 1
+street: Robert Schumann
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30"
+opening_hours: Mo-Sa 08:30-19:30
 website: ""

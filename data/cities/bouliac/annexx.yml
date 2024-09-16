@@ -1,11 +1,11 @@
 id: 187171786
-type: way
+type: node
 latitude: 44.81075
 longitude: -0.52477
 postcode: "33270"
 city: Bouliac
-street: "Route du Bord de l'Eau"
-housenumber: 65
+street: Route du Bord de l'Eau
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

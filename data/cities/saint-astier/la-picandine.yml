@@ -1,11 +1,11 @@
 id: 395107816
-type: way
+type: node
 latitude: 45.14946
 longitude: 0.53688
 postcode: "24110"
 city: Saint Astier
-street: "Rue du Lieutenant Michel Aubry"
-housenumber: 85
+street: Rue du Lieutenant Michel Aubry
+housenumber: "85"
 phone: "+33553027407"
-opening_hours: "Tu-Fr 10:00-12:30,15:00-17:30; Sa 09:30-12:30"
+opening_hours: Tu-Fr 10:00-12:30,15:00-17:30; Sa 09:30-12:30
 website: ""

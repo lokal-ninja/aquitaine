@@ -4,8 +4,8 @@ latitude: 43.30321
 longitude: -0.39764
 postcode: "64140"
 city: Billère
-street: "Route de Bayonne"
-housenumber: 68
+street: Route de Bayonne
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://magasins.spar.fr/fr/s/spar-sarl-2bs"
+opening_hours: Mo-Su 07:00-23:00
+website: https://magasins.spar.fr/fr/s/spar-sarl-2bs

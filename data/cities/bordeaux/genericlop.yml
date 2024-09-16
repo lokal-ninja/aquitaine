@@ -4,8 +4,8 @@ latitude: 44.84055
 longitude: -0.57597
 postcode: "33000"
 city: Bordeaux
-street: "Rue Castillon"
-housenumber: 16
+street: Rue Castillon
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://genericlop.fr"
+website: https://genericlop.fr

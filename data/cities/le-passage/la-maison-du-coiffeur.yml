@@ -1,11 +1,11 @@
 id: 220448409
-type: way
+type: node
 latitude: 44.16811
 longitude: 0.60886
 postcode: "47520"
 city: Le Passage
-street: "Allée des Mousquetaires"
-housenumber: 33
-phone: "+33 5 53 96 12 45"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-17:30"
-website: "https://www.lamaisonducoiffeur-agen.fr/"
+street: Allée des Mousquetaires
+housenumber: "33"
+phone: +33 5 53 96 12 45
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-17:30
+website: https://www.lamaisonducoiffeur-agen.fr/

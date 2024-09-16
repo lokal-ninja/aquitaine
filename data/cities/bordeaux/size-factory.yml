@@ -4,8 +4,8 @@ latitude: 44.84499
 longitude: -0.57838
 postcode: "33000"
 city: Bordeaux
-street: "Place Tourny"
-housenumber: 5
+street: Place Tourny
+housenumber: "5"
 phone: "+33556814874"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.size-factory.com/magasin-grande-taille-homme-bordeaux"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.size-factory.com/magasin-grande-taille-homme-bordeaux

@@ -1,11 +1,11 @@
 id: 154222583
-type: way
+type: node
 latitude: 44.87449
 longitude: -0.61703
 postcode: "33520"
 city: Bruges
-street: "Route du Médoc"
-housenumber: 423
-phone: "+33 5 56 57 43 43"
-opening_hours: "MO-Sa 08:00-12:00,14:00-18:00"
-website: "https://www.ford.fr/"
+street: Route du Médoc
+housenumber: "423"
+phone: +33 5 56 57 43 43
+opening_hours: MO-Sa 08:00-12:00,14:00-18:00
+website: https://www.ford.fr/

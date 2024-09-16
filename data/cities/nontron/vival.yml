@@ -1,11 +1,11 @@
 id: 53768514
-type: way
+type: node
 latitude: 45.52975
 longitude: 0.66308
 postcode: "24300"
 city: Nontron
-street: "Rue de Verdun"
-housenumber: 14
-phone: "+33 5 53 56 28 58"
-opening_hours: "Mo-Sa 08:30-12:45,15:00-19:30; Su 09:00-12:30"
-website: "https://magasins.vival.fr/fr/vival-nontron"
+street: Rue de Verdun
+housenumber: "14"
+phone: +33 5 53 56 28 58
+opening_hours: Mo-Sa 08:30-12:45,15:00-19:30; Su 09:00-12:30
+website: https://magasins.vival.fr/fr/vival-nontron

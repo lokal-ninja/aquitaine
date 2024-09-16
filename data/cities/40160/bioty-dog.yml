@@ -3,9 +3,9 @@ type: node
 latitude: 44.32795
 longitude: -0.95678
 postcode: ""
-city: 40160
-street: "24 Rue Félix Arnaudin"
-housenumber: 
+city: "40160"
+street: 24 Rue Félix Arnaudin
+housenumber: ""
 phone: "+33766192184"
-opening_hours: "Mo-Fr 09:00-12:30,13:30-18:00"
+opening_hours: Mo-Fr 09:00-12:30,13:30-18:00
 website: ""

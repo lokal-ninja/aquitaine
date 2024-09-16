@@ -5,7 +5,7 @@ longitude: -0.38414
 postcode: "33550"
 city: Langoiran
 street: ""
-housenumber: 4
-phone: "+33 5 56 67 36 01"
+housenumber: "4"
+phone: +33 5 56 67 36 01
 opening_hours: ""
-website: "https://www.chateau-lapeyruche.com"
+website: https://www.chateau-lapeyruche.com

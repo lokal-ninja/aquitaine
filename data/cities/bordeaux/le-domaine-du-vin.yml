@@ -4,8 +4,8 @@ latitude: 44.82818
 longitude: -0.56042
 postcode: "33800"
 city: Bordeaux
-street: "Cours de la Marne"
-housenumber: 180
-phone: "+33 5 56 94 30 81"
-opening_hours: "Tu-Sa 10:00-12:30, 16:00-20:00"
+street: Cours de la Marne
+housenumber: "180"
+phone: +33 5 56 94 30 81
+opening_hours: Tu-Sa 10:00-12:30, 16:00-20:00
 website: ""

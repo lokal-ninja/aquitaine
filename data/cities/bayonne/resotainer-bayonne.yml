@@ -1,11 +1,11 @@
 id: 1046494764
-type: way
+type: node
 latitude: 43.50269
 longitude: -1.48634
 postcode: "64100"
 city: Bayonne
-street: "Chemin de Saint-Bernard"
+street: Chemin de Saint-Bernard
 housenumber: 25 bis
-phone: "+33 6 19 63 25 92"
-opening_hours: "Mo-Th 09:00-12:30,13:30-18:00; Fr 09:00-12:30,13:30-17:00; Sa 09:00-17:00"
-website: "https://www.resotainer.fr/agence-bayonne"
+phone: +33 6 19 63 25 92
+opening_hours: Mo-Th 09:00-12:30,13:30-18:00; Fr 09:00-12:30,13:30-17:00; Sa 09:00-17:00
+website: https://www.resotainer.fr/agence-bayonne

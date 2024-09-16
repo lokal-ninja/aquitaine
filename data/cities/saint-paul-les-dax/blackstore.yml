@@ -1,11 +1,11 @@
 id: 1018254222
-type: way
+type: node
 latitude: 43.72991
 longitude: -1.03967
 postcode: "40990"
 city: Saint-Paul-lès-Dax
-street: "Boulevard Saint-Vincent de Paul"
-housenumber: 
+street: Boulevard Saint-Vincent de Paul
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
+opening_hours: Mo-Sa 09:30-20:00
 website: ""

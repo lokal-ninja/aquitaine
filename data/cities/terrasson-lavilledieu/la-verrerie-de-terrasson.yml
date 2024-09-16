@@ -1,11 +1,11 @@
 id: 335786177
-type: way
+type: node
 latitude: 45.12641
 longitude: 1.30475
 postcode: "24120"
 city: Terrasson-Lavilledieu
-street: "Rue de la Traverse"
-housenumber: 
+street: Rue de la Traverse
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.tibo-glass.com/"
+website: https://www.tibo-glass.com/

@@ -4,8 +4,8 @@ latitude: 43.61632
 longitude: -1.26769
 postcode: ""
 city: saint jean de marsacq
-street: "Rue d'Arriet"
-housenumber: 1008
-phone: "+33 5 58 77 79 33"
-opening_hours: "Mo,Th 17:00-19:00; Sa 09:00-12:30"
-website: "https://les-jardins-de-castelnau.fr/"
+street: Rue d'Arriet
+housenumber: "1008"
+phone: +33 5 58 77 79 33
+opening_hours: Mo,Th 17:00-19:00; Sa 09:00-12:30
+website: https://les-jardins-de-castelnau.fr/

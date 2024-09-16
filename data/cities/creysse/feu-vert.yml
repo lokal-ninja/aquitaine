@@ -1,11 +1,11 @@
 id: 873421381
-type: way
+type: node
 latitude: 44.84946
 longitude: 0.53513
 postcode: "24100"
 city: Creysse
 street: ""
-housenumber: 
-phone: "+33 5 53 57 45 80"
-opening_hours: "Mo-Sa 09:00-12:00,14:00- 18:00"
-website: "http://www.feuvert.fr/centres-auto/creysse/feu-vert-creysse-bergerac/426.html"
+housenumber: ""
+phone: +33 5 53 57 45 80
+opening_hours: Mo-Sa 09:00-12:00,14:00- 18:00
+website: http://www.feuvert.fr/centres-auto/creysse/feu-vert-creysse-bergerac/426.html

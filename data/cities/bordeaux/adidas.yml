@@ -4,8 +4,8 @@ latitude: 44.84094
 longitude: -0.57744
 postcode: "33000"
 city: Bordeaux
-street: "Rue Porte Dijeaux"
-housenumber: 57
+street: Rue Porte Dijeaux
+housenumber: "57"
 phone: "+33556814844"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-19:30; Su 13:00-19:00"
-website: "https://www.adidas.fr/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-19:30; Su 13:00-19:00
+website: https://www.adidas.fr/

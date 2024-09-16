@@ -4,8 +4,9 @@ latitude: 43.38404
 longitude: -1.30557
 postcode: "64240"
 city: Hasparren
-street: "Place Verdun"
-housenumber: 
+street: Place Verdun
+housenumber: ""
 phone: "+33559296060"
-opening_hours: "Mo-Th 08:00-12:30; Tu-We 08:00-12:30,15:00-18:30; Fr 08:00-12:30,15:00-18:30; Sa 08:00-12:30,15:00-18:00"
+opening_hours: Mo-Th 08:00-12:30; Tu-We 08:00-12:30,15:00-18:30; Fr 08:00-12:30,15:00-18:30;
+    Sa 08:00-12:30,15:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1012586893
-type: way
+type: node
 latitude: 45.05389
 longitude: 0.65483
 postcode: "24380"
 city: Grun-Bordas
-street: "La Gaumerie"
-housenumber: 
-phone: "+33 5 53 04 47 28"
+street: La Gaumerie
+housenumber: ""
+phone: +33 5 53 04 47 28
 opening_hours: ""
-website: "https://www.monsallier.fr/"
+website: https://www.monsallier.fr/

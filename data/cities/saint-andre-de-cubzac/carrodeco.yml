@@ -1,11 +1,11 @@
 id: 1089870871
-type: way
+type: node
 latitude: 45.00968
 longitude: -0.42372
 postcode: "33240"
 city: Saint-André-de-Cubzac
-street: "Avenue de l'Europe"
-housenumber: 515
-phone: "+33 5 57 64 15 78"
+street: Avenue de l'Europe
+housenumber: "515"
+phone: +33 5 57 64 15 78
 opening_hours: ""
-website: "https://www.carrelage-decoration.com"
+website: https://www.carrelage-decoration.com

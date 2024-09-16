@@ -1,11 +1,11 @@
 id: 191044202
-type: way
+type: node
 latitude: 44.86787
 longitude: -0.51148
 postcode: "33310"
 city: Lormont
-street: "Rn 10 - Les 4 Pavillons"
-housenumber: 
+street: Rn 10 - Les 4 Pavillons
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-12:00,14:00-19:00"
-website: "https://reseau.citroen.fr/ventes-societes-bordeaux"
+opening_hours: Mo-Sa 08:30-12:00,14:00-19:00
+website: https://reseau.citroen.fr/ventes-societes-bordeaux

@@ -1,11 +1,11 @@
 id: 74767692
-type: way
+type: node
 latitude: 43.5224
 longitude: -1.48846
 postcode: "64340"
 city: Boucau
-street: "Rue René Duvert"
-housenumber: 9
+street: Rue René Duvert
+housenumber: "9"
 phone: "+33181097825"
-opening_hours: "08:30-20:00; Su 08:30-12:30"
+opening_hours: 08:30-20:00; Su 08:30-12:30
 website: ""

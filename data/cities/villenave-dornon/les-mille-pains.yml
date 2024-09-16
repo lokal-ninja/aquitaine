@@ -4,8 +4,8 @@ latitude: 44.801
 longitude: -0.5707
 postcode: "33140"
 city: Villenave-d'Ornon
-street: "Route de Toulouse"
-housenumber: 345
+street: Route de Toulouse
+housenumber: "345"
 phone: ""
-opening_hours: "06:00-20:00; Su 06:00-13:00"
+opening_hours: 06:00-20:00; Su 06:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 139675604
-type: way
+type: node
 latitude: 44.78923
 longitude: -0.52983
 postcode: "33140"
 city: Villenave-d'Ornon
-street: "Rue André Bourvil"
-housenumber: 1
-phone: "+33 5 56 49 96 50"
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-17:00"
-website: "https://www.castorama.fr/store/castorama-villenave-d-ornon/CAFR_VLO1464"
+street: Rue André Bourvil
+housenumber: "1"
+phone: +33 5 56 49 96 50
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-17:00
+website: https://www.castorama.fr/store/castorama-villenave-d-ornon/CAFR_VLO1464

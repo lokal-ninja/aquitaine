@@ -1,11 +1,12 @@
 id: 452108205
-type: way
+type: node
 latitude: 45.41354
 longitude: 0.92196
 postcode: "24800"
 city: Thiviers
-street: "Rue Jean Jaurès"
-housenumber: 33
+street: Rue Jean Jaurès
+housenumber: "33"
 phone: ""
-opening_hours: "Tu-We 09:00-12:00,14-19:30; Th-Fr 09:00-12:00,14:00-20:30; Sa 08:30-13:30,15:00-19:00; Su 13:30-17:30"
-website: "https://www.thiv-vrac.fr"
+opening_hours: Tu-We 09:00-12:00,14-19:30; Th-Fr 09:00-12:00,14:00-20:30; Sa 08:30-13:30,15:00-19:00;
+    Su 13:30-17:30
+website: https://www.thiv-vrac.fr

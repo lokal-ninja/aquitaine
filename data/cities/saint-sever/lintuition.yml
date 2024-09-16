@@ -4,8 +4,8 @@ latitude: 43.75969
 longitude: -0.57349
 postcode: ""
 city: Saint-Sever
-street: "Rue des Arceaux"
-housenumber: 21
-phone: "+33 5 58 45 13 38"
-opening_hours: "Tu-Th 10:00-12:00,14:30-18:30; Fr 10:00-12:00,14:30-19:00; Sa 09:45-12:00,14:30-18:30"
+street: Rue des Arceaux
+housenumber: "21"
+phone: +33 5 58 45 13 38
+opening_hours: Tu-Th 10:00-12:00,14:30-18:30; Fr 10:00-12:00,14:30-19:00; Sa 09:45-12:00,14:30-18:30
 website: ""

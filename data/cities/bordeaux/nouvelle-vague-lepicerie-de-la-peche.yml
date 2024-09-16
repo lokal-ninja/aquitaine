@@ -4,8 +4,8 @@ latitude: 44.83897
 longitude: -0.57925
 postcode: "33000"
 city: Bordeaux
-street: "Rue des Remparts"
-housenumber: 59
-phone: "+33 6 50 57 98 12"
+street: Rue des Remparts
+housenumber: "59"
+phone: +33 6 50 57 98 12
 opening_hours: ""
-website: "https://nouvellevague-bordeaux.fr/"
+website: https://nouvellevague-bordeaux.fr/

@@ -4,8 +4,8 @@ latitude: 43.5715
 longitude: -1.47085
 postcode: "40440"
 city: Ondres
-street: "Avenue de la Plage"
-housenumber: 
-phone: "+33 7 70 49 19 79"
-opening_hours: "sur rendez-vous"
+street: Avenue de la Plage
+housenumber: ""
+phone: +33 7 70 49 19 79
+opening_hours: '"sur rendez-vous"'
 website: ""

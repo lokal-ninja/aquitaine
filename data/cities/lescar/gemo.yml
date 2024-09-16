@@ -1,11 +1,11 @@
 id: 230194755
-type: way
+type: node
 latitude: 43.31662
 longitude: -0.43089
 postcode: "64230"
 city: Lescar
-street: "Rue Jean Jaurès"
-housenumber: 2
+street: Rue Jean Jaurès
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.gemo.fr/magasin/GEMO_LESCAR_Chaussures_&_V%C3%AAtements/GEMO_2397"
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.gemo.fr/magasin/GEMO_LESCAR_Chaussures_&_V%C3%AAtements/GEMO_2397

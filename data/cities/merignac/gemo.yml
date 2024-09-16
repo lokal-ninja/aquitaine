@@ -1,11 +1,11 @@
 id: 164310236
-type: way
+type: node
 latitude: 44.83123
 longitude: -0.66605
 postcode: "33700"
 city: Mérignac
-street: "Rue Georges Ohm"
-housenumber: 
-phone: "+33 5 56 13 31 45"
+street: Rue Georges Ohm
+housenumber: ""
+phone: +33 5 56 13 31 45
 opening_hours: ""
-website: "https://www.gemo.fr/magasin/GEMO_MERIGNAC_chaussures_et_vetements/GEMO_5550"
+website: https://www.gemo.fr/magasin/GEMO_MERIGNAC_chaussures_et_vetements/GEMO_5550

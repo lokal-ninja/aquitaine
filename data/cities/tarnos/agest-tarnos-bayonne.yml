@@ -1,11 +1,11 @@
 id: 1312247287
-type: way
+type: node
 latitude: 43.53126
 longitude: -1.46037
 postcode: "40220"
 city: Tarnos
-street: "Impasse Robinson"
-housenumber: 2
+street: Impasse Robinson
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.agest.com/agest-bayonne-tarnos/"
+website: https://www.agest.com/agest-bayonne-tarnos/

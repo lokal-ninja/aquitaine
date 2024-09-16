@@ -4,8 +4,8 @@ latitude: 44.84078
 longitude: -0.55849
 postcode: "33100"
 city: Bordeaux
-street: "Avenue Thiers"
-housenumber: 9
-phone: "+33 5 56 32 83 37"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00"
-website: "https://www.librairie-lepasseur.fr/"
+street: Avenue Thiers
+housenumber: "9"
+phone: +33 5 56 32 83 37
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00
+website: https://www.librairie-lepasseur.fr/

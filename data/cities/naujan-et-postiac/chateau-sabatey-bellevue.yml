@@ -5,7 +5,7 @@ longitude: -0.17252
 postcode: "33420"
 city: Naujan-Et-Postiac
 street: ""
-housenumber: 3
-phone: "+33 5 57 84 59 08"
+housenumber: "3"
+phone: +33 5 57 84 59 08
 opening_hours: ""
-website: "http://www.chateausabatey.fr/"
+website: http://www.chateausabatey.fr/

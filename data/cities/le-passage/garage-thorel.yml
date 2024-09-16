@@ -1,11 +1,11 @@
 id: 220453203
-type: way
+type: node
 latitude: 44.19455
 longitude: 0.603
 postcode: "47520"
 city: Le Passage
-street: "Avenue de la Marne"
-housenumber: 44
+street: Avenue de la Marne
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00, 14:00-19:00; Sa 08:00-12:00"
-website: "https://www.peugeot-thorel-47.com/"
+opening_hours: Mo-Fr 07:30-12:00, 14:00-19:00; Sa 08:00-12:00
+website: https://www.peugeot-thorel-47.com/

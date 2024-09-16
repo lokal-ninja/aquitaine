@@ -4,8 +4,8 @@ latitude: 43.54505
 longitude: -1.10338
 postcode: "40300"
 city: peyrehorade
-street: "Place Aristide Briand"
-housenumber: 100
-phone: "+33 5 58 41 28 43"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-18:00"
+street: Place Aristide Briand
+housenumber: "100"
+phone: +33 5 58 41 28 43
+opening_hours: Mo-Sa 09:00-12:00,14:00-18:00
 website: ""

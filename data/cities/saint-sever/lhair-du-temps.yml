@@ -1,11 +1,11 @@
 id: 116145482
-type: way
+type: node
 latitude: 43.76872
 longitude: -0.57001
 postcode: ""
 city: Saint-Sever
-street: "Avenue du Général de Gaulle"
-housenumber: 20
-phone: "+33 5 58 76 24 64"
-opening_hours: "Tu-Th 09:00-18:30; Fr 08:30-18:30; Sa 08:30-17:00"
-website: "https://www.planity.com/lhair-du-temps-40500-saint-sever"
+street: Avenue du Général de Gaulle
+housenumber: "20"
+phone: +33 5 58 76 24 64
+opening_hours: Tu-Th 09:00-18:30; Fr 08:30-18:30; Sa 08:30-17:00
+website: https://www.planity.com/lhair-du-temps-40500-saint-sever

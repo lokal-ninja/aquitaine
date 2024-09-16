@@ -1,11 +1,12 @@
 id: 503432672
-type: way
+type: node
 latitude: 45.14549
 longitude: 1.15431
 postcode: "24210"
 city: La Bachellerie
-street: "Rue de la République"
-housenumber: 
+street: Rue de la République
+housenumber: ""
 phone: ""
-opening_hours: "Mo 09:30-12:30,15:00-18:30; Tu 09:30-12:30; We-Sa 09:30-12:30,15:00-18:30; Su 09:30-12:30"
+opening_hours: Mo 09:30-12:30,15:00-18:30; Tu 09:30-12:30; We-Sa 09:30-12:30,15:00-18:30;
+    Su 09:30-12:30
 website: ""

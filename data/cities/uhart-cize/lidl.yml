@@ -1,11 +1,11 @@
 id: 71260427
-type: way
+type: node
 latitude: 43.16458
 longitude: -1.24262
 postcode: "64220"
 city: Uhart-Cize
-street: "Route de Bayonne"
-housenumber: 
+street: Route de Bayonne
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30"
+opening_hours: Mo-Sa 08:30-19:30
 website: ""

@@ -1,11 +1,11 @@
 id: 226888012
-type: way
+type: node
 latitude: 44.79077
 longitude: -0.63307
 postcode: "33600"
 city: Pessac
-street: "Rue de l'Horloge"
-housenumber: 
+street: Rue de l'Horloge
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

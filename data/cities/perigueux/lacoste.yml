@@ -4,8 +4,8 @@ latitude: 45.1849
 longitude: 0.7183
 postcode: "24000"
 city: Périgueux
-street: "Place André Maurois"
-housenumber: 7
+street: Place André Maurois
+housenumber: "7"
 phone: "+33553532232"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://lacoste.com"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://lacoste.com

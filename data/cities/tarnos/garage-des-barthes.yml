@@ -4,8 +4,8 @@ latitude: 43.52319
 longitude: -1.43477
 postcode: "40220"
 city: Tarnos
-street: "Rue des Barthes"
-housenumber: 1345
-phone: "+33 5 59 63 18 85"
-opening_hours: "Mo-Fr 08:30-12:30,14:00-19:00"
-website: "https://reseau.precisium.fr/559-garage-des-barthes"
+street: Rue des Barthes
+housenumber: "1345"
+phone: +33 5 59 63 18 85
+opening_hours: Mo-Fr 08:30-12:30,14:00-19:00
+website: https://reseau.precisium.fr/559-garage-des-barthes

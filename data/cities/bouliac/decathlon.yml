@@ -1,11 +1,11 @@
 id: 118378994
-type: way
+type: node
 latitude: 44.81432
 longitude: -0.5253
 postcode: "33270"
 city: Bouliac
-street: "Lieu-Dit Bonneau"
-housenumber: 
+street: Lieu-Dit Bonneau
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00,09:30-19:30"
-website: "https://www.decathlon.fr/fr/store?store_id=PS_176"
+opening_hours: Mo-Sa 09:00-20:00,09:30-19:30
+website: https://www.decathlon.fr/fr/store?store_id=PS_176

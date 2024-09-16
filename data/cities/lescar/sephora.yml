@@ -4,8 +4,8 @@ latitude: 43.31757
 longitude: -0.43455
 postcode: "64230"
 city: Lescar
-street: "Boulevard de l'Europe"
-housenumber: 180
-phone: "+33 5 59 77 62 90"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.sephora.fr/information-magasin?storeID=S4151"
+street: Boulevard de l'Europe
+housenumber: "180"
+phone: +33 5 59 77 62 90
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.sephora.fr/information-magasin?storeID=S4151

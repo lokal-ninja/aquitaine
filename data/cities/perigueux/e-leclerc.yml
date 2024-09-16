@@ -1,11 +1,11 @@
 id: 75352027
-type: way
+type: node
 latitude: 45.18941
 longitude: 0.71824
 postcode: "24000"
 city: Périgueux
-street: "Rue Clos Chassaing"
-housenumber: 
-phone: "+33 5 53 35 75 75"
-opening_hours: "Mo-Sa 08:30-20:30"
+street: Rue Clos Chassaing
+housenumber: ""
+phone: +33 5 53 35 75 75
+opening_hours: Mo-Sa 08:30-20:30
 website: ""

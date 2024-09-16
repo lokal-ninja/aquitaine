@@ -1,11 +1,11 @@
 id: 60266202
-type: way
+type: node
 latitude: 44.79261
 longitude: -0.68312
 postcode: "33600"
 city: Pessac
-street: "Rue d'Artois"
-housenumber: 18
+street: Rue d'Artois
+housenumber: "18"
 phone: "+33181097825"
-opening_hours: "Mo-Su 08:00-20:00"
+opening_hours: Mo-Su 08:00-20:00
 website: ""

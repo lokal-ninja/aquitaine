@@ -1,11 +1,11 @@
 id: 67983547
-type: way
+type: node
 latitude: 45.45121
 longitude: 0.45105
 postcode: "24340"
 city: Mareuil en Périgord
-street: "Boulevard Bouteiller"
-housenumber: 13
+street: Boulevard Bouteiller
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

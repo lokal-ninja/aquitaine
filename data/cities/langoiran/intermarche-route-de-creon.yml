@@ -1,11 +1,11 @@
 id: 1019384754
-type: way
+type: node
 latitude: 44.71346
 longitude: -0.39428
 postcode: "33550"
 city: Langoiran
-street: "Route de Créon"
-housenumber: 1
+street: Route de Créon
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

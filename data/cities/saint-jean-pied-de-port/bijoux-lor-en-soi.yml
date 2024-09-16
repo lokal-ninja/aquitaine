@@ -4,8 +4,8 @@ latitude: 43.16258
 longitude: -1.23719
 postcode: "64220"
 city: Saint-Jean-Pied-de-Port
-street: "Rue de la Citadelle"
-housenumber: 1
-phone: "+33 5 59 37 20 66"
-opening_hours: "Mo-Fr 09:30-12:00,14:00-19:00; Tu 09:30-12:00; Sa 09:30-12:00,14:00-18:00"
+street: Rue de la Citadelle
+housenumber: "1"
+phone: +33 5 59 37 20 66
+opening_hours: Mo-Fr 09:30-12:00,14:00-19:00; Tu 09:30-12:00; Sa 09:30-12:00,14:00-18:00
 website: ""

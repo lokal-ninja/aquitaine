@@ -1,11 +1,11 @@
 id: 156204277
-type: way
+type: node
 latitude: 44.85191
 longitude: -0.60833
 postcode: "33200"
 city: Bordeaux
-street: "Avenue du Général Leclerc"
-housenumber: 48
-phone: "+33 5 57 29 53 19"
+street: Avenue du Général Leclerc
+housenumber: "48"
+phone: +33 5 57 29 53 19
 opening_hours: ""
-website: "https://cauderan.biocoop.net"
+website: https://cauderan.biocoop.net

@@ -4,8 +4,8 @@ latitude: 43.59255
 longitude: -0.74592
 postcode: "40330"
 city: Amou
-street: "Rue Panecau"
-housenumber: 7
-phone: "+33 5 58 89 21 00"
-opening_hours: "Mo 08:00-13:00; Tu-Sa 07:00-13:00,16:00-19:00; Su 07:00-13:00"
+street: Rue Panecau
+housenumber: "7"
+phone: +33 5 58 89 21 00
+opening_hours: Mo 08:00-13:00; Tu-Sa 07:00-13:00,16:00-19:00; Su 07:00-13:00
 website: ""

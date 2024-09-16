@@ -4,8 +4,8 @@ latitude: 43.68063
 longitude: -1.2329
 postcode: "40230"
 city: saint geours de maremne
-street: "Route de Tuquet"
-housenumber: 4
+street: Route de Tuquet
+housenumber: "4"
 phone: "+33642298897"
-opening_hours: "Sa 09:30-12:00"
-website: "https://aleabulles.fr/"
+opening_hours: Sa 09:30-12:00
+website: https://aleabulles.fr/

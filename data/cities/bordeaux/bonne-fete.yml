@@ -4,8 +4,8 @@ latitude: 44.8376
 longitude: -0.57446
 postcode: "33000"
 city: Bordeaux
-street: "Cours d'Alsace et Lorraine"
-housenumber: 109
+street: Cours d'Alsace et Lorraine
+housenumber: "109"
 phone: "+33970351970"
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://www.magasin-bonnes-fetes-bordeaux.com/"
+opening_hours: Mo-Sa 10:00-19:30
+website: https://www.magasin-bonnes-fetes-bordeaux.com/

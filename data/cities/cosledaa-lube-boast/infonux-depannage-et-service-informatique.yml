@@ -1,11 +1,11 @@
 id: 231079585
-type: way
+type: node
 latitude: 43.44167
 longitude: -0.22611
 postcode: "64160"
 city: Coslédaà-Lube-Boast
-street: "route départementale  227"
-housenumber: 1116
-phone: "+33 5 64 27 06 61"
-opening_hours: "Mo-Fr 09:00-19:00"
-website: "https://infonux.fr"
+street: route départementale  227
+housenumber: "1116"
+phone: +33 5 64 27 06 61
+opening_hours: Mo-Fr 09:00-19:00
+website: https://infonux.fr

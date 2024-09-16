@@ -4,8 +4,8 @@ latitude: 44.8404
 longitude: -0.59878
 postcode: "33000"
 city: Bordeaux
-street: "Rue Judaïque"
-housenumber: 267
-phone: "+33 5 56 96 30 83"
+street: Rue Judaïque
+housenumber: "267"
+phone: +33 5 56 96 30 83
 opening_hours: ""
-website: "http://www.garage-cama-bordeaux.fr/"
+website: http://www.garage-cama-bordeaux.fr/

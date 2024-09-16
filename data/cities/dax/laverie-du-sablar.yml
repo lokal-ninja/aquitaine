@@ -4,8 +4,8 @@ latitude: 43.71626
 longitude: -1.05385
 postcode: "40100"
 city: Dax
-street: "Avenue Saint-Vincent de Paul"
-housenumber: 79
-phone: "+33 7 81 40 58 12"
-opening_hours: "07:30-21:00"
+street: Avenue Saint-Vincent de Paul
+housenumber: "79"
+phone: +33 7 81 40 58 12
+opening_hours: 07:30-21:00
 website: ""

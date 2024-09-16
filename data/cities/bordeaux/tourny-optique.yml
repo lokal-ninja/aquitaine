@@ -4,8 +4,8 @@ latitude: 44.84529
 longitude: -0.5784
 postcode: "33000"
 city: Bordeaux
-street: "Place Tourny"
-housenumber: 8
+street: Place Tourny
+housenumber: "8"
 phone: "+33556480148"
 opening_hours: ""
-website: "http://tournyoptique.com"
+website: http://tournyoptique.com

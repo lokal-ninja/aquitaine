@@ -4,8 +4,8 @@ latitude: 43.90035
 longitude: -0.48228
 postcode: "40000"
 city: Mont-de-Marsan
-street: "Avenue du Maréchal Juin"
-housenumber: 760
+street: Avenue du Maréchal Juin
+housenumber: "760"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-17:30"
-website: "https://www.feuvert.fr/centres-auto/mont-de-marsan/feu-vert-mont-de-marsan/231.html?setcenter=231"
+opening_hours: Mo-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-17:30
+website: https://www.feuvert.fr/centres-auto/mont-de-marsan/feu-vert-mont-de-marsan/231.html?setcenter=231

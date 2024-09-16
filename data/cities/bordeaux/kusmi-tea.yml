@@ -4,8 +4,8 @@ latitude: 44.84091
 longitude: -0.57766
 postcode: "33000"
 city: Bordeaux
-street: "Rue Porte Dijeaux"
-housenumber: 63
+street: Rue Porte Dijeaux
+housenumber: "63"
 phone: "+33556067668"
-opening_hours: "Mo-Sa 11:00-19:00"
-website: "https://www.kusmitea.com/fr/home/"
+opening_hours: Mo-Sa 11:00-19:00
+website: https://www.kusmitea.com/fr/home/

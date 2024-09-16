@@ -4,8 +4,8 @@ latitude: 44.95387
 longitude: -0.66833
 postcode: "33290"
 city: Le Pian-Médoc
-street: "Rue Pasteur"
-housenumber: 455
-phone: "+33 5 56 95 03 17"
-opening_hours: "Tu-Fr 09:00-12:30,16:30-19:00; Sa 09:00-12:30,17:00-19:00; Su 09:00-12:30"
+street: Rue Pasteur
+housenumber: "455"
+phone: +33 5 56 95 03 17
+opening_hours: Tu-Fr 09:00-12:30,16:30-19:00; Sa 09:00-12:30,17:00-19:00; Su 09:00-12:30
 website: ""

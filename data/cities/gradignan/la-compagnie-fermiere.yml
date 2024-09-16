@@ -1,11 +1,11 @@
 id: 227597111
-type: way
+type: node
 latitude: 44.77459
 longitude: -0.63992
 postcode: "33170"
 city: Gradignan
-street: "Allée de Mégévie"
-housenumber: 6
-phone: "+33 5 57 96 10 45"
-opening_hours: "Tu-Th 09:00-13:00,15:00-19:00; Fr,Sa 09:00-19:00"
-website: "https://www.lacompagniefermiere.fr/"
+street: Allée de Mégévie
+housenumber: "6"
+phone: +33 5 57 96 10 45
+opening_hours: Tu-Th 09:00-13:00,15:00-19:00; Fr,Sa 09:00-19:00
+website: https://www.lacompagniefermiere.fr/

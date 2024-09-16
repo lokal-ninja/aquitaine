@@ -4,8 +4,8 @@ latitude: 43.43857
 longitude: -1.59011
 postcode: "64210"
 city: Bidart
-street: "Rue de l'Église"
-housenumber: 4
-phone: "+33 5 59 23 90 99"
-opening_hours: "Tu-Fr 09:30-12:30,14:30-19:00; Sa 09:30-13:00,14:00-19:00; Su 09:30-13:00"
+street: Rue de l'Église
+housenumber: "4"
+phone: +33 5 59 23 90 99
+opening_hours: Tu-Fr 09:30-12:30,14:30-19:00; Sa 09:30-13:00,14:00-19:00; Su 09:30-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 44.84164
 longitude: -0.57933
 postcode: "33000"
 city: Bordeaux
-street: "Cours de l'Intendance"
-housenumber: 64
+street: Cours de l'Intendance
+housenumber: "64"
 phone: "+33556355426"
-opening_hours: "Mo-Su 11:00-19:00"
-website: "https://www.clarins.fr/"
+opening_hours: Mo-Su 11:00-19:00
+website: https://www.clarins.fr/

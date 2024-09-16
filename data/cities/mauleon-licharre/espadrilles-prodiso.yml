@@ -1,11 +1,11 @@
 id: 63512656
-type: way
+type: node
 latitude: 43.21428
 longitude: -0.89406
 postcode: ""
 city: Mauléon-Licharre
-street: "Rue des Arbailles"
-housenumber: 28
-phone: "+33 5 59 28 28 48"
+street: Rue des Arbailles
+housenumber: "28"
+phone: +33 5 59 28 28 48
 opening_hours: ""
-website: "https://espadrilles-mauleon.fr"
+website: https://espadrilles-mauleon.fr

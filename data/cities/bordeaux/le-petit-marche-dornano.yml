@@ -4,8 +4,8 @@ latitude: 44.83152
 longitude: -0.59789
 postcode: "33000"
 city: BORDEAUX
-street: "Rue d'Ornano"
-housenumber: 306
-phone: "+33 5 57 81 77 13"
-opening_hours: "Tu-Th 09:30-14:00,15:30-19:15; Fr 09:30-19:15; Sa 09:30-18:00"
+street: Rue d'Ornano
+housenumber: "306"
+phone: +33 5 57 81 77 13
+opening_hours: Tu-Th 09:30-14:00,15:30-19:15; Fr 09:30-19:15; Sa 09:30-18:00
 website: ""

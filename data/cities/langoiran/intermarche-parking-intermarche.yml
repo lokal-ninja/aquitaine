@@ -1,11 +1,11 @@
 id: 1019387393
-type: way
+type: node
 latitude: 44.71341
 longitude: -0.39421
 postcode: "33550"
 city: Langoiran
-street: "parking Intermarché"
-housenumber: 1
+street: parking Intermarché
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

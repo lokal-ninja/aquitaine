@@ -4,8 +4,9 @@ latitude: 43.57175
 longitude: -0.93075
 postcode: "40290"
 city: Habas
-street: "Rue Centrale"
-housenumber: 254
-phone: "+33 5 58 98 00 68"
-opening_hours: "Tu-Fr 07:30-12:30,15:30-19:00; Th 08:00-12:00; Sa 07:30-12:30,15:30-18:00; Su 07:45-13:00"
+street: Rue Centrale
+housenumber: "254"
+phone: +33 5 58 98 00 68
+opening_hours: Tu-Fr 07:30-12:30,15:30-19:00; Th 08:00-12:00; Sa 07:30-12:30,15:30-18:00;
+    Su 07:45-13:00
 website: ""

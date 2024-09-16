@@ -4,8 +4,8 @@ latitude: 44.82514
 longitude: -0.58993
 postcode: "33400"
 city: Talence
-street: "Cours du Maréchal Gallieni"
-housenumber: 11
-phone: "+33 5 56 93 06 04"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.maisondesire.com/"
+street: Cours du Maréchal Gallieni
+housenumber: "11"
+phone: +33 5 56 93 06 04
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.maisondesire.com/

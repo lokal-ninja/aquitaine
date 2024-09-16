@@ -4,8 +4,8 @@ latitude: 44.99638
 longitude: -0.19493
 postcode: "33910"
 city: Saint-Denis-de-Pile
-street: "Rue Antoine de Saint-Exupéry"
-housenumber: 11
+street: Rue Antoine de Saint-Exupéry
+housenumber: "11"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

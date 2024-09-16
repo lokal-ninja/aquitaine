@@ -4,8 +4,8 @@ latitude: 43.31604
 longitude: -0.42778
 postcode: "64230"
 city: Lescar
-street: "Rue Jean Jaurès"
-housenumber: 8
-phone: "+33 5 59 32 63 68"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.etam.com/"
+street: Rue Jean Jaurès
+housenumber: "8"
+phone: +33 5 59 32 63 68
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.etam.com/

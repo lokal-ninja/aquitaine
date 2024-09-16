@@ -5,7 +5,7 @@ longitude: -0.3633
 postcode: "33550"
 city: Haux
 street: ""
-housenumber: 747
-phone: "+33 5 56 23 05 10"
+housenumber: "747"
+phone: +33 5 56 23 05 10
 opening_hours: ""
-website: "http://www.chateaupeneau.com/"
+website: http://www.chateaupeneau.com/

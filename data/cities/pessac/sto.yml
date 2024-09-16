@@ -4,8 +4,8 @@ latitude: 44.78255
 longitude: -0.64024
 postcode: "33600"
 city: Pessac
-street: "Avenue Archimède"
-housenumber: 11
+street: Avenue Archimède
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 7:30-12:00,13:30-17:30"
-website: "https://www.sto.fr/"
+opening_hours: Mo-Fr 7:30-12:00,13:30-17:30
+website: https://www.sto.fr/

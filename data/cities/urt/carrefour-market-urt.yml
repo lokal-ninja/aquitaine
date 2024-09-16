@@ -1,11 +1,11 @@
 id: 74136908
-type: way
+type: node
 latitude: 43.49387
 longitude: -1.29334
 postcode: "64240"
 city: Urt
-street: "Allée de la Croix"
-housenumber: 
-phone: "+33 5 59 56 26 09"
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-12:30"
-website: "https://www.carrefour.fr/magasin/market-urt"
+street: Allée de la Croix
+housenumber: ""
+phone: +33 5 59 56 26 09
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-12:30
+website: https://www.carrefour.fr/magasin/market-urt

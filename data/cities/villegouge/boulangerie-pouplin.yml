@@ -1,11 +1,11 @@
 id: 352400616
-type: way
+type: node
 latitude: 44.96657
 longitude: -0.30846
 postcode: "33141"
 city: Villegouge
-street: "Route du Basque"
-housenumber: 2
+street: Route du Basque
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

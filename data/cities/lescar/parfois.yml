@@ -4,8 +4,8 @@ latitude: 43.3157
 longitude: -0.42767
 postcode: "64230"
 city: Lescar
-street: "Rue Jean Jaurès"
-housenumber: 8
-phone: "+33 5 59 60 37 44"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.parfois.com"
+street: Rue Jean Jaurès
+housenumber: "8"
+phone: +33 5 59 60 37 44
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.parfois.com

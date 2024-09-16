@@ -1,11 +1,11 @@
 id: 386071447
-type: way
+type: node
 latitude: 43.85727
 longitude: -1.30707
 postcode: "40550"
 city: Léon
-street: "Route de Betoy"
-housenumber: 1736
-phone: "+33 5 58 48 74 66"
+street: Route de Betoy
+housenumber: "1736"
+phone: +33 5 58 48 74 66
 opening_hours: ""
-website: "https://www.maison-tenoy.com"
+website: https://www.maison-tenoy.com

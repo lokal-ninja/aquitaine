@@ -4,8 +4,8 @@ latitude: 43.38889
 longitude: -1.66038
 postcode: "64500"
 city: Saint-Jean-de-Luz
-street: "Rue Léon Gambetta"
-housenumber: 60
+street: Rue Léon Gambetta
+housenumber: "60"
 phone: "+33559519641"
-opening_hours: "Mo-Su 10:00-19:00"
-website: "https://www.bayona.fr/"
+opening_hours: Mo-Su 10:00-19:00
+website: https://www.bayona.fr/

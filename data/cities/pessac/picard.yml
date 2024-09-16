@@ -1,11 +1,11 @@
 id: 223590015
-type: way
+type: node
 latitude: 44.80638
 longitude: -0.63359
 postcode: "33600"
 city: Pessac
-street: "Avenue Pasteur"
-housenumber: 60
-phone: "+33 5 56 46 28 80"
-opening_hours: "Mo-Th 09:00-13:00,14:30-19:30; Fr-Sa 09:00-19:30; Su 09:00-12:45"
-website: "https://magasins.picard.fr/737-picard-pessac"
+street: Avenue Pasteur
+housenumber: "60"
+phone: +33 5 56 46 28 80
+opening_hours: Mo-Th 09:00-13:00,14:30-19:30; Fr-Sa 09:00-19:30; Su 09:00-12:45
+website: https://magasins.picard.fr/737-picard-pessac

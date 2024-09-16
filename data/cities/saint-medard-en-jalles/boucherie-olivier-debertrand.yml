@@ -1,11 +1,11 @@
 id: 109948078
-type: way
+type: node
 latitude: 44.87415
 longitude: -0.70422
 postcode: "33160"
 city: Saint-Médard-en-Jalles
-street: "Route de Feydit"
-housenumber: 73
+street: Route de Feydit
+housenumber: "73"
 phone: ""
 opening_hours: ""
 website: ""

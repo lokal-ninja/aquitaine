@@ -4,8 +4,8 @@ latitude: 44.19421
 longitude: 0.59867
 postcode: "47520"
 city: Le Passage
-street: "Avenue de la Marne"
-housenumber: 54
+street: Avenue de la Marne
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Fr 08:30-13:00,14:00-18:00"
-website: "https://pano-agen.fr/"
+opening_hours: Mo-Fr 08:30-13:00,14:00-18:00
+website: https://pano-agen.fr/

@@ -1,11 +1,11 @@
 id: 156152829
-type: way
+type: node
 latitude: 44.8586
 longitude: -0.62465
 postcode: "33200"
 city: Bordeaux Caudéran
-street: "Avenue du Maréchal de Lattre de Tassigny"
-housenumber: 365
+street: Avenue du Maréchal de Lattre de Tassigny
+housenumber: "365"
 phone: ""
 opening_hours: ""
 website: ""

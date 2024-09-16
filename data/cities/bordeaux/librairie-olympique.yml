@@ -4,8 +4,8 @@ latitude: 44.85273
 longitude: -0.57263
 postcode: "33000"
 city: Bordeaux
-street: "Rue Rode"
-housenumber: 23
+street: Rue Rode
+housenumber: "23"
 phone: ""
-opening_hours: "Mo 15:00-19:30; Tu-Sa 10:00-12:30, 15:00-19:30"
-website: "http://libolympique.poesiebordeaux.fr/"
+opening_hours: Mo 15:00-19:30; Tu-Sa 10:00-12:30, 15:00-19:30
+website: http://libolympique.poesiebordeaux.fr/

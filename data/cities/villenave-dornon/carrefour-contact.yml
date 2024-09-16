@@ -1,11 +1,11 @@
 id: 139704549
-type: way
+type: node
 latitude: 44.76762
 longitude: -0.58067
 postcode: "33140"
 city: Villenave-d'Ornon
-street: "Route de Léognan"
-housenumber: 63
-phone: "+335 56 87 45 45"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/contact-villenave-d-ornon"
+street: Route de Léognan
+housenumber: "63"
+phone: +335 56 87 45 45
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/contact-villenave-d-ornon

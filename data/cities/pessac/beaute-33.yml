@@ -4,8 +4,8 @@ latitude: 44.80527
 longitude: -0.63196
 postcode: "33600"
 city: Pessac
-street: "Rue des Poilus"
-housenumber: 13
-phone: "+33 5 56 46 22 33"
-opening_hours: "Tu-Sa 09:30-19:00"
-website: "https://beaute33.fr/"
+street: Rue des Poilus
+housenumber: "13"
+phone: +33 5 56 46 22 33
+opening_hours: Tu-Sa 09:30-19:00
+website: https://beaute33.fr/

@@ -1,11 +1,11 @@
 id: 164299616
-type: way
+type: node
 latitude: 44.83092
 longitude: -0.65895
 postcode: "33700"
 city: Mérignac
-street: "Rue Jacques Anquetil"
-housenumber: 2
-phone: "0825 85 08 50"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "http://magasins.boulanger.com/11413-boulanger-merignac-soleil"
+street: Rue Jacques Anquetil
+housenumber: "2"
+phone: 0825 85 08 50
+opening_hours: Mo-Sa 09:30-19:30
+website: http://magasins.boulanger.com/11413-boulanger-merignac-soleil

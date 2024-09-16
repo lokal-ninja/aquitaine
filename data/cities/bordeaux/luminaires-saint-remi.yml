@@ -4,8 +4,8 @@ latitude: 44.84121
 longitude: -0.57274
 postcode: "33000"
 city: Bordeaux
-street: "Rue Saint-Rémi"
-housenumber: 44
+street: Rue Saint-Rémi
+housenumber: "44"
 phone: "+33556443402"
 opening_hours: ""
-website: "https://www.luminairesaintremi.com/"
+website: https://www.luminairesaintremi.com/

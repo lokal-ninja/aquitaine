@@ -1,11 +1,11 @@
 id: 1087743778
-type: way
+type: node
 latitude: 45.19831
 longitude: 0.66517
 postcode: "24430"
 city: Marsac-sur-l'Isle
-street: "rue de la Borderie"
-housenumber: 1
+street: rue de la Borderie
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Sa 09:00-12:00,14:00-18:30"
+opening_hours: Tu-Sa 09:00-12:00,14:00-18:30
 website: ""

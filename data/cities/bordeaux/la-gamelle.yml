@@ -4,8 +4,8 @@ latitude: 44.86031
 longitude: -0.63386
 postcode: "33200"
 city: Bordeaux
-street: "Avenue du Maréchal de Lattre de Tassigny"
-housenumber: 489
-phone: "+33 5 56 96 30 37"
-opening_hours: "Mo 14:30-19:30; Tu-Fr 09:30-12:30,14:30-19:30; Sa 09:30-12:30,14:30-19:00"
-website: "https://la-gamelle-bordeaux.com"
+street: Avenue du Maréchal de Lattre de Tassigny
+housenumber: "489"
+phone: +33 5 56 96 30 37
+opening_hours: Mo 14:30-19:30; Tu-Fr 09:30-12:30,14:30-19:30; Sa 09:30-12:30,14:30-19:00
+website: https://la-gamelle-bordeaux.com

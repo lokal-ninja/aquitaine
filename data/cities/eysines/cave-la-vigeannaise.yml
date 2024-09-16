@@ -4,8 +4,8 @@ latitude: 44.88718
 longitude: -0.64113
 postcode: "33320"
 city: Eysines
-street: "Avenue du Médoc"
-housenumber: 91
-phone: "+33 5 56 57 72 57"
-opening_hours: "Tu-Sa 09:30-12:30,16:00-19:30; Su 10:00-12:30"
-website: "https://www.cavelavigeannaise.com/"
+street: Avenue du Médoc
+housenumber: "91"
+phone: +33 5 56 57 72 57
+opening_hours: Tu-Sa 09:30-12:30,16:00-19:30; Su 10:00-12:30
+website: https://www.cavelavigeannaise.com/

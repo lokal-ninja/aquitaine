@@ -1,11 +1,11 @@
 id: 164310426
-type: way
+type: node
 latitude: 44.82893
 longitude: -0.66517
 postcode: "33700"
 city: Mérignac
-street: "Avenue de la Somme"
-housenumber: 117
+street: Avenue de la Somme
+housenumber: "117"
 phone: ""
 opening_hours: ""
-website: "https://nozarrivages.com/magasin/merignac/"
+website: https://nozarrivages.com/magasin/merignac/

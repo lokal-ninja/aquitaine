@@ -1,11 +1,11 @@
 id: 463425522
-type: way
+type: node
 latitude: 43.47996
 longitude: -1.44474
 postcode: "64496"
 city: Saint-Pierre-d'Irube
-street: "Avenue du Portou"
-housenumber: 3
-phone: "+33 5 59 08 07 77"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.ametzondoshopping.com/fr"
+street: Avenue du Portou
+housenumber: "3"
+phone: +33 5 59 08 07 77
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.ametzondoshopping.com/fr

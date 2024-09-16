@@ -4,8 +4,8 @@ latitude: 44.83334
 longitude: -0.56499
 postcode: "33800"
 city: Bordeaux
-street: "Rue Camille Sauvageau"
-housenumber: 25
+street: Rue Camille Sauvageau
+housenumber: "25"
 phone: "+33556740085"
-opening_hours: "Tu-Sa 10:00-19:00; Fr 10:00-20:00"
+opening_hours: Tu-Sa 10:00-19:00; Fr 10:00-20:00
 website: ""

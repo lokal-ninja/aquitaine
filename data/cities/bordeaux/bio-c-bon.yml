@@ -4,8 +4,8 @@ latitude: 44.83524
 longitude: -0.57075
 postcode: "33000"
 city: Bordeaux
-street: "Cours Victor Hugo"
-housenumber: 95
-phone: "+33 5 56 44 67 61"
-opening_hours: "Mo-Sa 09:30-20:00; Su 09:30-13:00"
-website: "https://bio-c-bon.eu/fr/nos_magasins/bio-c-bon-cours-victor-hugo"
+street: Cours Victor Hugo
+housenumber: "95"
+phone: +33 5 56 44 67 61
+opening_hours: Mo-Sa 09:30-20:00; Su 09:30-13:00
+website: https://bio-c-bon.eu/fr/nos_magasins/bio-c-bon-cours-victor-hugo

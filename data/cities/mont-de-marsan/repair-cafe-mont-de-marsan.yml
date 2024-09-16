@@ -4,8 +4,8 @@ latitude: 43.89335
 longitude: -0.5017
 postcode: "40000"
 city: Mont-de-Marsan
-street: "Rue du 8 Mai 1945"
-housenumber: 5
-phone: "+33 6 86 87 58 60"
+street: Rue du 8 Mai 1945
+housenumber: "5"
+phone: +33 6 86 87 58 60
 opening_hours: ""
-website: "https://www.repaircafe.org/en/cafe/repair-cafe-mont-de-marsan/"
+website: https://www.repaircafe.org/en/cafe/repair-cafe-mont-de-marsan/

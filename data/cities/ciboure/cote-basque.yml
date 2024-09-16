@@ -4,8 +4,8 @@ latitude: 43.38415
 longitude: -1.66402
 postcode: "64500"
 city: Ciboure
-street: "Avenue Jean Poulou"
-housenumber: 4
+street: Avenue Jean Poulou
+housenumber: "4"
 phone: "+33559246675"
-opening_hours: "Tu-Sa 09:30-19:00"
-website: "https://epicerie-cotebasque.com/"
+opening_hours: Tu-Sa 09:30-19:00
+website: https://epicerie-cotebasque.com/

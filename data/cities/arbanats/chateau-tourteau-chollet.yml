@@ -1,11 +1,11 @@
 id: 138502133
-type: way
+type: node
 latitude: 44.66791
 longitude: -0.4173
 postcode: "33640"
 city: Arbanats
-street: "Route de la Madelon"
-housenumber: 
+street: Route de la Madelon
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

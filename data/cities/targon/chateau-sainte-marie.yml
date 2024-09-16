@@ -4,8 +4,8 @@ latitude: 44.75322
 longitude: -0.28173
 postcode: "33760"
 city: Targon
-street: "Route de Bordeaux"
-housenumber: 51
-phone: "+33 5 56 23 64 30"
+street: Route de Bordeaux
+housenumber: "51"
+phone: +33 5 56 23 64 30
 opening_hours: ""
-website: "https://www.chateau-sainte-marie.com/"
+website: https://www.chateau-sainte-marie.com/

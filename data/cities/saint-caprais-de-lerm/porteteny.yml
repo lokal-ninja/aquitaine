@@ -1,11 +1,11 @@
 id: 1222786676
-type: way
+type: node
 latitude: 44.23234
 longitude: 0.74265
 postcode: "47270"
 city: Saint-Caprais-de-Lerm
-street: "Route de Cassou"
-housenumber: 2601
+street: Route de Cassou
+housenumber: "2601"
 phone: "+33677382809"
-opening_hours: "We 17:30-19:00; Sa 17:00-18:30"
+opening_hours: We 17:30-19:00; Sa 17:00-18:30
 website: ""

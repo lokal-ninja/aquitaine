@@ -4,8 +4,9 @@ latitude: 44.65599
 longitude: -0.36718
 postcode: "33720"
 city: Podensac
-street: "Cours du Maréchal Foch"
-housenumber: 87
-phone: "+33 5 56 27 20 97"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00 winter; Mo-Sa 09:00-12:00,14:00-18:30 summer"
-website: "https://www.jardineriemaisadour.com/les-jardineries/nos-jardineries/podensac.html"
+street: Cours du Maréchal Foch
+housenumber: "87"
+phone: +33 5 56 27 20 97
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00 "winter"; Mo-Sa 09:00-12:00,14:00-18:30
+    "summer"
+website: https://www.jardineriemaisadour.com/les-jardineries/nos-jardineries/podensac.html

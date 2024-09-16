@@ -1,11 +1,11 @@
 id: 376326300
-type: way
+type: node
 latitude: 44.50283
 longitude: -0.78982
 postcode: "33830"
 city: Belin-Beliet
-street: "Avenue Aliénor"
-housenumber: 122
-phone: "+33 5 57 71 95 59"
-opening_hours: "Mo-Su 06:00-19:30"
+street: Avenue Aliénor
+housenumber: "122"
+phone: +33 5 57 71 95 59
+opening_hours: Mo-Su 06:00-19:30
 website: ""

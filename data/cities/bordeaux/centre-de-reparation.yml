@@ -4,8 +4,8 @@ latitude: 44.81385
 longitude: -0.56473
 postcode: "33800"
 city: Bordeaux
-street: "Rue de Bègles"
-housenumber: 384
-phone: "+33 5 56 94 35 66"
-opening_hours: "Mo-Fr 09:00-19:00;Sa 10:00-13:00"
-website: "http://www.centredereparation33.fr/"
+street: Rue de Bègles
+housenumber: "384"
+phone: +33 5 56 94 35 66
+opening_hours: Mo-Fr 09:00-19:00;Sa 10:00-13:00
+website: http://www.centredereparation33.fr/

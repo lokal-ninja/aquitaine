@@ -4,8 +4,8 @@ latitude: 43.70592
 longitude: -1.0379
 postcode: ""
 city: Dax
-street: "Avenue Georges Clemenceau"
-housenumber: 183
-phone: "+33 5 58 74 22 65"
-opening_hours: "Tu-Sa 07:00-12:30,15:00-19:15"
-website: "https://www.traiteur-lavigne.com/"
+street: Avenue Georges Clemenceau
+housenumber: "183"
+phone: +33 5 58 74 22 65
+opening_hours: Tu-Sa 07:00-12:30,15:00-19:15
+website: https://www.traiteur-lavigne.com/

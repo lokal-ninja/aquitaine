@@ -4,8 +4,8 @@ latitude: 44.20259
 longitude: 0.61022
 postcode: "47000"
 city: Agen
-street: "Rue Péristyle du Gravier"
-housenumber: 
+street: Rue Péristyle du Gravier
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://ximiti.eu/"
+opening_hours: 24/7
+website: https://ximiti.eu/

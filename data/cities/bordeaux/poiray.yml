@@ -4,8 +4,8 @@ latitude: 44.84156
 longitude: -0.57986
 postcode: "33000"
 city: Bordeaux
-street: "Place Gambetta"
-housenumber: 1
+street: Place Gambetta
+housenumber: "1"
 phone: "+33556528834"
-opening_hours: "Tu-Sa 11:00-19:00"
-website: "https://www.poiray.com/fr"
+opening_hours: Tu-Sa 11:00-19:00
+website: https://www.poiray.com/fr

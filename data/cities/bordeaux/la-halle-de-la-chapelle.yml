@@ -4,8 +4,8 @@ latitude: 44.84472
 longitude: -0.60189
 postcode: "33200"
 city: Bordeaux
-street: "Rue Pasteur"
-housenumber: 49
-phone: "+33 7 77 92 05 80"
-opening_hours: "Mo-Sa 08:00-13:00, Mo,Tu,Th,Fr 16:30-19:30"
+street: Rue Pasteur
+housenumber: "49"
+phone: +33 7 77 92 05 80
+opening_hours: Mo-Sa 08:00-13:00, Mo,Tu,Th,Fr 16:30-19:30
 website: ""

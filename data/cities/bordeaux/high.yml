@@ -4,8 +4,8 @@ latitude: 44.84056
 longitude: -0.57824
 postcode: "33000"
 city: Bordeaux
-street: "Rue Vital Carles"
-housenumber: 20
+street: Rue Vital Carles
+housenumber: "20"
 phone: "+33556448506"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.high-everydaycouture.com/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.high-everydaycouture.com/

@@ -1,11 +1,11 @@
 id: 159398296
-type: way
+type: node
 latitude: 45.10696
 longitude: -0.5871
 postcode: "33390"
 city: Berson
-street: "Avenue du Bourg"
-housenumber: 16
-phone: "+33 5 5768 16 84"
+street: Avenue du Bourg
+housenumber: "16"
+phone: +33 5 5768 16 84
 opening_hours: ""
 website: ""

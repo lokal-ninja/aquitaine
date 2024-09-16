@@ -1,11 +1,11 @@
 id: 38715819
-type: way
+type: node
 latitude: 44.63872
 longitude: -0.96162
 postcode: "33380"
 city: Biganos
 street: ""
-housenumber: 31
+housenumber: "31"
 phone: ""
 opening_hours: ""
-website: "https://biganos.aushopping.com/fr"
+website: https://biganos.aushopping.com/fr

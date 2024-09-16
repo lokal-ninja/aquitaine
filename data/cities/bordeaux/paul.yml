@@ -1,11 +1,11 @@
 id: 1163927217
-type: way
+type: node
 latitude: 44.82595
 longitude: -0.55647
 postcode: "33800"
 city: Bordeaux
-street: "Rue Charles Domercq"
-housenumber: 
+street: Rue Charles Domercq
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

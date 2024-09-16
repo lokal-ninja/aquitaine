@@ -4,8 +4,8 @@ latitude: 44.83047
 longitude: -0.56654
 postcode: "33800"
 city: Bordeaux
-street: "Rue Jules Guesde"
-housenumber: 6
+street: Rue Jules Guesde
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.epicerie-solidaire.fr/"
+website: https://www.epicerie-solidaire.fr/

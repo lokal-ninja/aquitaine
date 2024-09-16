@@ -4,8 +4,8 @@ latitude: 44.84897
 longitude: -0.58323
 postcode: "33000"
 city: Bordeaux
-street: "Rue Fondaudège"
-housenumber: 147
-phone: "+33 7 66 45 52 00"
-opening_hours: "We-Fr 10:00-19:00; Sa 09:30-13:00, 15:30-19:00; Su 09:00-13:00"
-website: "https://www.patisseriemotsdoux.fr/"
+street: Rue Fondaudège
+housenumber: "147"
+phone: +33 7 66 45 52 00
+opening_hours: We-Fr 10:00-19:00; Sa 09:30-13:00, 15:30-19:00; Su 09:00-13:00
+website: https://www.patisseriemotsdoux.fr/

@@ -4,8 +4,8 @@ latitude: 44.82986
 longitude: -0.56732
 postcode: "33800"
 city: Bordeaux
-street: "Place des Capucins"
-housenumber: 23
-phone: "+33 5 56 92 66 69"
-opening_hours: "Tu-Fr 03:00-12:00; Sa 04:00-13:00"
-website: "https://www.campet-foie-gras-bordeaux.fr/"
+street: Place des Capucins
+housenumber: "23"
+phone: +33 5 56 92 66 69
+opening_hours: Tu-Fr 03:00-12:00; Sa 04:00-13:00
+website: https://www.campet-foie-gras-bordeaux.fr/

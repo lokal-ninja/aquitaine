@@ -1,11 +1,11 @@
 id: 130028049
-type: way
+type: node
 latitude: 44.41122
 longitude: 0.58897
 postcode: "47110"
 city: Sainte Livrade sur Lot
 street: ""
-housenumber: 
+housenumber: ""
 phone: "+33553010225"
-opening_hours: "Mo-Sa 10:00-18:00"
+opening_hours: Mo-Sa 10:00-18:00
 website: ""

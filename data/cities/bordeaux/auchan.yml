@@ -4,8 +4,8 @@ latitude: 44.83857
 longitude: -0.58565
 postcode: "33000"
 city: Bordeaux
-street: "Rue du Château d'Eau"
-housenumber: 57
-phone: "+33 5 56 99 59 00"
-opening_hours: "Mo-Sa 08:30-21:30; Su 08:30-12:30; PH off"
-website: "https://www.auchan.fr/magasins/bordeaux-meriadeck/sl-29"
+street: Rue du Château d'Eau
+housenumber: "57"
+phone: +33 5 56 99 59 00
+opening_hours: Mo-Sa 08:30-21:30; Su 08:30-12:30; PH off
+website: https://www.auchan.fr/magasins/bordeaux-meriadeck/sl-29

@@ -1,11 +1,11 @@
 id: 1090961177
-type: way
+type: node
 latitude: 44.4809
 longitude: 0.93315
 postcode: "47500"
 city: Condezaygues
-street: "Chemin de Lalandette"
-housenumber: 65
-phone: "+33 5 53 40 67 18"
+street: Chemin de Lalandette
+housenumber: "65"
+phone: +33 5 53 40 67 18
 opening_hours: ""
-website: "https://cellier-de-la-lemance.fr/"
+website: https://cellier-de-la-lemance.fr/

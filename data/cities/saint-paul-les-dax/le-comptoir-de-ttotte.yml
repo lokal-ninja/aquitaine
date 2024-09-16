@@ -4,8 +4,8 @@ latitude: 43.72327
 longitude: -1.05464
 postcode: "40990"
 city: Saint-Paul-lès-Dax
-street: "Place du Marché Baheigne"
-housenumber: 7
-phone: "+33 5 58 56 91 30"
-opening_hours: "Tu-Sa 10:00-13:00,14:00-18:00"
+street: Place du Marché Baheigne
+housenumber: "7"
+phone: +33 5 58 56 91 30
+opening_hours: Tu-Sa 10:00-13:00,14:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.59015
 longitude: -1.42825
 postcode: "40530"
 city: Labenne
-street: "Avenue du Général de Gaulle"
-housenumber: 55
-phone: "+33 5 58 45 76 52"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.coeurdefrais.fr/"
+street: Avenue du Général de Gaulle
+housenumber: "55"
+phone: +33 5 58 45 76 52
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.coeurdefrais.fr/

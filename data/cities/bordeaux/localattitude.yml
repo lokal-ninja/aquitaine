@@ -4,8 +4,8 @@ latitude: 44.86005
 longitude: -0.57598
 postcode: "33300"
 city: Bordeaux
-street: "Rue Étienne Huyard"
-housenumber: 5
-phone: "+33 5 57 19 28 36"
-opening_hours: "Tu-Fr 10:00-13:00,16:00-19:00"
+street: Rue Étienne Huyard
+housenumber: "5"
+phone: +33 5 57 19 28 36
+opening_hours: Tu-Fr 10:00-13:00,16:00-19:00
 website: ""

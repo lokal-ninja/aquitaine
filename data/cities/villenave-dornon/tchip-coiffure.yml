@@ -4,8 +4,8 @@ latitude: 44.76959
 longitude: -0.57823
 postcode: "33140"
 city: Villenave-d'Ornon
-street: "Rue Jean Bonnardel"
-housenumber: 2
-phone: "+33 5 57 99 12 01"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://tchip.fr/salon/view/4138"
+street: Rue Jean Bonnardel
+housenumber: "2"
+phone: +33 5 57 99 12 01
+opening_hours: Mo-Sa 09:00-19:00
+website: https://tchip.fr/salon/view/4138

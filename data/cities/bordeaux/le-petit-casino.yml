@@ -4,8 +4,8 @@ latitude: 44.85225
 longitude: -0.58102
 postcode: "33000"
 city: Bordeaux
-street: "Rue Lagrange"
-housenumber: 78
-phone: "+33 5 24 72 68 98"
-opening_hours: "Mo-Sa 07:30-20:30"
+street: Rue Lagrange
+housenumber: "78"
+phone: +33 5 24 72 68 98
+opening_hours: Mo-Sa 07:30-20:30
 website: ""

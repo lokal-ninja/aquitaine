@@ -1,11 +1,11 @@
 id: 438554687
-type: way
+type: node
 latitude: 44.84958
 longitude: -0.66548
 postcode: "33700"
 city: Mérignac
-street: "Avenue du Chut"
-housenumber: 54
+street: Avenue du Chut
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

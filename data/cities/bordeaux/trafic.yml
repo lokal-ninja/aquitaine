@@ -4,8 +4,8 @@ latitude: 44.83791
 longitude: -0.57517
 postcode: "33000"
 city: Bordeaux
-street: "Rue du Loup"
-housenumber: 73
+street: Rue du Loup
+housenumber: "73"
 phone: ""
-opening_hours: "Tu-Sa 11:00-19:00"
-website: "https://traficshop.fr/"
+opening_hours: Tu-Sa 11:00-19:00
+website: https://traficshop.fr/

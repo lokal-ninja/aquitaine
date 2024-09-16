@@ -4,8 +4,8 @@ latitude: 44.83752
 longitude: -0.57056
 postcode: "33000"
 city: Bordeaux
-street: "Rue Sainte-Colombe"
-housenumber: 21
-phone: "+335 57 83 33 24"
-opening_hours: "Mo-Sa 09:30-19:30; Su 09:30-12:30"
-website: "https://www.nousantigaspi.com/"
+street: Rue Sainte-Colombe
+housenumber: "21"
+phone: +335 57 83 33 24
+opening_hours: Mo-Sa 09:30-19:30; Su 09:30-12:30
+website: https://www.nousantigaspi.com/

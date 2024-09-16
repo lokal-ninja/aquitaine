@@ -4,8 +4,8 @@ latitude: 44.90136
 longitude: -0.22165
 postcode: "33500"
 city: Libourne
-street: "Avenue du Général de Gaulle"
-housenumber: 33500
+street: Avenue du Général de Gaulle
+housenumber: "33500"
 phone: "759874"
-opening_hours: "Mo-Su 11:00-23:00"
-website: "mediamarkt.fr"
+opening_hours: Mo-Su 11:00-23:00
+website: mediamarkt.fr

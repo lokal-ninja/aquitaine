@@ -4,8 +4,8 @@ latitude: 43.7488
 longitude: -0.56047
 postcode: "40500"
 city: Saint-Sever
-street: "Zone Artisanale Escales"
-housenumber: 7
-phone: "+33 5 58 06 35 37"
-opening_hours: "Tu-Sa 09:30-12:30,15:30-19:00"
-website: "https://www.latoutfermier.fr/"
+street: Zone Artisanale Escales
+housenumber: "7"
+phone: +33 5 58 06 35 37
+opening_hours: Tu-Sa 09:30-12:30,15:30-19:00
+website: https://www.latoutfermier.fr/

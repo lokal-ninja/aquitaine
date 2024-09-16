@@ -4,8 +4,8 @@ latitude: 43.78585
 longitude: -1.40168
 postcode: "40480"
 city: Vieux-Boucau
-street: "Mail André Rigal"
-housenumber: 1
-phone: "+33 5 58 48 07 32"
-opening_hours: "Tu-Su 08:30-13:00,17:00-20:00"
-website: "https://poissonnerie-le-neptune.business.site/"
+street: Mail André Rigal
+housenumber: "1"
+phone: +33 5 58 48 07 32
+opening_hours: Tu-Su 08:30-13:00,17:00-20:00
+website: https://poissonnerie-le-neptune.business.site/

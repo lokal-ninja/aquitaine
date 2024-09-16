@@ -1,11 +1,11 @@
 id: 227591563
-type: way
+type: node
 latitude: 44.77752
 longitude: -0.64379
 postcode: "33170"
 city: Gradignan
-street: "Avenue de l'Hippodrome"
-housenumber: 7
-phone: "+33 5 56 84 36 00"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-18:00"
-website: "https://www.leroymerlin.fr/magasins/gradignan-bordeaux.html"
+street: Avenue de l'Hippodrome
+housenumber: "7"
+phone: +33 5 56 84 36 00
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-18:00
+website: https://www.leroymerlin.fr/magasins/gradignan-bordeaux.html

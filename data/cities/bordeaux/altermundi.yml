@@ -4,8 +4,8 @@ latitude: 44.84085
 longitude: -0.57832
 postcode: "33000"
 city: Bordeaux
-street: "Rue Porte Dijeaux"
-housenumber: 77
+street: Rue Porte Dijeaux
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Su 10:00-19:30"
-website: "https://www.altermundi.com"
+opening_hours: Mo-Su 10:00-19:30
+website: https://www.altermundi.com

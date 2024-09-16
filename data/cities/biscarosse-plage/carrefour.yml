@@ -4,8 +4,8 @@ latitude: 44.44503
 longitude: -1.25209
 postcode: "40600"
 city: Biscarosse Plage
-street: "Boulevard d'Arcachon"
-housenumber: 481
-phone: "+33 5 58 78 21 20"
-opening_hours: "Mo-Sa 09:30-12:30,16:00-19:00; Su 09:30-12:30"
+street: Boulevard d'Arcachon
+housenumber: "481"
+phone: +33 5 58 78 21 20
+opening_hours: Mo-Sa 09:30-12:30,16:00-19:00; Su 09:30-12:30
 website: ""

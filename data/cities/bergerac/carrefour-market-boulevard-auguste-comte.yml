@@ -1,11 +1,11 @@
 id: 68548853
-type: way
+type: node
 latitude: 44.84781
 longitude: 0.49258
 postcode: "24100"
 city: Bergerac
-street: "Boulevard Auguste Comte"
-housenumber: 
+street: Boulevard Auguste Comte
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -4,8 +4,8 @@ latitude: 44.84016
 longitude: -0.55681
 postcode: "33100"
 city: Bordeaux
-street: "Rue de la Benauge"
-housenumber: 40
+street: Rue de la Benauge
+housenumber: "40"
 phone: ""
-opening_hours: "Sa 09:00-13:00; Mo-Fr 07:00-19:30; Su off"
+opening_hours: Sa 09:00-13:00; Mo-Fr 07:00-19:30; Su off
 website: ""

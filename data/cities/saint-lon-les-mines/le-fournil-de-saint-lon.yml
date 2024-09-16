@@ -4,8 +4,8 @@ latitude: 43.61398
 longitude: -1.1261
 postcode: "40300"
 city: Saint-Lon-les-Mines
-street: "Route de la Palhole"
-housenumber: 14
-phone: "+33 5 58 70 31 43"
-opening_hours: "Mo-Sa 07:00-13:00,16:00-19:00; We off; Su 07:00-13:00"
+street: Route de la Palhole
+housenumber: "14"
+phone: +33 5 58 70 31 43
+opening_hours: Mo-Sa 07:00-13:00,16:00-19:00; We off; Su 07:00-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 44.8325
 longitude: -0.61259
 postcode: "33000"
 city: Bordeaux
-street: "Rue Émile Combes"
-housenumber: 148
+street: Rue Émile Combes
+housenumber: "148"
 phone: "+33556249774"
-opening_hours: "Tu-Sa 15:30-19:30,09:30-12:30"
-website: "https://www.facebook.com/BordeauxBulles/"
+opening_hours: Tu-Sa 15:30-19:30,09:30-12:30
+website: https://www.facebook.com/BordeauxBulles/

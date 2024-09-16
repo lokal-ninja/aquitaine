@@ -1,11 +1,11 @@
 id: 52243851
-type: way
+type: node
 latitude: 45.26933
 longitude: -0.51855
 postcode: "33820"
 city: Val-de-Livenne
-street: "Rue Simone Veil"
-housenumber: 491
+street: Rue Simone Veil
+housenumber: "491"
 phone: ""
 opening_hours: ""
-website: "https://www.tutiac.com/"
+website: https://www.tutiac.com/

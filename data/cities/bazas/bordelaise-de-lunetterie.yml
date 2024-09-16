@@ -1,11 +1,11 @@
 id: 349223653
-type: way
+type: node
 latitude: 44.4316
 longitude: -0.21274
 postcode: "33430"
 city: Bazas
-street: "Rue Fondespan"
-housenumber: 13
+street: Rue Fondespan
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

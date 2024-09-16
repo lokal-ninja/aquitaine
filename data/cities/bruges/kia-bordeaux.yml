@@ -4,8 +4,8 @@ latitude: 44.88001
 longitude: -0.62494
 postcode: "33520"
 city: Bruges
-street: "Route du Médoc"
-housenumber: 469
-phone: "+33 5 56 57 41 99"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00"
-website: "https://kia-bordeaux-bruges.edenauto.com/"
+street: Route du Médoc
+housenumber: "469"
+phone: +33 5 56 57 41 99
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00
+website: https://kia-bordeaux-bruges.edenauto.com/

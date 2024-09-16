@@ -4,8 +4,8 @@ latitude: 43.3002
 longitude: -0.39328
 postcode: "64140"
 city: Billère
-street: "Route de Bayonne"
-housenumber: 27
-phone: "+33 5 59 92 13 98"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00"
-website: "https://www.rrun.com/magasin-rrun-running-pau/"
+street: Route de Bayonne
+housenumber: "27"
+phone: +33 5 59 92 13 98
+opening_hours: Mo 14:00-19:00; Tu-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00
+website: https://www.rrun.com/magasin-rrun-running-pau/

@@ -1,11 +1,11 @@
 id: 338995164
-type: way
+type: node
 latitude: 44.84323
 longitude: 0.18575
 postcode: "33220"
 city: Port-Sainte-Foy
-street: "route de Bordeaux"
-housenumber: 70
+street: route de Bordeaux
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Su 9:00-21:00"
-website: "https://nozarrivages.com/magasin/port-sainte-foy/"
+opening_hours: Mo-Su 9:00-21:00
+website: https://nozarrivages.com/magasin/port-sainte-foy/

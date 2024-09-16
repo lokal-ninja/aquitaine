@@ -4,8 +4,8 @@ latitude: 43.38862
 longitude: -1.66109
 postcode: "64500"
 city: Saint-Jean-de-Luz
-street: "Rue Léon Gambetta"
-housenumber: 46
+street: Rue Léon Gambetta
+housenumber: "46"
 phone: "+33524335836"
-opening_hours: "10:00-13:00,14:00-19:00"
-website: "https://www.parfumerie-autrement.com/"
+opening_hours: 10:00-13:00,14:00-19:00
+website: https://www.parfumerie-autrement.com/

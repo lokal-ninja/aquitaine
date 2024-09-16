@@ -1,11 +1,11 @@
 id: 249416363
-type: way
+type: node
 latitude: 43.56134
 longitude: -1.26506
 postcode: "40390"
 city: biarotte
-street: "route départementale"
-housenumber: 817
+street: route départementale
+housenumber: "817"
 phone: ""
-opening_hours: "Mo 14:30-18:30; Tu-Sa 09:00-12:00, 14:30-18:30"
+opening_hours: Mo 14:30-18:30; Tu-Sa 09:00-12:00, 14:30-18:30
 website: ""

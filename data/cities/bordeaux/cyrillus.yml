@@ -4,8 +4,8 @@ latitude: 44.84046
 longitude: -0.57822
 postcode: "33000"
 city: Bordeaux
-street: "Rue Vital Carles"
-housenumber: 22
+street: Rue Vital Carles
+housenumber: "22"
 phone: "+33533490251"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.cyrillus.fr"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.cyrillus.fr

@@ -4,8 +4,8 @@ latitude: 43.30846
 longitude: -0.40903
 postcode: "64140"
 city: Lons
-street: "Boulevard Charles de Gaulle"
-housenumber: 47
-phone: "+33 5 59 77 36 86"
-opening_hours: "Tu-Sa 09:30-19:00"
-website: "https://veloland.fr/magasins/veloland-lons-bearn-cycles.php"
+street: Boulevard Charles de Gaulle
+housenumber: "47"
+phone: +33 5 59 77 36 86
+opening_hours: Tu-Sa 09:30-19:00
+website: https://veloland.fr/magasins/veloland-lons-bearn-cycles.php

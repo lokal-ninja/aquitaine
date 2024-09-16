@@ -1,11 +1,11 @@
 id: 273794916
-type: way
+type: node
 latitude: 44.63751
 longitude: -0.9567
 postcode: "33380"
 city: Biganos
 street: ""
-housenumber: 251
+housenumber: "251"
 phone: ""
 opening_hours: ""
-website: "https://magasins.lafoirfouille.fr/fr_FR/decoration/biganos/0339"
+website: https://magasins.lafoirfouille.fr/fr_FR/decoration/biganos/0339

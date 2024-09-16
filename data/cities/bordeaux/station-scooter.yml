@@ -4,8 +4,8 @@ latitude: 44.84134
 longitude: -0.5992
 postcode: "33000"
 city: Bordeaux
-street: "Boulevard du Président Wilson"
-housenumber: 104
-phone: "+33 5 57 85 81 46"
-opening_hours: "Tu-Sa 09:00-12:00,14:00-18:30"
-website: "https://www.facebook.com/StationScooterBordeaux/"
+street: Boulevard du Président Wilson
+housenumber: "104"
+phone: +33 5 57 85 81 46
+opening_hours: Tu-Sa 09:00-12:00,14:00-18:30
+website: https://www.facebook.com/StationScooterBordeaux/

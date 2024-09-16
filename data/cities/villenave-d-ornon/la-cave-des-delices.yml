@@ -4,8 +4,8 @@ latitude: 44.7679
 longitude: -0.58015
 postcode: "33140"
 city: Villenave-d-Ornon
-street: "Route de Léognan"
-housenumber: 57
-phone: "+336 21 17 85 49"
-opening_hours: "Tu-Sa 10:00-13:00,16:00-19:30; Su 10:00-13:00"
-website: "http://www.lacavedesdelices.fr/"
+street: Route de Léognan
+housenumber: "57"
+phone: +336 21 17 85 49
+opening_hours: Tu-Sa 10:00-13:00,16:00-19:30; Su 10:00-13:00
+website: http://www.lacavedesdelices.fr/

@@ -4,8 +4,8 @@ latitude: 44.84962
 longitude: -0.61385
 postcode: "33200"
 city: Bordeaux
-street: "Place Frédéric Ozanam"
-housenumber: 14
-phone: "+33 5 56 02 88 37"
-opening_hours: "Tu,We 08:30-19:30; Th,Fr 08:30-20:00; Sa 08:30-18:00"
-website: "https://www.institut-beaute-cauderan.fr"
+street: Place Frédéric Ozanam
+housenumber: "14"
+phone: +33 5 56 02 88 37
+opening_hours: Tu,We 08:30-19:30; Th,Fr 08:30-20:00; Sa 08:30-18:00
+website: https://www.institut-beaute-cauderan.fr

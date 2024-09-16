@@ -1,11 +1,11 @@
 id: 148263037
-type: way
+type: node
 latitude: 43.55532
 longitude: -1.43616
 postcode: "40440"
 city: Ondres
-street: "Avenue du 8 Mai 1945"
-housenumber: 1165
-phone: "+33 5 59 45 30 34"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:30"
-website: "https://garagecazauxfrancis.site-solocal.com/"
+street: Avenue du 8 Mai 1945
+housenumber: "1165"
+phone: +33 5 59 45 30 34
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:30
+website: https://garagecazauxfrancis.site-solocal.com/

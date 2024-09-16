@@ -4,8 +4,8 @@ latitude: 44.85282
 longitude: -0.60873
 postcode: "33200"
 city: Bordeaux
-street: "Avenue du Général Leclerc"
-housenumber: 61
-phone: "+33 5 57 29 56 02"
+street: Avenue du Général Leclerc
+housenumber: "61"
+phone: +33 5 57 29 56 02
 opening_hours: ""
-website: "https://www.epicerielaurent.com/"
+website: https://www.epicerielaurent.com/

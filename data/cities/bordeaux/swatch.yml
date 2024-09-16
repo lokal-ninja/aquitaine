@@ -4,8 +4,8 @@ latitude: 44.84083
 longitude: -0.57735
 postcode: "33000"
 city: Bordeaux
-street: "Rue Porte Dijeaux"
-housenumber: 40
+street: Rue Porte Dijeaux
+housenumber: "40"
 phone: "+33556813911"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://shop.swatch.com/fr_fr"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://shop.swatch.com/fr_fr

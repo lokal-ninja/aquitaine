@@ -1,11 +1,11 @@
 id: 1040593523
-type: way
+type: node
 latitude: 43.69446
 longitude: -1.42942
 postcode: "40510"
 city: Seignosse
-street: "VILLAGE NATUREO"
-housenumber: 
+street: VILLAGE NATUREO
+housenumber: ""
 phone: "+33558417541"
-opening_hours: "Mo-Su 09:30-19:00"
+opening_hours: Mo-Su 09:30-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 79352608
-type: way
+type: node
 latitude: 44.90857
 longitude: -0.23356
 postcode: "33500"
 city: Libourne
-street: "Boulevard Kleber"
-housenumber: 9
+street: Boulevard Kleber
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

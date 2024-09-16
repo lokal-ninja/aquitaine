@@ -1,11 +1,11 @@
 id: 48996486
-type: way
+type: node
 latitude: 43.89933
 longitude: -0.48621
 postcode: "40000"
 city: Mont-de-Marsan
-street: "Avenue du Maréchal Juin"
-housenumber: 206
+street: Avenue du Maréchal Juin
+housenumber: "206"
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/mont-de-marsan/"
+website: https://www.nozarrivages.com/magasin/mont-de-marsan/

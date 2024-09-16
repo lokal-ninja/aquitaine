@@ -4,8 +4,8 @@ latitude: 43.63782
 longitude: -0.38227
 postcode: "40320"
 city: Geaune
-street: "Rue Saint-Jean"
-housenumber: 30
+street: Rue Saint-Jean
+housenumber: "30"
 phone: "+33558445125"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:00"
-website: "https://www.tursan.fr/"
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:00
+website: https://www.tursan.fr/

@@ -1,11 +1,11 @@
 id: 765137756
-type: way
+type: node
 latitude: 43.6115
 longitude: -0.99309
 postcode: "40350"
 city: POUILLON
-street: "Boulevard des Sports"
-housenumber: 705
-phone: "+33 5 58 98 34 82"
-opening_hours: "Mo-Fr 09:00-19:00; Su 9:00-12:30"
+street: Boulevard des Sports
+housenumber: "705"
+phone: +33 5 58 98 34 82
+opening_hours: Mo-Fr 09:00-19:00; Su 9:00-12:30
 website: ""

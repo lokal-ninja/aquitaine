@@ -4,8 +4,8 @@ latitude: 44.78079
 longitude: -0.41115
 postcode: "33670"
 city: Sadirac
-street: "Route de Saint-Caprais"
-housenumber: 1
+street: Route de Saint-Caprais
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Su 07:00-13:00"
-website: "https://www.boucherie-sadiracaise.fr/"
+opening_hours: Tu-Su 07:00-13:00
+website: https://www.boucherie-sadiracaise.fr/

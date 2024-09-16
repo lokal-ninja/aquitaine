@@ -4,8 +4,8 @@ latitude: 43.65013
 longitude: -1.4336
 postcode: "40130"
 city: Capbreton
-street: "Avenue Maurice Martin"
-housenumber: 5
-phone: "+33 5 58 47 98 08"
-opening_hours: "Mo-Su 07:00-20:00"
-website: "https://www.boulangerieduport-capbreton.fr/"
+street: Avenue Maurice Martin
+housenumber: "5"
+phone: +33 5 58 47 98 08
+opening_hours: Mo-Su 07:00-20:00
+website: https://www.boulangerieduport-capbreton.fr/

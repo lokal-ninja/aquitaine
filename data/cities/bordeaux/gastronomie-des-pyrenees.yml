@@ -4,8 +4,8 @@ latitude: 44.85247
 longitude: -0.57324
 postcode: "33000"
 city: Bordeaux
-street: "Cours Portal"
-housenumber: 12
+street: Cours Portal
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 08:30-13:30,15:30-19:45"
-website: "https://www.gastronomie-pyrenees.fr/"
+opening_hours: Mo-Sa 08:30-13:30,15:30-19:45
+website: https://www.gastronomie-pyrenees.fr/

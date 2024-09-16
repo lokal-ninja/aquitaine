@@ -4,8 +4,8 @@ latitude: 44.8372
 longitude: -0.57124
 postcode: "33000"
 city: Bordeaux
-street: "Rue Sainte-Colombe"
-housenumber: 38
+street: Rue Sainte-Colombe
+housenumber: "38"
 phone: ""
 opening_hours: ""
-website: "http://www.la-recharge.fr/"
+website: http://www.la-recharge.fr/

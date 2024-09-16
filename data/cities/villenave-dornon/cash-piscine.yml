@@ -1,11 +1,11 @@
 id: 979602323
-type: way
+type: node
 latitude: 44.78091
 longitude: -0.58744
 postcode: "33140"
 city: Villenave-d'Ornon
-street: "Avenue Roger Lapébie"
-housenumber: 5
+street: Avenue Roger Lapébie
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

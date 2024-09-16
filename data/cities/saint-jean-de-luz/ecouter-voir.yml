@@ -4,8 +4,8 @@ latitude: 43.38735
 longitude: -1.66158
 postcode: "64500"
 city: Saint-Jean-de-Luz
-street: "Boulevard Victor Hugo"
-housenumber: 16
+street: Boulevard Victor Hugo
+housenumber: "16"
 phone: "+33559514165"
-opening_hours: "Mo-Sa 09:00-18:30"
-website: "https://www.ecoutervoir.fr/trouver-un-magasin/saint-jean-de-luz/"
+opening_hours: Mo-Sa 09:00-18:30
+website: https://www.ecoutervoir.fr/trouver-un-magasin/saint-jean-de-luz/

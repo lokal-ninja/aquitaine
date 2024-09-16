@@ -1,11 +1,11 @@
 id: 163499233
-type: way
+type: node
 latitude: 44.90405
 longitude: -0.48887
 postcode: "33560"
 city: Sainte-Eulalie
-street: "Avenue de l'Aquitaine"
-housenumber: 36
+street: Avenue de l'Aquitaine
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:30"
+opening_hours: Mo-Sa 10:00-19:30
 website: ""

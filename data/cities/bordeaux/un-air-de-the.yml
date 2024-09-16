@@ -4,8 +4,8 @@ latitude: 44.83571
 longitude: -0.57048
 postcode: "33000"
 city: Bordeaux
-street: "Rue Buhan"
-housenumber: 33
-phone: "+33 5 56 06 75 81"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://unairdethe.com/"
+street: Rue Buhan
+housenumber: "33"
+phone: +33 5 56 06 75 81
+opening_hours: Tu-Sa 10:00-19:00
+website: https://unairdethe.com/

@@ -4,8 +4,8 @@ latitude: 44.86243
 longitude: -0.55537
 postcode: "33300"
 city: Bordeaux
-street: "Quai Armand Lalande"
-housenumber: 1
-phone: "+33 5 56 80 87 50"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://opticiens.optic2000.com/opticien-bordeaux-33000-2224"
+street: Quai Armand Lalande
+housenumber: "1"
+phone: +33 5 56 80 87 50
+opening_hours: Mo-Sa 09:00-19:00
+website: https://opticiens.optic2000.com/opticien-bordeaux-33000-2224

@@ -4,8 +4,8 @@ latitude: 44.84272
 longitude: -0.57894
 postcode: "33000"
 city: Bordeaux
-street: "Rue Condillac"
-housenumber: 35
+street: Rue Condillac
+housenumber: "35"
 phone: "+33557301757"
 opening_hours: ""
-website: "https://www.ballettodanceshop.com"
+website: https://www.ballettodanceshop.com

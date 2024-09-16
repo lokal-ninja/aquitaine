@@ -4,8 +4,8 @@ latitude: 44.83247
 longitude: -0.61263
 postcode: "33000"
 city: Bordeaux
-street: "Rue Émile Combes"
-housenumber: 148
+street: Rue Émile Combes
+housenumber: "148"
 phone: "+33556990825"
-opening_hours: "Tu-Sa 09:00-12:30,16:00-19:00"
-website: "https://www.facebook.com/lafromageriestaugustin/"
+opening_hours: Tu-Sa 09:00-12:30,16:00-19:00
+website: https://www.facebook.com/lafromageriestaugustin/

@@ -4,8 +4,8 @@ latitude: 44.85985
 longitude: -0.57571
 postcode: "33000"
 city: Bordeaux
-street: "Rue Étienne Huyard"
-housenumber: 5
+street: Rue Étienne Huyard
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:30"
-website: "https://amos.asso.fr/"
+opening_hours: Mo-Sa 10:00-18:30
+website: https://amos.asso.fr/

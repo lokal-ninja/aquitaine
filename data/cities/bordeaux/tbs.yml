@@ -4,8 +4,8 @@ latitude: 44.83746
 longitude: -0.57391
 postcode: "33000"
 city: Bordeaux
-street: "Rue Sainte-Catherine"
-housenumber: 111
+street: Rue Sainte-Catherine
+housenumber: "111"
 phone: "+33556480034"
 opening_hours: ""
-website: "https://www.tbs.fr/fr/boutiques/bordeaux"
+website: https://www.tbs.fr/fr/boutiques/bordeaux

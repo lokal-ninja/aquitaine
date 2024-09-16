@@ -4,8 +4,8 @@ latitude: 44.19286
 longitude: 0.60515
 postcode: "47520"
 city: Le Passage
-street: "Avenue Michel Ricard"
-housenumber: 66
-phone: "+33 553686454"
-opening_hours: "Tu-Fr 10:00-12:30,15:30-19:00; Sa 10:00-13:00,15:30-19:00"
-website: "https://vinissimo-agen.fr/"
+street: Avenue Michel Ricard
+housenumber: "66"
+phone: +33 553686454
+opening_hours: Tu-Fr 10:00-12:30,15:30-19:00; Sa 10:00-13:00,15:30-19:00
+website: https://vinissimo-agen.fr/

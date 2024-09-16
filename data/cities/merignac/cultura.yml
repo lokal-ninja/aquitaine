@@ -1,11 +1,11 @@
 id: 164306249
-type: way
+type: node
 latitude: 44.83028
 longitude: -0.66228
 postcode: "33700"
 city: Mérignac
-street: "Rue Jacques Anquetil"
-housenumber: 16
-phone: "+33 5 57 92 01 20"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.cultura.com/les-magasins/cultura-bordeaux-merignac.html"
+street: Rue Jacques Anquetil
+housenumber: "16"
+phone: +33 5 57 92 01 20
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.cultura.com/les-magasins/cultura-bordeaux-merignac.html

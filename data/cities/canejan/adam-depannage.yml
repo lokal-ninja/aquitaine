@@ -1,11 +1,11 @@
 id: 372982843
-type: way
+type: node
 latitude: 44.77199
 longitude: -0.64858
 postcode: "33610"
 city: Canéjan
-street: "Avenue de la Pointe"
-housenumber: 6
-phone: "+33 556073585"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-19:00; Sa 09:00-12:30"
+street: Avenue de la Pointe
+housenumber: "6"
+phone: +33 556073585
+opening_hours: Mo-Fr 09:00-12:30,14:00-19:00; Sa 09:00-12:30
 website: ""

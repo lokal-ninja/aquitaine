@@ -1,11 +1,11 @@
 id: 154211600
-type: way
+type: node
 latitude: 44.87374
 longitude: -0.5995
 postcode: "33520"
 city: Bruges
-street: "Avenue d'Aquitaine"
-housenumber: 138
+street: Avenue d'Aquitaine
+housenumber: "138"
 phone: "+33556423535"
 opening_hours: ""
-website: "https://www.soltechnic.com/"
+website: https://www.soltechnic.com/

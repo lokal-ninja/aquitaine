@@ -4,8 +4,8 @@ latitude: 44.83744
 longitude: -0.57371
 postcode: "33000"
 city: Bordeaux
-street: "Rue Sainte-Catherine"
-housenumber: 122
-phone: "+33 6 86 64 79 33"
-opening_hours: "PH,Mo-Sa 10:00-19:00; Su 13:00-19:00"
-website: "https://www.leonidasbordeaux.fr/"
+street: Rue Sainte-Catherine
+housenumber: "122"
+phone: +33 6 86 64 79 33
+opening_hours: PH,Mo-Sa 10:00-19:00; Su 13:00-19:00
+website: https://www.leonidasbordeaux.fr/

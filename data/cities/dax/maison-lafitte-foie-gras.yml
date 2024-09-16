@@ -1,11 +1,11 @@
 id: 1010046976
-type: way
+type: node
 latitude: 43.70798
 longitude: -1.05365
 postcode: "40100"
 city: Dax
-street: "Place Roger Ducos"
-housenumber: 
-phone: "+33 5 58 74 19 39"
+street: Place Roger Ducos
+housenumber: ""
+phone: +33 5 58 74 19 39
 opening_hours: ""
 website: ""

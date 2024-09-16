@@ -1,11 +1,11 @@
 id: 68197110
-type: way
+type: node
 latitude: 45.25342
 longitude: 0.34034
 postcode: "24600"
 city: Ribérac
-street: "Rue du 26 Mars 1944"
-housenumber: 24
+street: Rue du 26 Mars 1944
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://www.biocoop-riberac.fr/"
+website: https://www.biocoop-riberac.fr/

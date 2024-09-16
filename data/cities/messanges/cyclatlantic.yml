@@ -4,8 +4,8 @@ latitude: 43.81561
 longitude: -1.3782
 postcode: "40660"
 city: Messanges
-street: "Route de la Côte d'Argent"
-housenumber: 6
-phone: "+33 5 58 48 38 42"
-opening_hours: "10:00-12:00,14:00-18:00; Jul-Aug: 09:00-19:00"
-website: "https://www.cyclatlantic.fr/"
+street: Route de la Côte d'Argent
+housenumber: "6"
+phone: +33 5 58 48 38 42
+opening_hours: '10:00-12:00,14:00-18:00; Jul-Aug: 09:00-19:00'
+website: https://www.cyclatlantic.fr/

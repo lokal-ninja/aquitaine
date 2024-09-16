@@ -1,11 +1,11 @@
 id: 45339044
-type: way
+type: node
 latitude: 43.88334
 longitude: -0.48168
 postcode: "40000"
 city: Mont-de-Marsan
-street: "Boulevard Yves Mainguy"
-housenumber: 19
+street: Boulevard Yves Mainguy
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:30; Su 08:30-12:30"
-website: "https://www.carrefour.fr/magasin/market-mont-de-marsan"
+opening_hours: Mo-Sa 08:00-19:30; Su 08:30-12:30
+website: https://www.carrefour.fr/magasin/market-mont-de-marsan

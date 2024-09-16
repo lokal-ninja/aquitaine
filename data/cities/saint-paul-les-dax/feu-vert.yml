@@ -1,11 +1,11 @@
 id: 65137631
-type: way
+type: node
 latitude: 43.72732
 longitude: -1.07485
 postcode: "40990"
 city: Saint-Paul-lès-Dax
-street: "Rue Brémontier"
-housenumber: 300
-phone: "+33 5 58 91 87 87"
-opening_hours: "Mo-Fr 08:45-12:00,13:30-18:30; Sa 08:45-12:00,13:30-18:00"
-website: "http://www.feuvert.fr/"
+street: Rue Brémontier
+housenumber: "300"
+phone: +33 5 58 91 87 87
+opening_hours: Mo-Fr 08:45-12:00,13:30-18:30; Sa 08:45-12:00,13:30-18:00
+website: http://www.feuvert.fr/

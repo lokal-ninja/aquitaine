@@ -1,11 +1,11 @@
 id: 269500815
-type: way
+type: node
 latitude: 44.84116
 longitude: -0.53128
 postcode: "33270"
 city: Floirac
-street: "Avenue Pasteur"
-housenumber: 6
+street: Avenue Pasteur
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

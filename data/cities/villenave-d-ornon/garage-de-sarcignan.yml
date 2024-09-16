@@ -4,8 +4,8 @@ latitude: 44.77801
 longitude: -0.57338
 postcode: "33140"
 city: Villenave-d-Ornon
-street: "Avenue du Maréchal Leclerc"
-housenumber: 46
-phone: "+33 5 56 75 81 38"
-opening_hours: "Mo-Fr 07:30-18:00"
+street: Avenue du Maréchal Leclerc
+housenumber: "46"
+phone: +33 5 56 75 81 38
+opening_hours: Mo-Fr 07:30-18:00
 website: ""

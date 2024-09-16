@@ -1,11 +1,11 @@
 id: 159363786
-type: way
+type: node
 latitude: 44.81886
 longitude: -0.54486
 postcode: "33800"
 city: Bègles
-street: "Boulevard Jean-Jacques Bosc"
-housenumber: 126
+street: Boulevard Jean-Jacques Bosc
+housenumber: "126"
 phone: ""
 opening_hours: ""
-website: "https://www.la-toque-cuivree.fr/"
+website: https://www.la-toque-cuivree.fr/

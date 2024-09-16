@@ -1,11 +1,11 @@
 id: 218742976
-type: way
+type: node
 latitude: 45.19112
 longitude: 0.68026
 postcode: "24660"
 city: Coulounieix-Chamiers
 street: ""
-housenumber: 106
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

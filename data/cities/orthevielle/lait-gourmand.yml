@@ -4,8 +4,8 @@ latitude: 43.54976
 longitude: -1.14972
 postcode: "40300"
 city: Orthevielle
-street: "Route des Lavoirs"
-housenumber: 241
-phone: "+33 5 58 73 12 75"
-opening_hours: "We 09:00-12:30; Fr 16:00-19:30"
-website: "https://www.laitgourmand.fr/"
+street: Route des Lavoirs
+housenumber: "241"
+phone: +33 5 58 73 12 75
+opening_hours: We 09:00-12:30; Fr 16:00-19:30
+website: https://www.laitgourmand.fr/

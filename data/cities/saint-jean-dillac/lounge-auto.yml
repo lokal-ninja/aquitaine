@@ -1,11 +1,11 @@
 id: 523743527
-type: way
+type: node
 latitude: 44.8161
 longitude: -0.74393
 postcode: "33127"
 city: Saint-Jean-d'Illac
-street: "Allée du Partage"
-housenumber: 32
+street: Allée du Partage
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

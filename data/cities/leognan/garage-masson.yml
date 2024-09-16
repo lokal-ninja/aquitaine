@@ -1,11 +1,11 @@
 id: 228084186
-type: way
+type: node
 latitude: 44.74212
 longitude: -0.61513
 postcode: "33850"
 city: Léognan
-street: "Chemin de Bel Air"
-housenumber: 133
-phone: "+33 5 56 64 00 71"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00"
+street: Chemin de Bel Air
+housenumber: "133"
+phone: +33 5 56 64 00 71
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00
 website: ""

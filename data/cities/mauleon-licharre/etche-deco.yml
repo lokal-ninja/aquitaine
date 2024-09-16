@@ -4,8 +4,8 @@ latitude: 43.22249
 longitude: -0.88799
 postcode: "64130"
 city: Mauléon-Licharre
-street: "Rue Jeanne de Sibas"
-housenumber: 11
-phone: "+33 5 59 28 20 57"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00"
-website: "https://etchedeco.fr"
+street: Rue Jeanne de Sibas
+housenumber: "11"
+phone: +33 5 59 28 20 57
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00
+website: https://etchedeco.fr

@@ -4,8 +4,8 @@ latitude: 44.85264
 longitude: -0.61741
 postcode: "33200"
 city: Bordeaux
-street: "Avenue Louis Barthou"
-housenumber: 201
-phone: "+33 5 56 02 51 33"
-opening_hours: "Tu-Sa 09:00-13:00,16:30-20:00"
-website: "https://l-italie-gourmande.eatbu.com"
+street: Avenue Louis Barthou
+housenumber: "201"
+phone: +33 5 56 02 51 33
+opening_hours: Tu-Sa 09:00-13:00,16:30-20:00
+website: https://l-italie-gourmande.eatbu.com

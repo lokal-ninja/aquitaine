@@ -4,8 +4,8 @@ latitude: 43.65937
 longitude: -1.43003
 postcode: "40150"
 city: Soorts-Hossegor
-street: "Place Louis Pasteur"
-housenumber: 24
-phone: "+33 5 58 97 23 97"
-opening_hours: "Tu-Su 10:00-13:00,15:00-19:00"
-website: "https://www.stepart.fr/fr/"
+street: Place Louis Pasteur
+housenumber: "24"
+phone: +33 5 58 97 23 97
+opening_hours: Tu-Su 10:00-13:00,15:00-19:00
+website: https://www.stepart.fr/fr/

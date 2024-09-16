@@ -4,8 +4,8 @@ latitude: 44.85277
 longitude: -0.61711
 postcode: "33200"
 city: Bordeaux
-street: "Rue Bellus Mareilhac"
-housenumber: 4
-phone: "+33 5 56 08 73 48"
-opening_hours: "Tu-Fr 09:00-12:45,16:00-19:30; Sa 09:00-12:45,16:00-19:00"
+street: Rue Bellus Mareilhac
+housenumber: "4"
+phone: +33 5 56 08 73 48
+opening_hours: Tu-Fr 09:00-12:45,16:00-19:30; Sa 09:00-12:45,16:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 66196304
-type: way
+type: node
 latitude: 43.28825
 longitude: -0.6607
 postcode: "64360"
 city: Lucq-de-Béarn
-street: "D110"
-housenumber: 
+street: D110
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

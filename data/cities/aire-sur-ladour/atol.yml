@@ -4,8 +4,8 @@ latitude: 43.70221
 longitude: -0.26211
 postcode: "40800"
 city: Aire-sur-l'Adour
-street: "Place du Général de Gaulle"
-housenumber: 9
-phone: "+33 5 58 71 91 78"
-opening_hours: "Mo 9:30-12:30, 14:00-18:30; Tu-Sa 9:00-12:30, 14:00-19:00; Su off"
-website: "https://www.opticiens-atol.com/"
+street: Place du Général de Gaulle
+housenumber: "9"
+phone: +33 5 58 71 91 78
+opening_hours: Mo 9:30-12:30, 14:00-18:30; Tu-Sa 9:00-12:30, 14:00-19:00; Su off
+website: https://www.opticiens-atol.com/

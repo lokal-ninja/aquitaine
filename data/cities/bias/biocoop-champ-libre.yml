@@ -1,11 +1,11 @@
 id: 65511568
-type: way
+type: node
 latitude: 44.4037
 longitude: 0.68574
 postcode: "47110"
 city: Bias
-street: "Avenue de Bordeaux"
-housenumber: 
+street: Avenue de Bordeaux
+housenumber: ""
 phone: ""
-opening_hours: "Mo 15:00-19:00; Tu-Fr 09:30-13:00,15:00-19:00; Sa 09:30-19:00"
+opening_hours: Mo 15:00-19:00; Tu-Fr 09:30-13:00,15:00-19:00; Sa 09:30-19:00
 website: ""

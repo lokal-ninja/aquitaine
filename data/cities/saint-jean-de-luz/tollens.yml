@@ -4,8 +4,8 @@ latitude: 43.38444
 longitude: -1.65733
 postcode: "64500"
 city: Saint-Jean-de-Luz
-street: "Rue des Ormeaux"
-housenumber: 7
+street: Rue des Ormeaux
+housenumber: "7"
 phone: "+33559263625"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.tollens.com/nos-magasins/64-pyrenees-atlantiques/saint-jean-de-luz"
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.tollens.com/nos-magasins/64-pyrenees-atlantiques/saint-jean-de-luz
