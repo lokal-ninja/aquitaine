@@ -1,6 +1,6 @@
 ---
 title: Escource
 url: /escource/
-latitude: 44.164
-longitude: -1.033
+latitude: 44.145
+longitude: -0.967
 ---
