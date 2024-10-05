@@ -1,6 +1,6 @@
 ---
 title: Cardan
 url: /cardan/
-latitude: 44.682
-longitude: -0.331
+latitude: 44.677
+longitude: -0.324
 ---
