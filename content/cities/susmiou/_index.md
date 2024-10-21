@@ -1,6 +1,6 @@
 ---
 title: Susmiou
 url: /susmiou/
-latitude: 43.315
-longitude: -0.77
+latitude: 43.319
+longitude: -0.771
 ---
