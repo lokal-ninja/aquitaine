@@ -1,6 +1,6 @@
 ---
 title: Aiguillon
 url: /aiguillon/
-latitude: 44.298
-longitude: 0.344
+latitude: 44.302
+longitude: 0.338
 ---
