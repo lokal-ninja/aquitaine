@@ -7,5 +7,5 @@ city: Libourne
 street: Place Abel Surchamp
 housenumber: "10"
 phone: ""
-opening_hours: Mo-Su 09:30-19:00
+opening_hours: Mo 09:30-19:00; Tu 09:30-18:00; We-Su 09:30-19:00
 website: https://yvesthuries.com/
