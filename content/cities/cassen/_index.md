@@ -1,6 +1,6 @@
 ---
 title: Cassen
 url: /cassen/
-latitude: 43.761
-longitude: -0.859
+latitude: 43.764
+longitude: -0.857
 ---
