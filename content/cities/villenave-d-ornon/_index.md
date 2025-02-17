@@ -1,6 +1,6 @@
 ---
-title: Villenave-d-Ornon
+title: Villenave-d-ornon
 url: /villenave-d-ornon/
-latitude: 44.781
-longitude: -0.566
+latitude: 44.785
+longitude: -0.578
 ---
