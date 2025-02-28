@@ -1,6 +1,6 @@
 ---
 title: Tartas
 url: /tartas/
-latitude: 43.833
-longitude: -0.81
+latitude: 43.832
+longitude: -0.807
 ---
