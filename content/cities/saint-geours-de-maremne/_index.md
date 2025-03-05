@@ -1,6 +1,6 @@
 ---
-title: Saint-Geours-De-Maremne
+title: Saint-Geours-de-Maremne
 url: /saint-geours-de-maremne/
-latitude: 43.713
-longitude: -1.236
+latitude: 43.711
+longitude: -1.238
 ---
