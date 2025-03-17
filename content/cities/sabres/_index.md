@@ -1,6 +1,6 @@
 ---
-title: sabres
+title: Sabres
 url: /sabres/
-latitude: 44.153
-longitude: -0.736
+latitude: 44.147
+longitude: -0.737
 ---

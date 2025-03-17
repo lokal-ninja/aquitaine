@@ -1,6 +1,6 @@
 ---
-title: Val de Virvée
+title: Val-de-Virvée
 url: /val-de-virvee/
-latitude: 45.006
-longitude: -0.392
+latitude: 45.015
+longitude: -0.377
 ---
