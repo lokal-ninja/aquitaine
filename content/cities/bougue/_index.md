@@ -1,6 +1,6 @@
 ---
 title: Bougue
 url: /bougue/
-latitude: 43.878
-longitude: -0.394
+latitude: 43.889
+longitude: -0.391
 ---

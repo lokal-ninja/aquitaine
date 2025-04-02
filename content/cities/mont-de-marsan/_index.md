@@ -1,6 +1,6 @@
 ---
 title: Mont-de-Marsan
 url: /mont-de-marsan/
-latitude: 43.89
-longitude: -0.504
+latitude: 43.886
+longitude: -0.503
 ---
