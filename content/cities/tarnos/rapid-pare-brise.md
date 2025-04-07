@@ -1,5 +1,5 @@
 ---
-title: "Rapid Pare-brise"
+title: "Rapid Pare Brise"
 url: /tarnos/rapid-pare-brise/
 shop: réparation de voitures
 ---

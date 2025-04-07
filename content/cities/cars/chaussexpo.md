@@ -1,5 +1,5 @@
 ---
-title: "Chauss'Expo"
+title: "Chaussexpo"
 url: /cars/chaussexpo/
 shop: chaussures
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Pro&Cie"
+title: "PRO&Cie"
 url: /saint-martin-lacaussade/proetcie/
-shop: hifi
+shop: électronique
 ---
