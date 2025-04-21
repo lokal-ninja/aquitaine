@@ -1,5 +1,5 @@
 ---
-title: "adopt'"
+title: "Adopt'"
 url: /bordeaux/adopt/
-shop: beauté
+shop: parfumerie
 ---

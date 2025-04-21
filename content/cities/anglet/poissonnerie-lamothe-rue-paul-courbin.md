@@ -1,5 +1,5 @@
 ---
 title: "Poissonnerie Lamothe"
-url: /anglet/poissonnerie-lamothe-rue-de-salis/
+url: /anglet/poissonnerie-lamothe-rue-paul-courbin/
 shop: fruits de mer
 ---

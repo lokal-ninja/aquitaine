@@ -1,5 +1,5 @@
 ---
-title: "Tag Heuer"
+title: "TAG Heuer"
 url: /bordeaux/tag-heuer/
 shop: montres
 ---
