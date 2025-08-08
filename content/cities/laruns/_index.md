@@ -1,6 +1,6 @@
 ---
 title: Laruns
 url: /laruns/
-latitude: 42.987
-longitude: -0.427
+latitude: 42.992
+longitude: -0.423
 ---

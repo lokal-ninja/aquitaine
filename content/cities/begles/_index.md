@@ -1,6 +1,6 @@
 ---
 title: Bègles
 url: /begles/
-latitude: 44.795
-longitude: -0.538
+latitude: 44.813
+longitude: -0.565
 ---

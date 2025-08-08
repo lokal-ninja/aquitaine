@@ -1,5 +1,5 @@
 ---
-title: "The Athlete’s Foot"
+title: "The Athlete's Foot"
 url: /lescar/the-athletes-foot/
-shop: sports
+shop: chaussures
 ---

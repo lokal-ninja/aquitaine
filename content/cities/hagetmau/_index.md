@@ -1,6 +1,6 @@
 ---
 title: Hagetmau
 url: /hagetmau/
-latitude: 43.659
-longitude: -0.591
+latitude: 43.654
+longitude: -0.594
 ---

@@ -5,7 +5,8 @@ longitude: -1.38965
 postcode: "40150"
 city: Soorts-Hossegor
 street: Avenue des Tisserands
-housenumber: "33"
+housenumber: 33;199
 phone: +33 5 58 48 92 88
-opening_hours: Mo-Th 09:00-19:00; Fr,Sa 07:30-21:30
+opening_hours: Mo-Th 09:00-19:00; Fr,Sa 07:30-21:30; Mo 14:00-19:00; Tu-Su 10:00-13:00,14:00-19:00;
+    Sa 10:00-19:00
 website: https://www.levestibulecoiffure.com/

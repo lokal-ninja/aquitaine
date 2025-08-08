@@ -1,6 +1,6 @@
 ---
-title: ANGRESSE
+title: Angresse
 url: /angresse/
 latitude: 43.659
-longitude: -1.368
+longitude: -1.369
 ---

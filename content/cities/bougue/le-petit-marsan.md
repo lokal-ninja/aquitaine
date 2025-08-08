@@ -1,5 +1,5 @@
 ---
-title: "Le petit Marsan"
+title: "Le Petit Marsan"
 url: /bougue/le-petit-marsan/
 shop: commodité
 ---

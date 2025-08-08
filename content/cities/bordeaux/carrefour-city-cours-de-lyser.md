@@ -1,5 +1,5 @@
 ---
 title: "Carrefour City"
 url: /bordeaux/carrefour-city-cours-de-lyser/
-shop: supermarché
+shop: commodité
 ---
