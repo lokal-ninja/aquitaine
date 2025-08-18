@@ -1,5 +1,5 @@
 ---
-title: "Jefferson LTD"
+title: "Jefferson Ltd"
 url: /bordeaux/jefferson-ltd/
 shop: chaussures
 ---

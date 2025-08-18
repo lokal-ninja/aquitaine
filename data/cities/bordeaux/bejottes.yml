@@ -1,11 +1,11 @@
 id: 7411350249
 type: node
-latitude: 44.84225
-longitude: -0.57918
+latitude: 44.84237
+longitude: -0.5791
 postcode: "33000"
 city: Bordeaux
 street: Rue Condillac
 housenumber: "11"
 phone: +33 5 56 48 09 30
-opening_hours: ""
+opening_hours: Mo,Su,PH off; Tu-Sa 10:00-19:00
 website: https://www.droguerie-bejottes.fr
