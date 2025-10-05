@@ -1,6 +1,6 @@
 ---
 title: Périgueux
 url: /perigueux/
-latitude: 45.185
-longitude: 0.718
+latitude: 45.184
+longitude: 0.72
 ---

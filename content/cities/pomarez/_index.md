@@ -1,6 +1,6 @@
 ---
 title: Pomarez
 url: /pomarez/
-latitude: 43.616
-longitude: -0.815
+latitude: 43.624
+longitude: -0.844
 ---

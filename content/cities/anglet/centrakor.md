@@ -1,5 +1,5 @@
 ---
 title: "Centrakor"
 url: /anglet/centrakor/
-shop: magasin de variétés
+shop: décoration intérieure
 ---
