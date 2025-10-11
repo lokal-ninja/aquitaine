@@ -1,5 +1,5 @@
 ---
-title: "Spa by séverine"
+title: "Spa by Séverine"
 url: /aire-sur-ladour/spa-by-severine/
-shop: beauté
+shop: massage
 ---
