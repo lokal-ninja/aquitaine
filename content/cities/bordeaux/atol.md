@@ -1,5 +1,5 @@
 ---
-title: "ATOL"
+title: "Atol"
 url: /bordeaux/atol/
 shop: opticien
 ---
