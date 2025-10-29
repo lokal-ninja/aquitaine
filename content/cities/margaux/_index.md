@@ -1,6 +1,6 @@
 ---
 title: Margaux
 url: /margaux/
-latitude: 45.036
+latitude: 45.042
 longitude: -0.677
 ---

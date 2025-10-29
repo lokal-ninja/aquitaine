@@ -1,6 +1,6 @@
 ---
 title: Lacanau
 url: /lacanau/
-latitude: 45
-longitude: -1.2
+latitude: 45.004
+longitude: -1.201
 ---

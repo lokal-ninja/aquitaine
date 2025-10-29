@@ -1,6 +1,6 @@
 ---
 title: Cauneille
 url: /cauneille/
-latitude: 43.544
-longitude: -1.072
+latitude: 43.548
+longitude: -1.053
 ---
