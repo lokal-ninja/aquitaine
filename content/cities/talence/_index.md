@@ -1,6 +1,6 @@
 ---
 title: Talence
 url: /talence/
-latitude: 44.818
+latitude: 44.804
 longitude: -0.585
 ---

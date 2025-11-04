@@ -1,6 +1,6 @@
 ---
 title: Targon
 url: /targon/
-latitude: 44.749
-longitude: -0.24
+latitude: 44.753
+longitude: -0.282
 ---
