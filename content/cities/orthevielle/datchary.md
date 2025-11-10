@@ -1,5 +1,5 @@
 ---
 title: "Datchary"
-url: /peyrehorade/datchary/
+url: /orthevielle/datchary/
 shop: boucherie
 ---

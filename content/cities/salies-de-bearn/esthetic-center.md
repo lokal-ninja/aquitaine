@@ -1,5 +1,5 @@
 ---
 title: "Esthetic Center"
-url: /bidart/esthetic-center/
+url: /salies-de-bearn/esthetic-center/
 shop: beauté
 ---
