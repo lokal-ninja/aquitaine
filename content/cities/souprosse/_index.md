@@ -1,6 +1,6 @@
 ---
 title: Souprosse
 url: /souprosse/
-latitude: 43.804
-longitude: -0.73
+latitude: 43.787
+longitude: -0.704
 ---

@@ -1,6 +1,6 @@
 ---
 title: Castets
 url: /castets/
-latitude: 43.917
-longitude: -1.113
+latitude: 43.881
+longitude: -1.148
 ---
