@@ -1,5 +1,5 @@
 ---
-title: "L'atelier de la vue"
+title: "L'Atelier de la Vue"
 url: /roquefort/latelier-de-la-vue/
 shop: opticien
 ---
