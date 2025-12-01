@@ -1,5 +1,5 @@
 ---
 title: "Domaine de Ravignan"
 url: /perquie/domaine-de-ravignan/
-shop: ferme
+shop: alcool
 ---
