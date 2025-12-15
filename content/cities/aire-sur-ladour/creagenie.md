@@ -1,5 +1,5 @@
 ---
-title: "Créa'génie"
+title: "créa'génie"
 url: /aire-sur-ladour/creagenie/
-shop: bijoux
+shop: boutique
 ---

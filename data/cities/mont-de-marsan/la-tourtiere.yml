@@ -7,5 +7,5 @@ city: Mont-de-Marsan
 street: Allée Raymond Farbos
 housenumber: "7"
 phone: +33 5 58 75 77 00
-opening_hours: Mo-Sa 07:45-19:00; Su 07:45-12:30
+opening_hours: Mo,Tu,Th-Sa 07:00-18:30; Su 07:00-12:30; We 07:00-18:00
 website: ""
