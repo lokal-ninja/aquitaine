@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /mont-de-marsan/lidl/
+url: /saint-jean-de-luz/lidl/
 shop: supermarché
 ---

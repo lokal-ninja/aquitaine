@@ -1,6 +1,6 @@
 ---
 title: Lalinde
 url: /lalinde/
-latitude: 44.833
-longitude: 0.704
+latitude: 44.834
+longitude: 0.706
 ---
