@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /saint-sever/intermarche/
-shop: gaz
+shop: supermarché
 ---
