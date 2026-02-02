@@ -1,6 +1,6 @@
 ---
 title: Ychoux
 url: /ychoux/
-latitude: 44.326
-longitude: -0.936
+latitude: 44.328
+longitude: -0.953
 ---
