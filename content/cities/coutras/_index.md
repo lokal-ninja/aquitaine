@@ -1,6 +1,6 @@
 ---
 title: Coutras
 url: /coutras/
-latitude: 45.049
-longitude: -0.124
+latitude: 45.04
+longitude: -0.13
 ---
