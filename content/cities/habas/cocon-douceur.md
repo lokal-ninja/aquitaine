@@ -1,5 +1,5 @@
 ---
-title: "COCON DOUC'EUR"
+title: "Cocon Douc'eur"
 url: /habas/cocon-douceur/
 shop: beauté
 ---
