@@ -1,11 +1,12 @@
 id: 8320875421
 type: node
-latitude: 43.39653
-longitude: -1.45452
+latitude: 43.39001
+longitude: -1.45277
 postcode: "64480"
 city: Ustaritz
-street: Rue des Vicomtes du Labourd
-housenumber: ""
-phone: ""
-opening_hours: ""
-website: ""
+street: 32 chemin St François Xavier
+housenumber: "32"
+phone: +33 5 59932970
+opening_hours: Mo 14:00-19:00; Tu-Th 09:00-12:00,14:00-19:00; Fr 09:00-12:00,14:00-18:45;
+    Sa 09:00-12:00
+website: https://vittonatto.fr/

@@ -7,5 +7,5 @@ city: Bordeaux
 street: Rue Pelleport
 housenumber: "98"
 phone: +33 5 33 05 92 07
-opening_hours: ""
+opening_hours: Tu,Th,Fr 08:30-13:00,15:30-19:00; We 08:30-13:00; Sa 08:30-15:30
 website: https://maboucheriepreferee.com/
