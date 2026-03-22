@@ -1,6 +1,6 @@
 ---
 title: Lescar
 url: /lescar/
-latitude: 43.336
-longitude: -0.435
+latitude: 43.316
+longitude: -0.428
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bassens
 url: /bassens/
-latitude: 44.888
-longitude: -0.517
+latitude: 44.904
+longitude: -0.513
 ---
