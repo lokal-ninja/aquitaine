@@ -1,5 +1,5 @@
 ---
-title: "Au comptoir Bio"
+title: "Au Comptoir Bio"
 url: /lit-et-mixe/au-comptoir-bio/
-shop: supermarché
+shop: commodité
 ---
