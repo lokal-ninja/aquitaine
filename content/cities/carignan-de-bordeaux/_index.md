@@ -1,6 +1,6 @@
 ---
-title: Carignan-De-Bordeaux
+title: Carignan-de-Bordeaux
 url: /carignan-de-bordeaux/
-latitude: 44.81
-longitude: -0.466
+latitude: 44.811
+longitude: -0.477
 ---
