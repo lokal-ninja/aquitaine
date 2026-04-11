@@ -1,6 +1,6 @@
 ---
-title: saint-André-de-Cubzac
+title: Saint-André-de-Cubzac
 url: /saint-andre-de-cubzac/
-latitude: 44.993
-longitude: -0.448
+latitude: 45.013
+longitude: -0.427
 ---
