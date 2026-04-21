@@ -1,5 +1,5 @@
 ---
-title: "Roue libre"
+title: "Roue Libre"
 url: /oloron-sainte-marie/roue-libre/
-shop: shop
+shop: vélo
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pineuilh
 url: /pineuilh/
-latitude: 44.841
-longitude: 0.227
+latitude: 44.842
+longitude: 0.228
 ---
