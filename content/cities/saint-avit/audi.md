@@ -1,5 +1,5 @@
 ---
-title: "Audi "
+title: "Audi"
 url: /saint-avit/audi/
 shop: voiture
 ---

@@ -1,5 +1,5 @@
 ---
-title: biarotte
+title: Biarotte
 url: /biarotte/
 latitude: 43.561
 longitude: -1.265
