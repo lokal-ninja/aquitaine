@@ -1,6 +1,6 @@
 ---
 title: Urepel
 url: /urepel/
-latitude: 43.075
-longitude: -1.42
+latitude: 43.053
+longitude: -1.396
 ---

@@ -1,6 +1,6 @@
 ---
 title: Casteljaloux
 url: /casteljaloux/
-latitude: 44.305
-longitude: 0.078
+latitude: 44.314
+longitude: 0.087
 ---
