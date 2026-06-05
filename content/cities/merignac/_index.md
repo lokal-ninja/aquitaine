@@ -1,6 +1,6 @@
 ---
 title: Mérignac
 url: /merignac/
-latitude: 44.827
-longitude: -0.637
+latitude: 44.851
+longitude: -0.645
 ---
