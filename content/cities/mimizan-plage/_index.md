@@ -1,6 +1,6 @@
 ---
 title: Mimizan Plage
 url: /mimizan-plage/
-latitude: 44.209
-longitude: -1.296
+latitude: 44.213
+longitude: -1.294
 ---

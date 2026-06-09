@@ -1,6 +1,6 @@
 ---
 title: Foulayronnes
 url: /foulayronnes/
-latitude: 44.238
-longitude: 0.644
+latitude: 44.234
+longitude: 0.64
 ---
