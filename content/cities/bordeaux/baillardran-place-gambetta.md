@@ -1,5 +1,5 @@
 ---
 title: "Baillardran"
-url: /bordeaux/baillardran-rue-porte-dijeaux/
+url: /bordeaux/baillardran-place-gambetta/
 shop: pâtisserie
 ---
