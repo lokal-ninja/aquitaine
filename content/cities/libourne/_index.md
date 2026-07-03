@@ -1,6 +1,6 @@
 ---
 title: Libourne
 url: /libourne/
-latitude: 44.911
-longitude: -0.216
+latitude: 44.898
+longitude: -0.242
 ---

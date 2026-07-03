@@ -1,5 +1,5 @@
 ---
-title: "La petite tribu"
+title: "La Petite Tribu"
 url: /soorts-hossegor/la-petite-tribu/
-shop: vêtements
+shop: bijoux
 ---
