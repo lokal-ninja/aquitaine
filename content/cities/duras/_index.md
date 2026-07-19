@@ -1,6 +1,6 @@
 ---
 title: Duras
 url: /duras/
-latitude: 44.669
-longitude: 0.174
+latitude: 44.676
+longitude: 0.181
 ---

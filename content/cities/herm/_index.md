@@ -1,6 +1,6 @@
 ---
 title: Herm
 url: /herm/
-latitude: 43.782
-longitude: -1.11
+latitude: 43.811
+longitude: -1.146
 ---
