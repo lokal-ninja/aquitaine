@@ -1,6 +1,6 @@
 ---
 title: Créon
 url: /creon/
-latitude: 44.776
-longitude: -0.349
+latitude: 44.772
+longitude: -0.336
 ---

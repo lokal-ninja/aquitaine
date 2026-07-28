@@ -1,6 +1,6 @@
 ---
 title: Cuqueron
 url: /cuqueron/
-latitude: 43.316
-longitude: -0.561
+latitude: 43.312
+longitude: -0.552
 ---

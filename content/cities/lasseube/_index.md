@@ -1,6 +1,6 @@
 ---
 title: Lasseube
 url: /lasseube/
-latitude: 43.182
-longitude: -0.467
+latitude: 43.23
+longitude: -0.444
 ---
