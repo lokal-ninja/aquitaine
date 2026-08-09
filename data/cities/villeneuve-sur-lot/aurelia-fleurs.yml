@@ -7,7 +7,5 @@ city: Villeneuve-sur-Lot
 street: Place Lafayette
 housenumber: "6"
 phone: +33 5 53 70 46 95
-opening_hours: Monday 9 AM-12:30 PM, 2-6 PM Tuesday 9 AM-12:30 PM, 2-7 PM Wednesday
-    9 AM-12:30 PM, 2-7 PM Thursday 9 AM-12:30 PM, 2-7 PM Friday 9 AM-12:30 PM, 2-7
-    PM Saturday 9 AM-12:30 PM, 2-7 PM Sunday 10 AM-12:30 PM, 2-5 PM
+opening_hours: Mo 09:00-12:30,14:00-18:00; Tu-Sa 09:00-12:30,14:00-19:00; Su 10:00-12:30,14:00-17:00
 website: ""

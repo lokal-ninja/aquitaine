@@ -1,6 +1,6 @@
 ---
-title: Gujan Mestras
+title: Gujan-Mestras
 url: /gujan-mestras/
-latitude: 44.638
-longitude: -1.111
+latitude: 44.636
+longitude: -1.076
 ---
