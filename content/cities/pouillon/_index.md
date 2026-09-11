@@ -1,5 +1,5 @@
 ---
-title: Pouillon
+title: POUILLON
 url: /pouillon/
 latitude: 43.609
 longitude: -0.993

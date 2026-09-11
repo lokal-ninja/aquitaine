@@ -1,6 +1,6 @@
 ---
 title: Castelculier
 url: /castelculier/
-latitude: 44.182
-longitude: 0.673
+latitude: 44.178
+longitude: 0.678
 ---

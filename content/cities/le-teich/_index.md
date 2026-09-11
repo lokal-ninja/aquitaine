@@ -1,6 +1,6 @@
 ---
 title: Le Teich
 url: /le-teich/
-latitude: 44.635
-longitude: -1.022
+latitude: 44.633
+longitude: -1.021
 ---

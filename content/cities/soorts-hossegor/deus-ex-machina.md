@@ -1,5 +1,5 @@
 ---
-title: "deus ex machina"
+title: "Deus Ex Machina"
 url: /soorts-hossegor/deus-ex-machina/
-shop: shop
+shop: vêtements
 ---

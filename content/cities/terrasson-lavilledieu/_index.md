@@ -1,6 +1,6 @@
 ---
 title: Terrasson-Lavilledieu
 url: /terrasson-lavilledieu/
-latitude: 45.129
-longitude: 1.326
+latitude: 45.131
+longitude: 1.295
 ---
