@@ -2,7 +2,7 @@ id: 12858016375
 type: node
 latitude: 44.83552
 longitude: -0.57835
-postcode: 33000;33100;33200;33300;33800
+postcode: "33000"
 city: Bordeaux
 street: Rue du Maréchal Joffre
 housenumber: "36"
