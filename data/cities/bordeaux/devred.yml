@@ -6,6 +6,7 @@ postcode: "33300"
 city: Bordeaux
 street: CENTRE COMMERCIAL AUCHAN, LOCAL 53.
 housenumber: ""
-phone: +33 5 56 43 82 66
-opening_hours: Mo-Sa 09:30-20:00
+phone: ""
+opening_hours: Mo-Sa 09:30-20:00; 2026 Nov 01,2026 Nov 11,2026 Nov 29 09:30-19:00;
+    2026 Dec 06,2026 Dec 13,2026 Dec 20,2026 Dec 27 09:30-19:00
 website: ""

@@ -1,5 +1,5 @@
 ---
 title: "Nobi"
 url: /anglet/nobi/
-shop: vacant
+shop: coiffeur
 ---
