@@ -1,6 +1,6 @@
 ---
 title: Nay
 url: /nay/
-latitude: 43.182
-longitude: -0.26
+latitude: 43.18
+longitude: -0.261
 ---

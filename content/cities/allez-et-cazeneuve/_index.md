@@ -1,6 +1,6 @@
 ---
 title: Allez-et-Cazeneuve
 url: /allez-et-cazeneuve/
-latitude: 44.4
-longitude: 0.633
+latitude: 44.402
+longitude: 0.646
 ---
